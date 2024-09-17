@@ -1,4 +1,5 @@
 import os
+import re
 import asyncio
 import aiofiles
 import zoneinfo
@@ -37,8 +38,9 @@ async def generate_ics(output_folder: str, source_name: str, source: str) -> Non
     for event in source.split(";;"):
         event = event.strip()
         if event:
-            name, begin, end, description, location = event.split("\n")
-            if end == "None": end = None
+            name, begin, end, description, location = [item.strip() for item in event.split("\n")]
+            if end == "None":
+                end = None
             c = await event_add(c, name, begin, description, location, end)
             try:
                 single_type = different_types[location.split("-")[1]]
@@ -70,6 +72,7 @@ async def main(source_files_folder: str, output_folder: str) -> None:
             source = await File(
                 os.path.join(source_files_folder, source_file)
             ).read_async()
+            source = re.sub(r"#.*", "", source)
             tasks.append(
                 generate_ics(output_folder, os.path.splitext(source_file)[0], source)
             )
