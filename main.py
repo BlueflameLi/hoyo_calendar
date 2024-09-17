@@ -31,6 +31,36 @@ async def event_add(
     return cal
 
 
+async def event_add_continuous(
+    cal: Calendar,
+    name: str,
+    begin: str,
+    description: str,
+    location: str,
+    end: str = None,
+) -> Calendar:
+    event = Event()
+    date_format = "%Y-%m-%d %H:%M:%S"
+    event.add("summary", name)
+    event.add(
+        "dtstart",
+        datetime.strptime(begin, date_format).replace(
+            tzinfo=zoneinfo.ZoneInfo("Asia/Shanghai")
+        ),
+    )
+    if end is not None:
+        event.add(
+            "dtend",
+            datetime.strptime(end, date_format).replace(
+                tzinfo=zoneinfo.ZoneInfo("Asia/Shanghai")
+            ),
+        )
+    event.add("description", description)
+    event.add("location", location)
+    cal.add_component(event)
+    return cal
+
+
 async def generate_ics(output_folder: str, source_name: str, source: str) -> None:
     logger.info(f"generateing {source_name}.ics...")
     c = Calendar()
@@ -38,7 +68,9 @@ async def generate_ics(output_folder: str, source_name: str, source: str) -> Non
     for event in source.split(";;"):
         event = event.strip()
         if event:
-            name, begin, end, description, location = [item.strip() for item in event.split("\n")]
+            name, begin, end, description, location = [
+                item.strip() for item in event.split("\n")
+            ]
             if end == "None":
                 end = None
             c = await event_add(c, name, begin, description, location, end)
@@ -63,6 +95,42 @@ async def generate_ics(output_folder: str, source_name: str, source: str) -> Non
             logger.info(f"{source_name}-{type_key}.ics DONE.")
 
 
+async def generate_ics_continuous(
+    output_folder: str, source_name: str, source: str
+) -> None:
+    logger.info(f"generateing continuous/{source_name}.ics...")
+    c = Calendar()
+    different_types = {}
+    for event in source.split(";;"):
+        event = event.strip()
+        if event:
+            name, begin, end, description, location = [
+                item.strip() for item in event.split("\n")
+            ]
+            if end == "None":
+                end = None
+            c = await event_add_continuous(c, name, begin, description, location, end)
+            try:
+                single_type = different_types[location.split("-")[1]]
+            except KeyError:
+                different_types[location.split("-")[1]] = Calendar()
+                single_type = different_types[location.split("-")[1]]
+            different_types[location.split("-")[1]] = await event_add_continuous(
+                single_type, name, begin, description, location, end
+            )
+
+    async with aiofiles.open(f"{output_folder}/continuous/{source_name}.ics", "wb") as ics_file:
+        await ics_file.write(c.to_ical())
+        logger.info(f"continuous/{source_name}.ics DONE.")
+
+    for type_key, type_value in different_types.items():
+        async with aiofiles.open(
+            f"{output_folder}/continuous/{source_name}-{type_key}.ics", "wb"
+        ) as ics_file:
+            await ics_file.write(type_value.to_ical())
+            logger.info(f"continuous/{source_name}-{type_key}.ics DONE.")
+
+
 async def main(source_files_folder: str, output_folder: str) -> None:
     if not os.path.isdir(source_files_folder):
         logger.error("Source folder doesn't exist.")
@@ -75,6 +143,9 @@ async def main(source_files_folder: str, output_folder: str) -> None:
             source = re.sub(r"#.*", "", source)
             tasks.append(
                 generate_ics(output_folder, os.path.splitext(source_file)[0], source)
+            )
+            tasks.append(
+                generate_ics_continuous(output_folder, os.path.splitext(source_file)[0], source)
             )
     logger.info(f"{len(tasks)} files founded.")
     await asyncio.gather(*tasks)
