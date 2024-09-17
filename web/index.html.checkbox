@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ICS Calendar with Filters</title>
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.0/main.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.0/main.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.4.0/ical.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    #calendar {
+      max-width: 1100px;
+      margin: 40px auto;
+    }
+    #filter {
+      margin: 20px;
+      text-align: center;
+    }
+    label {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="filter"></div> <!-- 放置复选框 -->
+<div id="calendar"></div> <!-- 放置日历 -->
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // 初始化FullCalendar
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialView: 'dayGridMonth',
+      events: []
+    });
+    calendar.render();
+
+    var eventsData = []; // 保存所有事件的数据
+    var activeSummaries = new Set(); // 保存用户选择的 summary
+
+    // 用于生成复选框并动态更新事件显示
+    function createCheckboxes(uniqueSummaries) {
+      var filterEl = document.getElementById('filter');
+      filterEl.innerHTML = ''; // 清空之前的内容
+
+      uniqueSummaries.forEach(summary => {
+        // 创建复选框和标签
+        let checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.id = summary;
+        checkbox.checked = true; // 默认选中
+        checkbox.addEventListener('change', updateCalendar); // 当复选框改变时更新日历
+
+        let label = document.createElement('label');
+        label.htmlFor = summary;
+        label.textContent = summary;
+
+        filterEl.appendChild(checkbox);
+        filterEl.appendChild(label);
+
+        // 默认所有 summary 被选中
+        activeSummaries.add(summary);
+      });
+    }
+
+    // 当复选框改变时，更新日历显示的事件
+    function updateCalendar() {
+      activeSummaries.clear();
+      document.querySelectorAll('#filter input[type="checkbox"]').forEach(checkbox => {
+        if (checkbox.checked) {
+          activeSummaries.add(checkbox.id);
+        }
+      });
+
+      // 过滤出用户选择的事件
+      let filteredEvents = eventsData.filter(event => activeSummaries.has(event.title));
+
+      // 先清除之前的事件，然后重新添加过滤后的事件
+      calendar.removeAllEvents();
+      filteredEvents.forEach(event => calendar.addEvent(event));
+    }
+
+    // 加载多个ICS文件
+    function loadICS(urls) {
+      let uniqueSummaries = new Set(); // 用于存储唯一的 summary
+
+      urls.forEach(url => {
+        fetch(url)
+          .then(response => response.text())
+          .then(data => {
+            let jcalData = ICAL.parse(data);
+            let comp = new ICAL.Component(jcalData);
+            let events = comp.getAllSubcomponents('vevent');
+
+            events.forEach(event => {
+              let summary = event.getFirstPropertyValue('summary');
+              let startDate = event.getFirstPropertyValue('dtstart').toJSDate();
+              let endDate = event.getFirstPropertyValue('dtend') ? event.getFirstPropertyValue('dtend').toJSDate() : startDate;
+
+              // 将事件数据存储到 eventsData 中
+              eventsData.push({
+                title: summary,
+                start: startDate,
+                end: endDate
+              });
+
+              // 收集唯一的 summary
+              uniqueSummaries.add(summary);
+            });
+
+            // 当所有 ICS 文件加载完后，生成复选框
+            createCheckboxes(uniqueSummaries);
+            updateCalendar(); // 初次加载显示所有事件
+          })
+          .catch(error => console.error('Error loading ICS file:', error));
+      });
+    }
+
+    // 示例：加载多个ICS文件
+    loadICS([
+      'https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/原神.ics',
+      'https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/星铁.ics',
+      'https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/绝区零.ics'
+    ]);
+  });
+</script>
+
+</body>
+</html>
+
