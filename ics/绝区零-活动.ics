@@ -61,4 +61,22 @@ DESCRIPTION:活动期间，新艾利都各个区域内存在不同的拍
  。
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「咖啡魔药学-调律」活动 结束
+DTSTART;TZID=Asia/Shanghai:20240923T035959
+DESCRIPTION:「咖啡魔药学-调律」活动期间，绳匠饮用[参汤
+ 黑咖]/[薄荷黑咖]后，在对应咖啡生效时间内进入「定期
+ 清剿」/「实战模拟室」，挑战并通过任意关卡即可获得
+ 双倍驱动盘/镀剂奖励！ 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「咖啡魔药学-调律」活动
+DTSTART;TZID=Asia/Shanghai:20240918T040000
+DESCRIPTION:「咖啡魔药学-调律」活动期间，绳匠饮用[参汤
+ 黑咖]/[薄荷黑咖]后，在对应咖啡生效时间内进入「定期
+ 清剿」/「实战模拟室」，挑战并通过任意关卡即可获得
+ 双倍驱动盘/镀剂奖励！
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR
