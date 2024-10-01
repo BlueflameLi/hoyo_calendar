@@ -82,4 +82,60 @@ DESCRIPTION:「咖啡魔药学-调律」活动期间，绳匠饮用[参汤
  双倍驱动盘/镀剂奖励！
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.2版本「火狱骑行」版本更新
+DTSTART;TZID=Asia/Shanghai:20240925T060000
+DESCRIPTION:1.2版本「火狱骑行」版本更新
+LOCATION:绝区零-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荣焰桂冠」调频
+DTSTART;TZID=Asia/Shanghai:20240925T110000
+DTEND;TZID=Asia/Shanghai:20241016T115959
+DESCRIPTION:代理人调频：[凯撒(防护·物理)]、[派派(异常·
+ 物理)]、[安东(强攻·电)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20240925T110000
+DTEND;TZID=Asia/Shanghai:20241016T115959
+DESCRIPTION:音擎调频：[奔袭獠牙(防护)]、[轰鸣座驾(异常)]
+ 、[旋钻机-赤轴(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『霸主』的欢宴」活动
+DTSTART;TZID=Asia/Shanghai:20240926T100000
+DTEND;TZID=Asia/Shanghai:20241104T035959
+DESCRIPTION:经营外环餐厅「芝托邦」，亲手打造「霸主」
+ 的宴会厅。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全新放送」活动
+DTSTART;TZID=Asia/Shanghai:20240925T110000
+DTEND;TZID=Asia/Shanghai:20241105T035959
+DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
+ 加密母带]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「切勿独行」活动
+DTSTART;TZID=Asia/Shanghai:20240930T100000
+DTEND;TZID=Asia/Shanghai:20241014T035959
+DESCRIPTION:「金手指」电玩店小游戏上新，「怪奇旅伴」
+ 即将上线！相关限时任务同步开放，完成即可获得对应
+ 奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动
+DTSTART;TZID=Asia/Shanghai:20240930T040000
+DTEND;TZID=Asia/Shanghai:20241005T035959
+DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
+ 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
+ 获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR
