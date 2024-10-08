@@ -42,4 +42,28 @@ DTEND;TZID=Asia/Shanghai:20241009T040000
 DESCRIPTION:登录领取1600原石、祝圣之霜等奖励
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「寻溯蜜虫之宝」活动
+DTSTART;TZID=Asia/Shanghai:20241010T100000
+DTEND;TZID=Asia/Shanghai:20241021T035900
+DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
+ 战。挑战中，旅行者需要寻找并追击被深渊力量侵蚀的
+ 燃素蜜虫，灵活使用「捕虫网」破除其护罩，在规定时
+ 间内削减深渊力量，捕捉蜜虫。完成指定目标可获得原
+ 石、武器突破素材、祝圣油膏、精锻用魔矿、摩拉奖励
+ 。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:追想练行·烈趣篇
+DTSTART;TZID=Asia/Shanghai:20241017T100000
+DTEND;TZID=Asia/Shanghai:20241028T035900
+DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
+ 的方式参与玩法，随机挑战4个关卡，并根据关卡和「追
+ 想支援」选择适合角色与「追想助益」，完成不同的「
+ 练行项目」目标，获取「烈趣之星」奖励。累计获得指
+ 定数量的「烈趣之星」即可领取原石、大英雄的经验、
+ 角色天赋素材等奖励。
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR

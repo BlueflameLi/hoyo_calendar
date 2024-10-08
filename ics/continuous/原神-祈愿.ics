@@ -31,4 +31,20 @@ DESCRIPTION:武器祈愿：「双手剑·山王长牙」&「长柄武器·
  薙草之稻光」
 LOCATION:原神-祈愿
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「千云绘羽织」
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DTEND;TZID=Asia/Shanghai:20241029T175959
+DESCRIPTION:角色祈愿：希诺宁&千织
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有乐
+ 御簾切」
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DTEND;TZID=Asia/Shanghai:20241029T175959
+DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有
+ 乐御簾切」
+LOCATION:原神-祈愿
+END:VEVENT
 END:VCALENDAR

@@ -152,4 +152,146 @@ DTSTART;TZID=Asia/Shanghai:20240927T200000
 DESCRIPTION:5.1版本「命定将焚的虹光」前瞻特别节目
 LOCATION:原神-前瞻特别节目
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5.1版本更新维护
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:5.1版本更新维护
+LOCATION:原神-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「千云绘羽织」 结束
+DTSTART;TZID=Asia/Shanghai:20241029T175959
+DESCRIPTION:角色祈愿：希诺宁&千织 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「千云绘羽织」
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:角色祈愿：希诺宁&千织
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有乐
+ 御簾切」 结束
+DTSTART;TZID=Asia/Shanghai:20241029T175959
+DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有
+ 乐御簾切」 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有乐
+ 御簾切」
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有
+ 乐御簾切」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「命定将焚的虹光」时限内完成魔神任务，可额外
+ 获得原石奖励 结束
+DTSTART;TZID=Asia/Shanghai:20241119T145959
+DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
+ ：原石*500。 结束
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「命定将焚的虹光」时限内完成魔神任务，可额外
+ 获得原石奖励
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
+ ：原石*500。
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「祈祝福愿，倾告嵴锋」时限内完成部族纪闻任务
+ ，可额外获得奖励 结束
+DTSTART;TZID=Asia/Shanghai:20241029T175959
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。 结束
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「祈祝福愿，倾告嵴锋」时限内完成部族纪闻任务
+ ，可额外获得奖励
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩石与焰泉之国」时限内完成探索任务，可额外
+ 获得原石奖励 结束
+DTSTART;TZID=Asia/Shanghai:20241231T145959
+DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
+ ：原石*400。 结束
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩石与焰泉之国」时限内完成探索任务，可额外
+ 获得原石奖励
+DTSTART;TZID=Asia/Shanghai:20241009T060000
+DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
+ ：原石*400。
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「寻溯蜜虫之宝」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241021T035900
+DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
+ 战。挑战中，旅行者需要寻找并追击被深渊力量侵蚀的
+ 燃素蜜虫，灵活使用「捕虫网」破除其护罩，在规定时
+ 间内削减深渊力量，捕捉蜜虫。完成指定目标可获得原
+ 石、武器突破素材、祝圣油膏、精锻用魔矿、摩拉奖励
+ 。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「寻溯蜜虫之宝」活动
+DTSTART;TZID=Asia/Shanghai:20241010T100000
+DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
+ 战。挑战中，旅行者需要寻找并追击被深渊力量侵蚀的
+ 燃素蜜虫，灵活使用「捕虫网」破除其护罩，在规定时
+ 间内削减深渊力量，捕捉蜜虫。完成指定目标可获得原
+ 石、武器突破素材、祝圣油膏、精锻用魔矿、摩拉奖励
+ 。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:追想练行·烈趣篇 结束
+DTSTART;TZID=Asia/Shanghai:20241028T035900
+DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
+ 的方式参与玩法，随机挑战4个关卡，并根据关卡和「追
+ 想支援」选择适合角色与「追想助益」，完成不同的「
+ 练行项目」目标，获取「烈趣之星」奖励。累计获得指
+ 定数量的「烈趣之星」即可领取原石、大英雄的经验、
+ 角色天赋素材等奖励。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:追想练行·烈趣篇
+DTSTART;TZID=Asia/Shanghai:20241017T100000
+DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
+ 的方式参与玩法，随机挑战4个关卡，并根据关卡和「追
+ 想支援」选择适合角色与「追想助益」，完成不同的「
+ 练行项目」目标，获取「烈趣之星」奖励。累计获得指
+ 定数量的「烈趣之星」即可领取原石、大英雄的经验、
+ 角色天赋素材等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：列阵斗巧 结束
+DTSTART;TZID=Asia/Shanghai:20241104T035959
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。 结束
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：列阵斗巧
+DTSTART;TZID=Asia/Shanghai:20241019T100000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+END:VEVENT
 END:VCALENDAR
