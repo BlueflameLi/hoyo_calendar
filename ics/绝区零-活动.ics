@@ -153,4 +153,83 @@ DESCRIPTION:活动期间，可在六分街的报刊亭完成《丽都导
  览》合订本附赠的拼图游戏。
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漫行于以太虚境」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241028T035959
+DESCRIPTION:活动期间，绳匠可以通过空洞深潜系统捕捉病
+ 毒，对被病毒侵蚀的记事信息进行修复。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漫行于以太虚境」活动
+DTSTART;TZID=Asia/Shanghai:20241016T100000
+DESCRIPTION:活动期间，绳匠可以通过空洞深潜系统捕捉病
+ 毒，对被病毒侵蚀的记事信息进行修复。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241105T035959
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！ 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20241016T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241026T035959
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！ 
+ 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动
+DTSTART;TZID=Asia/Shanghai:20241021T040000
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「内有恶犬」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241101T035959
+DESCRIPTION:活动期间，绳匠可以在电玩店「金手指」游玩
+ 活动模式「噬魂犬3-群猎」，与随机匹配的另外三名绳匠
+ 进行互不结盟的四人联机对战。每场对战结束时，不同
+ 排名的绳匠将获得不同数量的犬犬兑换券（第1-4名依次
+ 获得数量为750、650、550、500的犬犬兑换券奖励)。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「内有恶犬」活动
+DTSTART;TZID=Asia/Shanghai:20241025T100000
+DESCRIPTION:活动期间，绳匠可以在电玩店「金手指」游玩
+ 活动模式「噬魂犬3-群猎」，与随机匹配的另外三名绳匠
+ 进行互不结盟的四人联机对战。每场对战结束时，不同
+ 排名的绳匠将获得不同数量的犬犬兑换券（第1-4名依次
+ 获得数量为750、650、550、500的犬犬兑换券奖励)。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『141』友情联络」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241104T035959
+DESCRIPTION:活动期间，绳匠完成活动委托后，可以获得店
+ 主们的[回信]；把[回信]交给丝琪，即可领取[菲林]、[邦
+ 布券]和各类养成材料奖励。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『141』友情联络」活动
+DTSTART;TZID=Asia/Shanghai:20241027T100000
+DESCRIPTION:活动期间，绳匠完成活动委托后，可以获得店
+ 主们的[回信]；把[回信]交给丝琪，即可领取[菲林]、[邦
+ 布券]和各类养成材料奖励。
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR

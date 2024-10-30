@@ -83,4 +83,32 @@ DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「单手剑·有
  乐御簾切」
 LOCATION:原神-祈愿
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「月草的赐慧」&「赤团开时」 结束
+DTSTART;TZID=Asia/Shanghai:20241119T145959
+DESCRIPTION:角色祈愿：纳西妲&胡桃 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「月草的赐慧」&「赤团开时」
+DTSTART;TZID=Asia/Shanghai:20241029T180000
+DESCRIPTION:角色祈愿：纳西妲&胡桃
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·千夜浮梦」&「长柄武器·护摩
+ 之杖」 结束
+DTSTART;TZID=Asia/Shanghai:20241119T145959
+DESCRIPTION:武器祈愿：「法器·千夜浮梦」&「长柄武器·护
+ 摩之杖」 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·千夜浮梦」&「长柄武器·护摩
+ 之杖」
+DTSTART;TZID=Asia/Shanghai:20241029T180000
+DESCRIPTION:武器祈愿：「法器·千夜浮梦」&「长柄武器·护
+ 摩之杖」
+LOCATION:原神-祈愿
+END:VEVENT
 END:VCALENDAR

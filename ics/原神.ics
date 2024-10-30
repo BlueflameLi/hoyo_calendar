@@ -236,7 +236,7 @@ LOCATION:原神-任务限时奖励
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「寻溯蜜虫之宝」活动 结束
-DTSTART;TZID=Asia/Shanghai:20241021T035900
+DTSTART;TZID=Asia/Shanghai:20241021T035959
 DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
  战。挑战中，旅行者需要寻找并追击被深渊力量侵蚀的
  燃素蜜虫，灵活使用「捕虫网」破除其护罩，在规定时
@@ -258,7 +258,7 @@ LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:追想练行·烈趣篇 结束
-DTSTART;TZID=Asia/Shanghai:20241028T035900
+DTSTART;TZID=Asia/Shanghai:20241028T035959
 DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
  的方式参与玩法，随机挑战4个关卡，并根据关卡和「追
  想支援」选择适合角色与「追想助益」，完成不同的「
@@ -293,5 +293,67 @@ DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
  处，参与「热斗模式」特殊规则下的「七圣召唤」对局
  。
 LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩糖与蔷薇的幻色颂」 结束
+DTSTART;TZID=Asia/Shanghai:20241107T035959
+DESCRIPTION:活动期间，将陆续解锁「花车摇曳」、「交映
+ 现实与梦」、「骑士的剑影」各阶段玩法。完成挑战后
+ ，可获得「庆典热度」。累计获取指定数量的「庆典热
+ 度」即可邀请「浮金的誓愿·坎蒂丝(水)」，还可获得原
+ 石、智识之冕等奖励。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩糖与蔷薇的幻色颂」
+DTSTART;TZID=Asia/Shanghai:20241023T100000
+DESCRIPTION:活动期间，将陆续解锁「花车摇曳」、「交映
+ 现实与梦」、「骑士的剑影」各阶段玩法。完成挑战后
+ ，可获得「庆典热度」。累计获取指定数量的「庆典热
+ 度」即可邀请「浮金的誓愿·坎蒂丝(水)」，还可获得原
+ 石、智识之冕等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「月草的赐慧」&「赤团开时」 结束
+DTSTART;TZID=Asia/Shanghai:20241119T145959
+DESCRIPTION:角色祈愿：纳西妲&胡桃 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「月草的赐慧」&「赤团开时」
+DTSTART;TZID=Asia/Shanghai:20241029T180000
+DESCRIPTION:角色祈愿：纳西妲&胡桃
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·千夜浮梦」&「长柄武器·护摩
+ 之杖」 结束
+DTSTART;TZID=Asia/Shanghai:20241119T145959
+DESCRIPTION:武器祈愿：「法器·千夜浮梦」&「长柄武器·护
+ 摩之杖」 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·千夜浮梦」&「长柄武器·护摩
+ 之杖」
+DTSTART;TZID=Asia/Shanghai:20241029T180000
+DESCRIPTION:武器祈愿：「法器·千夜浮梦」&「长柄武器·护
+ 摩之杖」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「攻逐飨会」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241115T035959
+DESCRIPTION:活动开始后的前六天，每天会开启一个新的挑
+ 战。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「攻逐飨会」活动
+DTSTART;TZID=Asia/Shanghai:20241101T100000
+DESCRIPTION:活动开始后的前六天，每天会开启一个新的挑
+ 战。
+LOCATION:原神-活动
 END:VEVENT
 END:VCALENDAR

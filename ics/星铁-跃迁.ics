@@ -85,4 +85,32 @@ DESCRIPTION:光锥跃迁：「唯有香如故（丰饶）」&「烦恼着
  ，幸福着（巡猎）」
 LOCATION:星铁-跃迁
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「忍视眈眈」、「濯世垂虹」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241113T115959
+DESCRIPTION:角色跃迁：乱破&丹恒•饮月 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「忍视眈眈」、「濯世垂虹」
+DTSTART;TZID=Asia/Shanghai:20241023T110000
+DESCRIPTION:角色跃迁：乱破&丹恒•饮月
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241113T115959
+DESCRIPTION:光锥跃迁：「忍法帖•缭乱破魔（智识）」&「
+ 比阳光更明亮的（毁灭）」 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20241023T110000
+DESCRIPTION:光锥跃迁：「忍法帖•缭乱破魔（智识）」&「
+ 比阳光更明亮的（毁灭）」
+LOCATION:星铁-跃迁
+END:VEVENT
 END:VCALENDAR

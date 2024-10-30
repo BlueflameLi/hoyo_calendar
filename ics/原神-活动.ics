@@ -76,7 +76,7 @@ LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「寻溯蜜虫之宝」活动 结束
-DTSTART;TZID=Asia/Shanghai:20241021T035900
+DTSTART;TZID=Asia/Shanghai:20241021T035959
 DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
  战。挑战中，旅行者需要寻找并追击被深渊力量侵蚀的
  燃素蜜虫，灵活使用「捕虫网」破除其护罩，在规定时
@@ -98,7 +98,7 @@ LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:追想练行·烈趣篇 结束
-DTSTART;TZID=Asia/Shanghai:20241028T035900
+DTSTART;TZID=Asia/Shanghai:20241028T035959
 DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
  的方式参与玩法，随机挑战4个关卡，并根据关卡和「追
  想支援」选择适合角色与「追想助益」，完成不同的「
@@ -116,6 +116,40 @@ DESCRIPTION:活动期间，旅行者可通过单人匹配或队伍匹配
  练行项目」目标，获取「烈趣之星」奖励。累计获得指
  定数量的「烈趣之星」即可领取原石、大英雄的经验、
  角色天赋素材等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩糖与蔷薇的幻色颂」 结束
+DTSTART;TZID=Asia/Shanghai:20241107T035959
+DESCRIPTION:活动期间，将陆续解锁「花车摇曳」、「交映
+ 现实与梦」、「骑士的剑影」各阶段玩法。完成挑战后
+ ，可获得「庆典热度」。累计获取指定数量的「庆典热
+ 度」即可邀请「浮金的誓愿·坎蒂丝(水)」，还可获得原
+ 石、智识之冕等奖励。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「彩糖与蔷薇的幻色颂」
+DTSTART;TZID=Asia/Shanghai:20241023T100000
+DESCRIPTION:活动期间，将陆续解锁「花车摇曳」、「交映
+ 现实与梦」、「骑士的剑影」各阶段玩法。完成挑战后
+ ，可获得「庆典热度」。累计获取指定数量的「庆典热
+ 度」即可邀请「浮金的誓愿·坎蒂丝(水)」，还可获得原
+ 石、智识之冕等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「攻逐飨会」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241115T035959
+DESCRIPTION:活动开始后的前六天，每天会开启一个新的挑
+ 战。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「攻逐飨会」活动
+DTSTART;TZID=Asia/Shanghai:20241101T100000
+DESCRIPTION:活动开始后的前六天，每天会开启一个新的挑
+ 战。
 LOCATION:原神-活动
 END:VEVENT
 END:VCALENDAR

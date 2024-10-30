@@ -83,4 +83,32 @@ DESCRIPTION:音擎调频：[奔袭獠牙(防护)]、[轰鸣座驾(异常)]
  、[旋钻机-赤轴(强攻)]
 LOCATION:绝区零-调频
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天生丽炽」调频 结束
+DTSTART;TZID=Asia/Shanghai:20241105T145959
+DESCRIPTION:代理人调频：[凯撒(防护·物理)]、[派派(异常·
+ 物理)]、[安东(强攻·电)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天生丽炽」调频
+DTSTART;TZID=Asia/Shanghai:20241016T120000
+DESCRIPTION:代理人调频：[凯撒(防护·物理)]、[派派(异常·
+ 物理)]、[安东(强攻·电)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频 结束
+DTSTART;TZID=Asia/Shanghai:20241105T145959
+DESCRIPTION:音擎调频：[灼心摇壶(异常)]、[好斗的阿炮(支
+ 援)]、[聚宝箱(支援)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241016T120000
+DESCRIPTION:音擎调频：[灼心摇壶(异常)]、[好斗的阿炮(支
+ 援)]、[聚宝箱(支援)]
+LOCATION:绝区零-调频
+END:VEVENT
 END:VCALENDAR
