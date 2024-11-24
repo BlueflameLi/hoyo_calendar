@@ -206,4 +206,82 @@ DESCRIPTION:活动期间，绳匠完成活动委托后，可以获得店
  布券]和各类养成材料奖励。
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.3版本「虚拟杀机」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20241025T193000
+DESCRIPTION:1.3版本「虚拟杀机」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.3版本「虚拟杀机」版本更新
+DTSTART;TZID=Asia/Shanghai:20241106T060000
+DESCRIPTION:1.3版本「虚拟杀机」版本更新
+LOCATION:绝区零-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「休心沐月」调频
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241127T115959
+DESCRIPTION:代理人调频：[柳(异常·电)]、[安比(击破·电)]
+ 、[比利(强攻·物理)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241127T115959
+DESCRIPTION:音擎调频：[时流贤者(异常)]、[德玛拉电池Ⅱ型
+ (击破)]、[仿制星徽引擎(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「断层之谜」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241217T035959
+DESCRIPTION:达成活动参与条件后可以在斯科特哨站体验「
+ 琶音大断层」。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「月痕流光」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241216T035959
+DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
+ 与「专题放映」活动，使用活动代币兑换并获得限时奖
+ 励。部分活动内容将在指定的时间点解锁。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全新放送」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241217T035959
+DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
+ 加密母带]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「电子战场乱斗」活动
+DTSTART;TZID=Asia/Shanghai:20241111T100000
+DTEND;TZID=Asia/Shanghai:20241125T035959
+DESCRIPTION:活动期间，绳匠可以与录像店中的咔嚓仔对话
+ ，并前往HIA俱乐部寻找莱娅，参与全新的VR挑战关卡。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』助教计划」活动
+DTSTART;TZID=Asia/Shanghai:20241116T100000
+DTEND;TZID=Asia/Shanghai:20241202T035959
+DESCRIPTION:找到分身乏术的[阿星教练]，担任临时邦布助教
+ ，帮它完成毕业生回访和课程训练监督任务吧！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动
+DTSTART;TZID=Asia/Shanghai:20241122T040000
+DTEND;TZID=Asia/Shanghai:20241127T035959
+DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
+ 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
+ 获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR

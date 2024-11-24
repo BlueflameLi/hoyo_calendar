@@ -63,4 +63,20 @@ DESCRIPTION:音擎调频：[灼心摇壶(异常)]、[好斗的阿炮(支
  援)]、[聚宝箱(支援)]
 LOCATION:绝区零-调频
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「休心沐月」调频
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241127T115959
+DESCRIPTION:代理人调频：[柳(异常·电)]、[安比(击破·电)]
+ 、[比利(强攻·物理)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DTEND;TZID=Asia/Shanghai:20241127T115959
+DESCRIPTION:音擎调频：[时流贤者(异常)]、[德玛拉电池Ⅱ型
+ (击破)]、[仿制星徽引擎(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
 END:VCALENDAR
