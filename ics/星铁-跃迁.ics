@@ -113,4 +113,32 @@ DESCRIPTION:光锥跃迁：「忍法帖•缭乱破魔（智识）」&「
  比阳光更明亮的（毁灭）」
 LOCATION:星铁-跃迁
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「远辞畴昔」、「囚石铸金」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241203T150000
+DESCRIPTION:角色跃迁：黄泉&砂金 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「远辞畴昔」、「囚石铸金」
+DTSTART;TZID=Asia/Shanghai:20241113T120000
+DESCRIPTION:角色跃迁：黄泉&砂金
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「溯回忆象」、「溯回忆象」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241203T150000
+DESCRIPTION:光锥跃迁：「行于流逝的岸（虚无）」&「命运
+ 从未公平（存护）」 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「溯回忆象」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20241113T120000
+DESCRIPTION:光锥跃迁：「行于流逝的岸（虚无）」&「命运
+ 从未公平（存护）」
+LOCATION:星铁-跃迁
+END:VEVENT
 END:VCALENDAR
