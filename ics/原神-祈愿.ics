@@ -111,4 +111,32 @@ DESCRIPTION:武器祈愿：「法器·千夜浮梦」&「长柄武器·护
  摩之杖」
 LOCATION:原神-祈愿
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「饮羽散红」&「光与影的戏术」 结束
+DTSTART;TZID=Asia/Shanghai:20241210T175959
+DESCRIPTION:角色祈愿：恰斯卡&林尼 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「饮羽散红」&「光与影的戏术」
+DTSTART;TZID=Asia/Shanghai:20241120T110000
+DESCRIPTION:角色祈愿：恰斯卡&林尼
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「弓·星鹫赤羽」&「弓·最初的大魔术
+ 」 结束
+DTSTART;TZID=Asia/Shanghai:20241210T175959
+DESCRIPTION:武器祈愿：「弓·星鹫赤羽」&「弓·最初的大魔
+ 术」 结束
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「弓·星鹫赤羽」&「弓·最初的大魔术
+ 」
+DTSTART;TZID=Asia/Shanghai:20241120T110000
+DESCRIPTION:武器祈愿：「弓·星鹫赤羽」&「弓·最初的大魔
+ 术」
+LOCATION:原神-祈愿
+END:VEVENT
 END:VCALENDAR
