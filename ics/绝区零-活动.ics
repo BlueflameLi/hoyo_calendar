@@ -321,4 +321,83 @@ DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
  获得双倍奖励！
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「常胜冠军」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241216T035959
+DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
+ 与「专题放映」活动，使用活动代币兑换并获得限时奖
+ 励。部分活动内容将在指定的时间点解锁。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「常胜冠军」活动
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
+ 与「专题放映」活动，使用活动代币兑换并获得限时奖
+ 励。部分活动内容将在指定的时间点解锁。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241217T035959
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！ 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20241127T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「帮帮凯伊」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241216T035959
+DESCRIPTION:「帮帮凯伊」活动期间，绳匠可与邦布凯伊对
+ 话，查看活动任务；完成对应活动任务，即可获得[菲林]
+ 、[邦布券]和养成材料等奖励。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「帮帮凯伊」活动
+DTSTART;TZID=Asia/Shanghai:20241202T040000
+DESCRIPTION:「帮帮凯伊」活动期间，绳匠可与邦布凯伊对
+ 话，查看活动任务；完成对应活动任务，即可获得[菲林]
+ 、[邦布券]和养成材料等奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当三明治来敲门」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241216T035959
+DESCRIPTION:活动期间，绳匠可以在光映广场的三明治餐车
+ 领取委托，根据要求为[主厨]选中的幸运顾客们提供服务
+ ；完成对应的点单、送餐、合影等任务，并收到来自幸
+ 运顾客的评价后，即可获得活动奖励。 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当三明治来敲门」活动
+DTSTART;TZID=Asia/Shanghai:20241204T100000
+DESCRIPTION:活动期间，绳匠可以在光映广场的三明治餐车
+ 领取委托，根据要求为[主厨]选中的幸运顾客们提供服务
+ ；完成对应的点单、送餐、合影等任务，并收到来自幸
+ 运顾客的评价后，即可获得活动奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241216T035959
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！ 
+ 结束
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动
+DTSTART;TZID=Asia/Shanghai:20241211T040000
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR

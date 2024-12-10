@@ -344,4 +344,54 @@ DTSTART;TZID=Asia/Shanghai:20241122T040000
 DESCRIPTION:拟造花萼限时双倍掉落
 LOCATION:星铁-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2.7版本更新
+DTSTART;TZID=Asia/Shanghai:20241204T060000
+DESCRIPTION:2.7版本更新
+LOCATION:星铁-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「向星举目」、「天戈麾斥」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241225T115959
+DESCRIPTION:角色跃迁：星期日&景元 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「向星举目」、「天戈麾斥」
+DTSTART;TZID=Asia/Shanghai:20241204T110000
+DESCRIPTION:角色跃迁：星期日&景元
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20241225T115959
+DESCRIPTION:光锥跃迁：「回到大地的飞行（同谐）」&「拂
+ 晓之前（智识）」 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20241204T110000
+DESCRIPTION:光锥跃迁：「回到大地的飞行（同谐）」&「拂
+ 晓之前（智识）」
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「宇宙家装指南」活动 结束
+DTSTART;TZID=Asia/Shanghai:20240113T035959
+DESCRIPTION:开拓者拥有一间自己的房间，房间共有6个区域
+ ，每个区域都有独立的建造进度。随着建造进度的提升
+ ，开拓者的房间会有更多可以摆放的位置和装饰。 结束
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「宇宙家装指南」活动
+DTSTART;TZID=Asia/Shanghai:20241204T110000
+DESCRIPTION:开拓者拥有一间自己的房间，房间共有6个区域
+ ，每个区域都有独立的建造进度。随着建造进度的提升
+ ，开拓者的房间会有更多可以摆放的位置和装饰。
+LOCATION:星铁-活动
+END:VEVENT
 END:VCALENDAR

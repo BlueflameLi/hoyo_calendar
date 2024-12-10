@@ -79,4 +79,20 @@ DESCRIPTION:音擎调频：[时流贤者(异常)]、[德玛拉电池Ⅱ型
  (击破)]、[仿制星徽引擎(强攻)]
 LOCATION:绝区零-调频
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「余烬之冕」调频
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DTEND;TZID=Asia/Shanghai:20241217T145959
+DESCRIPTION:代理人调频：[莱特(击破·火)]、[本(防护·火)]
+ 、[可琳(强攻·物理)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DTEND;TZID=Asia/Shanghai:20241217T145959
+DESCRIPTION:音擎调频：[焰心桂冠(击破)]、[比格气缸(防护)]
+ 、[家政员(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
 END:VCALENDAR

@@ -75,4 +75,19 @@ DESCRIPTION:光锥跃迁：「行于流逝的岸（虚无）」&「命运
  从未公平（存护）」
 LOCATION:星铁-跃迁
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「向星举目」、「天戈麾斥」
+DTSTART;TZID=Asia/Shanghai:20241204T110000
+DTEND;TZID=Asia/Shanghai:20241225T115959
+DESCRIPTION:角色跃迁：星期日&景元
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20241204T110000
+DTEND;TZID=Asia/Shanghai:20241225T115959
+DESCRIPTION:光锥跃迁：「回到大地的飞行（同谐）」&「拂
+ 晓之前（智识）」
+LOCATION:星铁-跃迁
+END:VEVENT
 END:VCALENDAR

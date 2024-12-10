@@ -79,4 +79,20 @@ DESCRIPTION:武器祈愿：「弓·星鹫赤羽」&「弓·最初的大魔
  术」
 LOCATION:原神-祈愿
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「渊海界令」&「陵薮市朝」
+DTSTART;TZID=Asia/Shanghai:20241210T180000
+DTEND;TZID=Asia/Shanghai:20241231T145959
+DESCRIPTION:角色祈愿：那维莱特&钟离
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·万世流涌大典」&「长柄武器·
+ 贯虹之槊」
+DTSTART;TZID=Asia/Shanghai:20241210T180000
+DTEND;TZID=Asia/Shanghai:20241231T145959
+DESCRIPTION:武器祈愿：「法器·万世流涌大典」&「长柄武
+ 器·贯虹之槊」
+LOCATION:原神-祈愿
+END:VEVENT
 END:VCALENDAR

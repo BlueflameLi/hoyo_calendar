@@ -106,4 +106,14 @@ DTEND;TZID=Asia/Shanghai:20241202T035959
 DESCRIPTION:寻找小动物挑战
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「冒险家试炼·蜕变篇」活动
+DTSTART;TZID=Asia/Shanghai:20241211T100000
+DTEND;TZID=Asia/Shanghai:20241223T035959
+DESCRIPTION:活动开启后的前四天，每天都会解锁新的「全
+ 能试炼」。每个「全能试炼」中，旅行者需要连续完成
+ 三个挑战关卡。每个关卡需要使用指定的试用角色，在
+ 限定时间内达成挑战目标。
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR
