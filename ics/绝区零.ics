@@ -592,4 +592,72 @@ DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
  定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.4版本「星流霆击」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20241206T193000
+DESCRIPTION:1.4版本「星流霆击」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.4版本「星流霆击」版本更新
+DTSTART;TZID=Asia/Shanghai:20241218T060000
+DESCRIPTION:1.4版本「星流霆击」版本更新
+LOCATION:绝区零-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺世澄沧」调频 结束
+DTSTART;TZID=Asia/Shanghai:20250121T150000
+DESCRIPTION:代理人调频：[雅(异常·烈霜)]、[派派(异常·物
+ 理)]、[苍角(支援·冰)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺世澄沧」调频
+DTSTART;TZID=Asia/Shanghai:20241218T110000
+DESCRIPTION:代理人调频：[雅(异常·烈霜)]、[派派(异常·物
+ 理)]、[苍角(支援·冰)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频 结束
+DTSTART;TZID=Asia/Shanghai:20250121T150000
+DESCRIPTION:音擎调频：[霰落星殿(异常)]、[轰鸣座驾(异常)]
+ 、[含羞恶面(支援)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241218T110000
+DESCRIPTION:音擎调频：[霰落星殿(异常)]、[轰鸣座驾(异常)]
+ 、[含羞恶面(支援)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「循此苦旅」调频 结束
+DTSTART;TZID=Asia/Shanghai:20250121T150000
+DESCRIPTION:代理人调频：[浅羽悠真(强攻·电)]、[露西(支援
+ ·火)]、[赛斯(防护·电)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「循此苦旅」调频
+DTSTART;TZID=Asia/Shanghai:20241218T110000
+DESCRIPTION:代理人调频：[浅羽悠真(强攻·电)]、[露西(支援
+ ·火)]、[赛斯(防护·电)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频 结束
+DTSTART;TZID=Asia/Shanghai:20250121T150000
+DESCRIPTION:音擎调频：[残心青囊(强攻)]、[好斗的阿炮(支
+ 援)]、[维序者·特化型(防护)] 结束
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「喧哗奏鸣」调频
+DTSTART;TZID=Asia/Shanghai:20241218T110000
+DESCRIPTION:音擎调频：[残心青囊(强攻)]、[好斗的阿炮(支
+ 援)]、[维序者·特化型(防护)]
+LOCATION:绝区零-调频
+END:VEVENT
 END:VCALENDAR
