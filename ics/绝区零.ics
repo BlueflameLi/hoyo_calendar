@@ -606,21 +606,21 @@ LOCATION:绝区零-版本更新
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「砺世澄沧」调频 结束
-DTSTART;TZID=Asia/Shanghai:20250121T150000
-DESCRIPTION:代理人调频：[雅(异常·烈霜)]、[派派(异常·物
- 理)]、[苍角(支援·冰)] 结束
+DTSTART;TZID=Asia/Shanghai:20250121T145959
+DESCRIPTION:代理人调频：[星见雅(异常·烈霜)]、[派派(异常
+ ·物理)]、[苍角(支援·冰)] 结束
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「砺世澄沧」调频
 DTSTART;TZID=Asia/Shanghai:20241218T110000
-DESCRIPTION:代理人调频：[雅(异常·烈霜)]、[派派(异常·物
- 理)]、[苍角(支援·冰)]
+DESCRIPTION:代理人调频：[星见雅(异常·烈霜)]、[派派(异常
+ ·物理)]、[苍角(支援·冰)]
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「喧哗奏鸣」调频 结束
-DTSTART;TZID=Asia/Shanghai:20250121T150000
+DTSTART;TZID=Asia/Shanghai:20250121T145959
 DESCRIPTION:音擎调频：[霰落星殿(异常)]、[轰鸣座驾(异常)]
  、[含羞恶面(支援)] 结束
 LOCATION:绝区零-调频
@@ -634,7 +634,7 @@ LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「循此苦旅」调频 结束
-DTSTART;TZID=Asia/Shanghai:20250121T150000
+DTSTART;TZID=Asia/Shanghai:20250121T145959
 DESCRIPTION:代理人调频：[浅羽悠真(强攻·电)]、[露西(支援
  ·火)]、[赛斯(防护·电)] 结束
 LOCATION:绝区零-调频
@@ -647,14 +647,14 @@ DESCRIPTION:代理人调频：[浅羽悠真(强攻·电)]、[露西(支援
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「喧哗奏鸣」调频 结束
-DTSTART;TZID=Asia/Shanghai:20250121T150000
+SUMMARY:「灿烂和声」调频 结束
+DTSTART;TZID=Asia/Shanghai:20250121T145959
 DESCRIPTION:音擎调频：[残心青囊(强攻)]、[好斗的阿炮(支
  援)]、[维序者·特化型(防护)] 结束
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「喧哗奏鸣」调频
+SUMMARY:「灿烂和声」调频
 DTSTART;TZID=Asia/Shanghai:20241218T110000
 DESCRIPTION:音擎调频：[残心青囊(强攻)]、[好斗的阿炮(支
  援)]、[维序者·特化型(防护)]
