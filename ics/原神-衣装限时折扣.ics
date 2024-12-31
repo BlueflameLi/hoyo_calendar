@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:「宿雪桃红」衣装限时折扣 结束
+DTSTART;TZID=Asia/Shanghai:20240210T035959
+DESCRIPTION:折扣期间衣装售价为1350创世结晶，限时折扣结
+ 束后价格将恢复至1680创世结晶，上架期间限购1次。 结
+ 束
+LOCATION:原神-衣装限时折扣
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「宿雪桃红」衣装限时折扣
+DTSTART;TZID=Asia/Shanghai:20250101T110000
+DESCRIPTION:折扣期间衣装售价为1350创世结晶，限时折扣结
+ 束后价格将恢复至1680创世结晶，上架期间限购1次。
+LOCATION:原神-衣装限时折扣
+END:VEVENT
+END:VCALENDAR

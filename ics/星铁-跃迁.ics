@@ -169,4 +169,32 @@ DESCRIPTION:光锥跃迁：「回到大地的飞行（同谐）」&「拂
  晓之前（智识）」
 LOCATION:星铁-跃迁
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「归路迢迢」、「盈茧炽盛」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250114T150000
+DESCRIPTION:角色跃迁：忘归人&流萤 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「归路迢迢」、「盈茧炽盛」
+DTSTART;TZID=Asia/Shanghai:20241225T120000
+DESCRIPTION:角色跃迁：忘归人&流萤
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250114T150000
+DESCRIPTION:光锥跃迁：「长路终有归途（虚无）」&「梦应
+ 归于何处（毁灭）」 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20241225T120000
+DESCRIPTION:光锥跃迁：「长路终有归途（虚无）」&「梦应
+ 归于何处（毁灭）」
+LOCATION:星铁-跃迁
+END:VEVENT
 END:VCALENDAR

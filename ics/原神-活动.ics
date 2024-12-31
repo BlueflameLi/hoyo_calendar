@@ -206,4 +206,40 @@ DESCRIPTION:活动开启后的前四天，每天都会解锁新的「全
  限定时间内达成挑战目标。
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「强风猛进之述演」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241230T035959
+DESCRIPTION:在「强风猛进之述演」活动中，旅行者每个回
+ 合都会获得一定数量的交战单位和战斗策略。选取合适
+ 的交战单位和战斗策略，分析对手和自己的阵容，安排
+ 合理的出战单位，方可克敌制胜。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「强风猛进之述演」活动
+DTSTART;TZID=Asia/Shanghai:20241218T100000
+DESCRIPTION:在「强风猛进之述演」活动中，旅行者每个回
+ 合都会获得一定数量的交战单位和战斗策略。选取合适
+ 的交战单位和战斗策略，分析对手和自己的阵容，安排
+ 合理的出战单位，方可克敌制胜。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动 结束
+DTSTART;TZID=Asia/Shanghai:20241230T035959
+DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
+ 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
+ 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
+ 可享受3次双倍掉落机会！ 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动
+DTSTART;TZID=Asia/Shanghai:20241223T040000
+DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
+ 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
+ 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
+ 可享受3次双倍掉落机会！
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR
