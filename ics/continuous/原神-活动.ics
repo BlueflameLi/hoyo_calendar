@@ -136,4 +136,20 @@ DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
  可享受3次双倍掉落机会！
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漱玉工奇斗虫大玄境」活动
+DTSTART;TZID=Asia/Shanghai:20250103T100000
+DTEND;TZID=Asia/Shanghai:20250113T035959
+DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
+ 个新的挑战关卡，共5关。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「衔勇诚砺之证」活动
+DTSTART;TZID=Asia/Shanghai:20250109T100000
+DTEND;TZID=Asia/Shanghai:20250120T035959
+DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
+ 个与特定部族有关的新挑战，共六个挑战
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR

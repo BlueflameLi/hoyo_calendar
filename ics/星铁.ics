@@ -462,4 +462,24 @@ DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
  洞」时，可获得双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3.0版本更新
+DTSTART;TZID=Asia/Shanghai:20250115T060000
+DESCRIPTION:3.0版本更新
+LOCATION:星铁-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河潮流指南」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250226T060000
+DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
+ 可领取「三月七•存护」的时装「冬去煦至」！ 结束
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河潮流指南」活动
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
+ 可领取「三月七•存护」的时装「冬去煦至」！
+LOCATION:星铁-活动
+END:VEVENT
 END:VCALENDAR

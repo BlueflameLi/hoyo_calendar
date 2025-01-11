@@ -739,4 +739,48 @@ DESCRIPTION:本次活动包含4个关卡，部分关卡有不同的特殊
  的特殊规则。
 LOCATION:原神-七圣召唤
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漱玉工奇斗虫大玄境」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250113T035959
+DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
+ 个新的挑战关卡，共5关。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漱玉工奇斗虫大玄境」活动
+DTSTART;TZID=Asia/Shanghai:20250103T100000
+DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
+ 个新的挑战关卡，共5关。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「衔勇诚砺之证」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250120T035959
+DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
+ 个与特定部族有关的新挑战，共六个挑战 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「衔勇诚砺之证」活动
+DTSTART;TZID=Asia/Shanghai:20250109T100000
+DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
+ 个与特定部族有关的新挑战，共六个挑战
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：奇策竞驰 结束
+DTSTART;TZID=Asia/Shanghai:20250127T035959
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。 结束
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：奇策竞驰
+DTSTART;TZID=Asia/Shanghai:20250111T100000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+END:VEVENT
 END:VCALENDAR
