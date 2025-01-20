@@ -105,4 +105,19 @@ DESCRIPTION:光锥跃迁：「长路终有归途（虚无）」&「梦应
  归于何处（毁灭）」
 LOCATION:星铁-跃迁
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「视界来信」、「铭心之萃」
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DTEND;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:角色跃迁：大黑塔&灵砂
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「真意之汇」
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DTEND;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:光锥跃迁：「向着不可追问处（智识）」&「唯
+ 有香如故（丰饶）」
+LOCATION:星铁-跃迁
+END:VEVENT
 END:VCALENDAR

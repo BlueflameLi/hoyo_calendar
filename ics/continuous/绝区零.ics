@@ -493,6 +493,14 @@ DESCRIPTION:活动期间，累计登录7天即可获得[菲林]*480！
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动
+DTSTART;TZID=Asia/Shanghai:20250115T040000
+DTEND;TZID=Asia/Shanghai:20250120T035959
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1.5版本「闪耀的此刻」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20250110T193000
 DESCRIPTION:1.5版本「闪耀的此刻」前瞻特别节目

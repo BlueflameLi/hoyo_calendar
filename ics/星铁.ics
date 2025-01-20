@@ -482,4 +482,52 @@ DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
  可领取「三月七•存护」的时装「冬去煦至」！
 LOCATION:星铁-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「视界来信」、「铭心之萃」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:角色跃迁：大黑塔&灵砂 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「视界来信」、「铭心之萃」
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:角色跃迁：大黑塔&灵砂
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「真意之汇」 结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:光锥跃迁：「向着不可追问处（智识）」&「唯
+ 有香如故（丰饶）」 结束
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「真意之汇」
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:光锥跃迁：「向着不可追问处（智识）」&「唯
+ 有香如故（丰饶）」
+LOCATION:星铁-跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地宫迷踪」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250224T035959
+DESCRIPTION:探险家达米亚诺斯正准备去探索城郊的古代废
+ 墟…他似乎忘了邀请你？活动共有4个玩法，共包含20个
+ 关卡房间。每个玩法分为「浅层地宫」与「深层地宫」
+ 两个难度，完成「浅层地宫」后，将解锁「深层地宫」
+ 。 结束
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地宫迷踪」活动
+DTSTART;TZID=Asia/Shanghai:20250122T120000
+DESCRIPTION:探险家达米亚诺斯正准备去探索城郊的古代废
+ 墟…他似乎忘了邀请你？活动共有4个玩法，共包含20个
+ 关卡房间。每个玩法分为「浅层地宫」与「深层地宫」
+ 两个难度，完成「浅层地宫」后，将解锁「深层地宫」
+ 。
+LOCATION:星铁-活动
+END:VEVENT
 END:VCALENDAR

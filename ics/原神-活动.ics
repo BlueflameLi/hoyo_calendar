@@ -270,4 +270,35 @@ DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
  个与特定部族有关的新挑战，共六个挑战
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「凶魁巨怪觇候录」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250127T035959
+DESCRIPTION:从活动开始的第一天起，每两天可解锁新的挑
+ 战。旅行者可以与赫卡对话，进行不同难度的挑战。 结
+ 束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「凶魁巨怪觇候录」活动
+DTSTART;TZID=Asia/Shanghai:20250114T100000
+DESCRIPTION:从活动开始的第一天起，每两天可解锁新的挑
+ 战。旅行者可以与赫卡对话，进行不同难度的挑战。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「富贵登门·春来早知」活动 结束
+DTSTART;TZID=Asia/Shanghai:20250211T145959
+DESCRIPTION:活动期间，将开放「开门迎财·累计登录」与「
+ 旧忆新桃·海灯节答谢」奖励。可获取1600原石、纠缠之
+ 缘*10、智识之冕、祝圣之霜等奖励。 结束
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「富贵登门·春来早知」活动
+DTSTART;TZID=Asia/Shanghai:20250122T040000
+DESCRIPTION:活动期间，将开放「开门迎财·累计登录」与「
+ 旧忆新桃·海灯节答谢」奖励。可获取1600原石、纠缠之
+ 缘*10、智识之冕、祝圣之霜等奖励。
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR
