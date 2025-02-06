@@ -1,7 +1,8 @@
 .venv
 .idea
 **/__pycache__/
+archive
+fileio
 hoyo_calendar.log
 test.py
-old.py
 push.sh
