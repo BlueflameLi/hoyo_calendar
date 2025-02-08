@@ -12,7 +12,7 @@ from fileio import File
 
 
 async def event_add(
-    cal: Calendar, name: str, begin: str, description: str, location: str, end=None
+        cal: Calendar, name: str, begin: str, description: str, location: str, end=None
 ) -> Calendar:
     event = Event()
     date_format = "%Y-%m-%d %H:%M:%S"
@@ -32,12 +32,12 @@ async def event_add(
 
 
 async def event_add_continuous(
-    cal: Calendar,
-    name: str,
-    begin: str,
-    description: str,
-    location: str,
-    end: str = None,
+        cal: Calendar,
+        name: str,
+        begin: str,
+        description: str,
+        location: str,
+        end: str = None,
 ) -> Calendar:
     event = Event()
     date_format = "%Y-%m-%d %H:%M:%S"
@@ -89,14 +89,14 @@ async def generate_ics(output_folder: str, source_name: str, source: str) -> Non
 
     for type_key, type_value in different_types.items():
         async with aiofiles.open(
-            f"{output_folder}/{source_name}-{type_key}.ics", "wb"
+                f"{output_folder}/{source_name}-{type_key}.ics", "wb"
         ) as ics_file:
             await ics_file.write(type_value.to_ical())
             logger.info(f"{source_name}-{type_key}.ics DONE.")
 
 
 async def generate_ics_continuous(
-    output_folder: str, source_name: str, source: str
+        output_folder: str, source_name: str, source: str
 ) -> None:
     logger.info(f"generateing continuous/{source_name}.ics...")
     c = Calendar()
@@ -125,7 +125,7 @@ async def generate_ics_continuous(
 
     for type_key, type_value in different_types.items():
         async with aiofiles.open(
-            f"{output_folder}/continuous/{source_name}-{type_key}.ics", "wb"
+                f"{output_folder}/continuous/{source_name}-{type_key}.ics", "wb"
         ) as ics_file:
             await ics_file.write(type_value.to_ical())
             logger.info(f"continuous/{source_name}-{type_key}.ics DONE.")
@@ -152,5 +152,5 @@ async def main(source_files_folder: str, output_folder: str) -> None:
 
 
 if __name__ == "__main__":
-    logger.add("hoyo_calendar.log", mode="w")
+    logger.add("../hoyo_calendar.log", mode="w")
     asyncio.run(main("source", "ics"))
