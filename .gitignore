@@ -2,7 +2,6 @@
 .idea
 **/__pycache__/
 archive
-fileio
 hoyo_calendar.log
 test.py
 push.sh

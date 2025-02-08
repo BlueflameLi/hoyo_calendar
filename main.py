@@ -1,156 +1,103 @@
-import os
-import re
 import asyncio
 import aiofiles
-import zoneinfo
+import tomllib
 
-from icalendar import Calendar, Event
-from datetime import datetime
+from collections import defaultdict
+from pathlib import Path
+from icalendar import Calendar
 from loguru import logger
 
-from fileio import File
+from model import Version, MyCalendar
 
 
-async def event_add(
-        cal: Calendar, name: str, begin: str, description: str, location: str, end=None
-) -> Calendar:
-    event = Event()
-    date_format = "%Y-%m-%d %H:%M:%S"
-    event.add("summary", name)
-    event.add(
-        "dtstart",
-        datetime.strptime(begin, date_format).replace(
-            tzinfo=zoneinfo.ZoneInfo("Asia/Shanghai")
-        ),
-    )
-    if end:
-        cal = await event_add(cal, name + " 结束", end, description + " 结束", location)
-    event.add("description", description)
-    event.add("location", location)
-    cal.add_component(event)
-    return cal
+async def read_toml(toml_path: Path) -> Version:
+    async with aiofiles.open(toml_path, encoding='utf-8') as toml_file:
+        version_dict = tomllib.loads(await toml_file.read())
+    return Version(**version_dict)
 
 
-async def event_add_continuous(
-        cal: Calendar,
-        name: str,
-        begin: str,
-        description: str,
-        location: str,
-        end: str = None,
-) -> Calendar:
-    event = Event()
-    date_format = "%Y-%m-%d %H:%M:%S"
-    event.add("summary", name)
-    event.add(
-        "dtstart",
-        datetime.strptime(begin, date_format).replace(
-            tzinfo=zoneinfo.ZoneInfo("Asia/Shanghai")
-        ),
-    )
-    if end is not None:
-        event.add(
-            "dtend",
-            datetime.strptime(end, date_format).replace(
-                tzinfo=zoneinfo.ZoneInfo("Asia/Shanghai")
-            ),
+async def write_ics(ics_path: Path, calendar: Calendar) -> None:
+    if not ics_path.exists():
+        ics_path.parent.mkdir(parents=True, exist_ok=True)
+    async with aiofiles.open(ics_path, 'wb') as ics_file:
+        await ics_file.write(calendar.to_ical())
+
+
+def to_calendar(
+        versions_data: list[Version],
+        game_name: str,
+        continuous: bool = False,
+) -> dict[str, MyCalendar]:
+    calendars: dict[str, MyCalendar] = defaultdict(MyCalendar)
+    for version in versions_data:
+        calendars["前瞻特别节目"].add_event(
+            f"{version.version}版本「{version.name}」前瞻特别节目",
+            version.special_program,
+            f"{version.version}版本「{version.name}」前瞻特别节目",
+            f"{game_name}-前瞻特别节目"
         )
-    event.add("description", description)
-    event.add("location", location)
-    cal.add_component(event)
-    return cal
-
-
-async def generate_ics(output_folder: str, source_name: str, source: str) -> None:
-    logger.info(f"generateing {source_name}.ics...")
-    c = Calendar()
-    different_types = {}
-    for event in source.split(";;"):
-        event = event.strip()
-        if event:
-            name, begin, end, description, location = [
-                item.strip() for item in event.split("\n")
-            ]
-            if end == "None":
-                end = None
-            c = await event_add(c, name, begin, description, location, end)
-            try:
-                single_type = different_types[location.split("-")[1]]
-            except KeyError:
-                different_types[location.split("-")[1]] = Calendar()
-                single_type = different_types[location.split("-")[1]]
-            different_types[location.split("-")[1]] = await event_add(
-                single_type, name, begin, description, location, end
+        calendars["版本更新"].add_event(
+            f"{version.version}版本更新维护",
+            version.special_program,
+            f"{version.version}版本更新维护",
+            f"{game_name}-版本更新"
+        )
+        for wish in version.wish:
+            calendars[version.wish_name].add_event(
+                f"{wish.type}{version.wish_name}：{wish.name}",
+                wish.start,
+                f"{wish.type}{version.wish_name}：{wish.describe}",
+                f"{game_name}-{version.wish_name}",
+                wish.end if continuous else None
             )
+        for event in version.event:
+            calendars[event.type].add_event(
+                event.name,
+                event.start,
+                event.describe,
+                f"{game_name}-{event.type}",
+                event.end if continuous else None
+            )
+    all_events_cal = MyCalendar()
+    for dif_calendar in calendars.values():
+        all_events_cal += dif_calendar
+    calendars["all"] += all_events_cal
+    return calendars
 
-    async with aiofiles.open(f"{output_folder}/{source_name}.ics", "wb") as ics_file:
-        await ics_file.write(c.to_ical())
-        logger.info(f"{source_name}.ics DONE.")
 
-    for type_key, type_value in different_types.items():
-        async with aiofiles.open(
-                f"{output_folder}/{source_name}-{type_key}.ics", "wb"
-        ) as ics_file:
-            await ics_file.write(type_value.to_ical())
-            logger.info(f"{source_name}-{type_key}.ics DONE.")
-
-
-async def generate_ics_continuous(
-        output_folder: str, source_name: str, source: str
+async def generate_ics(
+        output_folder: Path,
+        game_name: str,
+        versions_data: list[Version],
+        continuous: bool = False,
 ) -> None:
-    logger.info(f"generateing continuous/{source_name}.ics...")
-    c = Calendar()
-    different_types = {}
-    for event in source.split(";;"):
-        event = event.strip()
-        if event:
-            name, begin, end, description, location = [
-                item.strip() for item in event.split("\n")
-            ]
-            if end == "None":
-                end = None
-            c = await event_add_continuous(c, name, begin, description, location, end)
-            try:
-                single_type = different_types[location.split("-")[1]]
-            except KeyError:
-                different_types[location.split("-")[1]] = Calendar()
-                single_type = different_types[location.split("-")[1]]
-            different_types[location.split("-")[1]] = await event_add_continuous(
-                single_type, name, begin, description, location, end
-            )
-
-    async with aiofiles.open(f"{output_folder}/continuous/{source_name}.ics", "wb") as ics_file:
-        await ics_file.write(c.to_ical())
-        logger.info(f"continuous/{source_name}.ics DONE.")
-
-    for type_key, type_value in different_types.items():
-        async with aiofiles.open(
-                f"{output_folder}/continuous/{source_name}-{type_key}.ics", "wb"
-        ) as ics_file:
-            await ics_file.write(type_value.to_ical())
-            logger.info(f"continuous/{source_name}-{type_key}.ics DONE.")
+    ics_path = Path(f'{output_folder}/{"continuous/" if continuous else ""}{game_name}.ics')
+    logger.info(f"开始生成 {ics_path}...")
+    calendars = to_calendar(versions_data, game_name, continuous=continuous)
+    await write_ics(ics_path, calendars["all"])
+    logger.info(f'{ics_path} DONE.')
+    calendars.pop("all", None)
+    for key, dif_calendar in calendars.items():
+        ics_path = Path(f'{output_folder}/{"continuous/" if continuous else ""}{game_name}/{key}.ics')
+        await write_ics(ics_path, dif_calendar)
+        logger.info(f'{ics_path} DONE.')
 
 
-async def main(source_files_folder: str, output_folder: str) -> None:
-    if not os.path.isdir(source_files_folder):
-        logger.error("Source folder doesn't exist.")
-    tasks = []
-    for source_file in os.listdir(os.path.abspath(source_files_folder)):
-        if source_file.endswith(".txt"):
-            source = await File(
-                os.path.join(source_files_folder, source_file)
-            ).read_async()
-            source = re.sub(r"#.*", "", source)
-            tasks.append(
-                generate_ics(output_folder, os.path.splitext(source_file)[0], source)
-            )
-            tasks.append(
-                generate_ics_continuous(output_folder, os.path.splitext(source_file)[0], source)
-            )
-    logger.info(f"{len(tasks)} files founded.")
-    await asyncio.gather(*tasks)
+async def main(source_files_folder: Path, output_folder: Path) -> None:
+    ics_tasks = []
+    for game_folder in source_files_folder.iterdir():  # type:Path
+        if game_folder.is_dir():
+            logger.info(f"开始读取「{game_folder.name}」活动信息")
+            tasks = [read_toml(toml_path) for toml_path in game_folder.iterdir() if toml_path.suffix == '.toml']
+            versions_data: list[Version] = await asyncio.gather(*tasks)
+            logger.info(f"读取到 {len(versions_data)}个「{game_folder.name}」版本")
+            ics_tasks.append(generate_ics(output_folder, game_folder.name, versions_data))
+            ics_tasks.append(generate_ics(output_folder, game_folder.name, versions_data, True))
+    await asyncio.gather(*ics_tasks)
 
 
-if __name__ == "__main__":
-    logger.add("../hoyo_calendar.log", mode="w")
-    asyncio.run(main("source", "ics"))
+if __name__ == '__main__':
+    logger.add("hoyo_calendar.log", mode="w")
+    source = Path('source')
+    output = Path('ics')
+    asyncio.run(main(source, output))
