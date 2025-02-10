@@ -56,6 +56,34 @@ DESCRIPTION:武器祈愿：「法器·万世流涌大典」&「长柄武
 LOCATION:原神-祈愿
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:角色祈愿：「浮枕朝颜」&「柔柔海露心」
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:角色祈愿：梦见月瑞希&希格雯
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·寝正月初晴」&「弓·白雨心弦
+ 」
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:武器祈愿：「法器·寝正月初晴」&「弓·白雨心
+ 弦」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「众水的颂诗」&「劫中泛滥」
+DTSTART;TZID=Asia/Shanghai:20250304T180000
+DESCRIPTION:角色祈愿：芙宁娜&莱欧斯利
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·静水流涌之辉」&「法器·金
+ 流监督」
+DTSTART;TZID=Asia/Shanghai:20250304T180000
+DESCRIPTION:武器祈愿：「单手剑·静水流涌之辉」&「法器·
+ 金流监督」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:角色祈愿：「煅火的祝赐」&「千云绘羽织」
 DTSTART;TZID=Asia/Shanghai:20241009T110000
 DESCRIPTION:角色祈愿：希诺宁&千织

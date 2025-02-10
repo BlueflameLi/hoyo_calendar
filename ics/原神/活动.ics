@@ -94,6 +94,33 @@ DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「游逸旅闻·诗汇之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:活动期间，旅行者可以在地图上寻找伙伴们，
+ 并前往各地进行拜访。听他们闲叙一番平日里的趣闻，
+ 或是与他们一同度过闲适的一天。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「三川游艺绮梦谭」活动
+DTSTART;TZID=Asia/Shanghai:20250214T100000
+DESCRIPTION:活动期间，完成各项挑战可获得「游艺印章」
+ 。累计获取指定数量的「游艺印章」即可获得「长柄武
+ 器·且住亭御咄」、原石、智识之冕、活动专属武器精炼
+ 材料等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「征战勇者淬炼之界」活动
+DTSTART;TZID=Asia/Shanghai:20250224T100000
+DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，每
+ 个挑战均有25层战斗关卡，30秒内通过即可继续挑战。通
+ 过指定层数，可获得原石、角色天赋素材、祝圣油膏等
+ 奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「寻溯蜜虫之宝」活动
 DTSTART;TZID=Asia/Shanghai:20241010T100000
 DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
