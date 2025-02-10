@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:「日抛忆质留影计划」：拍摄照片达成目标，获取
+ 命运的足迹等奖励
+DTSTART;TZID=Asia/Shanghai:20240807T120000
+DESCRIPTION:来自匹诺康尼的见习医生正在星槎海招募一位
+ 助手，来协助他完成一项特别的拍摄计划。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20240814T040000
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得双倍奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「开拓，友谊魔法！」：完成桶的试炼，获取命运
+ 的足迹等奖励
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:曾在梦中相会的灰色朋友只身来到贝洛伯格的
+ 现实世界，他前来解决一桩不明黑影袭击居民的危机，
+ 但急需你与伙伴们的帮助……
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「花藏繁生」活动：拟造花萼限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20240830T040000
+DESCRIPTION:「花藏繁生」活动期间，挑战并通关「拟造花
+ 萼（金）」或「拟造花萼（赤）」时，可获得双倍奖励
+ 。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河潮流指南」活动
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
+ 可领取「三月七•存护」的时装「冬去煦至」！
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伊利亚游记」：探索「翁法罗斯」、完成任务，
+ 获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:开拓者在「翁法罗斯」完成游记中的指定条目
+ 后，即可于相应页面领取奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「迷迷赠礼」：登录游戏即可领取星轨专票*10、变
+ 量骰子*1！
+DTSTART;TZID=Asia/Shanghai:20250115T110000
+DESCRIPTION:活动期间，登录游戏即可在「旅情事记」-「迷
+ 迷赠礼」界面，领取星轨专票*10与变量骰子*1！
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地宫迷踪」活动
+DTSTART;TZID=Asia/Shanghai:20250122T120000
+DESCRIPTION:活动开启后，「浅层地宫」的「预言算碑」玩
+ 法会开启第一个房间；解开该房间封印后解锁下一个房
+ 间，探索该难度下该玩法的全部房间会解锁下一个玩法
+ ，以此类推。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河幸运星」活动
+DTSTART;TZID=Asia/Shanghai:20250127T040000
+DESCRIPTION:开拓者可以在每一期的截止时间前（具体时间
+ 以活动界面中的显示为准），选择参与抽奖或直接领取10
+ 0星琼的固定奖励，仅能选择其中一个选项。每期可选择
+ 不同的选项。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250127T040000
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得双倍奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「晨昏卷隐」：击败故事中的对手，获取命运的足
+ 迹等奖励
+DTSTART;TZID=Asia/Shanghai:20250203T120000
+DESCRIPTION:本次活动中，共有5处卷轴，对应5个战斗关卡。
+ 需要开拓者在不同的场景中找到对应的卷轴，进入战斗
+ 后击败故事中的对手。
+LOCATION:星铁-活动
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「掷山破云」、「令奉贞凶」
+DTSTART;TZID=Asia/Shanghai:20240731T060000
+DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「云璃
+ （毁灭•物理）」，4星角色「寒鸦（同谐•物理）」「
+ 驭空（同谐•虚数）」「玲可（丰饶•量子）」跃迁成
+ 功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「掷山破云」、「令奉贞凶」结束
+DTSTART;TZID=Asia/Shanghai:20240821T115959
+DESCRIPTION:活动结束\n角色活动跃迁：活动期间，限定5星
+ 角色「云璃（毁灭•物理）」，4星角色「寒鸦（同谐•
+ 物理）」「驭空（同谐•虚数）」「玲可（丰饶•量子
+ ）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20240731T060000
+DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「落日
+ 时起舞（毁灭）」，4星光锥「鼹鼠党欢迎你（毁灭）」
+ 「此时恰好（丰饶）」「『我』的诞生（智识）」跃迁
+ 成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」结束
+DTSTART;TZID=Asia/Shanghai:20240821T115959
+DESCRIPTION:活动结束\n光锥活动跃迁：活动期间，限定5星
+ 光锥「落日时起舞（毁灭）」，4星光锥「鼹鼠党欢迎你
+ （毁灭）」「此时恰好（丰饶）」「『我』的诞生（智
+ 识）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「鼎中捭阖」、「焰锦游鱼」
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「椒丘
+ （虚无•火）」，「花火（同谐•量子）」，4星角色「
+ 虎克（毁灭•火）」「桂乃芬（虚无•火）」「阿兰（
+ 毁灭•雷）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「鼎中捭阖」、「焰锦游鱼」结束
+DTSTART;TZID=Asia/Shanghai:20240909T150000
+DESCRIPTION:活动结束\n角色活动跃迁：活动期间，限定5星
+ 角色「椒丘（虚无•火）」，「花火（同谐•量子）」
+ ，4星角色「虎克（毁灭•火）」「桂乃芬（虚无•火）
+ 」「阿兰（毁灭•雷）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「那无
+ 数个春天（虚无）」，「游戏尘寰（同谐）」，4星光锥
+ 「芳华待灼（同谐）」「猎物的视线（虚无）」「秘密
+ 誓心（毁灭）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」结束
+DTSTART;TZID=Asia/Shanghai:20240909T150000
+DESCRIPTION:活动结束\n光锥活动跃迁：活动期间，限定5星
+ 光锥「那无数个春天（虚无）」，「游戏尘寰（同谐）
+ 」，4星光锥「芳华待灼（同谐）」「猎物的视线（虚无
+ ）」「秘密誓心（毁灭）」跃迁成功概率限时提升。
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「视界来信」「铭心之萃」
+DTSTART;TZID=Asia/Shanghai:20250115T060000
+DESCRIPTION:角色活动跃迁：「大黑塔（智识•冰）」「灵
+ 砂（丰饶•火）」「飞霄（巡猎•风）」「翡翠（智识
+ •量子）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「视界来信」「铭心之萃」结束
+DTSTART;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:活动结束\n角色活动跃迁：「大黑塔（智识•冰
+ ）」「灵砂（丰饶•火）」「飞霄（巡猎•风）」「翡
+ 翠（智识•量子）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」
+DTSTART;TZID=Asia/Shanghai:20250115T060000
+DESCRIPTION:光锥活动跃迁：「向着不可追问处（智识）」
+ 「唯有香如故（丰饶）」「我将，巡征追猎（巡猎）」
+ 「偏偏希望无价（智识）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」结束
+DTSTART;TZID=Asia/Shanghai:20250205T115959
+DESCRIPTION:活动结束\n光锥活动跃迁：「向着不可追问处（
+ 智识）」「唯有香如故（丰饶）」「我将，巡征追猎（
+ 巡猎）」「偏偏希望无价（智识）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「裁酌天命」「铭心之萃」
+DTSTART;TZID=Asia/Shanghai:20250205T120000
+DESCRIPTION:角色活动跃迁：「阿格莱雅（记忆•雷）」「
+ 波提欧（巡猎•物理）」「知更鸟（同谐•物理）」「
+ 银狼（虚无•量子）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「裁酌天命」「铭心之萃」结束
+DTSTART;TZID=Asia/Shanghai:20250225T150000
+DESCRIPTION:活动结束\n角色活动跃迁：「阿格莱雅（记忆•
+ 雷）」「波提欧（巡猎•物理）」「知更鸟（同谐•物
+ 理）」「银狼（虚无•量子）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」
+DTSTART;TZID=Asia/Shanghai:20250205T120000
+DESCRIPTION:光锥活动跃迁：「将光阴织成黄金（记忆）」
+ 「驶向第二次生命（巡猎）」「夜色流光溢彩（同谐）
+ 」「雨一直下（虚无）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」结束
+DTSTART;TZID=Asia/Shanghai:20250225T150000
+DESCRIPTION:活动结束\n光锥活动跃迁：「将光阴织成黄金（
+ 记忆）」「驶向第二次生命（巡猎）」「夜色流光溢彩
+ （同谐）」「雨一直下（虚无）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+END:VCALENDAR
