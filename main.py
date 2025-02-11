@@ -36,6 +36,7 @@ def to_calendar(
             f"{version.version}版本「{version.name}」前瞻特别节目",
             f"{game_name}-前瞻特别节目"
         )
+        if version.update_time is None: continue
         calendars["版本更新"].add_event(
             f"{version.version}版本更新维护",
             version.special_program,

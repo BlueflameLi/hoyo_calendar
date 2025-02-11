@@ -1,3 +1,5 @@
+from typing import Optional
+
 import pytz
 from pydantic import BaseModel
 from datetime import datetime
@@ -17,10 +19,10 @@ class Version(BaseModel):
     name: str
     version: str
     special_program: datetime
-    update_time: datetime
+    update_time: Optional[datetime] = None
     wish_name: str
-    wish: list[GameEvent]
-    event: list[GameEvent]
+    wish: Optional[list[GameEvent]] = None
+    event: Optional[list[GameEvent]] = None
 
 
 class CalEvent(Event):
