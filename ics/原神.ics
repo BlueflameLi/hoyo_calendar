@@ -12,6 +12,12 @@ DESCRIPTION:5.2版本「灵与火的织卷」前瞻特别节目
 LOCATION:原神-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:5.4版本「梦间见月明」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250124T200000
+DESCRIPTION:5.4版本「梦间见月明」前瞻特别节目
+LOCATION:原神-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5.1版本「命定将焚的虹光」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20240927T200000
 DESCRIPTION:5.1版本「命定将焚的虹光」前瞻特别节目
@@ -33,6 +39,12 @@ BEGIN:VEVENT
 SUMMARY:5.2版本更新维护
 DTSTART;TZID=Asia/Shanghai:20241108T200000
 DESCRIPTION:5.2版本更新维护
+LOCATION:原神-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5.4版本更新维护
+DTSTART;TZID=Asia/Shanghai:20250124T200000
+DESCRIPTION:5.4版本更新维护
 LOCATION:原神-版本更新
 END:VEVENT
 BEGIN:VEVENT
@@ -101,6 +113,34 @@ SUMMARY:武器祈愿：「法器·万世流涌大典」&「长柄武器·
 DTSTART;TZID=Asia/Shanghai:20241210T180000
 DESCRIPTION:武器祈愿：「法器·万世流涌大典」&「长柄武
  器·贯虹之槊」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「浮枕朝颜」&「柔柔海露心」
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:角色祈愿：梦见月瑞希&希格雯
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·寝正月初晴」&「弓·白雨心弦
+ 」
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:武器祈愿：「法器·寝正月初晴」&「弓·白雨心
+ 弦」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「众水的颂诗」&「劫中泛滥」
+DTSTART;TZID=Asia/Shanghai:20250304T180000
+DESCRIPTION:角色祈愿：芙宁娜&莱欧斯利
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·静水流涌之辉」&「法器·金
+ 流监督」
+DTSTART;TZID=Asia/Shanghai:20250304T180000
+DESCRIPTION:武器祈愿：「单手剑·静水流涌之辉」&「法器·
+ 金流监督」
 LOCATION:原神-祈愿
 END:VEVENT
 BEGIN:VEVENT
@@ -208,6 +248,14 @@ DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
 LOCATION:原神-任务限时奖励
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「貘枕之章」时限内完成传说任务，可额外获得原
+ 石等奖励
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、稻妻区域特产等奖励。
+LOCATION:原神-任务限时奖励
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「命定将焚的虹光」时限内完成魔神任务，可额外
  获得原石奖励
 DTSTART;TZID=Asia/Shanghai:20241009T110000
@@ -283,6 +331,21 @@ SUMMARY:「七圣召唤」铸境研炼：无量疾战
 DTSTART;TZID=Asia/Shanghai:20241120T110000
 DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
  处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：巧策进斗
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
+ 处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：自行巧局
+DTSTART;TZID=Asia/Shanghai:20250221T100000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
 LOCATION:原神-七圣召唤
 END:VEVENT
 BEGIN:VEVENT
@@ -401,6 +464,33 @@ DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
  脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
  奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
  可享受3次双倍掉落机会！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·诗汇之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+DESCRIPTION:活动期间，旅行者可以在地图上寻找伙伴们，
+ 并前往各地进行拜访。听他们闲叙一番平日里的趣闻，
+ 或是与他们一同度过闲适的一天。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「三川游艺绮梦谭」活动
+DTSTART;TZID=Asia/Shanghai:20250214T100000
+DESCRIPTION:活动期间，完成各项挑战可获得「游艺印章」
+ 。累计获取指定数量的「游艺印章」即可获得「长柄武
+ 器·且住亭御咄」、原石、智识之冕、活动专属武器精炼
+ 材料等奖励。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「征战勇者淬炼之界」活动
+DTSTART;TZID=Asia/Shanghai:20250224T100000
+DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，每
+ 个挑战均有25层战斗关卡，30秒内通过即可继续挑战。通
+ 过指定层数，可获得原石、角色天赋素材、祝圣油膏等
+ 奖励。
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT

@@ -12,6 +12,12 @@ DESCRIPTION:5.2版本「灵与火的织卷」前瞻特别节目
 LOCATION:原神-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:5.4版本「梦间见月明」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250124T200000
+DESCRIPTION:5.4版本「梦间见月明」前瞻特别节目
+LOCATION:原神-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5.1版本「命定将焚的虹光」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20240927T200000
 DESCRIPTION:5.1版本「命定将焚的虹光」前瞻特别节目
