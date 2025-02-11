@@ -90,6 +90,20 @@ DESCRIPTION:音频调频：[玲珑妆匣(支援)]、[深海访客(强攻)]
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:代理人调频：「光与影的纱网」「青如玉壶冰」
+DTSTART;TZID=Asia/Shanghai:20250212T120000
+DESCRIPTION:代理人调频：[伊芙琳(强攻 · 火)]、[青衣(击破 
+ · 电)]、[安东(强攻 · 电)]、[妮可(支援 · 以太)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音频调频：「喧哗奏鸣」「灿烂和声」
+DTSTART;TZID=Asia/Shanghai:20250212T120000
+DESCRIPTION:音频调频：[心弦夜响(强攻)]、[玉壶青冰(击破)]
+ 、[旋钻机-赤轴(强攻)]、[聚宝箱(支援)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:代理人调频：「休心沐月」
 DTSTART;TZID=Asia/Shanghai:20241106T110000
 DESCRIPTION:代理人调频：[柳(异常·电)]、[安比(击破·电)]
@@ -318,6 +332,13 @@ SUMMARY:「先遣赏金-定期清剿」活动
 DTSTART;TZID=Asia/Shanghai:20250207T040000
 DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
  定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20250212T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT

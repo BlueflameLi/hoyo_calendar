@@ -175,6 +175,13 @@ DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20250212T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「断层之谜」活动
 DTSTART;TZID=Asia/Shanghai:20241106T110000
 DESCRIPTION:达成活动参与条件后可以在斯科特哨站体验「
