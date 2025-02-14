@@ -43,6 +43,7 @@ def to_calendar(
             f"{version.version}版本更新维护",
             f"{game_name}-版本更新"
         )
+        if version.wish is None: continue
         for wish in version.wish:
             calendars[version.wish_name].add_event(
                 f"{wish.type}{version.wish_name}：{wish.name}",
@@ -51,6 +52,7 @@ def to_calendar(
                 f"{game_name}-{version.wish_name}",
                 wish.end if continuous else None
             )
+        if version.event is None: continue
         for event in version.event:
             calendars[event.type].add_event(
                 event.name,
