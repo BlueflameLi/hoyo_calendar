@@ -1,5 +1,17 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:1.2版本「火狱骑行」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20240913T193000
+DESCRIPTION:1.2版本「火狱骑行」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1.3版本「虚拟杀机」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20241025T193000
+DESCRIPTION:1.3版本「虚拟杀机」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1.4版本「星流霆击」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20241206T193000
 DESCRIPTION:1.4版本「星流霆击」前瞻特别节目
@@ -12,16 +24,16 @@ DESCRIPTION:1.5版本「闪耀的此刻」前瞻特别节目
 LOCATION:绝区零-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1.3版本「虚拟杀机」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20241025T193000
-DESCRIPTION:1.3版本「虚拟杀机」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
+SUMMARY:1.2版本更新维护
+DTSTART;TZID=Asia/Shanghai:20240913T193000
+DESCRIPTION:1.2版本更新维护
+LOCATION:绝区零-版本更新
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1.2版本「火狱骑行」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20240913T193000
-DESCRIPTION:1.2版本「火狱骑行」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
+SUMMARY:1.3版本更新维护
+DTSTART;TZID=Asia/Shanghai:20241025T193000
+DESCRIPTION:1.3版本更新维护
+LOCATION:绝区零-版本更新
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1.4版本更新维护
@@ -36,16 +48,60 @@ DESCRIPTION:1.5版本更新维护
 LOCATION:绝区零-版本更新
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1.3版本更新维护
-DTSTART;TZID=Asia/Shanghai:20241025T193000
-DESCRIPTION:1.3版本更新维护
-LOCATION:绝区零-版本更新
+SUMMARY:代理人调频：「荣焰桂冠」
+DTSTART;TZID=Asia/Shanghai:20240925T110000
+DESCRIPTION:代理人调频：[凯撒(防护·物理)]、[派派(异常·
+ 物理)]、[安东(强攻·电)]
+LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1.2版本更新维护
-DTSTART;TZID=Asia/Shanghai:20240913T193000
-DESCRIPTION:1.2版本更新维护
-LOCATION:绝区零-版本更新
+SUMMARY:音擎调频：「喧哗奏鸣」
+DTSTART;TZID=Asia/Shanghai:20240925T110000
+DESCRIPTION:音擎调频：[奔袭獠牙(防护)]、[轰鸣座驾(异常)]
+ 、[旋钻机-赤轴(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:代理人调频：「天生丽炽」
+DTSTART;TZID=Asia/Shanghai:20241016T120000
+DESCRIPTION:代理人调频：[柏妮思(异常·火)]、[露西(支援·
+ 火)]、[妮可(支援·以太)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音擎调频：「喧哗奏鸣」
+DTSTART;TZID=Asia/Shanghai:20241016T120000
+DESCRIPTION:音擎调频：[灼心摇壶(异常)]、[好斗的阿炮(支
+ 援)]、[聚宝箱(支援)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:代理人调频：「休心沐月」
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DESCRIPTION:代理人调频：[柳(异常·电)]、[安比(击破·电)]
+ 、[比利(强攻·物理)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音擎调频：「喧哗奏鸣」
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DESCRIPTION:音擎调频：[时流贤者(异常)]、[德玛拉电池Ⅱ型
+ (击破)]、[仿制星徽引擎(强攻)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:代理人调频：「余烬之冕」
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DESCRIPTION:代理人调频：[莱特(击破·火)]、[本(防护·火)]
+ 、[可琳(强攻·物理)]
+LOCATION:绝区零-调频
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音擎调频：「喧哗奏鸣」
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DESCRIPTION:音擎调频：[焰心桂冠(击破)]、[比格气缸(防护)]
+ 、[家政员(强攻)]
+LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:代理人调频：「砺世澄沧」
@@ -104,60 +160,163 @@ DESCRIPTION:音频调频：[心弦夜响(强攻)]、[玉壶青冰(击破)]
 LOCATION:绝区零-调频
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:代理人调频：「休心沐月」
-DTSTART;TZID=Asia/Shanghai:20241106T110000
-DESCRIPTION:代理人调频：[柳(异常·电)]、[安比(击破·电)]
- 、[比利(强攻·物理)]
-LOCATION:绝区零-调频
+SUMMARY:「『霸主』的欢宴」活动
+DTSTART;TZID=Asia/Shanghai:20240926T110000
+DESCRIPTION:经营外环餐厅「芝托邦」，亲手打造「霸主」
+ 的宴会厅。
+LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:音擎调频：「喧哗奏鸣」
-DTSTART;TZID=Asia/Shanghai:20241106T110000
-DESCRIPTION:音擎调频：[时流贤者(异常)]、[德玛拉电池Ⅱ型
- (击破)]、[仿制星徽引擎(强攻)]
-LOCATION:绝区零-调频
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:代理人调频：「余烬之冕」
-DTSTART;TZID=Asia/Shanghai:20241127T120000
-DESCRIPTION:代理人调频：[莱特(击破·火)]、[本(防护·火)]
- 、[可琳(强攻·物理)]
-LOCATION:绝区零-调频
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:音擎调频：「喧哗奏鸣」
-DTSTART;TZID=Asia/Shanghai:20241127T120000
-DESCRIPTION:音擎调频：[焰心桂冠(击破)]、[比格气缸(防护)]
- 、[家政员(强攻)]
-LOCATION:绝区零-调频
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:代理人调频：「荣焰桂冠」
+SUMMARY:「全新放送」活动
 DTSTART;TZID=Asia/Shanghai:20240925T110000
-DESCRIPTION:代理人调频：[凯撒(防护·物理)]、[派派(异常·
- 物理)]、[安东(强攻·电)]
-LOCATION:绝区零-调频
+DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
+ 加密母带]*10！
+LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:音擎调频：「喧哗奏鸣」
-DTSTART;TZID=Asia/Shanghai:20240925T110000
-DESCRIPTION:音擎调频：[奔袭獠牙(防护)]、[轰鸣座驾(异常)]
- 、[旋钻机-赤轴(强攻)]
-LOCATION:绝区零-调频
+SUMMARY:「切勿独行」活动
+DTSTART;TZID=Asia/Shanghai:20240930T100000
+DESCRIPTION:「金手指」电玩店小游戏上新，「怪奇旅伴」
+ 即将上线！相关限时任务同步开放，完成即可获得对应
+ 奖励。
+LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:代理人调频：「天生丽炽」
-DTSTART;TZID=Asia/Shanghai:20241016T120000
-DESCRIPTION:代理人调频：[柏妮思(异常·火)]、[露西(支援·
- 火)]、[妮可(支援·以太)]
-LOCATION:绝区零-调频
+SUMMARY:「数据悬赏-实战模拟」活动
+DTSTART;TZID=Asia/Shanghai:20240930T040000
+DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
+ 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
+ 获得双倍奖励！
+LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:音擎调频：「喧哗奏鸣」
-DTSTART;TZID=Asia/Shanghai:20241016T120000
-DESCRIPTION:音擎调频：[灼心摇壶(异常)]、[好斗的阿炮(支
- 援)]、[聚宝箱(支援)]
-LOCATION:绝区零-调频
+SUMMARY:「赠尔·丽都」活动
+DTSTART;TZID=Asia/Shanghai:20241007T100000
+DESCRIPTION:活动期间，可在六分街的报刊亭完成《丽都导
+ 览》合订本附赠的拼图游戏。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「漫行于以太虚境」活动
+DTSTART;TZID=Asia/Shanghai:20241016T100000
+DESCRIPTION:活动期间，绳匠可以通过空洞深潜系统捕捉病
+ 毒，对被病毒侵蚀的记事信息进行修复。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20241016T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动
+DTSTART;TZID=Asia/Shanghai:20241021T040000
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「内有恶犬」活动
+DTSTART;TZID=Asia/Shanghai:20241025T100000
+DESCRIPTION:活动期间，绳匠可以在电玩店「金手指」游玩
+ 活动模式「噬魂犬3-群猎」，与随机匹配的另外三名绳匠
+ 进行互不结盟的四人联机对战。每场对战结束时，不同
+ 排名的绳匠将获得不同数量的犬犬兑换券（第1-4名依次
+ 获得数量为750、650、550、500的犬犬兑换券奖励)。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『141』友情联络」活动
+DTSTART;TZID=Asia/Shanghai:20241027T100000
+DESCRIPTION:活动期间，绳匠完成活动委托后，可以获得店
+ 主们的[回信]；把[回信]交给丝琪，即可领取[菲林]、[邦
+ 布券]和各类养成材料奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「断层之谜」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DESCRIPTION:达成活动参与条件后可以在斯科特哨站体验「
+ 琶音大断层」。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「月痕流光」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
+ 与「专题放映」活动，使用活动代币兑换并获得限时奖
+ 励。部分活动内容将在指定的时间点解锁。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全新放送」活动
+DTSTART;TZID=Asia/Shanghai:20241106T110000
+DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
+ 加密母带]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「电子战场乱斗」活动
+DTSTART;TZID=Asia/Shanghai:20241111T100000
+DESCRIPTION:活动期间，绳匠可以与录像店中的咔嚓仔对话
+ ，并前往HIA俱乐部寻找莱娅，参与全新的VR挑战关卡。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』助教计划」活动
+DTSTART;TZID=Asia/Shanghai:20241116T100000
+DESCRIPTION:找到分身乏术的[阿星教练]，担任临时邦布助教
+ ，帮它完成毕业生回访和课程训练监督任务吧！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动
+DTSTART;TZID=Asia/Shanghai:20241122T040000
+DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
+ 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
+ 获得双倍奖励！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「常胜冠军」活动
+DTSTART;TZID=Asia/Shanghai:20241127T120000
+DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
+ 与「专题放映」活动，使用活动代币兑换并获得限时奖
+ 励。部分活动内容将在指定的时间点解锁。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』从天降」活动
+DTSTART;TZID=Asia/Shanghai:20241127T100000
+DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
+ 可获得[邦布券]*10！
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「帮帮凯伊」活动
+DTSTART;TZID=Asia/Shanghai:20241202T040000
+DESCRIPTION:「帮帮凯伊」活动期间，绳匠可与邦布凯伊对
+ 话，查看活动任务；完成对应活动任务，即可获得[菲林]
+ 、[邦布券]和养成材料等奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当三明治来敲门」活动
+DTSTART;TZID=Asia/Shanghai:20241204T100000
+DESCRIPTION:活动期间，绳匠可以在光映广场的三明治餐车
+ 领取委托，根据要求为[主厨]选中的幸运顾客们提供服务
+ ；完成对应的点单、送餐、合影等任务，并收到来自幸
+ 运顾客的评价后，即可获得活动奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「先遣赏金-定期清剿」活动
+DTSTART;TZID=Asia/Shanghai:20241211T040000
+DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
+ 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「特别访客」活动
@@ -342,162 +501,20 @@ DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「断层之谜」活动
-DTSTART;TZID=Asia/Shanghai:20241106T110000
-DESCRIPTION:达成活动参与条件后可以在斯科特哨站体验「
- 琶音大断层」。
+SUMMARY:「厄匹斯极钓大师赛」活动
+DTSTART;TZID=Asia/Shanghai:20250214T100000
+DESCRIPTION:完成活动期间的限时奖励任务，即可获得活动
+ 专属奖励[动态壁纸·邦布钓友会]、[调律校音器]、[菲林]
+ 和各类养成材料奖励。
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「月痕流光」活动
-DTSTART;TZID=Asia/Shanghai:20241106T110000
-DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
- 与「专题放映」活动，使用活动代币兑换并获得限时奖
- 励。部分活动内容将在指定的时间点解锁。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「全新放送」活动
-DTSTART;TZID=Asia/Shanghai:20241106T110000
-DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
- 加密母带]*10！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「电子战场乱斗」活动
-DTSTART;TZID=Asia/Shanghai:20241111T100000
-DESCRIPTION:活动期间，绳匠可以与录像店中的咔嚓仔对话
- ，并前往HIA俱乐部寻找莱娅，参与全新的VR挑战关卡。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『嗯呢』助教计划」活动
-DTSTART;TZID=Asia/Shanghai:20241116T100000
-DESCRIPTION:找到分身乏术的[阿星教练]，担任临时邦布助教
- ，帮它完成毕业生回访和课程训练监督任务吧！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动
-DTSTART;TZID=Asia/Shanghai:20241122T040000
-DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
- 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
- 获得双倍奖励！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「常胜冠军」活动
-DTSTART;TZID=Asia/Shanghai:20241127T120000
-DESCRIPTION:活动期间，可以在影像档案架旁的电视机处参
- 与「专题放映」活动，使用活动代币兑换并获得限时奖
- 励。部分活动内容将在指定的时间点解锁。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『嗯呢』从天降」活动
-DTSTART;TZID=Asia/Shanghai:20241127T100000
-DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
- 可获得[邦布券]*10！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「帮帮凯伊」活动
-DTSTART;TZID=Asia/Shanghai:20241202T040000
-DESCRIPTION:「帮帮凯伊」活动期间，绳匠可与邦布凯伊对
- 话，查看活动任务；完成对应活动任务，即可获得[菲林]
- 、[邦布券]和养成材料等奖励。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「当三明治来敲门」活动
-DTSTART;TZID=Asia/Shanghai:20241204T100000
-DESCRIPTION:活动期间，绳匠可以在光映广场的三明治餐车
- 领取委托，根据要求为[主厨]选中的幸运顾客们提供服务
- ；完成对应的点单、送餐、合影等任务，并收到来自幸
- 运顾客的评价后，即可获得活动奖励。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「先遣赏金-定期清剿」活动
-DTSTART;TZID=Asia/Shanghai:20241211T040000
-DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
- 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『霸主』的欢宴」活动
-DTSTART;TZID=Asia/Shanghai:20240926T110000
-DESCRIPTION:经营外环餐厅「芝托邦」，亲手打造「霸主」
- 的宴会厅。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「全新放送」活动
-DTSTART;TZID=Asia/Shanghai:20240925T110000
-DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
- 加密母带]*10！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「切勿独行」活动
-DTSTART;TZID=Asia/Shanghai:20240930T100000
-DESCRIPTION:「金手指」电玩店小游戏上新，「怪奇旅伴」
- 即将上线！相关限时任务同步开放，完成即可获得对应
- 奖励。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动
-DTSTART;TZID=Asia/Shanghai:20240930T040000
-DESCRIPTION:「数据悬赏-实战模拟」活动期间，绳匠进入「
- 实战模拟室」，选择任意怪物卡并成功通过挑战，即可
- 获得双倍奖励！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「赠尔·丽都」活动
-DTSTART;TZID=Asia/Shanghai:20241007T100000
-DESCRIPTION:活动期间，可在六分街的报刊亭完成《丽都导
- 览》合订本附赠的拼图游戏。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「漫行于以太虚境」活动
-DTSTART;TZID=Asia/Shanghai:20241016T100000
-DESCRIPTION:活动期间，绳匠可以通过空洞深潜系统捕捉病
- 毒，对被病毒侵蚀的记事信息进行修复。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『嗯呢』从天降」活动
-DTSTART;TZID=Asia/Shanghai:20241016T100000
-DESCRIPTION:「『嗯呢』从天降」活动期间，累计登录7天即
- 可获得[邦布券]*10！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「先遣赏金-定期清剿」活动
-DTSTART;TZID=Asia/Shanghai:20241021T040000
-DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
- 定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「内有恶犬」活动
-DTSTART;TZID=Asia/Shanghai:20241025T100000
-DESCRIPTION:活动期间，绳匠可以在电玩店「金手指」游玩
- 活动模式「噬魂犬3-群猎」，与随机匹配的另外三名绳匠
- 进行互不结盟的四人联机对战。每场对战结束时，不同
- 排名的绳匠将获得不同数量的犬犬兑换券（第1-4名依次
- 获得数量为750、650、550、500的犬犬兑换券奖励)。
-LOCATION:绝区零-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『141』友情联络」活动
-DTSTART;TZID=Asia/Shanghai:20241027T100000
-DESCRIPTION:活动期间，绳匠完成活动委托后，可以获得店
- 主们的[回信]；把[回信]交给丝琪，即可领取[菲林]、[邦
- 布券]和各类养成材料奖励。
+SUMMARY:「零号空洞：灾兆肃尽」活动
+DTSTART;TZID=Asia/Shanghai:20250217T100000
+DESCRIPTION:活动期间，可参与全新玩法「祸首歼灭战」，
+ 为代理人配备独特的武备、鸣徽以及「战术强化」，攻
+ 克强敌。完成关卡挑战并达到指定评级，即可获得[菲林]
+ 和各类养成材料奖励。
 LOCATION:绝区零-活动
 END:VEVENT
 END:VCALENDAR
