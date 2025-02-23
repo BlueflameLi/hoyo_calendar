@@ -723,4 +723,18 @@ DESCRIPTION:活动结束\n活动期间，可参与全新玩法「祸首歼
  获得[菲林]和各类养成材料奖励。
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「本日推荐影片」活动
+DTSTART;TZID=Asia/Shanghai:20250221T100000
+DESCRIPTION:活动期间，绳匠可以前往热望角的「Random Play」
+ 宣传摊位，找到赫蒂，开启录像带宣传。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「本日推荐影片」活动结束
+DTSTART;TZID=Asia/Shanghai:20250303T035959
+DESCRIPTION:活动结束\n活动期间，绳匠可以前往热望角的「
+ Random Play」宣传摊位，找到赫蒂，开启录像带宣传。
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR
