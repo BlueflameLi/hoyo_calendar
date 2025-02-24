@@ -524,4 +524,12 @@ DESCRIPTION:活动期间，绳匠可以前往热望角的「Random Play」
  宣传摊位，找到赫蒂，开启录像带宣传。
 LOCATION:绝区零-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『141』环保计划」活动
+DTSTART;TZID=Asia/Shanghai:20250226T100000
+DESCRIPTION:活动期间，绳匠每日首次消耗电量，可以获得[
+ 废弃电池]；把[废弃电池]交给丝琪，即可兑换[菲林]、[
+ 邦布券]和各类养成材料奖励。
+LOCATION:绝区零-活动
+END:VEVENT
 END:VCALENDAR
