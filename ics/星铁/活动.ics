@@ -1,5 +1,14 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:「嗷呜嗷呜事务所」活动
+DTSTART;TZID=Asia/Shanghai:20250228T120000
+DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
+ 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
+ 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
+ 排名。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即

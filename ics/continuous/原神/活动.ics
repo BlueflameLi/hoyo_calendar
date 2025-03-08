@@ -168,6 +168,117 @@ DESCRIPTION:活动结束\n活动期间，成功挑战「精通秘境」或
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「行步诸野，寻燎故焰」：自选邀约「奔行世间」
+ 常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20240828T110000
+DESCRIPTION:活动期间，旅行者可通过活动界面自选邀约一
+ 名「奔行世间」常驻祈愿5星角色加入队伍！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「行步诸野，寻燎故焰」：自选邀约「奔行世间」
+ 常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20241008T145959
+DESCRIPTION:活动结束\n活动期间，旅行者可通过活动界面自
+ 选邀约一名「奔行世间」常驻祈愿5星角色加入队伍！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「绮绘的踪绪」活动：参与获得活动专属武器「法
+ 器·苍纹角杯」
+DTSTART;TZID=Asia/Shanghai:20240828T110000
+DESCRIPTION:活动期间，可在回声之子、流泉之众、悬木人
+ 三个部族所在地区探寻灵感，开启「奔流真形」「迸烈
+ 极态」「本貌明彩」等灵感收集挑战。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「绮绘的踪绪」活动：参与获得活动专属武器「法
+ 器·苍纹角杯」结束
+DTSTART;TZID=Asia/Shanghai:20240916T035959
+DESCRIPTION:活动结束\n活动期间，可在回声之子、流泉之众
+ 、悬木人三个部族所在地区探寻灵感，开启「奔流真形
+ 」「迸烈极态」「本貌明彩」等灵感收集挑战。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「瑞彩流虹」累计登录七天获得纠缠之缘*10
+DTSTART;TZID=Asia/Shanghai:20240830T040000
+DESCRIPTION:活动期间，累计登录七天即可获得纠缠之缘*10
+ 等奖励！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「瑞彩流虹」累计登录七天获得纠缠之缘*10结束
+DTSTART;TZID=Asia/Shanghai:20240918T035959
+DESCRIPTION:活动结束\n活动期间，累计登录七天即可获得纠
+ 缠之缘*10等奖励！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嘟嘟可砰砰历险记」活动：奇趣炸鱼挑战
+DTSTART;TZID=Asia/Shanghai:20240909T100000
+DESCRIPTION:指挥嘟嘟可放置炸弹，并将其引爆，击退所有
+ 角角鱼敌人，赢取物资奖励！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嘟嘟可砰砰历险记」活动：奇趣炸鱼挑战结束
+DTSTART;TZID=Asia/Shanghai:20240923T035959
+DESCRIPTION:活动结束\n指挥嘟嘟可放置炸弹，并将其引爆，
+ 击退所有角角鱼敌人，赢取物资奖励！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动
+DTSTART;TZID=Asia/Shanghai:20240916T040000
+DESCRIPTION:「藏金之花」「启示之花」双倍掉落！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动结束
+DTSTART;TZID=Asia/Shanghai:20240923T035959
+DESCRIPTION:活动结束\n「藏金之花」「启示之花」双倍掉落
+ ！
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荆棘与勋冠」活动
+DTSTART;TZID=Asia/Shanghai:20240920T100000
+DESCRIPTION:获取增益，击败敌人
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荆棘与勋冠」活动结束
+DTSTART;TZID=Asia/Shanghai:20240930T035959
+DESCRIPTION:活动结束\n获取增益，击败敌人
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「提瓦特忆画」活动
+DTSTART;TZID=Asia/Shanghai:20240928T100000
+DESCRIPTION:回忆留影之旅
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「提瓦特忆画」活动结束
+DTSTART;TZID=Asia/Shanghai:20241008T035959
+DESCRIPTION:活动结束\n回忆留影之旅
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「新途绮礼」感恩答谢
+DTSTART;TZID=Asia/Shanghai:20240928T000000
+DESCRIPTION:登录领取1600原石、祝圣之霜等奖励
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「新途绮礼」感恩答谢结束
+DTSTART;TZID=Asia/Shanghai:20241009T040000
+DESCRIPTION:活动结束\n登录领取1600原石、祝圣之霜等奖励
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「寻溯蜜虫之宝」活动
 DTSTART;TZID=Asia/Shanghai:20241010T100000
 DESCRIPTION:活动开始后的前五天，每天会开启一个新的挑
@@ -312,114 +423,17 @@ DESCRIPTION:活动结束\n活动开始后，每天都会解锁一个新的
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「行步诸野，寻燎故焰」：自选邀约「奔行世间」
- 常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20240828T110000
-DESCRIPTION:活动期间，旅行者可通过活动界面自选邀约一
- 名「奔行世间」常驻祈愿5星角色加入队伍！
+SUMMARY:「异域鱼鱼追渔行动」活动：捕捉入侵鱼类
+DTSTART;TZID=Asia/Shanghai:20250305T100000
+DESCRIPTION:活动中，旅行者需要消耗行动点投掷渔网，捕
+ 捉各种入侵的鱼类。
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「行步诸野，寻燎故焰」：自选邀约「奔行世间」
- 常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20241008T145959
-DESCRIPTION:活动结束\n活动期间，旅行者可通过活动界面自
- 选邀约一名「奔行世间」常驻祈愿5星角色加入队伍！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「绮绘的踪绪」活动：参与获得活动专属武器「法
- 器·苍纹角杯」
-DTSTART;TZID=Asia/Shanghai:20240828T110000
-DESCRIPTION:活动期间，可在回声之子、流泉之众、悬木人
- 三个部族所在地区探寻灵感，开启「奔流真形」「迸烈
- 极态」「本貌明彩」等灵感收集挑战。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「绮绘的踪绪」活动：参与获得活动专属武器「法
- 器·苍纹角杯」结束
-DTSTART;TZID=Asia/Shanghai:20240916T035959
-DESCRIPTION:活动结束\n活动期间，可在回声之子、流泉之众
- 、悬木人三个部族所在地区探寻灵感，开启「奔流真形
- 」「迸烈极态」「本貌明彩」等灵感收集挑战。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「瑞彩流虹」累计登录七天获得纠缠之缘*10
-DTSTART;TZID=Asia/Shanghai:20240830T040000
-DESCRIPTION:活动期间，累计登录七天即可获得纠缠之缘*10
- 等奖励！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「瑞彩流虹」累计登录七天获得纠缠之缘*10结束
-DTSTART;TZID=Asia/Shanghai:20240918T035959
-DESCRIPTION:活动结束\n活动期间，累计登录七天即可获得纠
- 缠之缘*10等奖励！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「嘟嘟可砰砰历险记」活动：奇趣炸鱼挑战
-DTSTART;TZID=Asia/Shanghai:20240909T100000
-DESCRIPTION:指挥嘟嘟可放置炸弹，并将其引爆，击退所有
- 角角鱼敌人，赢取物资奖励！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「嘟嘟可砰砰历险记」活动：奇趣炸鱼挑战结束
-DTSTART;TZID=Asia/Shanghai:20240923T035959
-DESCRIPTION:活动结束\n指挥嘟嘟可放置炸弹，并将其引爆，
- 击退所有角角鱼敌人，赢取物资奖励！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动
-DTSTART;TZID=Asia/Shanghai:20240916T040000
-DESCRIPTION:「藏金之花」「启示之花」双倍掉落！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动结束
-DTSTART;TZID=Asia/Shanghai:20240923T035959
-DESCRIPTION:活动结束\n「藏金之花」「启示之花」双倍掉落
- ！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荆棘与勋冠」活动
-DTSTART;TZID=Asia/Shanghai:20240920T100000
-DESCRIPTION:获取增益，击败敌人
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荆棘与勋冠」活动结束
-DTSTART;TZID=Asia/Shanghai:20240930T035959
-DESCRIPTION:活动结束\n获取增益，击败敌人
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「提瓦特忆画」活动
-DTSTART;TZID=Asia/Shanghai:20240928T100000
-DESCRIPTION:回忆留影之旅
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「提瓦特忆画」活动结束
-DTSTART;TZID=Asia/Shanghai:20241008T035959
-DESCRIPTION:活动结束\n回忆留影之旅
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「新途绮礼」感恩答谢
-DTSTART;TZID=Asia/Shanghai:20240928T000000
-DESCRIPTION:登录领取1600原石、祝圣之霜等奖励
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「新途绮礼」感恩答谢结束
-DTSTART;TZID=Asia/Shanghai:20241009T040000
-DESCRIPTION:活动结束\n登录领取1600原石、祝圣之霜等奖励
+SUMMARY:「异域鱼鱼追渔行动」活动：捕捉入侵鱼类结束
+DTSTART;TZID=Asia/Shanghai:20250317T035959
+DESCRIPTION:活动结束\n活动中，旅行者需要消耗行动点投掷
+ 渔网，捕捉各种入侵的鱼类。
 LOCATION:原神-活动
 END:VEVENT
 END:VCALENDAR

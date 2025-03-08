@@ -62,6 +62,36 @@ DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
 LOCATION:原神-七圣召唤
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：奕思巧战
+DTSTART;TZID=Asia/Shanghai:20241019T100000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
+ 处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：奕思巧战结束
+DTSTART;TZID=Asia/Shanghai:20241104T035959
+DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
+ 的小王子处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：奇策竞驰
+DTSTART;TZID=Asia/Shanghai:20240907T100000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：奇策竞驰结束
+DTSTART;TZID=Asia/Shanghai:20240923T035959
+DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
+ 的邀请板处，参与「热斗模式」特殊规则下的「七圣召
+ 唤」对局。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「七圣召唤」热斗模式：列阵斗巧
 DTSTART;TZID=Asia/Shanghai:20241019T100000
 DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
@@ -102,36 +132,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「七圣召唤」热斗模式：自行巧局结束
 DTSTART;TZID=Asia/Shanghai:20250317T035959
-DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
- 的邀请板处，参与「热斗模式」特殊规则下的「七圣召
- 唤」对局。
-LOCATION:原神-七圣召唤
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」铸境研炼：奕思巧战
-DTSTART;TZID=Asia/Shanghai:20241019T100000
-DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
- 处选择关卡进行挑战。
-LOCATION:原神-七圣召唤
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」铸境研炼：奕思巧战结束
-DTSTART;TZID=Asia/Shanghai:20241104T035959
-DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
- 的小王子处选择关卡进行挑战。
-LOCATION:原神-七圣召唤
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」热斗模式：奇策竞驰
-DTSTART;TZID=Asia/Shanghai:20240907T100000
-DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
- 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
- 。
-LOCATION:原神-七圣召唤
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」热斗模式：奇策竞驰结束
-DTSTART;TZID=Asia/Shanghai:20240923T035959
 DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
  的邀请板处，参与「热斗模式」特殊规则下的「七圣召
  唤」对局。

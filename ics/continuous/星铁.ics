@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:3.0版本「再创世的凯歌」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20250101T193000
-DESCRIPTION:3.0版本「再创世的凯歌」前瞻特别节目
-LOCATION:星铁-前瞻特别节目
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3.1版本「门扉之启，王座之终」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20250214T193000
 DESCRIPTION:3.1版本「门扉之启，王座之终」前瞻特别节目
+LOCATION:星铁-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3.0版本「再创世的凯歌」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250101T193000
+DESCRIPTION:3.0版本「再创世的凯歌」前瞻特别节目
 LOCATION:星铁-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
@@ -18,15 +18,15 @@ DESCRIPTION:2.4版本「明霄竞武试锋芒」前瞻特别节目
 LOCATION:星铁-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.0版本更新维护
-DTSTART;TZID=Asia/Shanghai:20250101T193000
-DESCRIPTION:3.0版本更新维护
-LOCATION:星铁-版本更新
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3.1版本更新维护
 DTSTART;TZID=Asia/Shanghai:20250214T193000
 DESCRIPTION:3.1版本更新维护
+LOCATION:星铁-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3.0版本更新维护
+DTSTART;TZID=Asia/Shanghai:20250101T193000
+DESCRIPTION:3.0版本更新维护
 LOCATION:星铁-版本更新
 END:VEVENT
 BEGIN:VEVENT
@@ -34,6 +34,62 @@ SUMMARY:2.4版本更新维护
 DTSTART;TZID=Asia/Shanghai:20240719T193000
 DESCRIPTION:2.4版本更新维护
 LOCATION:星铁-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
+ 璃（毁灭•物理）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「径复原初」「掷山破云」结束
+DTSTART;TZID=Asia/Shanghai:20250319T115959
+DESCRIPTION:活动结束\n角色活动跃迁：「缇宝（同谐•量子
+ ）」「云璃（毁灭•物理）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
+ 」「落日时起舞（毁灭）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」结束
+DTSTART;TZID=Asia/Shanghai:20250319T115959
+DESCRIPTION:活动结束\n光锥活动跃迁：「如果时间是一朵花
+ （同谐）」「落日时起舞（毁灭）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
+ 蕾（丰饶•风）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」结束
+DTSTART;TZID=Asia/Shanghai:20250408T150000
+DESCRIPTION:活动结束\n角色活动跃迁：「万敌（毁灭•虚数
+ ）」「藿蕾（丰饶•风）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
+ 」「惊魂夜（丰饶）」
+LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」结束
+DTSTART;TZID=Asia/Shanghai:20250408T150000
+DESCRIPTION:活动结束\n光锥活动跃迁：「血火啊，燃烧前路
+ （毁灭）」「惊魂夜（丰饶）」
+LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:角色活动跃迁：「视界来信」「铭心之萃」
@@ -97,62 +153,6 @@ DTSTART;TZID=Asia/Shanghai:20250225T150000
 DESCRIPTION:活动结束\n光锥活动跃迁：「将光阴织成黄金（
  记忆）」「驶向第二次生命（巡猎）」「夜色流光溢彩
  （同谐）」「雨一直下（虚无）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
- 璃（毁灭•物理）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「径复原初」「掷山破云」结束
-DTSTART;TZID=Asia/Shanghai:20250319T115959
-DESCRIPTION:活动结束\n角色活动跃迁：「缇宝（同谐•量子
- ）」「云璃（毁灭•物理）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
- 」「落日时起舞（毁灭）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」结束
-DTSTART;TZID=Asia/Shanghai:20250319T115959
-DESCRIPTION:活动结束\n光锥活动跃迁：「如果时间是一朵花
- （同谐）」「落日时起舞（毁灭）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
- 蕾（丰饶•风）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」结束
-DTSTART;TZID=Asia/Shanghai:20250408T150000
-DESCRIPTION:活动结束\n角色活动跃迁：「万敌（毁灭•虚数
- ）」「藿蕾（丰饶•风）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
- 」「惊魂夜（丰饶）」
-LOCATION:星铁-活动跃迁
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」结束
-DTSTART;TZID=Asia/Shanghai:20250408T150000
-DESCRIPTION:活动结束\n光锥活动跃迁：「血火啊，燃烧前路
- （毁灭）」「惊魂夜（丰饶）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
@@ -226,6 +226,24 @@ DESCRIPTION:活动结束\n光锥活动跃迁：活动期间，限定5星
  」，4星光锥「芳华待灼（同谐）」「猎物的视线（虚无
  ）」「秘密誓心（毁灭）」跃迁成功概率限时提升。
 LOCATION:星铁-活动跃迁
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嗷呜嗷呜事务所」活动
+DTSTART;TZID=Asia/Shanghai:20250228T120000
+DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
+ 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
+ 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
+ 排名。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嗷呜嗷呜事务所」活动结束
+DTSTART;TZID=Asia/Shanghai:20250407T035959
+DESCRIPTION:活动结束\n在「嗷呜嗷呜事务所」中，开拓者将
+ 扮演奇美拉管理员，通过派遣适合的奇美拉参与工作，
+ 根据它们的特性调整队伍结构，提升奇美拉小队在花园
+ 中的队伍排名。
+LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
