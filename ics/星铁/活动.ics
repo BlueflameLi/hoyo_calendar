@@ -9,6 +9,13 @@ DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250312T040000
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得双倍奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
