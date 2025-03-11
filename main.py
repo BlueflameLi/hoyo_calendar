@@ -39,7 +39,7 @@ def to_calendar(
         if version.update_time is None: continue
         calendars["版本更新"].add_event(
             f"{version.version}版本更新维护",
-            version.special_program,
+            version.update_time,
             f"{version.version}版本更新维护",
             f"{game_name}-版本更新"
         )
