@@ -1,5 +1,61 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:角色祈愿：「饫宴角戏」&「云府鹤行」
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DESCRIPTION:角色祈愿：瓦雷莎&闲云
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「饫宴角戏」&「云府鹤行」结束
+DTSTART;TZID=Asia/Shanghai:20250415T175959
+DESCRIPTION:活动结束\n角色祈愿：瓦雷莎&闲云
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·溢彩心念」&「法器·鹤鸣余音
+ 」
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DESCRIPTION:武器祈愿：「法器·溢彩心念」&「法器·鹤鸣余
+ 音」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·溢彩心念」&「法器·鹤鸣余音
+ 」结束
+DTSTART;TZID=Asia/Shanghai:20250415T175959
+DESCRIPTION:活动结束\n武器祈愿：「法器·溢彩心念」&「法
+ 器·鹤鸣余音」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「杯装之诗」
+DTSTART;TZID=Asia/Shanghai:20250415T180000
+DESCRIPTION:角色祈愿：希诺宁&温迪
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「杯装之诗」结束
+DTSTART;TZID=Asia/Shanghai:20250506T145959
+DESCRIPTION:活动结束\n角色祈愿：希诺宁&温迪
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「弓·终末嗟叹
+ 之诗」
+DTSTART;TZID=Asia/Shanghai:20250415T180000
+DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「弓·终末嗟
+ 叹之诗」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「弓·终末嗟叹
+ 之诗」结束
+DTSTART;TZID=Asia/Shanghai:20250506T145959
+DESCRIPTION:活动结束\n武器祈愿：「单手剑·岩峰巡歌」&「
+ 弓·终末嗟叹之诗」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:角色祈愿：「饮羽散红」&「光与影的戏术」
 DTSTART;TZID=Asia/Shanghai:20241120T110000
 DESCRIPTION:角色祈愿：恰斯卡&林尼

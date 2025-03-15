@@ -529,6 +529,20 @@ DESCRIPTION:活动结束\n活动期间，绳匠可以前往HIA俱乐部跟
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「送货不易 大猫叹气」活动
+DTSTART;TZID=Asia/Shanghai:20250316T100000
+DESCRIPTION:活动期间，绳匠帮助波可娜完成各位卡吕冬之
+ 子代理人的委托后，即可获得活动奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「送货不易 大猫叹气」活动结束
+DTSTART;TZID=Asia/Shanghai:20250331T035959
+DESCRIPTION:活动结束\n活动期间，绳匠帮助波可娜完成各位
+ 卡吕冬之子代理人的委托后，即可获得活动奖励。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「协律共契」活动
 DTSTART;TZID=Asia/Shanghai:20250122T110000
 DESCRIPTION:以歌声为引，唤醒灵魂的共鸣。\n活动期间，可

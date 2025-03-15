@@ -1,5 +1,11 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:5.5版本「众火溯还之日」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250314T200000
+DESCRIPTION:5.5版本「众火溯还之日」前瞻特别节目
+LOCATION:原神-前瞻特别节目
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5.2版本「灵与火的织卷」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20241108T200000
 DESCRIPTION:5.2版本「灵与火的织卷」前瞻特别节目
@@ -30,6 +36,12 @@ DESCRIPTION:5.4版本「梦间见月明」前瞻特别节目
 LOCATION:原神-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:5.5版本更新维护
+DTSTART;TZID=Asia/Shanghai:20250326T060000
+DESCRIPTION:5.5版本更新维护
+LOCATION:原神-版本更新
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5.2版本更新维护
 DTSTART;TZID=Asia/Shanghai:20241120T060000
 DESCRIPTION:5.2版本更新维护
@@ -58,6 +70,34 @@ SUMMARY:5.4版本更新维护
 DTSTART;TZID=Asia/Shanghai:20250212T060000
 DESCRIPTION:5.4版本更新维护
 LOCATION:原神-版本更新
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「饫宴角戏」&「云府鹤行」
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DESCRIPTION:角色祈愿：瓦雷莎&闲云
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「法器·溢彩心念」&「法器·鹤鸣余音
+ 」
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DESCRIPTION:武器祈愿：「法器·溢彩心念」&「法器·鹤鸣余
+ 音」
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色祈愿：「煅火的祝赐」&「杯装之诗」
+DTSTART;TZID=Asia/Shanghai:20250415T180000
+DESCRIPTION:角色祈愿：希诺宁&温迪
+LOCATION:原神-祈愿
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:武器祈愿：「单手剑·岩峰巡歌」&「弓·终末嗟叹
+ 之诗」
+DTSTART;TZID=Asia/Shanghai:20250415T180000
+DESCRIPTION:武器祈愿：「单手剑·岩峰巡歌」&「弓·终末嗟
+ 叹之诗」
+LOCATION:原神-祈愿
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:角色祈愿：「饮羽散红」&「光与影的戏术」
@@ -595,6 +635,15 @@ DTSTART;TZID=Asia/Shanghai:20250312T100000
 DESCRIPTION:旅行者需要根据脚本规划，为每一镜选择合适
  的素材，组成广告成片并完成剪辑。同一脚本中，同一
  个素材可至多重复使用3次。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」「藏金之花」「启示之花」双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250317T100000
+DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
+ 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
+ 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
+ 可享受3次双倍掉落机会！
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT

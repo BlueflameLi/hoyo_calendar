@@ -224,4 +224,13 @@ DESCRIPTION:旅行者需要根据脚本规划，为每一镜选择合适
  个素材可至多重复使用3次。
 LOCATION:原神-活动
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」「藏金之花」「启示之花」双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250317T100000
+DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
+ 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
+ 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
+ 可享受3次双倍掉落机会！
+LOCATION:原神-活动
+END:VEVENT
 END:VCALENDAR
