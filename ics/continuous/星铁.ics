@@ -260,6 +260,23 @@ DESCRIPTION:活动结束\n「位面分裂」活动期间，挑战「模拟
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
+ 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
+ 种。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250407T035959
+DESCRIPTION:活动结束\n活动开启后，西塔罗斯将每日公开新
+ 的1种「待鉴定宝物」及协助鉴定所需的「鉴宝耗材」，
+ 宝物共计7种。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即

@@ -297,6 +297,15 @@ DESCRIPTION:活动期间，绳匠帮助波可娜完成各位卡吕冬之
 LOCATION:绝区零-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「零号空洞：掠影摧锋」活动
+DTSTART;TZID=Asia/Shanghai:20250321T100000
+DESCRIPTION:活动期间，「祸首歼灭战」玩法新增伊芙琳、
+ 耀嘉音、简、可琳4位代理人对应关卡，绳匠可为新增代
+ 理人配备独特的武备、鸣徽以及「战术强化」，攻克强
+ 敌。
+LOCATION:绝区零-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「协律共契」活动
 DTSTART;TZID=Asia/Shanghai:20250122T110000
 DESCRIPTION:以歌声为引，唤醒灵魂的共鸣。\n活动期间，可
