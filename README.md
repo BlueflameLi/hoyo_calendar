@@ -33,5 +33,5 @@
 
 > 因为有些系统的日历会把从活动开始到活动结束的每一天都显示那个活动，会让日历非常乱，所以上面的都是开始和结束的时候单独添加两个不同的没有结束时间的日程。如果需要有结束时间的日程，可以在链接的`/ics/`后添加`continuous/`，例如：`https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/原神.ics`
 
-![示例 HyperOs](https://raw.gitmirror.com/Trrrrw/picx-images-hosting/master/images/hoyo_calendar_00.avif)
+![示例 HyperOs](./docs/hoyo_calendar_00.avif)
 
