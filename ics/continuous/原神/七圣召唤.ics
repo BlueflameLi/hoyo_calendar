@@ -1,5 +1,19 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：无量疾战
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
+ 处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：无量疾战结束
+DTSTART;TZID=Asia/Shanghai:20250507T035959
+DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
+ 的小王子处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「七圣召唤」热斗模式：自行巧局
 DTSTART;TZID=Asia/Shanghai:20241122T100000
 DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
