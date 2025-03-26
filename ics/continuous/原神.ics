@@ -808,6 +808,24 @@ DESCRIPTION:活动结束\n活动开启后，旅行者可前往猫尾酒馆
 LOCATION:原神-七圣召唤
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
+ 欧洛伦(雷)」
+DTSTART;TZID=Asia/Shanghai:20250328T100000
+DESCRIPTION:「荣花演武」中，旅行者可参与六大部族之间
+ 的攻防演武，与伙伴们并肩作战，完成各种演武中的目
+ 标，攻夺胜利与荣誉。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
+ 欧洛伦(雷)」结束
+DTSTART;TZID=Asia/Shanghai:20250414T035959
+DESCRIPTION:活动结束\n「荣花演武」中，旅行者可参与六大
+ 部族之间的攻防演武，与伙伴们并肩作战，完成各种演
+ 武中的目标，攻夺胜利与荣誉。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「暝视寻灵织卷」活动
 DTSTART;TZID=Asia/Shanghai:20241128T100000
 DESCRIPTION:「暝视寻灵织卷」活动

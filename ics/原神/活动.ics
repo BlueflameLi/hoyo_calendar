@@ -1,5 +1,14 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
+ 欧洛伦(雷)」
+DTSTART;TZID=Asia/Shanghai:20250328T100000
+DESCRIPTION:「荣花演武」中，旅行者可参与六大部族之间
+ 的攻防演武，与伙伴们并肩作战，完成各种演武中的目
+ 标，攻夺胜利与荣誉。
+LOCATION:原神-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「暝视寻灵织卷」活动
 DTSTART;TZID=Asia/Shanghai:20241128T100000
 DESCRIPTION:「暝视寻灵织卷」活动
