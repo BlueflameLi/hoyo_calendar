@@ -1,7 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-<<<<<<< HEAD
-=======
 SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
  欧洛伦(雷)」
 DTSTART;TZID=Asia/Shanghai:20250328T100000
@@ -188,7 +186,6 @@ DESCRIPTION:活动结束\n活动期间，成功挑战「精通秘境」或
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
->>>>>>> 17bc4b171842c89213a2498b6fdce6a54f47e2c7
 SUMMARY:「行步诸野，寻燎故焰」：自选邀约「奔行世间」
  常驻祈愿5星角色
 DTSTART;TZID=Asia/Shanghai:20240828T110000
@@ -390,174 +387,6 @@ DESCRIPTION:活动结束\n开奇货匣得原石
 LOCATION:原神-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「暝视寻灵织卷」活动
-DTSTART;TZID=Asia/Shanghai:20241128T100000
-DESCRIPTION:「暝视寻灵织卷」活动
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「暝视寻灵织卷」活动结束
-DTSTART;TZID=Asia/Shanghai:20241216T035959
-DESCRIPTION:活动结束\n「暝视寻灵织卷」活动
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「伴爪同行」活动
-DTSTART;TZID=Asia/Shanghai:20241122T100000
-DESCRIPTION:寻找小动物挑战
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「伴爪同行」活动结束
-DTSTART;TZID=Asia/Shanghai:20241202T035959
-DESCRIPTION:活动结束\n寻找小动物挑战
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冒险家试炼·蜕变篇」活动
-DTSTART;TZID=Asia/Shanghai:20241211T100000
-DESCRIPTION:活动开启后的前四天，每天都会解锁新的「全
- 能试炼」。每个「全能试炼」中，旅行者需要连续完成
- 三个挑战关卡。每个关卡需要使用指定的试用角色，在
- 限定时间内达成挑战目标。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冒险家试炼·蜕变篇」活动结束
-DTSTART;TZID=Asia/Shanghai:20241223T035959
-DESCRIPTION:活动结束\n活动开启后的前四天，每天都会解锁
- 新的「全能试炼」。每个「全能试炼」中，旅行者需要
- 连续完成三个挑战关卡。每个关卡需要使用指定的试用
- 角色，在限定时间内达成挑战目标。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「强风猛进之述演」活动
-DTSTART;TZID=Asia/Shanghai:20241218T100000
-DESCRIPTION:在「强风猛进之述演」活动中，旅行者每个回
- 合都会获得一定数量的交战单位和战斗策略。选取合适
- 的交战单位和战斗策略，分析对手和自己的阵容，安排
- 合理的出战单位，方可克敌制胜。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「强风猛进之述演」活动结束
-DTSTART;TZID=Asia/Shanghai:20241230T035959
-DESCRIPTION:活动结束\n在「强风猛进之述演」活动中，旅行
- 者每个回合都会获得一定数量的交战单位和战斗策略。
- 选取合适的交战单位和战斗策略，分析对手和自己的阵
- 容，安排合理的出战单位，方可克敌制胜。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动
-DTSTART;TZID=Asia/Shanghai:20241223T040000
-DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
- 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
- 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
- 可享受3次双倍掉落机会！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动结束
-DTSTART;TZID=Asia/Shanghai:20241230T035959
-DESCRIPTION:活动结束\n「地脉移涌」活动期间，旅行者成功
- 挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」
- 领取秘宝奖励时，消耗「原粹树脂」可获得双倍奖励，
- 每天一共可享受3次双倍掉落机会！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「漱玉工奇斗虫大玄境」活动
-DTSTART;TZID=Asia/Shanghai:20250103T100000
-DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
- 个新的挑战关卡，共5关。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「漱玉工奇斗虫大玄境」活动结束
-DTSTART;TZID=Asia/Shanghai:20250113T035959
-DESCRIPTION:活动结束\n趣味斗虫挑战；活动开始后，每天都
- 会解锁一个新的挑战关卡，共5关。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「衔勇诚砺之证」活动
-DTSTART;TZID=Asia/Shanghai:20250109T100000
-DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
- 个与特定部族有关的新挑战，共六个挑战
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「衔勇诚砺之证」活动结束
-DTSTART;TZID=Asia/Shanghai:20250120T035959
-DESCRIPTION:活动结束\n活动开始后的第一、三、五天，将分
- 别解锁两个与特定部族有关的新挑战，共六个挑战
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「凶魁巨怪觇候录」活动
-DTSTART;TZID=Asia/Shanghai:20250114T100000
-DESCRIPTION:从活动开始的第一天起，每两天可解锁新的挑
- 战。旅行者可以与赫卡对话，进行不同难度的挑战。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「凶魁巨怪觇候录」活动结束
-DTSTART;TZID=Asia/Shanghai:20250127T035959
-DESCRIPTION:活动结束\n从活动开始的第一天起，每两天可解
- 锁新的挑战。旅行者可以与赫卡对话，进行不同难度的
- 挑战。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「富贵登门·春来早知」活动
-DTSTART;TZID=Asia/Shanghai:20250122T040000
-DESCRIPTION:活动期间，将开放「开门迎财·累计登录」与「
- 旧忆新桃·海灯节答谢」奖励。可获取1600原石、纠缠之
- 缘*10、智识之冕、祝圣之霜等奖励。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「富贵登门·春来早知」活动结束
-DTSTART;TZID=Asia/Shanghai:20250211T145959
-DESCRIPTION:活动结束\n活动期间，将开放「开门迎财·累计
- 登录」与「旧忆新桃·海灯节答谢」奖励。可获取1600原
- 石、纠缠之缘*10、智识之冕、祝圣之霜等奖励。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「春曦画桃符」活动
-DTSTART;TZID=Asia/Shanghai:20250124T100000
-DESCRIPTION:活动期间，将陆续解锁「八奇乱斗」、「灯下
- 演武」、「如意祝柬」、「节庆旅纪」各阶段玩法。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「春曦画桃符」活动结束
-DTSTART;TZID=Asia/Shanghai:20250209T035959
-DESCRIPTION:活动结束\n活动期间，将陆续解锁「八奇乱斗」
- 、「灯下演武」、「如意祝柬」、「节庆旅纪」各阶段
- 玩法。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「盛材移涌」活动
-DTSTART;TZID=Asia/Shanghai:20250203T040000
-DESCRIPTION:活动期间，成功挑战「精通秘境」或「炼武秘
- 境」，消耗「原粹树脂」领取秘宝奖励时，可获得双倍
- 奖励。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「盛材移涌」活动结束
-DTSTART;TZID=Asia/Shanghai:20250210T035959
-DESCRIPTION:活动结束\n活动期间，成功挑战「精通秘境」或
- 「炼武秘境」，消耗「原粹树脂」领取秘宝奖励时，可
- 获得双倍奖励。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「游逸旅闻·诗汇之章」活动：拜访伙伴，闲叙趣
  闻
 DTSTART;TZID=Asia/Shanghai:20250212T110000
@@ -658,24 +487,6 @@ DESCRIPTION:活动结束\n「地脉移涌」活动期间，旅行者成功
  挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」
  领取秘宝奖励时，消耗「原粹树脂」可获得双倍奖励，
  每天一共可享受3次双倍掉落机会！
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
- 欧洛伦(雷)」
-DTSTART;TZID=Asia/Shanghai:20250328T100000
-DESCRIPTION:「荣花演武」中，旅行者可参与六大部族之间
- 的攻防演武，与伙伴们并肩作战，完成各种演武中的目
- 标，攻夺胜利与荣誉。
-LOCATION:原神-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
- 欧洛伦(雷)」结束
-DTSTART;TZID=Asia/Shanghai:20250414T035959
-DESCRIPTION:活动结束\n「荣花演武」中，旅行者可参与六大
- 部族之间的攻防演武，与伙伴们并肩作战，完成各种演
- 武中的目标，攻夺胜利与荣誉。
 LOCATION:原神-活动
 END:VEVENT
 END:VCALENDAR
