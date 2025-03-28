@@ -1,30 +1,38 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
- 璃（毁灭•物理）」
+SUMMARY:角色活动跃迁：「掷山破云」、「令奉贞凶」
+DTSTART;TZID=Asia/Shanghai:20240731T110000
+DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「云璃
+ （毁灭•物理）」，4星角色「寒鸦（同谐•物理）」「
+ 驭空（同谐•虚数）」「玲可（丰饶•量子）」跃迁成
+ 功概率限时提升。
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
- 」「落日时起舞（毁灭）」
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20240731T110000
+DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「落日
+ 时起舞（毁灭）」，4星光锥「鼹鼠党欢迎你（毁灭）」
+ 「此时恰好（丰饶）」「『我』的诞生（智识）」跃迁
+ 成功概率限时提升。
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
- 蕾（丰饶•风）」
+SUMMARY:角色活动跃迁：「鼎中捭阖」、「焰锦游鱼」
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「椒丘
+ （虚无•火）」，「花火（同谐•量子）」，4星角色「
+ 虎克（毁灭•火）」「桂乃芬（虚无•火）」「阿兰（
+ 毁灭•雷）」跃迁成功概率限时提升。
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
- 」「惊魂夜（丰饶）」
+SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「那无
+ 数个春天（虚无）」，「游戏尘寰（同谐）」，4星光锥
+ 「芳华待灼（同谐）」「猎物的视线（虚无）」「秘密
+ 誓心（毁灭）」跃迁成功概率限时提升。
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
@@ -60,39 +68,31 @@ DESCRIPTION:光锥活动跃迁：「将光阴织成黄金（记忆）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「掷山破云」、「令奉贞凶」
-DTSTART;TZID=Asia/Shanghai:20240731T110000
-DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「云璃
- （毁灭•物理）」，4星角色「寒鸦（同谐•物理）」「
- 驭空（同谐•虚数）」「玲可（丰饶•量子）」跃迁成
- 功概率限时提升。
+SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
+ 璃（毁灭•物理）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20240731T110000
-DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「落日
- 时起舞（毁灭）」，4星光锥「鼹鼠党欢迎你（毁灭）」
- 「此时恰好（丰饶）」「『我』的诞生（智识）」跃迁
- 成功概率限时提升。
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
+ 」「落日时起舞（毁灭）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「鼎中捭阖」、「焰锦游鱼」
-DTSTART;TZID=Asia/Shanghai:20240821T120000
-DESCRIPTION:角色活动跃迁：活动期间，限定5星角色「椒丘
- （虚无•火）」，「花火（同谐•量子）」，4星角色「
- 虎克（毁灭•火）」「桂乃芬（虚无•火）」「阿兰（
- 毁灭•雷）」跃迁成功概率限时提升。
+SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
+ 蕾（丰饶•风）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」、「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20240821T120000
-DESCRIPTION:光锥活动跃迁：活动期间，限定5星光锥「那无
- 数个春天（虚无）」，「游戏尘寰（同谐）」，4星光锥
- 「芳华待灼（同谐）」「猎物的视线（虚无）」「秘密
- 誓心（毁灭）」跃迁成功概率限时提升。
+SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
+ 」「惊魂夜（丰饶）」
 LOCATION:星铁-活动跃迁
 END:VEVENT
 END:VCALENDAR

@@ -1,51 +1,66 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:「嗷呜嗷呜事务所」活动
-DTSTART;TZID=Asia/Shanghai:20250228T120000
-DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
- 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
- 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
- 排名。
+SUMMARY:「日抛忆质留影计划」：拍摄照片达成目标，获取
+ 命运的足迹等奖励
+DTSTART;TZID=Asia/Shanghai:20240807T120000
+DESCRIPTION:来自匹诺康尼的见习医生正在星槎海招募一位
+ 助手，来协助他完成一项特别的拍摄计划。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「嗷呜嗷呜事务所」活动结束
-DTSTART;TZID=Asia/Shanghai:20250407T035959
-DESCRIPTION:活动结束\n在「嗷呜嗷呜事务所」中，开拓者将
- 扮演奇美拉管理员，通过派遣适合的奇美拉参与工作，
- 根据它们的特性调整队伍结构，提升奇美拉小队在花园
- 中的队伍排名。
+SUMMARY:「日抛忆质留影计划」：拍摄照片达成目标，获取
+ 命运的足迹等奖励结束
+DTSTART;TZID=Asia/Shanghai:20240819T035959
+DESCRIPTION:活动结束\n来自匹诺康尼的见习医生正在星槎海
+ 招募一位助手，来协助他完成一项特别的拍摄计划。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250312T040000
+DTSTART;TZID=Asia/Shanghai:20240814T040000
 DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
  「差分宇宙」时，可获得双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20250319T035959
+DTSTART;TZID=Asia/Shanghai:20240821T035959
 DESCRIPTION:活动结束\n「位面分裂」活动期间，挑战「模拟
  宇宙」或「差分宇宙」时，可获得双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
- 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
- 种。
+SUMMARY:「开拓，友谊魔法！」：完成桶的试炼，获取命运
+ 的足迹等奖励
+DTSTART;TZID=Asia/Shanghai:20240821T120000
+DESCRIPTION:曾在梦中相会的灰色朋友只身来到贝洛伯格的
+ 现实世界，他前来解决一桩不明黑影袭击居民的危机，
+ 但急需你与伙伴们的帮助……
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励结
- 束
-DTSTART;TZID=Asia/Shanghai:20250407T035959
-DESCRIPTION:活动结束\n活动开启后，西塔罗斯将每日公开新
- 的1种「待鉴定宝物」及协助鉴定所需的「鉴宝耗材」，
- 宝物共计7种。
+SUMMARY:「开拓，友谊魔法！」：完成桶的试炼，获取命运
+ 的足迹等奖励结束
+DTSTART;TZID=Asia/Shanghai:20240909T035959
+DESCRIPTION:活动结束\n曾在梦中相会的灰色朋友只身来到贝
+ 洛伯格的现实世界，他前来解决一桩不明黑影袭击居民
+ 的危机，但急需你与伙伴们的帮助……
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「花藏繁生」活动：拟造花萼限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20240830T040000
+DESCRIPTION:「花藏繁生」活动期间，挑战并通关「拟造花
+ 萼（金）」或「拟造花萼（赤）」时，可获得双倍奖励
+ 。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「花藏繁生」活动：拟造花萼限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20240906T035959
+DESCRIPTION:活动结束\n「花藏繁生」活动期间，挑战并通关
+ 「拟造花萼（金）」或「拟造花萼（赤）」时，可获得
+ 双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
@@ -181,67 +196,52 @@ DESCRIPTION:活动结束\n「花藏繁生」活动期间，挑战并通关
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「日抛忆质留影计划」：拍摄照片达成目标，获取
- 命运的足迹等奖励
-DTSTART;TZID=Asia/Shanghai:20240807T120000
-DESCRIPTION:来自匹诺康尼的见习医生正在星槎海招募一位
- 助手，来协助他完成一项特别的拍摄计划。
+SUMMARY:「嗷呜嗷呜事务所」活动
+DTSTART;TZID=Asia/Shanghai:20250228T120000
+DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
+ 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
+ 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
+ 排名。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「日抛忆质留影计划」：拍摄照片达成目标，获取
- 命运的足迹等奖励结束
-DTSTART;TZID=Asia/Shanghai:20240819T035959
-DESCRIPTION:活动结束\n来自匹诺康尼的见习医生正在星槎海
- 招募一位助手，来协助他完成一项特别的拍摄计划。
+SUMMARY:「嗷呜嗷呜事务所」活动结束
+DTSTART;TZID=Asia/Shanghai:20250407T035959
+DESCRIPTION:活动结束\n在「嗷呜嗷呜事务所」中，开拓者将
+ 扮演奇美拉管理员，通过派遣适合的奇美拉参与工作，
+ 根据它们的特性调整队伍结构，提升奇美拉小队在花园
+ 中的队伍排名。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20240814T040000
+DTSTART;TZID=Asia/Shanghai:20250312T040000
 DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
  「差分宇宙」时，可获得双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20240821T035959
+DTSTART;TZID=Asia/Shanghai:20250319T035959
 DESCRIPTION:活动结束\n「位面分裂」活动期间，挑战「模拟
  宇宙」或「差分宇宙」时，可获得双倍奖励。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「开拓，友谊魔法！」：完成桶的试炼，获取命运
- 的足迹等奖励
-DTSTART;TZID=Asia/Shanghai:20240821T120000
-DESCRIPTION:曾在梦中相会的灰色朋友只身来到贝洛伯格的
- 现实世界，他前来解决一桩不明黑影袭击居民的危机，
- 但急需你与伙伴们的帮助……
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
+ 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
+ 种。
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「开拓，友谊魔法！」：完成桶的试炼，获取命运
- 的足迹等奖励结束
-DTSTART;TZID=Asia/Shanghai:20240909T035959
-DESCRIPTION:活动结束\n曾在梦中相会的灰色朋友只身来到贝
- 洛伯格的现实世界，他前来解决一桩不明黑影袭击居民
- 的危机，但急需你与伙伴们的帮助……
-LOCATION:星铁-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「花藏繁生」活动：拟造花萼限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20240830T040000
-DESCRIPTION:「花藏繁生」活动期间，挑战并通关「拟造花
- 萼（金）」或「拟造花萼（赤）」时，可获得双倍奖励
- 。
-LOCATION:星铁-活动
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「花藏繁生」活动：拟造花萼限时双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20240906T035959
-DESCRIPTION:活动结束\n「花藏繁生」活动期间，挑战并通关
- 「拟造花萼（金）」或「拟造花萼（赤）」时，可获得
- 双倍奖励。
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250407T035959
+DESCRIPTION:活动结束\n活动开启后，西塔罗斯将每日公开新
+ 的1种「待鉴定宝物」及协助鉴定所需的「鉴宝耗材」，
+ 宝物共计7种。
 LOCATION:星铁-活动
 END:VEVENT
 END:VCALENDAR

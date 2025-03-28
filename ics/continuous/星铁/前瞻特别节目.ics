@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:3.1版本「门扉之启，王座之终」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20250214T193000
-DESCRIPTION:3.1版本「门扉之启，王座之终」前瞻特别节目
+SUMMARY:2.4版本「明霄竞武试锋芒」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20240719T193000
+DESCRIPTION:2.4版本「明霄竞武试锋芒」前瞻特别节目
 LOCATION:星铁-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
@@ -12,9 +12,9 @@ DESCRIPTION:3.0版本「再创世的凯歌」前瞻特别节目
 LOCATION:星铁-前瞻特别节目
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2.4版本「明霄竞武试锋芒」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20240719T193000
-DESCRIPTION:2.4版本「明霄竞武试锋芒」前瞻特别节目
+SUMMARY:3.1版本「门扉之启，王座之终」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250214T193000
+DESCRIPTION:3.1版本「门扉之启，王座之终」前瞻特别节目
 LOCATION:星铁-前瞻特别节目
 END:VEVENT
 END:VCALENDAR

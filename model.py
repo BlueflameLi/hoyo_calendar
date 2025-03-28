@@ -27,12 +27,12 @@ class Version(BaseModel):
 
 class CalEvent(Event):
     def __init__(
-            self,
-            name: str,
-            start: datetime,
-            description: str,
-            location: str,
-            end: datetime = None
+        self,
+        name: str,
+        start: datetime,
+        description: str,
+        location: str,
+        end: datetime | None = None,
     ):
         super().__init__()
         self.add("summary", name)
@@ -55,13 +55,13 @@ class MyCalendar(Calendar):
         self.events = []
 
     def add_event(
-            self,
-            name: str,
-            start: datetime,
-            description: str,
-            location: str,
-            end: datetime = None,
-            continuous: bool = False,
+        self,
+        name: str,
+        start: datetime,
+        description: str,
+        location: str,
+        end: datetime | None = None,
+        continuous: bool = False,
     ) -> None:
         event = CalEvent(
             name,
@@ -84,7 +84,11 @@ class MyCalendar(Calendar):
 
     def __add__(self, other):
         if not isinstance(other, MyCalendar):
-            raise TypeError("Unsupported operand type for +: 'MyCalendar' and '{}'".format(type(other).__name__))
+            raise TypeError(
+                "Unsupported operand type for +: 'MyCalendar' and '{}'".format(
+                    type(other).__name__
+                )
+            )
         for event in other.events:
             self.add_component(event)
             self.events.append(event)
