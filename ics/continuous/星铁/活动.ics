@@ -49,6 +49,20 @@ DESCRIPTION:活动结束\n活动开启后，西塔罗斯将每日公开新
 LOCATION:星铁-活动
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250328T040000
+DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
+ 洞」时，可获得双倍奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20250404T035959
+DESCRIPTION:活动结束\n「异器盈界」活动期间，挑战并通关
+ 「侵蚀隧洞」时，可获得双倍奖励。
+LOCATION:星铁-活动
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DESCRIPTION:3.0版本期间登录游戏并解锁「角色」功能后即
