@@ -1,8 +1,8 @@
-from typing import Optional
-
 import pytz
+import zlib
 from pydantic import BaseModel
 from datetime import datetime
+from typing import Optional
 
 from icalendar import Calendar, Event
 
@@ -33,6 +33,7 @@ class CalEvent(Event):
         description: str,
         location: str,
         end: datetime | None = None,
+        continuous: bool = False,
     ):
         super().__init__()
         self.add("summary", name)
@@ -40,19 +41,31 @@ class CalEvent(Event):
             "dtstart",
             start.replace(tzinfo=pytz.timezone("Asia/Shanghai")),
         )
-        if end is not None:
+        if not continuous and end is not None:
             self.add(
                 "dtend",
                 end.replace(tzinfo=pytz.timezone("Asia/Shanghai")),
             )
         self.add("description", description)
         self.add("location", location)
+        self.add("transp", "TRANSPARENT")
+        self.add(
+            "uid",
+            f"{(zlib.crc32((name+start.isoformat()).encode('utf-8')) & 0xFFFFFFFF):08x}@trrw.tech",
+        )
 
 
 class MyCalendar(Calendar):
     def __init__(self):
         super().__init__()
-        self.events = []
+        self.events = []  # type: ignore
+        self.init_cal()
+
+    def init_cal(self):
+        self.add("prodid", "-//Trrrrw/hoyo_calendar//GitHub/CN")
+        self.add("version", "2.0")
+        self.add("calscale", "GREGORIAN")
+        self.add("method", "PUBLISH")
 
     def add_event(
         self,

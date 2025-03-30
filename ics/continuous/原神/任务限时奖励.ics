@@ -1,234 +1,160 @@
 BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:「蘑境菌奇」时限内完成部族纪闻任务，可额外获
- 得原石等奖励
-DTSTART;TZID=Asia/Shanghai:20250326T110000
-DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
- 破素材、角色培养素材、纳塔区域特产等奖励。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「蘑境菌奇」时限内完成部族纪闻任务，可额外获
- 得原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20250415T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「圣山所在是安饶之陆」时限内完成探索任务，可
- 额外获得奖励
-DTSTART;TZID=Asia/Shanghai:20250326T110000
-DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
- ：原石*400。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「圣山所在是安饶之陆」时限内完成探索任务，可
- 额外获得奖励结束
-DTSTART;TZID=Asia/Shanghai:20250617T145959
-DESCRIPTION:活动结束\n在时限内完成相应探索任务，可获得
- 额外奖励：原石*400。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「花之归尘，羽之将坠」时限内完成部族纪闻任务
- ，可额外获得奖励
-DTSTART;TZID=Asia/Shanghai:20241120T110000
-DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
- 破素材、角色培养素材、纳塔区域特产等奖励。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「花之归尘，羽之将坠」时限内完成部族纪闻任务
- ，可额外获得奖励结束
-DTSTART;TZID=Asia/Shanghai:20241210T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「朝向领风之崖与流灰之都」时限内完成探索任务
- ，可额外获得原石奖励
-DTSTART;TZID=Asia/Shanghai:20241120T110000
-DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
- ：原石*400。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「朝向领风之崖与流灰之都」时限内完成探索任务
- ，可额外获得原石奖励结束
-DTSTART;TZID=Asia/Shanghai:20250211T145959
-DESCRIPTION:活动结束\n在时限内完成相应探索任务，可获得
- 额外奖励：原石*400。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「正如那烈日」时限内完成传说任务，可额外获得
- 原石等奖励
-DTSTART;TZID=Asia/Shanghai:20250101T110000
-DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
- 破素材、角色培养素材、纳塔区域特产等奖励。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「正如那烈日」时限内完成传说任务，可额外获得
- 原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20250121T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「流淌着色彩的回忆」时限内完成部族纪闻任务，
- 可额外获得奖励
-DTSTART;TZID=Asia/Shanghai:20250101T110000
-DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
- 破素材、角色培养素材、纳塔区域特产等奖励。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「流淌着色彩的回忆」时限内完成部族纪闻任务，
- 可额外获得奖励结束
-DTSTART;TZID=Asia/Shanghai:20250121T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽烈的还魂诗」时限内完成魔神任务，可额外获
- 得原石奖励
-DTSTART;TZID=Asia/Shanghai:20250101T110000
-DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
- ：原石*500。
-LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽烈的还魂诗」时限内完成魔神任务，可额外获
- 得原石奖励结束
-DTSTART;TZID=Asia/Shanghai:20250211T145959
-DESCRIPTION:活动结束\n在时限内完成相应魔神任务，可获得
- 额外奖励：原石*500。
-LOCATION:原神-任务限时奖励
-END:VEVENT
+VERSION:2.0
+PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:「荣花与炎日之途」时限内完成魔神任务，可额外
  获得原石*500
 DTSTART;TZID=Asia/Shanghai:20240828T110000
+DTEND;TZID=Asia/Shanghai:20241008T145959
+UID:25466f4f@trrw.tech
 DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
  ：原石*500。
 LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荣花与炎日之途」时限内完成魔神任务，可额外
- 获得原石*500结束
-DTSTART;TZID=Asia/Shanghai:20241008T145959
-DESCRIPTION:活动结束\n在时限内完成相应魔神任务，可获得
- 额外奖励：原石*500。
-LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「尤潘基的回火」时限内完成部族纪闻任务，可额
  外获得原石等奖励
 DTSTART;TZID=Asia/Shanghai:20240917T180000
+DTEND;TZID=Asia/Shanghai:20241008T145959
+UID:becce2f2@trrw.tech
 DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
  破素材、角色培养素材、纳塔区域特产等奖励。
 LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「尤潘基的回火」时限内完成部族纪闻任务，可额
- 外获得原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20241008T145959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「流泉所归之处」时限内完成部族纪闻任务，可额
  外获得原石等奖励
 DTSTART;TZID=Asia/Shanghai:20240828T110000
+DTEND;TZID=Asia/Shanghai:20240917T175959
+UID:c85737f8@trrw.tech
 DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
  破素材、角色培养素材、纳塔区域特产等奖励。
 LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「流泉所归之处」时限内完成部族纪闻任务，可额
- 外获得原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20240917T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「命定将焚的虹光」时限内完成魔神任务，可额外
  获得原石奖励
 DTSTART;TZID=Asia/Shanghai:20241009T110000
+DTEND;TZID=Asia/Shanghai:20241119T145959
+UID:bf19e77a@trrw.tech
 DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
  ：原石*500。
 LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「命定将焚的虹光」时限内完成魔神任务，可额外
- 获得原石奖励结束
-DTSTART;TZID=Asia/Shanghai:20241119T145959
-DESCRIPTION:活动结束\n在时限内完成相应魔神任务，可获得
- 额外奖励：原石*500。
-LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「祈祝福愿，倾告嵴锋」时限内完成部族纪闻任务
  ，可额外获得奖励
 DTSTART;TZID=Asia/Shanghai:20241009T110000
+DTEND;TZID=Asia/Shanghai:20241029T175959
+UID:b849354e@trrw.tech
 DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
  破素材、角色培养素材、纳塔区域特产等奖励。
 LOCATION:原神-任务限时奖励
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「祈祝福愿，倾告嵴锋」时限内完成部族纪闻任务
- ，可额外获得奖励结束
-DTSTART;TZID=Asia/Shanghai:20241029T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、纳塔区域特产等奖励
- 。
-LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「彩石与焰泉之国」时限内完成探索任务，可额外
  获得原石奖励
 DTSTART;TZID=Asia/Shanghai:20241009T110000
+DTEND;TZID=Asia/Shanghai:20241231T145959
+UID:4a0977f2@trrw.tech
 DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
  ：原石*400。
 LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「彩石与焰泉之国」时限内完成探索任务，可额外
- 获得原石奖励结束
-DTSTART;TZID=Asia/Shanghai:20241231T145959
-DESCRIPTION:活动结束\n在时限内完成相应探索任务，可获得
- 额外奖励：原石*400。
+SUMMARY:「花之归尘，羽之将坠」时限内完成部族纪闻任务
+ ，可额外获得奖励
+DTSTART;TZID=Asia/Shanghai:20241120T110000
+DTEND;TZID=Asia/Shanghai:20241210T175959
+UID:c9039931@trrw.tech
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。
 LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「朝向领风之崖与流灰之都」时限内完成探索任务
+ ，可额外获得原石奖励
+DTSTART;TZID=Asia/Shanghai:20241120T110000
+DTEND;TZID=Asia/Shanghai:20250211T145959
+UID:b649827a@trrw.tech
+DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
+ ：原石*400。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「正如那烈日」时限内完成传说任务，可额外获得
+ 原石等奖励
+DTSTART;TZID=Asia/Shanghai:20250101T110000
+DTEND;TZID=Asia/Shanghai:20250121T175959
+UID:2145ad09@trrw.tech
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「流淌着色彩的回忆」时限内完成部族纪闻任务，
+ 可额外获得奖励
+DTSTART;TZID=Asia/Shanghai:20250101T110000
+DTEND;TZID=Asia/Shanghai:20250121T175959
+UID:c77b726e@trrw.tech
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「炽烈的还魂诗」时限内完成魔神任务，可额外获
+ 得原石奖励
+DTSTART;TZID=Asia/Shanghai:20250101T110000
+DTEND;TZID=Asia/Shanghai:20250211T145959
+UID:b5d45d8e@trrw.tech
+DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
+ ：原石*500。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「貘枕之章」时限内完成传说任务，可额外获得原
  石等奖励
 DTSTART;TZID=Asia/Shanghai:20250212T110000
+DTEND;TZID=Asia/Shanghai:20250304T175959
+UID:1bdf246e@trrw.tech
 DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
  破素材、角色培养素材、稻妻区域特产等奖励。
 LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「貘枕之章」时限内完成传说任务，可额外获得原
- 石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20250304T175959
-DESCRIPTION:活动结束\n在时限内完成任务，可额外获得原石
- 、角色突破素材、角色培养素材、稻妻区域特产等奖励
- 。
+SUMMARY:「蘑境菌奇」时限内完成部族纪闻任务，可额外获
+ 得原石等奖励
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DTEND;TZID=Asia/Shanghai:20250415T175959
+UID:4d86eba7@trrw.tech
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、纳塔区域特产等奖励。
 LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「圣山所在是安饶之陆」时限内完成探索任务，可
+ 额外获得奖励
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+DTEND;TZID=Asia/Shanghai:20250617T145959
+UID:bd9425bd@trrw.tech
+DESCRIPTION:在时限内完成相应探索任务，可获得额外奖励
+ ：原石*400。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

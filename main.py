@@ -1,3 +1,4 @@
+from datetime import timedelta
 import json
 import asyncio
 import aiofiles
@@ -114,6 +115,8 @@ def to_calendar(
             version.update_time,
             f"{version.version}版本更新维护",
             f"{game_name}-版本更新",
+            version.update_time + timedelta(hours=5),
+            continuous=True,
         )
         if version.wish is None:
             continue
@@ -124,6 +127,7 @@ def to_calendar(
                 f"{wish.type}{version.wish_name}：{wish.describe}",
                 f"{game_name}-{version.wish_name}",
                 wish.end if continuous else None,
+                continuous=continuous,
             )
         if version.event is None:
             continue
@@ -134,6 +138,7 @@ def to_calendar(
                 event.describe,
                 f"{game_name}-{event.type}",
                 event.end if continuous else None,
+                continuous=continuous,
             )
     all_events_cal = MyCalendar()
     for dif_calendar in calendars.values():
@@ -180,7 +185,9 @@ async def main(source_files_folder: Path, output_folder: Path) -> None:
                 generate_ics(output_folder, game_folder.name, versions_data)
             )
             ics_tasks.append(
-                generate_ics(output_folder, game_folder.name, versions_data, True)
+                generate_ics(
+                    output_folder, game_folder.name, versions_data, continuous=True
+                )
             )
     await asyncio.gather(*ics_tasks)
 
