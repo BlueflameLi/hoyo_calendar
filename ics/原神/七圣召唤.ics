@@ -4,31 +4,11 @@ PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「七圣召唤」铸境研炼：奕思巧战
-DTSTART;TZID=Asia/Shanghai:20241019T100000
-UID:687f6e16@trrw.tech
+SUMMARY:「七圣召唤」铸境研炼：无量疾战
+DTSTART;TZID=Asia/Shanghai:20250326T110000
+UID:a7960a4d@trrw.tech
 DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
  处选择关卡进行挑战。
-LOCATION:原神-七圣召唤
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」热斗模式：奇策竞驰
-DTSTART;TZID=Asia/Shanghai:20240907T100000
-UID:be0b2420@trrw.tech
-DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
- 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
- 。
-LOCATION:原神-七圣召唤
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」热斗模式：列阵斗巧
-DTSTART;TZID=Asia/Shanghai:20241019T100000
-UID:880b4b66@trrw.tech
-DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
- 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
- 。
 LOCATION:原神-七圣召唤
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -72,6 +52,35 @@ LOCATION:原神-七圣召唤
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「七圣召唤」铸境研炼：奕思巧战
+DTSTART;TZID=Asia/Shanghai:20241019T100000
+UID:687f6e16@trrw.tech
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
+ 处选择关卡进行挑战。
+LOCATION:原神-七圣召唤
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：奇策竞驰
+DTSTART;TZID=Asia/Shanghai:20240907T100000
+UID:be0b2420@trrw.tech
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：列阵斗巧
+DTSTART;TZID=Asia/Shanghai:20241019T100000
+UID:880b4b66@trrw.tech
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「七圣召唤」铸境研炼：巧策进斗
 DTSTART;TZID=Asia/Shanghai:20250212T110000
 UID:6b423c70@trrw.tech
@@ -87,15 +96,6 @@ UID:c812044d@trrw.tech
 DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
  处，参与「热斗模式」特殊规则下的「七圣召唤」对局
  。
-LOCATION:原神-七圣召唤
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「七圣召唤」铸境研炼：无量疾战
-DTSTART;TZID=Asia/Shanghai:20250326T110000
-UID:a7960a4d@trrw.tech
-DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的小王子
- 处选择关卡进行挑战。
 LOCATION:原神-七圣召唤
 TRANSP:TRANSPARENT
 END:VEVENT
