@@ -47,13 +47,16 @@
 ## ⚙️ 高级选项
 
 🔹 **连续日程模式**：在URL的`/ics/`后添加`continuous/`即可订阅带持续时间的完整日程  
-示例：`https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/原神.ics`
+> 示例：`https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/原神.ics`
 
 ---
 
 ## 📱 效果预览
 
-![日历效果示例](./docs/public/hoyo_calendar_00.avif)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./docs/public/hoyo_calendar_00.avif" alt="日历效果示例1" width="48%">
+  <img src="./docs/public/hoyo_calendar_01.avif" alt="日历效果示例2" width="48%">
+</div>
 
 <!-- ---
 
@@ -74,5 +77,5 @@
 ---
 
 > 📢 本项目为爱好者制作，与米哈游官方无关  
-> 🐛 问题反馈：[GitHub Issues](https://github.com/Trrrrw/hoyo_calendar/issues)
+> 🐛 问题反馈：[GitHub Issues](https://github.com/Trrrrw/hoyo_calendar/issues)  
 > 🖼️ Banner图片由 [ChatGPT](https://chat.openai.com) 生成
