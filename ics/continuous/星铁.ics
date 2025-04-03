@@ -112,6 +112,48 @@ LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「冥途生花」「铭心之萃」
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+DTEND;TZID=Asia/Shanghai:20250430T115959
+UID:179fef46@trrw.tech
+DESCRIPTION:角色活动跃迁：「遐蝶（记忆·量子）」「忘归
+ 人（虚无·火）」「椒丘（虚无·火）」「黄泉（虚无·
+ 雷）」
+LOCATION:星铁-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+DTEND;TZID=Asia/Shanghai:20250430T115959
+UID:1a606559@trrw.tech
+DESCRIPTION:光锥活动跃迁：「让告别，更美一些（记忆）
+ 」「长路终有归途（虚无）」「那无数个春天（虚无）
+ 」「行于流逝的岸（虚无）」
+LOCATION:星铁-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:角色活动跃迁：「胚中万物」「万物皆流」
+DTSTART;TZID=Asia/Shanghai:20250430T120000
+DTEND;TZID=Asia/Shanghai:20250520T150000
+UID:6956ec74@trrw.tech
+DESCRIPTION:角色活动跃迁：「那刻夏（智识·风）」「真理
+ 医生（巡猎·虚数）」
+LOCATION:星铁-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20250430T120000
+DTEND;TZID=Asia/Shanghai:20250520T150000
+UID:153269b8@trrw.tech
+DESCRIPTION:光锥活动跃迁：「生命当付之一炬（智识）」
+ 「纯粹思维的洗礼（巡猎）」
+LOCATION:星铁-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:角色活动跃迁：「视界来信」「铭心之萃」
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DTEND;TZID=Asia/Shanghai:20250205T115959
