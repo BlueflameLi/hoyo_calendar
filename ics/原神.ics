@@ -481,6 +481,16 @@ LOCATION:原神-七圣召唤
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「七圣召唤」热斗模式：列阵斗巧
+DTSTART;TZID=Asia/Shanghai:20250405T100000
+UID:a0676e59@trrw.tech
+DESCRIPTION:活动开启后，旅行者可前往猫尾酒馆的邀请板
+ 处，参与「热斗模式」特殊规则下的「七圣召唤」对局
+ 。
+LOCATION:原神-七圣召唤
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「七圣召唤」热斗模式：自行巧局
 DTSTART;TZID=Asia/Shanghai:20241122T100000
 UID:ad88a367@trrw.tech
