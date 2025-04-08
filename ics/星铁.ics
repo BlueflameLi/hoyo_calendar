@@ -269,6 +269,26 @@ LOCATION:星铁-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「致开拓的你」：获取1600星琼&10燃料
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+UID:0ec9b9a7@trrw.tech
+DESCRIPTION:3.2版本更新后 至 2025/04/26 12:00 期间，开拓者可
+ 以在「致开拓的你」活动页面选择一位角色作为邀请对
+ 象，在后续收到其来信和赠礼。在此期间可以修改已选
+ 择的角色，超过此时间后无法进行选择或修改。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星铁☆WORLD」：经营展会获取4星光锥等奖励
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+UID:5e69fb0a@trrw.tech
+DESCRIPTION:开拓者将在活动内的游戏中扮演策展人，经营
+ 「星铁☆WORLD」展会的分会场。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 UID:e64d5d75@trrw.tech

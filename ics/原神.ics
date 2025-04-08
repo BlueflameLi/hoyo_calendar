@@ -589,6 +589,15 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「无极限超激格斗赛」活动：地下激斗挑战赛
+DTSTART;TZID=Asia/Shanghai:20250407T100000
+UID:62c6a48d@trrw.tech
+DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，共5
+ 关。挑战分为「上半场」和「下半场」两场战斗。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「暝视寻灵织卷」活动
 DTSTART;TZID=Asia/Shanghai:20241128T100000
 UID:97daedf3@trrw.tech
