@@ -311,6 +311,18 @@ LOCATION:星铁-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「豹豹碰碰大作战」活动
+DTSTART;TZID=Asia/Shanghai:20250411T120000
+DTEND;TZID=Asia/Shanghai:20250519T035959
+UID:57d13dae@trrw.tech
+DESCRIPTION:在「豹豹碰碰大作战」中，开拓者将与奇美拉
+ 「泡泡」一起，带领小海豹获得水上碰撞比赛的冠军。
+ 比赛共有小组赛、淘汰赛、冠军赛3个阶段，在比赛中不
+ 断战胜对手即可晋级。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DTEND;TZID=Asia/Shanghai:20250226T060000
