@@ -608,6 +608,16 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「奇逸角技隆隆擂台」活动：趣味多人挑战
+DTSTART;TZID=Asia/Shanghai:20250421T100000
+UID:36d5d6b4@trrw.tech
+DESCRIPTION:活动开启后的前3天，每天都会解锁新的试炼。
+ 旅行者可通过单人匹配或队伍匹配两种方式游玩已解锁
+ 的试炼。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「暝视寻灵织卷」活动
 DTSTART;TZID=Asia/Shanghai:20241128T100000
 UID:97daedf3@trrw.tech
