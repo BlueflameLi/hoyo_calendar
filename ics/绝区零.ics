@@ -287,6 +287,24 @@ LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:代理人调频：「飞鸟坠入良夜」「『查无此人』」
+DTSTART;TZID=Asia/Shanghai:20250423T110000
+UID:ad1b6735@trrw.tech
+DESCRIPTION:代理人调频：[薇薇安(异常·以太)]、[简(异常·
+ 物理)]、[派派(异常·物理)]、[波赛斯(防护·电)]
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音频调频：「喧哗奏鸣」「激荡谐振」
+DTSTART;TZID=Asia/Shanghai:20250423T110000
+UID:fbd940a1@trrw.tech
+DESCRIPTION:音频调频：[飞鸟星梦(异常)]、[淬锋钳刺(异常)]
+ 、[轰鸣座驾(异常)]、[维序者-特化型(防护)]
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「断层之谜」活动
 DTSTART;TZID=Asia/Shanghai:20241106T110000
 UID:c82a8f67@trrw.tech
@@ -864,6 +882,25 @@ DTSTART;TZID=Asia/Shanghai:20250115T040000
 UID:f8d79d88@trrw.tech
 DESCRIPTION:「先遣赏金-定期清剿」活动期间，绳匠进入「
  定期清剿」，挑战并通过任意关卡即可获得双倍奖励！
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「花语未明之言」活动
+DTSTART;TZID=Asia/Shanghai:20250423T110000
+UID:86dbc8b3@trrw.tech
+DESCRIPTION:达成参与条件并完成前置委托后，可以在光映
+ 广场的「朝露」花店与兰交互，参与「花语未明之言」
+ 活动。
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全新放送」活动
+DTSTART;TZID=Asia/Shanghai:20250423T110000
+UID:4bc404b7@trrw.tech
+DESCRIPTION:「全新放送」活动期间，累计登录7天即可获得[
+ 加密母带]*10！
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
