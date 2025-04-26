@@ -4,22 +4,6 @@ PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:3.1版本「门扉之启，王座之终」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20250214T193000
-UID:4ebfb469@trrw.tech
-DESCRIPTION:3.1版本「门扉之启，王座之终」前瞻特别节目
-LOCATION:星铁-前瞻特别节目
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3.2版本「走过安眠地的花丛」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20250328T193000
-UID:f51c1221@trrw.tech
-DESCRIPTION:3.2版本「走过安眠地的花丛」前瞻特别节目
-LOCATION:星铁-前瞻特别节目
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3.0版本「再创世的凯歌」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20250101T193000
 UID:8ab40c27@trrw.tech
@@ -36,21 +20,19 @@ LOCATION:星铁-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.1版本更新维护
-DTSTART;TZID=Asia/Shanghai:20250226T060000
-DTEND;TZID=Asia/Shanghai:20250226T110000
-UID:b2a71235@trrw.tech
-DESCRIPTION:3.1版本更新维护
-LOCATION:星铁-版本更新
+SUMMARY:3.1版本「门扉之启，王座之终」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250214T193000
+UID:4ebfb469@trrw.tech
+DESCRIPTION:3.1版本「门扉之启，王座之终」前瞻特别节目
+LOCATION:星铁-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.2版本更新维护
-DTSTART;TZID=Asia/Shanghai:20250409T060000
-DTEND;TZID=Asia/Shanghai:20250409T110000
-UID:f6cd2fc3@trrw.tech
-DESCRIPTION:3.2版本更新维护
-LOCATION:星铁-版本更新
+SUMMARY:3.2版本「走过安眠地的花丛」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250328T193000
+UID:f51c1221@trrw.tech
+DESCRIPTION:3.2版本「走过安眠地的花丛」前瞻特别节目
+LOCATION:星铁-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -72,77 +54,21 @@ LOCATION:星铁-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-UID:dd8c8e7f@trrw.tech
-DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
- 璃（毁灭•物理）」
-LOCATION:星铁-活动跃迁
+SUMMARY:3.1版本更新维护
+DTSTART;TZID=Asia/Shanghai:20250226T060000
+DTEND;TZID=Asia/Shanghai:20250226T110000
+UID:b2a71235@trrw.tech
+DESCRIPTION:3.1版本更新维护
+LOCATION:星铁-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20250226T110000
-UID:48af037f@trrw.tech
-DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
- 」「落日时起舞（毁灭）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-UID:2401051e@trrw.tech
-DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
- 蕾（丰饶•风）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-UID:a20ace3b@trrw.tech
-DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
- 」「惊魂夜（丰饶）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「冥途生花」「铭心之萃」
-DTSTART;TZID=Asia/Shanghai:20250409T110000
-UID:179fef46@trrw.tech
-DESCRIPTION:角色活动跃迁：「遐蝶（记忆·量子）」「忘归
- 人（虚无·火）」「椒丘（虚无·火）」「黄泉（虚无·
- 雷）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」
-DTSTART;TZID=Asia/Shanghai:20250409T110000
-UID:1a606559@trrw.tech
-DESCRIPTION:光锥活动跃迁：「让告别，更美一些（记忆）
- 」「长路终有归途（虚无）」「那无数个春天（虚无）
- 」「行于流逝的岸（虚无）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:角色活动跃迁：「胚中万物」「万物皆流」
-DTSTART;TZID=Asia/Shanghai:20250430T120000
-UID:6956ec74@trrw.tech
-DESCRIPTION:角色活动跃迁：「那刻夏（智识·风）」「真理
- 医生（巡猎·虚数）」
-LOCATION:星铁-活动跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
-DTSTART;TZID=Asia/Shanghai:20250430T120000
-UID:153269b8@trrw.tech
-DESCRIPTION:光锥活动跃迁：「生命当付之一炬（智识）」
- 「纯粹思维的洗礼（巡猎）」
-LOCATION:星铁-活动跃迁
+SUMMARY:3.2版本更新维护
+DTSTART;TZID=Asia/Shanghai:20250409T060000
+DTEND;TZID=Asia/Shanghai:20250409T110000
+UID:f6cd2fc3@trrw.tech
+DESCRIPTION:3.2版本更新维护
+LOCATION:星铁-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -230,82 +156,77 @@ LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「嗷呜嗷呜事务所」活动
-DTSTART;TZID=Asia/Shanghai:20250228T120000
-UID:5405bb13@trrw.tech
-DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
- 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
- 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
- 排名。
-LOCATION:星铁-活动
+SUMMARY:角色活动跃迁：「径复原初」「掷山破云」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+UID:dd8c8e7f@trrw.tech
+DESCRIPTION:角色活动跃迁：「缇宝（同谐•量子）」「云
+ 璃（毁灭•物理）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250312T040000
-UID:8ad9f38f@trrw.tech
-DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
- 「差分宇宙」时，可获得双倍奖励。
-LOCATION:星铁-活动
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20250226T110000
+UID:48af037f@trrw.tech
+DESCRIPTION:光锥活动跃迁：「如果时间是一朵花（同谐）
+ 」「落日时起舞（毁灭）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
+SUMMARY:角色活动跃迁：「血炬狮心」「令奉贞凶」
 DTSTART;TZID=Asia/Shanghai:20250319T120000
-UID:59ea33a0@trrw.tech
-DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
- 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
- 种。
-LOCATION:星铁-活动
+UID:2401051e@trrw.tech
+DESCRIPTION:角色活动跃迁：「万敌（毁灭•虚数）」「藿
+ 蕾（丰饶•风）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250328T040000
-UID:97f28b80@trrw.tech
-DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
- 洞」时，可获得双倍奖励。
-LOCATION:星铁-活动
+SUMMARY:光锥活动跃迁：「流光定影」「湖回忆象」
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+UID:a20ace3b@trrw.tech
+DESCRIPTION:光锥活动跃迁：「血火啊，燃烧前路（毁灭）
+ 」「惊魂夜（丰饶）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「致开拓的你」：获取1600星琼&10燃料
+SUMMARY:角色活动跃迁：「冥途生花」「铭心之萃」
 DTSTART;TZID=Asia/Shanghai:20250409T110000
-UID:0ec9b9a7@trrw.tech
-DESCRIPTION:3.2版本更新后 至 2025/04/26 12:00 期间，开拓者可
- 以在「致开拓的你」活动页面选择一位角色作为邀请对
- 象，在后续收到其来信和赠礼。在此期间可以修改已选
- 择的角色，超过此时间后无法进行选择或修改。
-LOCATION:星铁-活动
+UID:179fef46@trrw.tech
+DESCRIPTION:角色活动跃迁：「遐蝶（记忆·量子）」「忘归
+ 人（虚无·火）」「椒丘（虚无·火）」「黄泉（虚无·
+ 雷）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「星铁☆WORLD」：经营展会获取4星光锥等奖励
+SUMMARY:光锥活动跃迁：「流光定影」「真意之汇」
 DTSTART;TZID=Asia/Shanghai:20250409T110000
-UID:5e69fb0a@trrw.tech
-DESCRIPTION:开拓者将在活动内的游戏中扮演策展人，经营
- 「星铁☆WORLD」展会的分会场。
-LOCATION:星铁-活动
+UID:1a606559@trrw.tech
+DESCRIPTION:光锥活动跃迁：「让告别，更美一些（记忆）
+ 」「长路终有归途（虚无）」「那无数个春天（虚无）
+ 」「行于流逝的岸（虚无）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「豹豹碰碰大作战」活动
-DTSTART;TZID=Asia/Shanghai:20250411T120000
-UID:57d13dae@trrw.tech
-DESCRIPTION:在「豹豹碰碰大作战」中，开拓者将与奇美拉
- 「泡泡」一起，带领小海豹获得水上碰撞比赛的冠军。
- 比赛共有小组赛、淘汰赛、冠军赛3个阶段，在比赛中不
- 断战胜对手即可晋级。
-LOCATION:星铁-活动
+SUMMARY:角色活动跃迁：「胚中万物」「万物皆流」
+DTSTART;TZID=Asia/Shanghai:20250430T120000
+UID:6956ec74@trrw.tech
+DESCRIPTION:角色活动跃迁：「那刻夏（智识·风）」「真理
+ 医生（巡猎·虚数）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
-DTSTART;TZID=Asia/Shanghai:20250423T040000
-UID:94cb1e35@trrw.tech
-DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
- 「差分宇宙」时，可获得三倍奖励。
-LOCATION:星铁-活动
+SUMMARY:光锥活动跃迁：「流光定影」「溯回忆象」
+DTSTART;TZID=Asia/Shanghai:20250430T120000
+UID:153269b8@trrw.tech
+DESCRIPTION:光锥活动跃迁：「生命当付之一炬（智识）」
+ 「纯粹思维的洗礼（巡猎）」
+LOCATION:星铁-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -426,6 +347,85 @@ UID:e9e5a1e3@trrw.tech
 DESCRIPTION:「花藏繁生」活动期间，挑战并通关「拟造花
  萼（金）」或「拟造花萼（赤）」时，可获得双倍奖励
  。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嗷呜嗷呜事务所」活动
+DTSTART;TZID=Asia/Shanghai:20250228T120000
+UID:5405bb13@trrw.tech
+DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
+ 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
+ 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
+ 排名。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250312T040000
+UID:8ad9f38f@trrw.tech
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得双倍奖励。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+UID:59ea33a0@trrw.tech
+DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
+ 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
+ 种。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250328T040000
+UID:97f28b80@trrw.tech
+DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
+ 洞」时，可获得双倍奖励。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「致开拓的你」：获取1600星琼&10燃料
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+UID:0ec9b9a7@trrw.tech
+DESCRIPTION:3.2版本更新后 至 2025/04/26 12:00 期间，开拓者可
+ 以在「致开拓的你」活动页面选择一位角色作为邀请对
+ 象，在后续收到其来信和赠礼。在此期间可以修改已选
+ 择的角色，超过此时间后无法进行选择或修改。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星铁☆WORLD」：经营展会获取4星光锥等奖励
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+UID:5e69fb0a@trrw.tech
+DESCRIPTION:开拓者将在活动内的游戏中扮演策展人，经营
+ 「星铁☆WORLD」展会的分会场。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「豹豹碰碰大作战」活动
+DTSTART;TZID=Asia/Shanghai:20250411T120000
+UID:57d13dae@trrw.tech
+DESCRIPTION:在「豹豹碰碰大作战」中，开拓者将与奇美拉
+ 「泡泡」一起，带领小海豹获得水上碰撞比赛的冠军。
+ 比赛共有小组赛、淘汰赛、冠军赛3个阶段，在比赛中不
+ 断战胜对手即可晋级。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
+DTSTART;TZID=Asia/Shanghai:20250423T040000
+UID:94cb1e35@trrw.tech
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得三倍奖励。
 LOCATION:星铁-活动
 TRANSP:TRANSPARENT
 END:VEVENT

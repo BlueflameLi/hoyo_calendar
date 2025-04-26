@@ -4,93 +4,6 @@ PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「嗷呜嗷呜事务所」活动
-DTSTART;TZID=Asia/Shanghai:20250228T120000
-DTEND;TZID=Asia/Shanghai:20250407T035959
-UID:5405bb13@trrw.tech
-DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
- 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
- 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
- 排名。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250312T040000
-DTEND;TZID=Asia/Shanghai:20250319T035959
-UID:8ad9f38f@trrw.tech
-DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
- 「差分宇宙」时，可获得双倍奖励。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
-DTSTART;TZID=Asia/Shanghai:20250319T120000
-DTEND;TZID=Asia/Shanghai:20250407T035959
-UID:59ea33a0@trrw.tech
-DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
- 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
- 种。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250328T040000
-DTEND;TZID=Asia/Shanghai:20250404T035959
-UID:97f28b80@trrw.tech
-DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
- 洞」时，可获得双倍奖励。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「致开拓的你」：获取1600星琼&10燃料
-DTSTART;TZID=Asia/Shanghai:20250409T110000
-DTEND;TZID=Asia/Shanghai:20250521T060000
-UID:0ec9b9a7@trrw.tech
-DESCRIPTION:3.2版本更新后 至 2025/04/26 12:00 期间，开拓者可
- 以在「致开拓的你」活动页面选择一位角色作为邀请对
- 象，在后续收到其来信和赠礼。在此期间可以修改已选
- 择的角色，超过此时间后无法进行选择或修改。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「星铁☆WORLD」：经营展会获取4星光锥等奖励
-DTSTART;TZID=Asia/Shanghai:20250409T110000
-DTEND;TZID=Asia/Shanghai:20250519T035959
-UID:5e69fb0a@trrw.tech
-DESCRIPTION:开拓者将在活动内的游戏中扮演策展人，经营
- 「星铁☆WORLD」展会的分会场。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「豹豹碰碰大作战」活动
-DTSTART;TZID=Asia/Shanghai:20250411T120000
-DTEND;TZID=Asia/Shanghai:20250519T035959
-UID:57d13dae@trrw.tech
-DESCRIPTION:在「豹豹碰碰大作战」中，开拓者将与奇美拉
- 「泡泡」一起，带领小海豹获得水上碰撞比赛的冠军。
- 比赛共有小组赛、淘汰赛、冠军赛3个阶段，在比赛中不
- 断战胜对手即可晋级。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
-DTSTART;TZID=Asia/Shanghai:20250423T040000
-DTEND;TZID=Asia/Shanghai:20250505T035959
-UID:94cb1e35@trrw.tech
-DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
- 「差分宇宙」时，可获得三倍奖励。
-LOCATION:星铁-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「银河潮流指南」活动
 DTSTART;TZID=Asia/Shanghai:20250115T110000
 DTEND;TZID=Asia/Shanghai:20250226T060000
@@ -220,6 +133,93 @@ UID:e9e5a1e3@trrw.tech
 DESCRIPTION:「花藏繁生」活动期间，挑战并通关「拟造花
  萼（金）」或「拟造花萼（赤）」时，可获得双倍奖励
  。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「嗷呜嗷呜事务所」活动
+DTSTART;TZID=Asia/Shanghai:20250228T120000
+DTEND;TZID=Asia/Shanghai:20250407T035959
+UID:5405bb13@trrw.tech
+DESCRIPTION:在「嗷呜嗷呜事务所」中，开拓者将扮演奇美
+ 拉管理员，通过派遣适合的奇美拉参与工作，根据它们
+ 的特性调整队伍结构，提升奇美拉小队在花园中的队伍
+ 排名。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250312T040000
+DTEND;TZID=Asia/Shanghai:20250319T035959
+UID:8ad9f38f@trrw.tech
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得双倍奖励。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「圣城鉴宝」：鉴定奥赫玛古玩获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250319T120000
+DTEND;TZID=Asia/Shanghai:20250407T035959
+UID:59ea33a0@trrw.tech
+DESCRIPTION:活动开启后，西塔罗斯将每日公开新的1种「待
+ 鉴定宝物」及协助鉴定所需的「鉴宝耗材」，宝物共计7
+ 种。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「异器盈界」活动：隧洞遗器限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250328T040000
+DTEND;TZID=Asia/Shanghai:20250404T035959
+UID:97f28b80@trrw.tech
+DESCRIPTION:「异器盈界」活动期间，挑战并通关「侵蚀隧
+ 洞」时，可获得双倍奖励。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「致开拓的你」：获取1600星琼&10燃料
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+DTEND;TZID=Asia/Shanghai:20250521T060000
+UID:0ec9b9a7@trrw.tech
+DESCRIPTION:3.2版本更新后 至 2025/04/26 12:00 期间，开拓者可
+ 以在「致开拓的你」活动页面选择一位角色作为邀请对
+ 象，在后续收到其来信和赠礼。在此期间可以修改已选
+ 择的角色，超过此时间后无法进行选择或修改。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星铁☆WORLD」：经营展会获取4星光锥等奖励
+DTSTART;TZID=Asia/Shanghai:20250409T110000
+DTEND;TZID=Asia/Shanghai:20250519T035959
+UID:5e69fb0a@trrw.tech
+DESCRIPTION:开拓者将在活动内的游戏中扮演策展人，经营
+ 「星铁☆WORLD」展会的分会场。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「豹豹碰碰大作战」活动
+DTSTART;TZID=Asia/Shanghai:20250411T120000
+DTEND;TZID=Asia/Shanghai:20250519T035959
+UID:57d13dae@trrw.tech
+DESCRIPTION:在「豹豹碰碰大作战」中，开拓者将与奇美拉
+ 「泡泡」一起，带领小海豹获得水上碰撞比赛的冠军。
+ 比赛共有小组赛、淘汰赛、冠军赛3个阶段，在比赛中不
+ 断战胜对手即可晋级。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
+DTSTART;TZID=Asia/Shanghai:20250423T040000
+DTEND;TZID=Asia/Shanghai:20250505T035959
+UID:94cb1e35@trrw.tech
+DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
+ 「差分宇宙」时，可获得三倍奖励。
 LOCATION:星铁-活动
 TRANSP:TRANSPARENT
 END:VEVENT
