@@ -465,4 +465,16 @@ DESCRIPTION:「位面分裂」活动期间，挑战「模拟宇宙」或
 LOCATION:星铁-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星芒启明」：完成挑战获得命运的足迹、星琼等
+ 奖励！
+DTSTART;TZID=Asia/Shanghai:20250428T120000
+DTEND;TZID=Asia/Shanghai:20250519T035959
+UID:0e65158a@trrw.tech
+DESCRIPTION:活动开启后，每日将会开启新的挑战关，共计7
+ 关。每一个挑战关拥有两种难度：「矮星」「超巨星」
+ ，完成「矮星」挑战后，解锁「超巨星」难度。
+LOCATION:星铁-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
