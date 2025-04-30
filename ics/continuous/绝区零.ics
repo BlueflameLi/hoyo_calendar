@@ -580,6 +580,18 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「美味食光全城热配」活动
+DTSTART;TZID=Asia/Shanghai:20250502T100000
+DTEND;TZID=Asia/Shanghai:20250519T035959
+UID:e0d6d9b9@trrw.tech
+DESCRIPTION:活动期间，绳匠可以在光映广场的「信仰三明
+ 治」餐车领取委托，根据要求为[主厨]选中的幸运顾客们
+ 提供服务；完成对应的点单、送餐、合影等任务，并收
+ 到来自幸运顾客的评价后，即可获得活动奖励。
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「协律共契」活动
 DTSTART;TZID=Asia/Shanghai:20250122T110000
 DTEND;TZID=Asia/Shanghai:20250310T035959
