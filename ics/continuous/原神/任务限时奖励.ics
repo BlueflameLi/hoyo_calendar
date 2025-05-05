@@ -157,4 +157,15 @@ DESCRIPTION:在时限内完成相应魔神任务，可获得额外奖励
 LOCATION:原神-任务限时奖励
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「珍上至珍」时限内完成传说任务，可额外获得原
+ 石等奖励
+DTSTART;TZID=Asia/Shanghai:20250507T110000
+DTEND;TZID=Asia/Shanghai:20250527T175959
+UID:7f3f3090@trrw.tech
+DESCRIPTION:在时限内完成任务，可额外获得原石、角色突
+ 破素材、角色培养素材、枫丹区域特产等奖励。
+LOCATION:原神-任务限时奖励
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
