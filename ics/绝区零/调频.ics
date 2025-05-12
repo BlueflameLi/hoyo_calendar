@@ -201,4 +201,22 @@ DESCRIPTION:音频调频：[飞鸟星梦(异常)]、[淬锋钳刺(异常)]
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:代理人调频：「譬如昨日死」「余烬之冕」
+DTSTART;TZID=Asia/Shanghai:20250514T120000
+UID:c632a722@trrw.tech
+DESCRIPTION:代理人调频：[雨果(强攻·冰)]、[莱特(击破·火)
+ ]、[苍角(支援·冰)]、[安东(强攻·电)]
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:音频调频：「灿烂和声」「璀璨韵律」
+DTSTART;TZID=Asia/Shanghai:20250514T120000
+UID:384e4ad9@trrw.tech
+DESCRIPTION:音频调频：[千面日陨(强攻)]、[焰心桂冠(击破)]
+ 、[含羞恶面(支援)]、[旋钻机-赤轴(强攻)]
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
