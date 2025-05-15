@@ -4,6 +4,69 @@ PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:「游逸旅闻·诗汇之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250212T110000
+UID:f6dfa49b@trrw.tech
+DESCRIPTION:活动期间，旅行者可以在地图上寻找伙伴们，
+ 并前往各地进行拜访。听他们闲叙一番平日里的趣闻，
+ 或是与他们一同度过闲适的一天。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「三川游艺绮梦谭」活动
+DTSTART;TZID=Asia/Shanghai:20250214T100000
+UID:23fd9ee7@trrw.tech
+DESCRIPTION:活动期间，完成各项挑战可获得「游艺印章」
+ 。累计获取指定数量的「游艺印章」即可获得「长柄武
+ 器·且住亭御咄」、原石、智识之冕、活动专属武器精炼
+ 材料等奖励。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「征战勇者淬炼之界」活动
+DTSTART;TZID=Asia/Shanghai:20250224T100000
+UID:255f1bf1@trrw.tech
+DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，每
+ 个挑战均有25层战斗关卡，30秒内通过即可继续挑战。通
+ 过指定层数，可获得原石、角色天赋素材、祝圣油膏等
+ 奖励。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「异域鱼鱼追渔行动」活动：捕捉入侵鱼类
+DTSTART;TZID=Asia/Shanghai:20250305T100000
+UID:e2f4c93c@trrw.tech
+DESCRIPTION:活动中，旅行者需要消耗行动点投掷渔网，捕
+ 捉各种入侵的鱼类。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「剪影辑帧」活动：创意广告剪辑
+DTSTART;TZID=Asia/Shanghai:20250312T100000
+UID:57ba71dc@trrw.tech
+DESCRIPTION:旅行者需要根据脚本规划，为每一镜选择合适
+ 的素材，组成广告成片并完成剪辑。同一脚本中，同一
+ 个素材可至多重复使用3次。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」「藏金之花」「启示之花」双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250317T100000
+UID:20bcafbf@trrw.tech
+DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
+ 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
+ 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
+ 可享受3次双倍掉落机会！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「暝视寻灵织卷」活动
 DTSTART;TZID=Asia/Shanghai:20241128T100000
 UID:97daedf3@trrw.tech
@@ -49,6 +112,56 @@ DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
  脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
  奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
  可享受3次双倍掉落机会！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
+ 欧洛伦(雷)」
+DTSTART;TZID=Asia/Shanghai:20250328T100000
+UID:887935cf@trrw.tech
+DESCRIPTION:「荣花演武」中，旅行者可参与六大部族之间
+ 的攻防演武，与伙伴们并肩作战，完成各种演武中的目
+ 标，攻夺胜利与荣誉。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「无极限超激格斗赛」活动：地下激斗挑战赛
+DTSTART;TZID=Asia/Shanghai:20250407T100000
+UID:62c6a48d@trrw.tech
+DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，共5
+ 关。挑战分为「上半场」和「下半场」两场战斗。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「祝圣移涌」活动：圣遗物双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250414T040000
+UID:10ac013c@trrw.tech
+DESCRIPTION:「祝圣移涌」活动期间，旅行者成功挑战「祝
+ 圣秘境」，领取秘宝奖励时，消耗「原粹树脂」可获得
+ 双倍奖励，每天一共可享受3次双倍掉落机会！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「奇逸角技隆隆擂台」活动：趣味多人挑战
+DTSTART;TZID=Asia/Shanghai:20250421T100000
+UID:36d5d6b4@trrw.tech
+DESCRIPTION:活动开启后的前3天，每天都会解锁新的试炼。
+ 旅行者可通过单人匹配或队伍匹配两种方式游玩已解锁
+ 的试炼。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「节拍撞球·梅兹特利篇」活动：元素击球挑战
+DTSTART;TZID=Asia/Shanghai:20250428T100000
+UID:91d47b18@trrw.tech
+DESCRIPTION:活动开始后，每天都会解锁一个新的关卡，共6
+ 关。旅行者需要移动球板，回击飞来的撞球，击碎各种
+ 节奏方块。
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -104,62 +217,6 @@ SUMMARY:「百货奇货」活动
 DTSTART;TZID=Asia/Shanghai:20241111T100000
 UID:0456e3dd@trrw.tech
 DESCRIPTION:开奇货匣得原石
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「漱玉工奇斗虫大玄境」活动
-DTSTART;TZID=Asia/Shanghai:20250103T100000
-UID:ebdfc335@trrw.tech
-DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
- 个新的挑战关卡，共5关。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「衔勇诚砺之证」活动
-DTSTART;TZID=Asia/Shanghai:20250109T100000
-UID:47e29725@trrw.tech
-DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
- 个与特定部族有关的新挑战，共六个挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「凶魁巨怪觇候录」活动
-DTSTART;TZID=Asia/Shanghai:20250114T100000
-UID:42ed8315@trrw.tech
-DESCRIPTION:从活动开始的第一天起，每两天可解锁新的挑
- 战。旅行者可以与赫卡对话，进行不同难度的挑战。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「富贵登门·春来早知」活动
-DTSTART;TZID=Asia/Shanghai:20250122T040000
-UID:ef7de398@trrw.tech
-DESCRIPTION:活动期间，将开放「开门迎财·累计登录」与「
- 旧忆新桃·海灯节答谢」奖励。可获取1600原石、纠缠之
- 缘*10、智识之冕、祝圣之霜等奖励。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「春曦画桃符」活动
-DTSTART;TZID=Asia/Shanghai:20250124T100000
-UID:df1e12d5@trrw.tech
-DESCRIPTION:活动期间，将陆续解锁「八奇乱斗」、「灯下
- 演武」、「如意祝柬」、「节庆旅纪」各阶段玩法。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「盛材移涌」活动
-DTSTART;TZID=Asia/Shanghai:20250203T040000
-UID:ae55a84a@trrw.tech
-DESCRIPTION:活动期间，成功挑战「精通秘境」或「炼武秘
- 境」，消耗「原粹树脂」领取秘宝奖励时，可获得双倍
- 奖励。
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -235,6 +292,62 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「漱玉工奇斗虫大玄境」活动
+DTSTART;TZID=Asia/Shanghai:20250103T100000
+UID:ebdfc335@trrw.tech
+DESCRIPTION:趣味斗虫挑战；活动开始后，每天都会解锁一
+ 个新的挑战关卡，共5关。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「衔勇诚砺之证」活动
+DTSTART;TZID=Asia/Shanghai:20250109T100000
+UID:47e29725@trrw.tech
+DESCRIPTION:活动开始后的第一、三、五天，将分别解锁两
+ 个与特定部族有关的新挑战，共六个挑战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「凶魁巨怪觇候录」活动
+DTSTART;TZID=Asia/Shanghai:20250114T100000
+UID:42ed8315@trrw.tech
+DESCRIPTION:从活动开始的第一天起，每两天可解锁新的挑
+ 战。旅行者可以与赫卡对话，进行不同难度的挑战。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「富贵登门·春来早知」活动
+DTSTART;TZID=Asia/Shanghai:20250122T040000
+UID:ef7de398@trrw.tech
+DESCRIPTION:活动期间，将开放「开门迎财·累计登录」与「
+ 旧忆新桃·海灯节答谢」奖励。可获取1600原石、纠缠之
+ 缘*10、智识之冕、祝圣之霜等奖励。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「春曦画桃符」活动
+DTSTART;TZID=Asia/Shanghai:20250124T100000
+UID:df1e12d5@trrw.tech
+DESCRIPTION:活动期间，将陆续解锁「八奇乱斗」、「灯下
+ 演武」、「如意祝柬」、「节庆旅纪」各阶段玩法。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「盛材移涌」活动
+DTSTART;TZID=Asia/Shanghai:20250203T040000
+UID:ae55a84a@trrw.tech
+DESCRIPTION:活动期间，成功挑战「精通秘境」或「炼武秘
+ 境」，消耗「原粹树脂」领取秘宝奖励时，可获得双倍
+ 奖励。
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「和旋舞剧」活动：参与获得活动专属武器「弓·
  冷寂迸音」
 DTSTART;TZID=Asia/Shanghai:20250509T100000
@@ -243,119 +356,6 @@ DESCRIPTION:活动期间，旅行者需要经营一座映影主题的乐
  园「海薇玛映影欢乐城」，乐园中有着三个主要的游乐
  项目「缤纷蹈险奇行」、「妙影名篇」、「悠悠慢庄园
  」。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荣花竞捷之争」活动：参与邀请「深黯的谜烟·
- 欧洛伦(雷)」
-DTSTART;TZID=Asia/Shanghai:20250328T100000
-UID:887935cf@trrw.tech
-DESCRIPTION:「荣花演武」中，旅行者可参与六大部族之间
- 的攻防演武，与伙伴们并肩作战，完成各种演武中的目
- 标，攻夺胜利与荣誉。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无极限超激格斗赛」活动：地下激斗挑战赛
-DTSTART;TZID=Asia/Shanghai:20250407T100000
-UID:62c6a48d@trrw.tech
-DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，共5
- 关。挑战分为「上半场」和「下半场」两场战斗。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「祝圣移涌」活动：圣遗物双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250414T040000
-UID:10ac013c@trrw.tech
-DESCRIPTION:「祝圣移涌」活动期间，旅行者成功挑战「祝
- 圣秘境」，领取秘宝奖励时，消耗「原粹树脂」可获得
- 双倍奖励，每天一共可享受3次双倍掉落机会！
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奇逸角技隆隆擂台」活动：趣味多人挑战
-DTSTART;TZID=Asia/Shanghai:20250421T100000
-UID:36d5d6b4@trrw.tech
-DESCRIPTION:活动开启后的前3天，每天都会解锁新的试炼。
- 旅行者可通过单人匹配或队伍匹配两种方式游玩已解锁
- 的试炼。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「节拍撞球·梅兹特利篇」活动：元素击球挑战
-DTSTART;TZID=Asia/Shanghai:20250428T100000
-UID:91d47b18@trrw.tech
-DESCRIPTION:活动开始后，每天都会解锁一个新的关卡，共6
- 关。旅行者需要移动球板，回击飞来的撞球，击碎各种
- 节奏方块。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「游逸旅闻·诗汇之章」活动：拜访伙伴，闲叙趣
- 闻
-DTSTART;TZID=Asia/Shanghai:20250212T110000
-UID:f6dfa49b@trrw.tech
-DESCRIPTION:活动期间，旅行者可以在地图上寻找伙伴们，
- 并前往各地进行拜访。听他们闲叙一番平日里的趣闻，
- 或是与他们一同度过闲适的一天。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「三川游艺绮梦谭」活动
-DTSTART;TZID=Asia/Shanghai:20250214T100000
-UID:23fd9ee7@trrw.tech
-DESCRIPTION:活动期间，完成各项挑战可获得「游艺印章」
- 。累计获取指定数量的「游艺印章」即可获得「长柄武
- 器·且住亭御咄」、原石、智识之冕、活动专属武器精炼
- 材料等奖励。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「征战勇者淬炼之界」活动
-DTSTART;TZID=Asia/Shanghai:20250224T100000
-UID:255f1bf1@trrw.tech
-DESCRIPTION:活动开始后，每天都会解锁一个新的挑战，每
- 个挑战均有25层战斗关卡，30秒内通过即可继续挑战。通
- 过指定层数，可获得原石、角色天赋素材、祝圣油膏等
- 奖励。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「异域鱼鱼追渔行动」活动：捕捉入侵鱼类
-DTSTART;TZID=Asia/Shanghai:20250305T100000
-UID:e2f4c93c@trrw.tech
-DESCRIPTION:活动中，旅行者需要消耗行动点投掷渔网，捕
- 捉各种入侵的鱼类。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「剪影辑帧」活动：创意广告剪辑
-DTSTART;TZID=Asia/Shanghai:20250312T100000
-UID:57ba71dc@trrw.tech
-DESCRIPTION:旅行者需要根据脚本规划，为每一镜选择合适
- 的素材，组成广告成片并完成剪辑。同一脚本中，同一
- 个素材可至多重复使用3次。
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」「藏金之花」「启示之花」双倍掉落
-DTSTART;TZID=Asia/Shanghai:20250317T100000
-UID:20bcafbf@trrw.tech
-DESCRIPTION:「地脉移涌」活动期间，旅行者成功挑战「地
- 脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝
- 奖励时，消耗「原粹树脂」可获得双倍奖励，每天一共
- 可享受3次双倍掉落机会！
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
