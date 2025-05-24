@@ -1,202 +1,87 @@
-from datetime import timedelta
-import json
 import asyncio
-import aiofiles
-import tomllib
 
-from collections import defaultdict
-from pathlib import Path
-from icalendar import Calendar
 from loguru import logger
+from pathlib import Path
 
-from model import Version, MyCalendar
-
-
-async def copy_source_folder(source: Path, docs_source: Path):
-    game_list = []
-    for game_folder in source.iterdir():
-        game_event_list = []
-        if game_folder.is_dir():
-            game_list.append(game_folder.name)
-            tasks = [
-                read_toml(toml_path)
-                for toml_path in game_folder.iterdir()
-                if toml_path.suffix == ".toml"
-            ]
-            versions_data: list[Version] = await asyncio.gather(*tasks)
-            for version in versions_data:
-                game_event_list.append(
-                    {
-                        "name": f"{version.version}版本「{version.name}」前瞻特别节目",
-                        "start": version.special_program,
-                        "description": f"{version.version}版本「{version.name}」前瞻特别节目",
-                        "location": "{game_name}-前瞻特别节目",
-                        "end": None,
-                    }
-                )
-                if version.update_time is None:
-                    continue
-                game_event_list.append(
-                    {
-                        "name": f"{version.version}版本更新维护",
-                        "start": version.update_time,
-                        "description": f"{version.version}版本更新维护",
-                        "location": f"{game_folder.name}-版本更新",
-                        "end": None,
-                    }
-                )
-                if version.wish is None:
-                    continue
-                for wish in version.wish:
-                    game_event_list.append(
-                        {
-                            "name": f"{wish.type}{version.wish_name}：{wish.name}",
-                            "start": wish.start,
-                            "description": f"{wish.type}{version.wish_name}：{wish.describe}",
-                            "location": f"{game_folder.name}-{version.wish_name}",
-                            "end": wish.end,
-                        }
-                    )
-                if version.event is None:
-                    continue
-                for event in version.event:
-                    game_event_list.append(
-                        {
-                            "name": event.name,
-                            "start": event.start,
-                            "description": event.describe,
-                            "location": f"{game_folder.name}-{event.type}",
-                            "end": event.end,
-                        }
-                    )
-            await write_json(
-                Path(f"{docs_source}/{game_folder.name}.json"), game_event_list
-            )
-    await write_json(Path(f"{docs_source}/game_list.json"), game_list)
+from src.utils.env import get_env
+from src.utils.config import Config, load_config
+from src.utils.data import load_game_data, save_game_data
+from src.utils.api import get_ann_list, get_ann_content
+from src.utils.data_parser.version import Version
+from src.utils.ics import export_ics
 
 
-async def read_toml(toml_path: Path) -> Version:
-    async with aiofiles.open(toml_path, encoding="utf-8") as toml_file:
-        version_dict = tomllib.loads(await toml_file.read())
-    return Version(**version_dict)
+async def update(config: Config):
+    logger.info(f"{'《' + config.name.zh + '》':　>9}开始更新")
+    output_floder = Path(get_env("HC_OUTPUT_DIR")[0])
+    game_name_cn = config.name.zh
+    exist_data = await load_game_data(output_floder, game_name_cn)
 
-
-async def write_ics(ics_path: Path, calendar: Calendar) -> None:
-    if not ics_path.exists():
-        ics_path.parent.mkdir(parents=True, exist_ok=True)
-    async with aiofiles.open(ics_path, "wb") as ics_file:
-        await ics_file.write(calendar.to_ical())
-
-
-async def write_json(json_path: Path, data: dict | list) -> None:
-    if not json_path.exists():
-        json_path.parent.mkdir(parents=True, exist_ok=True)
-    async with aiofiles.open(json_path, "w", encoding="utf-8") as json_file:
-        await json_file.write(json.dumps(data, ensure_ascii=False, default=str))
-
-
-def to_calendar(
-    versions_data: list[Version],
-    game_name: str,
-    continuous: bool = False,
-) -> dict[str, MyCalendar]:
-    calendars: dict[str, MyCalendar] = defaultdict(MyCalendar)
-    for version in versions_data:
-        calendars["前瞻特别节目"].add_event(
-            f"{version.version}版本「{version.name}」前瞻特别节目",
-            version.special_program,
-            f"{version.version}版本「{version.name}」前瞻特别节目",
-            f"{game_name}-前瞻特别节目",
+    ann_list_re = await get_ann_list(config)
+    with Version(
+        config.name.en,
+        ann_list_re,
+    ) as version:
+        current_version = version.code
+        current_version_name = version.name
+        logger.info(
+            f"{'《' + config.name.zh + '》':　>9}{current_version}-「{current_version_name}」"
         )
-        if version.update_time is None:
-            continue
-        calendars["版本更新"].add_event(
-            f"{version.version}版本更新维护",
-            version.update_time,
-            f"{version.version}版本更新维护",
-            f"{game_name}-版本更新",
-            version.update_time + timedelta(hours=5),
-            continuous=True,
+        logger.info(
+            f"{'《' + config.name.zh + '》':　>9}{version.start_time} -> {version.end_time}"
         )
-        if version.wish is None:
-            continue
-        for wish in version.wish:
-            calendars[version.wish_name].add_event(
-                f"{wish.type}{version.wish_name}：{wish.name}",
-                wish.start,
-                f"{wish.type}{version.wish_name}：{wish.describe}",
-                f"{game_name}-{version.wish_name}",
-                wish.end if continuous else None,
-                continuous=continuous,
+        exist_data.set_version_info(
+            current_version,
+            current_version_name,
+            version.banner,
+            version.start_time,
+            version.end_time,
+        )
+        if version.next_version_code is not None:
+            logger.info(
+                f"{'《' + config.name.zh + '》':　>9}{version.next_version_code}前瞻节目时间：{version.next_version_sp_time}"
             )
-        if version.event is None:
-            continue
-        for event in version.event:
-            calendars[event.type].add_event(
-                event.name,
-                event.start,
-                event.describe,
-                f"{game_name}-{event.type}",
-                event.end if continuous else None,
-                continuous=continuous,
+            exist_data.set_version_info(
+                version.next_version_code,
+                name=version.next_version_name,
+                sp_time=version.next_version_sp_time,
             )
-    all_events_cal = MyCalendar()
-    for dif_calendar in calendars.values():
-        all_events_cal += dif_calendar
-    calendars["all"] += all_events_cal
-    return calendars
 
-
-async def generate_ics(
-    output_folder: Path,
-    game_name: str,
-    versions_data: list[Version],
-    continuous: bool = False,
-) -> None:
-    ics_path = Path(
-        f'{output_folder}/{"continuous/" if continuous else ""}{game_name}.ics'
+        ann_content_re = await get_ann_content(config)
+        exist_data.update_ann(
+            config.name.en,
+            version.code,
+            version.start_time,
+            ann_list_re,
+            ann_content_re,
+        )
+        logger.info(
+            f"{'《' + config.name.zh + '》':　>9}{version.code}版本共：{len(next(v for v in exist_data.version_list if v.code == version.code).ann_list)}个事件"
+        )
+    await save_game_data(output_floder, config.name.zh, exist_data)
+    ics_folder = Path(get_env("HC_ICS_DIR")[0])
+    await export_ics(exist_data, config.name.zh, ics_folder)
+    await export_ics(
+        exist_data, config.name.zh, output_floder.parent.parent / "public/ics"
     )
-    logger.info(f"开始生成 {ics_path}...")
-    calendars = to_calendar(versions_data, game_name, continuous=continuous)
-    await write_ics(ics_path, calendars["all"])
-    logger.info(f"{ics_path} DONE.")
-    calendars.pop("all", None)
-    for key, dif_calendar in calendars.items():
-        ics_path = Path(
-            f'{output_folder}/{"continuous/" if continuous else ""}{game_name}/{key}.ics'
-        )
-        await write_ics(ics_path, dif_calendar)
-        logger.info(f"{ics_path} DONE.")
 
 
-async def main(source_files_folder: Path, output_folder: Path) -> None:
-    ics_tasks = []
-    for game_folder in source_files_folder.iterdir():
-        if game_folder.is_dir():
-            logger.info(f"开始读取「{game_folder.name}」活动信息")
-            tasks = [
-                read_toml(toml_path)
-                for toml_path in game_folder.iterdir()
-                if toml_path.suffix == ".toml"
-            ]
-            versions_data: list[Version] = await asyncio.gather(*tasks)
-            logger.info(f"读取到 {len(versions_data)}个「{game_folder.name}」版本")
-            ics_tasks.append(
-                generate_ics(output_folder, game_folder.name, versions_data)
-            )
-            ics_tasks.append(
-                generate_ics(
-                    output_folder, game_folder.name, versions_data, continuous=True
-                )
-            )
-    await asyncio.gather(*ics_tasks)
+async def main():
+    configs = await load_config(Path(get_env("HC_CONFIGS_DIR")[0]))
+    logger.info(f"找到 {len(configs)} 个配置文件")
+    async with asyncio.TaskGroup() as tg:
+        [tg.create_task(update(config)) for config in configs]
 
 
 if __name__ == "__main__":
-    logger.add("hoyo_calendar.log", mode="w")
-    source = Path("source")
-    output = Path("ics")
-    asyncio.run(main(source, output))
+    # logger.remove()
+    # logger.add(
+    #     sys.stdout,
+    #     format="<level>{level: <8}</level><level>{message}</level>",
+    #     colorize=True,
+    # )
+    import time
 
-    docs_source = Path("docs/public/source")
-    asyncio.run(copy_source_folder(source, docs_source))
+    start = time.time()
+    asyncio.run(main())
+    logger.info(f"耗时：{time.time() - start}s")

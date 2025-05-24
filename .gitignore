@@ -1,8 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
 .venv
-.idea
+
+# VS Code
 .vscode
-**/__pycache__/
-archive
-hoyo_calendar.log
-test.py
-push.sh
+
+src/temp

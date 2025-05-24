@@ -1,5 +1,0 @@
-aiofiles==24.1.0
-icalendar==5.0.13
-loguru==0.7.2
-pytz==2024.1
-pydantic~=2.11.0a1

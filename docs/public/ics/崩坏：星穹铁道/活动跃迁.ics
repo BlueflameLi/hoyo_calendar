@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trrrrw/hoyo_calendar//GitHub/CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:活动跃迁活动跃迁：「虹隽晨昏\, 视界来信」角色
+ 、光锥跃迁: 风堇\, 大黑塔\, 愿虹光永驻天空\, 向着不可
+ 追问处
+DTSTART;TZID=Asia/Shanghai:20250521T110000
+UID:79b3d65d@trrw.tech
+DESCRIPTION:活动跃迁活动跃迁：
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:活动跃迁活动跃迁：「虹隽晨昏\, 视界来信」角色
+ 、光锥跃迁: 风堇\, 大黑塔\, 愿虹光永驻天空\, 向着不可
+ 追问处结束
+DTSTART;TZID=Asia/Shanghai:20250611T115900
+UID:0aaa730d@trrw.tech
+DESCRIPTION:活动结束\n活动跃迁活动跃迁：
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

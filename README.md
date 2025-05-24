@@ -13,22 +13,24 @@
 ---
 
 ## 🏮 原神日历
-| 分类           | 订阅链接                                                                                  |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| 📌 全部日程     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神.ics)              |
-| 🌟 角色祈愿     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/祈愿.ics)         |
-| 🎮 游戏活动     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/活动.ics)         |
-| 📺 前瞻直播     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/前瞻特别节目.ics) |
-| ⏰ 任务限时奖励 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/任务限时奖励.ics) |
+| 分类       | 订阅链接                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神.ics)              |
+| 🌟 角色祈愿 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/祈愿.ics)         |
+| 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/活动.ics)         |
+| 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/前瞻特别节目.ics) |
+| ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/版本更新.ics)     |
+<!--
+| ⏰ 任务限时奖励                                                                            | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/任务限时奖励.ics) |
 | 🃏 七圣召唤     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/七圣召唤.ics)     |
 | 👗 衣装限时折扣 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/衣装限时折扣.ics) |
-| ⚙️ 版本更新     | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/原神/版本更新.ics)     |
+--> 
 
 ## 🚄 星穹铁道日历
 | 分类       | 订阅链接                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁.ics)              |
-| 🌟 光锥跃迁 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁/活动跃迁.ics)     |
+| 🌟 活动跃迁 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁/活动跃迁.ics)     |
 | 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁/活动.ics)         |
 | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁/前瞻特别节目.ics) |
 | ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/星铁/版本更新.ics)     |
@@ -42,12 +44,52 @@
 | 📺 前瞻直播   | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/绝区零/前瞻特别节目.ics) |
 | ⚙️ 版本更新   | [点击订阅](https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/绝区零/版本更新.ics)     |
 
+> - 由于使用新的方式获取日程，上面的部分链接可能没有对应文件
+> - 也可以尝试 `https://cal.trrw.tech/`为前缀，例如 `https://cal.trrw.tech/ics/原神.ics`
+
 ---
 
 ## ⚙️ 高级选项
 
 🔹 **连续日程模式**：在URL的`/ics/`后添加`continuous/`即可订阅带持续时间的完整日程  
 > 示例：`https://raw.gitmirror.com/Trrrrw/hoyo_calendar/main/ics/continuous/原神.ics`
+
+---
+
+## 🚀 快速开始
+### 环境要求
+- Python 3.10+
+  - uv
+- Nodejs 18+
+  - yarn
+
+### 环境变量
+| 名称             | 描述                                 |      |
+| ---------------- | ------------------------------------ | ---- |
+| `HC_CONFIGS_DIR` | 配置文件路径                         |      |
+| `HC_OUTPUT_DIR`  | 输出数据json文件路径                 |      |
+| `HC_ICS_DIR`     | 输出ics文件路径                      |      |
+| `HC_GH_URL`      | GitHub仓库链接                       | 可选 |
+| `GH_TOKEN`       | GitHub Token，用于将更新同步到GitHub | 可选 |
+| `PUSH_KEY`       | Server酱 key                         | 可选 |
+| `DEBUG`          | 👇                                    | 可选 |
+
+> 如果设置为"TRUE"，httpx会从`src/temp/{游戏英文代号}`下寻找`ann_list.json`和`ann_content.json`文件作为响应数据
+
+### 操作步骤
+```bash
+# 克隆项目
+git clone https://github.com/Trrrrw/hoyo_calendar.git
+cd hoyo_calendar
+
+# 运行项目
+uv run main.py
+
+# 运行前端
+cd docs
+yarn
+yarn dev
+```
 
 ---
 
@@ -69,10 +111,15 @@
 ---
 
 ## 🌟 项目特点
-- ✅ 非自动同步官方活动日程
+- ✅ 自动同步官方活动日程
 - 🆓 完全免费开源
 - 🔄 每日手动更新
 - 📅 支持主流日历应用
+
+---
+
+## 🙏 特别感谢
+- [游梦纪事](https://github.com/shoyu3/game-events-timeline)
 
 ---
 
