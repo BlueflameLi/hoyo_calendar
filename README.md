@@ -69,12 +69,9 @@
 | `HC_CONFIGS_DIR` | 配置文件路径                         |      |
 | `HC_OUTPUT_DIR`  | 输出数据json文件路径                 |      |
 | `HC_ICS_DIR`     | 输出ics文件路径                      |      |
-| `HC_GH_URL`      | GitHub仓库链接                       | 可选 |
-| `GH_TOKEN`       | GitHub Token，用于将更新同步到GitHub | 可选 |
-| `PUSH_KEY`       | Server酱 key                         | 可选 |
 | `DEBUG`          | 👇                                    | 可选 |
 
-> 如果设置为"TRUE"，httpx会从`src/temp/{游戏英文代号}`下寻找`ann_list.json`和`ann_content.json`文件作为响应数据
+> 如果设置为"TRUE"，httpx会从`src/temp/{游戏英文代号}`文件夹下寻找`ann_list.json`和`ann_content.json`文件作为响应数据
 
 ### 操作步骤
 ```bash
