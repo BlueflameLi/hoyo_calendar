@@ -13,6 +13,8 @@ async def deploy():
         logger.error(f"无法找到Git仓库：{script_dir}")
         return
 
+    #test
+
     # 初始化 repo 对象
     repo = Repo(script_dir)
 
