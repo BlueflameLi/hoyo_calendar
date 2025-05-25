@@ -12,6 +12,9 @@ async def deploy():
         repo = Repo(Path(__file__).resolve().parent.parent.parent)
         origin = repo.remote()
 
+        # 拉取远程更改
+        origin.pull()
+
         # 检查是否有更改需要提交
         try:
             status = repo.git.status("--porcelain")
@@ -21,9 +24,6 @@ async def deploy():
         except Exception as e:
             logger.error(f"检查Git状态时出错：{e}")
             return
-
-        # 拉取远程更改
-        origin.pull()
 
         # 添加所有更改
         repo.git.add(".")
