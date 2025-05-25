@@ -41,12 +41,21 @@ async def deploy():
 
         # 提交更改
         repo.index.commit(commit_message)
+        logger.info("本地提交成功")
 
         # 推送到远程
         try:
             origin = repo.remote("origin")
-            origin.push("main")
-            logger.info("提交并推送成功")
+            push_info = origin.push("main")
+            
+            # 检查推送结果
+            for info in push_info:
+                if info.flags & info.ERROR:
+                    logger.error(f"推送失败：{info.summary}")
+                    return
+                    
+            logger.info("推送到远程仓库成功")
+            
         except GitCommandError as e:
             logger.error(f"推送到远程仓库失败：{e}")
             return
