@@ -13,22 +13,22 @@ LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:活动跃迁活动跃迁：「虹隽晨昏\, 视界来信」角色
- 、光锥跃迁: 风堇\, 大黑塔\, 愿虹光永驻天空\, 向着不可
- 追问处
+SUMMARY:「虹隽晨昏\, 视界来信」角色、光锥跃迁: 风堇\, 
+ 大黑塔\, 愿虹光永驻天空\, 向着不可追问处
 DTSTART;TZID=Asia/Shanghai:20250521T110000
-UID:79b3d65d@trrw.tech
-DESCRIPTION:活动跃迁活动跃迁：
+UID:e2aec65e@trrw.tech
+DESCRIPTION:「虹隽晨昏\, 视界来信」角色、光锥跃迁: 风堇
+ \, 大黑塔\, 愿虹光永驻天空\, 向着不可追问处
 LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:活动跃迁活动跃迁：「虹隽晨昏\, 视界来信」角色
- 、光锥跃迁: 风堇\, 大黑塔\, 愿虹光永驻天空\, 向着不可
- 追问处结束
+SUMMARY:「虹隽晨昏\, 视界来信」角色、光锥跃迁: 风堇\, 
+ 大黑塔\, 愿虹光永驻天空\, 向着不可追问处结束
 DTSTART;TZID=Asia/Shanghai:20250611T115900
-UID:0aaa730d@trrw.tech
-DESCRIPTION:活动结束\n活动跃迁活动跃迁：
+UID:bfeb4e72@trrw.tech
+DESCRIPTION:活动结束\n「虹隽晨昏\, 视界来信」角色、光锥
+ 跃迁: 风堇\, 大黑塔\, 愿虹光永驻天空\, 向着不可追问处
 LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:崩坏：星穹铁道 3.3 版本
 DTSTART;TZID=Asia/Shanghai:20250521T110000
 UID:f9c3612e@trrw.tech
-DESCRIPTION:3.3版本更新说明
+DESCRIPTION:崩坏：星穹铁道 3.3 版本
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:崩坏：星穹铁道 3.3 版本结束
 DTSTART;TZID=Asia/Shanghai:20250702T070000
 UID:424c2b62@trrw.tech
-DESCRIPTION:活动结束\n3.3版本更新说明
+DESCRIPTION:活动结束\n崩坏：星穹铁道 3.3 版本
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -53,7 +53,8 @@ SUMMARY:「银河球棒侠传说：魔王篇」：战胜敌人，获取自
  塑尘脂、特定4星角色等奖励
 DTSTART;TZID=Asia/Shanghai:20250521T110000
 UID:6b26a249@trrw.tech
-DESCRIPTION:
+DESCRIPTION:「银河球棒侠传说：魔王篇」：战胜敌人，获
+ 取自塑尘脂、特定4星角色等奖励
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -62,7 +63,8 @@ SUMMARY:「银河球棒侠传说：魔王篇」：战胜敌人，获取自
  塑尘脂、特定4星角色等奖励结束
 DTSTART;TZID=Asia/Shanghai:20250630T035900
 UID:e718d04f@trrw.tech
-DESCRIPTION:活动结束\n
+DESCRIPTION:活动结束\n「银河球棒侠传说：魔王篇」：战胜
+ 敌人，获取自塑尘脂、特定4星角色等奖励
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT

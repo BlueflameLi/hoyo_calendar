@@ -8,7 +8,7 @@ SUMMARY:「雨阵奔流之述演」活动：桌上推演兵棋
 DTSTART;TZID=Asia/Shanghai:20250519T100000
 DTEND;TZID=Asia/Shanghai:20250603T035959
 UID:0940f694@trrw.tech
-DESCRIPTION:「雨阵奔流之述演」
+DESCRIPTION:「雨阵奔流之述演」活动：桌上推演兵棋
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -18,7 +18,8 @@ SUMMARY:「和旋舞剧」活动：参与获得活动专属武器「弓·
 DTSTART;TZID=Asia/Shanghai:20250509T100000
 DTEND;TZID=Asia/Shanghai:20250526T035959
 UID:ed8ed557@trrw.tech
-DESCRIPTION:「和旋舞剧」
+DESCRIPTION:「和旋舞剧」活动：参与获得活动专属武器「
+ 弓·冷寂迸音」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -28,7 +29,8 @@ SUMMARY:「珍上至珍」时限内完成传说任务，可额外获得原
 DTSTART;TZID=Asia/Shanghai:20250507T110000
 DTEND;TZID=Asia/Shanghai:20250527T175900
 UID:33b5c39b@trrw.tech
-DESCRIPTION:「珍上至珍」
+DESCRIPTION:「珍上至珍」时限内完成传说任务，可额外获
+ 得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -38,7 +40,8 @@ SUMMARY:「圣山所在是安饶之陆」时限内完成探索任务，可
 DTSTART;TZID=Asia/Shanghai:20250324T120000
 DTEND;TZID=Asia/Shanghai:20250617T145959
 UID:be3c9041@trrw.tech
-DESCRIPTION:「圣山所在是安饶之陆」
+DESCRIPTION:「圣山所在是安饶之陆」时限内完成探索任务
+ ，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -47,7 +50,7 @@ SUMMARY:「机谋变策战记」活动：主题配队挑战
 DTSTART;TZID=Asia/Shanghai:20250527T100000
 DTEND;TZID=Asia/Shanghai:20250609T035959
 UID:afaff564@trrw.tech
-DESCRIPTION:「机谋变策战记」
+DESCRIPTION:「机谋变策战记」活动：主题配队挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
