@@ -7,14 +7,23 @@ from git import Repo
 
 
 async def deploy():
-    docs_dir = Path(".")
+    script_dir = Path(__file__).parent.parent.parent
+
+    if not (script_dir / ".git").exists():
+        logger.error(f"无法找到Git仓库：{script_dir}")
+        return
 
     # 初始化 repo 对象
-    repo = Repo(docs_dir)
+    repo = Repo(script_dir)
 
     # 检查是否有更改需要提交
-    if not repo.is_dirty(untracked_files=True):
-        logger.info("没有需要提交的更改")
+    try:
+        status = repo.git.status("--porcelain")
+        if not status:
+            logger.info("没有需要提交的更改")
+            return
+    except Exception as e:
+        logger.error(f"检查Git状态时出错：{e}")
         return
 
     # 添加所有更改到暂存区
