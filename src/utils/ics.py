@@ -204,9 +204,9 @@ def to_calendar(
         if version.wish is not None:
             for wish in version.wish:
                 calendars[version.wish_name].add_event(
-                    f"{wish.type}{version.wish_name}：{wish.name}",
+                    f"{wish.name}",
                     wish.start,
-                    f"{wish.type}{version.wish_name}：{wish.describe}",
+                    f"{wish.name}",
                     f"{game_name}-{version.wish_name}",
                     wish.end,
                     continuous=continuous,
@@ -216,7 +216,7 @@ def to_calendar(
                 calendars[event.type].add_event(
                     event.name,
                     event.start,
-                    event.describe,
+                    event.name,
                     f"{game_name}-{event.type}",
                     event.end,
                     continuous=continuous,
