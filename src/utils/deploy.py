@@ -4,44 +4,44 @@ from pathlib import Path
 from datetime import datetime
 from loguru import logger
 from git import Repo
+from git.exc import GitCommandError
 
 
 async def deploy():
-    script_dir = Path(__file__).parent.parent.parent
-
-    if not (script_dir / ".git").exists():
-        logger.error(f"无法找到Git仓库：{script_dir}")
-        return
-
-    # 初始化 repo 对象
-    repo = Repo(script_dir)
-
-    # 检查是否有更改需要提交
     try:
-        status = repo.git.status("--porcelain")
-        if not status:
-            logger.info("没有需要提交的更改")
+        repo = Repo(Path(__file__).resolve().parent.parent.parent)
+        origin = repo.remote()
+
+        # 检查是否有更改需要提交
+        try:
+            status = repo.git.status("--porcelain")
+            if not status:
+                logger.info("没有需要提交的更改")
+                return
+        except Exception as e:
+            logger.error(f"检查Git状态时出错：{e}")
             return
-    except Exception as e:
-        logger.error(f"检查Git状态时出错：{e}")
+
+        # 拉取远程更改
+        origin.pull()
+
+        # 添加所有更改
+        repo.git.add(".")
+
+        # 提交更改
+        time_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        commit = f"Update {time_now}"
+        if len(sys.argv) > 1 and sys.argv[1] == "qinglong":
+            commit = f"Auto Update {time_now}"
+        repo.index.commit(commit)
+
+        # 推送到远程
+        origin.push()
+        logger.info("提交并推送成功")
+
+    except GitCommandError as e:
+        logger.info(f"Git操作失败: {str(e)}")
         return
-
-    # 添加所有更改到暂存区
-    repo.git.add(".")  # 或使用 repo.index.add(["."])
-
-    # 准备提交信息
-    time_now = datetime.now().strftime("%Y-%m-%d")
-    commit_message = (
-        f"Auto Update {time_now}"
-        if len(sys.argv) > 1 and sys.argv[1] == "qinglong"
-        else f"Update {time_now}"
-    )
-
-    # 提交更改
-    repo.index.commit(commit_message)
-
-    # 推送到远程
-    origin = repo.remote("origin")
-    origin.push("main")
-
-    logger.info("提交成功")
+    except Exception as e:
+        logger.info(f"发生错误: {str(e)}")
+        return
