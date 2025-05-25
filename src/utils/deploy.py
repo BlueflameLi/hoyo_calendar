@@ -46,6 +46,17 @@ async def deploy():
         # 推送到远程
         try:
             origin = repo.remote("origin")
+            
+            # 先拉取远程更改
+            try:
+                logger.info("正在拉取远程更改...")
+                origin.pull("main")
+            except GitCommandError as e:
+                logger.error(f"拉取远程更改失败：{e}")
+                return
+            
+            # 推送更改
+            logger.info("正在推送更改...")
             push_info = origin.push("main")
             
             # 检查推送结果
@@ -53,7 +64,7 @@ async def deploy():
                 if info.flags & info.ERROR:
                     logger.error(f"推送失败：{info.summary}")
                     return
-                    
+            
             logger.info("推送到远程仓库成功")
             
         except GitCommandError as e:
