@@ -18,7 +18,7 @@ async def deploy():
 
     # 检查是否有更改需要提交
     try:
-        status = repo.git.status(porcelain=True)
+        status = repo.git.status("--porcelain")
         if not status:
             logger.info("没有需要提交的更改")
             return
