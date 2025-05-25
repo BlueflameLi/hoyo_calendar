@@ -9,6 +9,7 @@ from src.utils.data import load_game_data, save_game_data
 from src.utils.api import get_ann_list, get_ann_content
 from src.utils.data_parser.version import Version
 from src.utils.ics import export_ics
+from src.utils.deploy import deploy
 
 
 async def update(config: Config):
@@ -71,17 +72,8 @@ async def main():
     logger.info(f"找到 {len(configs)} 个配置文件")
     async with asyncio.TaskGroup() as tg:
         [tg.create_task(update(config)) for config in configs]
+    await deploy()
 
 
 if __name__ == "__main__":
-    # logger.remove()
-    # logger.add(
-    #     sys.stdout,
-    #     format="<level>{level: <8}</level><level>{message}</level>",
-    #     colorize=True,
-    # )
-    import time
-
-    start = time.time()
     asyncio.run(main())
-    logger.info(f"耗时：{time.time() - start}s")
