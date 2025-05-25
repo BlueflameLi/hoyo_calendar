@@ -4,6 +4,7 @@ from pathlib import Path
 from datetime import datetime
 from loguru import logger
 from git import Repo
+from git.exc import GitCommandError
 
 
 async def deploy():
@@ -12,8 +13,6 @@ async def deploy():
     if not (script_dir / ".git").exists():
         logger.error(f"无法找到Git仓库：{script_dir}")
         return
-
-    #test
 
     # 初始化 repo 对象
     repo = Repo(script_dir)
@@ -28,22 +27,30 @@ async def deploy():
         logger.error(f"检查Git状态时出错：{e}")
         return
 
-    # 添加所有更改到暂存区
-    repo.git.add(".")  # 或使用 repo.index.add(["."])
+    try:
+        # 添加所有更改到暂存区
+        repo.git.add(".")
 
-    # 准备提交信息
-    time_now = datetime.now().strftime("%Y-%m-%d")
-    commit_message = (
-        f"Auto Update {time_now}"
-        if len(sys.argv) > 1 and sys.argv[1] == "qinglong"
-        else f"Update {time_now}"
-    )
+        # 准备提交信息
+        time_now = datetime.now().strftime("%Y-%m-%d")
+        commit_message = (
+            f"Auto Update {time_now}"
+            if len(sys.argv) > 1 and sys.argv[1] == "qinglong"
+            else f"Update {time_now}"
+        )
 
-    # 提交更改
-    repo.index.commit(commit_message)
+        # 提交更改
+        repo.index.commit(commit_message)
 
-    # 推送到远程
-    origin = repo.remote("origin")
-    origin.push("main")
+        # 推送到远程
+        try:
+            origin = repo.remote("origin")
+            origin.push("main")
+            logger.info("提交并推送成功")
+        except GitCommandError as e:
+            logger.error(f"推送到远程仓库失败：{e}")
+            return
 
-    logger.info("提交成功")
+    except Exception as e:
+        logger.error(f"Git操作失败：{e}")
+        return
