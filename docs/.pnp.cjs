@@ -31,6 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@vitejs/plugin-vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:5.2.4"],\
           ["ant-design-vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:4.2.6"],\
           ["docs", "workspace:."],\
+          ["frappe-gantt", "npm:1.0.3"],\
           ["vite", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:6.3.5"],\
           ["vite-plugin-vue-devtools", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:7.7.6"],\
           ["vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:3.5.14"]\
@@ -1815,6 +1816,7 @@ const RAW_RUNTIME_STATE =
           ["@vitejs/plugin-vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:5.2.4"],\
           ["ant-design-vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:4.2.6"],\
           ["docs", "workspace:."],\
+          ["frappe-gantt", "npm:1.0.3"],\
           ["vite", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:6.3.5"],\
           ["vite-plugin-vue-devtools", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:7.7.6"],\
           ["vue", "virtual:f245e2efefeea8f2e87d1ac6563152b57ada9a2cb2c85ba0b00e0412c1df74a0c13d19c29df2160b49a40e83eff87a65b114cfca02aaa48862061487b8443207#npm:3.5.14"]\
@@ -2041,6 +2043,15 @@ const RAW_RUNTIME_STATE =
           ["cross-spawn", "npm:7.0.6"],\
           ["foreground-child", "npm:3.3.1"],\
           ["signal-exit", "npm:4.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["frappe-gantt", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "./.yarn/cache/frappe-gantt-npm-1.0.3-a996bd7c54-8a156bb8b3.zip/node_modules/frappe-gantt/",\
+        "packageDependencies": [\
+          ["frappe-gantt", "npm:1.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\

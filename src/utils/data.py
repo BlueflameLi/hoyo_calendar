@@ -266,3 +266,28 @@ async def save_game_data(
     await JsonFile(output_floder / game_name_cn / "data.json").write_async(
         game_data.model_dump(mode="json")
     )
+
+
+def extract_game_list(
+    output_floder: Path, game_name_cn: str, game_icon_name: str, update: bool
+):
+    game_list_file = JsonFile(output_floder / "data.json")
+    game_list = game_list_file.read()
+    if not game_list:
+        game_list = {
+            "games": [],
+            "icons": [],
+            "update_time": 0,
+        }
+    if "games" not in game_list:
+        game_list["games"] = []
+    if "icons" not in game_list:
+        game_list["icons"] = []
+    if "update_time" not in game_list:
+        game_list["update_time"] = 0
+    if game_name_cn not in game_list["games"]:
+        game_list["games"].append(game_name_cn)
+    if game_icon_name not in game_list["icons"]:
+        game_list["icons"].append(game_icon_name)
+    if update:
+        game_list["update_time"] = int(datetime.now().timestamp())

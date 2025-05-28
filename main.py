@@ -17,6 +17,9 @@ async def update(config: Config):
     output_floder = Path(get_env("HC_OUTPUT_DIR")[0])
     game_name_cn = config.name.zh
     exist_data = await load_game_data(output_floder, game_name_cn)
+    origin_data = exist_data.model_copy()
+    print(origin_data == exist_data)
+    return
 
     ann_list_re = await get_ann_list(config)
     with Version(

@@ -2,11 +2,12 @@
 
 #app {
   /* max-width: 1280px; */
-  margin: 0 auto;
+  width: 100%;
+  /* margin: 0 auto; */
   height: 100%;
-  padding: 2rem;
+  /* padding: 2rem; */
   /* font-weight: normal; */
-  text-align: center;
+  /* text-align: center; */
 }
 
 a,
@@ -32,6 +33,6 @@ a,
   #app {
     /* display: grid; */
     /* grid-template-columns: 1fr 1fr; */
-    padding: 0 2rem;
+    /* padding: 0 2rem; */
   }
 }
