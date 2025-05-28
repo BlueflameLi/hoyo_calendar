@@ -5,7 +5,7 @@ from pathlib import Path
 
 from src.utils.env import get_env
 from src.utils.config import Config, load_config
-from src.utils.data import load_game_data, save_game_data
+from src.utils.data import load_game_data, save_game_data, extract_game_list
 from src.utils.api import get_ann_list, get_ann_content
 from src.utils.data_parser.version import Version
 from src.utils.ics import export_ics
@@ -18,8 +18,6 @@ async def update(config: Config):
     game_name_cn = config.name.zh
     exist_data = await load_game_data(output_floder, game_name_cn)
     origin_data = exist_data.model_copy()
-    print(origin_data == exist_data)
-    return
 
     ann_list_re = await get_ann_list(config)
     with Version(
@@ -62,6 +60,13 @@ async def update(config: Config):
         logger.info(
             f"{'《' + config.name.zh + '》':　>9}{version.code}版本共：{len(next(v for v in exist_data.version_list if v.code == version.code).ann_list)}个事件"
         )
+
+    extract_game_list(
+        output_floder,
+        config.name.zh,
+        config.icon,
+        True if exist_data != origin_data else False,
+    )
     await save_game_data(output_floder, config.name.zh, exist_data)
     ics_folder = Path(get_env("HC_ICS_DIR")[0])
     await export_ics(exist_data, config.name.zh, ics_folder)
@@ -75,7 +80,7 @@ async def main():
     logger.info(f"找到 {len(configs)} 个配置文件")
     async with asyncio.TaskGroup() as tg:
         [tg.create_task(update(config)) for config in configs]
-    await deploy()
+    # await deploy()
 
 
 if __name__ == "__main__":

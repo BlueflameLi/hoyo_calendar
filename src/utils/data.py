@@ -291,3 +291,4 @@ def extract_game_list(
         game_list["icons"].append(game_icon_name)
     if update:
         game_list["update_time"] = int(datetime.now().timestamp())
+    game_list_file.write(game_list)

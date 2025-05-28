@@ -4,6 +4,7 @@
 #
 # Modifications:
 # - 对 version_begin_time 进行了修正
+# - 删除版本事件
 #
 # MIT License
 
@@ -53,21 +54,21 @@ def process_ys_announcements(data, content_map, version_now, version_begin_time)
     filtered_list = []
 
     # Process version announcements
-    for item in data["data"]["list"]:
-        if item["type_label"] == "游戏公告":
-            for announcement in item["list"]:
-                clean_title = remove_html_tags(announcement["title"])
-                if "版本更新说明" in clean_title:
-                    version_now = str(extract_floats(clean_title)[0])
-                    announcement["title"] = "原神 " + version_now + " 版本"
-                    announcement["bannerImage"] = announcement.get("banner", "")
-                    announcement["event_type"] = "version"
-                    announcement["start_time"] = correct_version_start_time(
-                        announcement["start_time"]
-                    )
-                    version_begin_time = announcement["start_time"]
-                    filtered_list.append(announcement)
-                    break
+    # for item in data["data"]["list"]:
+    #     if item["type_label"] == "游戏公告":
+    #         for announcement in item["list"]:
+    #             clean_title = remove_html_tags(announcement["title"])
+    #             if "版本更新说明" in clean_title:
+    #                 version_now = str(extract_floats(clean_title)[0])
+    #                 announcement["title"] = "原神 " + version_now + " 版本"
+    #                 announcement["bannerImage"] = announcement.get("banner", "")
+    #                 announcement["event_type"] = "version"
+    #                 announcement["start_time"] = correct_version_start_time(
+    #                     announcement["start_time"]
+    #                 )
+    #                 version_begin_time = announcement["start_time"]
+    #                 filtered_list.append(announcement)
+    #                 break
 
     # Process event and gacha announcements
     for item in data["data"]["list"]:

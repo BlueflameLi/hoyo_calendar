@@ -57,8 +57,11 @@ class JsonFile(File):
             raise TypeError(f"{path} is not a json file")
 
     def read(self, encoding: str = "utf-8") -> dict:
-        with open(self.path, "r", encoding=encoding) as f:
-            return json.load(f)
+        try:
+            with open(self.path, "r", encoding=encoding) as f:
+                return json.load(f)
+        except FileNotFoundError:
+            return {}
 
     async def read_async(self, encoding: str = "utf-8") -> dict:
         async with aiofiles.open(self.path, "r", encoding=encoding) as f:
@@ -66,6 +69,10 @@ class JsonFile(File):
             if not content.strip():
                 return {}
             return json.loads(content)
+
+    def write(self, content: str | int | bytes | dict) -> None:
+        with open(self.path, "w", encoding="utf-8") as f:
+            f.write(json.dumps(content, ensure_ascii=False))
 
     async def write_async(self, content: str | int | bytes | dict) -> None:
         async with aiofiles.open(self.path, "w", encoding="utf-8") as f:

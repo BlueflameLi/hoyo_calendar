@@ -1,54 +1,215 @@
 <script setup>
 import Footer from './components/Footer.vue'
-import { reactive, ref, computed, watchEffect, watch, onMounted, onUnmounted } from "vue"
+import { reactive, ref, computed, watch, onMounted, onUnmounted } from "vue"
+import { message } from 'ant-design-vue'
 import Gantt from 'frappe-gantt'
+import gamesListData from "./data/data.json"
+import { getColorFromString } from './utils/getColorFromString'
+import { formatDate } from './utils/dateHandler'
+
+
+const gamesList = reactive(gamesListData.games)
+const gamesData = ref({})
+const showAnnInfo = ref(false)
+const selectedAnnInfo = ref({})
+const selectedGames = ref(gamesList)
+
+const countdown = ref('')
+
+// 计算倒计时的方法
+const updateCountdown = () => {
+    if (!selectedAnnInfo.value.end) {
+        countdown.value = ''
+        return
+    }
+
+    const endTime = new Date(selectedAnnInfo.value.end)
+    const now = new Date()
+    const diff = endTime - now
+
+    if (diff <= 0) {
+        countdown.value = '已结束'
+        return
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24))
+    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))
+    const seconds = Math.floor((diff % (1000 * 60)) / 1000)
+
+    countdown.value = `${days}天 ${hours}:${minutes}:${seconds}`
+}
 
 const pageContentHeight = ref('auto')
 let gantt = null
-const updateContentHeight = () => {
+const updateGanttHeight = () => {
     const content_element = document.querySelector('.page-content')
     pageContentHeight.value = content_element.clientHeight
     if (gantt) {
         gantt.update_options({ container_height: pageContentHeight.value, })
     }
 }
+const updateGanttTask = checkedValue => {
+    selectedGames.value.sort((a, b) => {
+        return gamesList.indexOf(a) - gamesList.indexOf(b)
+    })
 
+    let tasks = []
+    for (const game of selectedGames.value) {
+        for (const ann of gamesData.value[game]) {
+            tasks.push({
+                id: stringToHash(ann.title),
+                name: ann.title,
+                banner: ann.banner,
+                // description: ann.description,
+                start: ann.start_time,
+                end: ann.end_time,
+                // progress: calculateTimePercentage(ann.start_time, ann.end_time),
+                color: getColorFromString(game),
+            })
+        }
+    }
+    gantt.refresh(tasks)
+}
+
+const stringToHash = str => {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = (hash << 5) - hash + char;
+        hash = hash & hash; // 转换为32位整数
+    }
+    return Math.abs(hash);
+}
+
+const isTodayBetweenDates = (startTime, endTime) => {
+    const today = new Date();
+    const startDate = new Date(startTime);
+    const endDate = new Date(endTime);
+
+    return today >= startDate && today <= endDate;
+}
+
+// const calculateTimePercentage = (startTime, endTime) => {
+//     const start = new Date(startTime).getTime();
+//     const end = new Date(endTime).getTime();
+//     const current = new Date().getTime();
+
+//     // 确保时间范围有效
+//     if (start >= end) return 0;
+
+//     // 计算百分比
+//     const totalDuration = end - start;
+//     const elapsedDuration = current - start;
+
+//     // 处理边界情况
+//     if (elapsedDuration <= 0) return 0;
+//     if (elapsedDuration >= totalDuration) return 100;
+
+//     // 返回0-100之间的数值，保留小数
+//     const percentage = Math.floor((elapsedDuration / totalDuration) * 100);
+//     console.log(percentage);
+//     return percentage;
+// }
 
 /** 动态导入 JSON 文件 */
 const loadData = async () => {
-    try {
-        // 动态导入 JSON 文件
-
-
-        // 创建 Gantt 实例
-        let tasks = [
-            {
-                id: '1',
-                name: 'Redesign website',
-                start: '2025-5-27',
-                end: '2025-8-29',
-                progress: 40
+    // 动态导入 JSON 文件
+    for (const game of gamesList) {
+        gamesData.value[game] = []
+        try {
+            const data = (await import(`./data/${game}/data.json`)).default
+            for (const version of data.version_list) {
+                if (isTodayBetweenDates(version.start_time, version.end_time)) {
+                    gamesData.value[game].push({
+                        "title": `《${game}》${version.code}版本`,
+                        "description": `《${game}》${version.code}版本 ${version.name}`,
+                        "game": game,
+                        "start_time": version.start_time,
+                        "end_time": version.end_time,
+                        "banner": version.banner,
+                        "ann_type": "version"
+                    })
+                }
+                for (const ann of version.ann_list) {
+                    if (isTodayBetweenDates(ann.start_time, ann.end_time)) {
+                        gamesData.value[game].push({
+                            "title": ann.title,
+                            "description": ann.description,
+                            "game": game,
+                            "start_time": ann.start_time,
+                            "end_time": ann.end_time,
+                            "banner": ann.banner,
+                            "ann_type": ann.ann_type,
+                        })
+                    }
+                }
             }
-        ]
+        } catch (error) {
+            console.log(error)
+            message.error(`加载 ${game} 数据失败`)
+        }
+    }
+}
+
+const loadGantt = async () => {
+    // 创建 Gantt 实例
+    try {
+        let tasks = []
+        for (const game of selectedGames.value) {
+            for (const ann of gamesData.value[game]) {
+                tasks.push({
+                    id: stringToHash(ann.title),
+                    name: ann.title,
+                    banner: ann.banner,
+                    // description: ann.description,
+                    start: ann.start_time,
+                    end: ann.end_time,
+                    // progress: calculateTimePercentage(ann.start_time, ann.end_time),
+                    color: getColorFromString(game),
+                })
+            }
+        }
         gantt = new Gantt("#gantt", tasks, {
+            // auto_move_label: true,
             language: "zh",
             readonly: true,
             container_height: pageContentHeight.value,
             infinite_padding: false,
-        });
+            on_click: (task) => {
+                showAnnInfo.value = true
+                selectedAnnInfo.value = task
+            },
+            popup: false,
+        })
     } catch (error) {
         console.log(error)
+        message.error(`加载图表失败`)
     }
+}
+
+
+const colorSchemeQuery = window.matchMedia('(prefers-color-scheme: dark)')
+const handleColorSchemeChange = (e) => {
+    updateGanttTask()
 }
 
 // 监听路由参数变化并重新加载数据
 onMounted(async () => {
-    updateContentHeight()
-    loadData()
-    window.addEventListener('resize', updateContentHeight)
+    updateGanttHeight()
+    await loadData()
+    loadGantt()
+    window.addEventListener('resize', updateGanttHeight)
+    colorSchemeQuery.addEventListener('change', handleColorSchemeChange)
+    const timer = setInterval(() => {
+        if (showAnnInfo.value) {
+            updateCountdown()
+        }
+    }, 1000)
 })
 onUnmounted(() => {
-    window.removeEventListener('resize', updateContentHeight)
+    window.removeEventListener('resize', updateGanttHeight)
+    clearInterval(timer)
 })
 
 </script>
@@ -58,11 +219,31 @@ onUnmounted(() => {
         <a-layout-content class="page-content">
             <!-- 甘特图 -->
             <div id="gantt"></div>
+            <!-- 弹窗 -->
+            <div class="gantt-overlay">
+                <a-card :bodyStyle="{ borderRadius: '8px' }">
+                    <a-checkbox-group v-model:value="selectedGames" @change="updateGanttTask">
+                        <a-checkbox v-for="game in gamesList" :value="game">
+                            {{ game }}
+                        </a-checkbox>
+                    </a-checkbox-group>
+                </a-card>
+            </div>
+            <div class="ann-info-overlay">
+                <a-card v-if="showAnnInfo">
+                    <template #cover>
+                        <img :alt="selectedAnnInfo.name" :src="selectedAnnInfo.banner" />
+                    </template>
+                    <a-card-meta :title="selectedAnnInfo.name">
+                        <template #description>
+                            {{ formatDate(selectedAnnInfo.start) }} - {{ formatDate(selectedAnnInfo.end) }}
+                            <br />
+                            剩余时间 {{ countdown }}
+                        </template>
+                    </a-card-meta>
+                </a-card>
+            </div>
         </a-layout-content>
-        <!-- Footer -->
-        <a-layout-footer class="page-footer">
-            <Footer></Footer>
-        </a-layout-footer>
     </a-layout>
 </template>
 
@@ -79,16 +260,70 @@ onUnmounted(() => {
     line-height: 120px;
 }
 
-/* #gantt {
-    width: 100%;
+.gantt-overlay {
+    position: absolute;
+    left: 32px;
+    bottom: 32px;
+    z-index: 1;
 }
 
-:deep(.grid-header),
-:deep(.grid-background) {
-    width: 100% !important;
-} */
+.ann-info-overlay {
+    position: absolute;
+    right: 32px;
+    bottom: 32px;
+    z-index: 1;
+    max-width: 35%;
+}
 
-.page-footer {
-    background-color: transparent;
+@media (prefers-color-scheme: light) {
+    :deep(.bar-label) {
+        fill: #181a1b;
+    }
+
+    :deep(.today-button) {
+        background-color: #f3f3f3 !important;
+    }
+
+    :deep(.grid-header),
+    :deep(.grid-header) * {
+        background-color: white;
+    }
+
+    :deep(.side-header) *,
+    :deep(.upper-text) {
+        color: #181a1b;
+    }
+
+    :deep(.ant-card-body) {
+        background-color: white;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :deep(.bar-label) {
+        fill: white;
+    }
+
+    :deep(.today-button) {
+        background-color: #0c0c0c !important;
+    }
+
+    :deep(.grid-header),
+    :deep(.grid-header) * {
+        background-color: #181a1b;
+    }
+
+    :deep(.side-header) *,
+    :deep(.upper-text) {
+        color: white;
+    }
+
+    :deep(.ant-card-body) {
+        background-color: #181a1b;
+    }
+
+    :deep(.ant-card-body) * {
+        color: white;
+    }
 }
 </style>

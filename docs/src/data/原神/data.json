@@ -1,1 +1,134 @@
-{"version_list": [{"name": "悖理", "code": "5.6", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/24/64c73e0feb1382fe1302802059e39f4e_1678188396319575426.jpg", "start_time": "2025-05-07T11:00:00", "end_time": "2025-06-18T06:00:00", "sp_time": null, "ann_list": [{"id": 21141, "title": "原神 5.6 版本", "description": "5.6版本更新说明", "game": "原神", "start_time": "2025-05-07T11:00:00", "end_time": "2025-06-18T06:00:00", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/24/64c73e0feb1382fe1302802059e39f4e_1678188396319575426.jpg", "ann_type": "version"}, {"id": 21113, "title": "「巡火猎秘」角色祈愿: 基尼奇", "description": "「巡火猎秘」祈愿", "game": "原神", "start_time": "2025-05-27T18:00:00", "end_time": "2025-06-17T14:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/6c41ce910b9b2fc8af3679a319448925_1239699432953303235.png", "ann_type": "gacha"}, {"id": 21114, "title": "「影寂天下人」角色祈愿: 雷电将军", "description": "「影寂天下人」祈愿", "game": "原神", "start_time": "2025-05-27T18:00:00", "end_time": "2025-06-17T14:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/814a42cec82961243591e619aab4b785_2378943652187334315.png", "ann_type": "gacha"}, {"id": 21115, "title": "「神铸赋形」武器祈愿: 山王长牙, 薙草之稻光", "description": "「神铸赋形」祈愿", "game": "原神", "start_time": "2025-05-27T18:00:00", "end_time": "2025-06-17T14:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/c87c4ade57711ec466b78c857dba5ecf_6092058254131077827.png", "ann_type": "gacha"}, {"id": 21106, "title": "「鸣雷贯天原」集录祈愿", "description": "「鸣雷贯天原」祈愿", "game": "原神", "start_time": "2025-05-22T16:00:00", "end_time": "2025-06-17T14:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/2a3f0e2c17a8c8d05fffb9e1a4cb7208_5029805462550361538.png", "ann_type": "gacha"}, {"id": 21112, "title": "「雨阵奔流之述演」活动：桌上推演兵棋", "description": "「雨阵奔流之述演」", "game": "原神", "start_time": "2025-05-19T10:00:00", "end_time": "2025-06-03T03:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/e62c5b89c73b8f6b6ca234ffcffc2ae0_2829319762173889673.png", "ann_type": "event"}, {"id": 21110, "title": "「和旋舞剧」活动：参与获得活动专属武器「弓·冷寂迸音」", "description": "「和旋舞剧」", "game": "原神", "start_time": "2025-05-09T10:00:00", "end_time": "2025-05-26T03:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/ae8c4599b1c50a2e5735451c28984163_796290804591852021.png", "ann_type": "event"}, {"id": 21103, "title": "「莓色香颂」角色祈愿: 爱可菲", "description": "「莓色香颂」祈愿", "game": "原神", "start_time": "2025-05-07T11:00:00", "end_time": "2025-05-27T17:59:00", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/e3bbe5840f24c4ab0635019da5c71b37_6891739823487935002.png", "ann_type": "gacha"}, {"id": 21104, "title": "「刺玫的铭誓」角色祈愿: 娜维娅", "description": "「刺玫的铭誓」祈愿", "game": "原神", "start_time": "2025-05-07T11:00:00", "end_time": "2025-05-27T17:59:00", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/7ef46e7ae7a8e6fa6e93082b327bf0d5_6139600013638855277.png", "ann_type": "gacha"}, {"id": 21105, "title": "「神铸赋形」武器祈愿: 香韵奏者, 裁断", "description": "「神铸赋形」祈愿", "game": "原神", "start_time": "2025-05-07T11:00:00", "end_time": "2025-05-27T17:59:00", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/b28047489c758bf229e84e95fd745576_8959763759873585938.png", "ann_type": "gacha"}, {"id": 21107, "title": "「珍上至珍」时限内完成传说任务，可额外获得原石、角色突破素材等奖励", "description": "「珍上至珍」", "game": "原神", "start_time": "2025-05-07T11:00:00", "end_time": "2025-05-27T17:59:00", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/ddb3e5eb16bf869f79784dcb2a53fb28_5629631432622109280.png", "ann_type": "event"}, {"id": 21043, "title": "「圣山所在是安饶之陆」时限内完成探索任务，可额外获得原石*400奖励", "description": "「圣山所在是安饶之陆」", "game": "原神", "start_time": "2025-03-24T12:00:00", "end_time": "2025-06-17T14:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/03/12/f656f538861cb36ec6892a38c165cb7d_5724415489185052321.jpg", "ann_type": "event"}, {"id": 21116, "title": "「机谋变策战记」活动：主题配队挑战", "description": "「机谋变策战记」", "game": "原神", "start_time": "2025-05-27T10:00:00", "end_time": "2025-06-09T03:59:59", "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/a5691b79e6fbf8d51ffc07c83bb4c9dd_2901747956486262590.png", "ann_type": "event"}]}]}
+{
+    "version_list": [
+        {
+            "name": "悖理",
+            "code": "5.6",
+            "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/24/64c73e0feb1382fe1302802059e39f4e_1678188396319575426.jpg",
+            "start_time": "2025-05-07T11:00:00",
+            "end_time": "2025-06-18T06:00:00",
+            "sp_time": null,
+            "ann_list": [
+                {
+                    "id": 21113,
+                    "title": "「巡火猎秘」角色祈愿: 基尼奇",
+                    "description": "「巡火猎秘」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-27T18:00:00",
+                    "end_time": "2025-06-17T14:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/6c41ce910b9b2fc8af3679a319448925_1239699432953303235.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21114,
+                    "title": "「影寂天下人」角色祈愿: 雷电将军",
+                    "description": "「影寂天下人」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-27T18:00:00",
+                    "end_time": "2025-06-17T14:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/814a42cec82961243591e619aab4b785_2378943652187334315.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21115,
+                    "title": "「神铸赋形」武器祈愿: 山王长牙, 薙草之稻光",
+                    "description": "「神铸赋形」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-27T18:00:00",
+                    "end_time": "2025-06-17T14:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/c87c4ade57711ec466b78c857dba5ecf_6092058254131077827.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21106,
+                    "title": "「鸣雷贯天原」集录祈愿",
+                    "description": "「鸣雷贯天原」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-22T16:00:00",
+                    "end_time": "2025-06-17T14:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/2a3f0e2c17a8c8d05fffb9e1a4cb7208_5029805462550361538.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21112,
+                    "title": "「雨阵奔流之述演」活动：桌上推演兵棋",
+                    "description": "「雨阵奔流之述演」",
+                    "game": "原神",
+                    "start_time": "2025-05-19T10:00:00",
+                    "end_time": "2025-06-03T03:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/e62c5b89c73b8f6b6ca234ffcffc2ae0_2829319762173889673.png",
+                    "ann_type": "event"
+                },
+                {
+                    "id": 21110,
+                    "title": "「和旋舞剧」活动：参与获得活动专属武器「弓·冷寂迸音」",
+                    "description": "「和旋舞剧」",
+                    "game": "原神",
+                    "start_time": "2025-05-09T10:00:00",
+                    "end_time": "2025-05-26T03:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/ae8c4599b1c50a2e5735451c28984163_796290804591852021.png",
+                    "ann_type": "event"
+                },
+                {
+                    "id": 21103,
+                    "title": "「莓色香颂」角色祈愿: 爱可菲",
+                    "description": "「莓色香颂」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-07T11:00:00",
+                    "end_time": "2025-05-27T17:59:00",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/e3bbe5840f24c4ab0635019da5c71b37_6891739823487935002.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21104,
+                    "title": "「刺玫的铭誓」角色祈愿: 娜维娅",
+                    "description": "「刺玫的铭誓」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-07T11:00:00",
+                    "end_time": "2025-05-27T17:59:00",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/7ef46e7ae7a8e6fa6e93082b327bf0d5_6139600013638855277.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21105,
+                    "title": "「神铸赋形」武器祈愿: 香韵奏者, 裁断",
+                    "description": "「神铸赋形」祈愿",
+                    "game": "原神",
+                    "start_time": "2025-05-07T11:00:00",
+                    "end_time": "2025-05-27T17:59:00",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/b28047489c758bf229e84e95fd745576_8959763759873585938.png",
+                    "ann_type": "gacha"
+                },
+                {
+                    "id": 21107,
+                    "title": "「珍上至珍」时限内完成传说任务，可额外获得原石、角色突破素材等奖励",
+                    "description": "「珍上至珍」",
+                    "game": "原神",
+                    "start_time": "2025-05-07T11:00:00",
+                    "end_time": "2025-05-27T17:59:00",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/04/22/ddb3e5eb16bf869f79784dcb2a53fb28_5629631432622109280.png",
+                    "ann_type": "event"
+                },
+                {
+                    "id": 21043,
+                    "title": "「圣山所在是安饶之陆」时限内完成探索任务，可额外获得原石*400奖励",
+                    "description": "「圣山所在是安饶之陆」",
+                    "game": "原神",
+                    "start_time": "2025-03-24T12:00:00",
+                    "end_time": "2025-06-17T14:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/03/12/f656f538861cb36ec6892a38c165cb7d_5724415489185052321.jpg",
+                    "ann_type": "event"
+                },
+                {
+                    "id": 21116,
+                    "title": "「机谋变策战记」活动：主题配队挑战",
+                    "description": "「机谋变策战记」",
+                    "game": "原神",
+                    "start_time": "2025-05-27T10:00:00",
+                    "end_time": "2025-06-09T03:59:59",
+                    "banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/05/09/a5691b79e6fbf8d51ffc07c83bb4c9dd_2901747956486262590.png",
+                    "ann_type": "event"
+                }
+            ]
+        }
+    ]
+}
