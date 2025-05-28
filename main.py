@@ -80,7 +80,7 @@ async def main():
     logger.info(f"找到 {len(configs)} 个配置文件")
     async with asyncio.TaskGroup() as tg:
         [tg.create_task(update(config)) for config in configs]
-    # await deploy()
+    await deploy()
 
 
 if __name__ == "__main__":
