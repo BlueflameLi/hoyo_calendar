@@ -6,11 +6,11 @@ export const getColorFromString = str => {
 
     switch (str) {
         case "原神":
-            return isDarkMode ? "#808080" : "#aaaaaa"
+            return isDarkMode ? "#c2383d" : "#F16B6F"
         case "崩坏：星穹铁道":
-            return isDarkMode ? "#555555" : "#bfbfbf"
+            return isDarkMode ? "#7f9eb2" : "#C5C6B6"
         case "绝区零":
-            return isDarkMode ? "#404040" : "#cccccc"
+            return isDarkMode ? "#aacd78" : "#AACD6E"
         default:
             return '#1890ff'
     }

@@ -156,20 +156,20 @@ def process_sr_announcements(
     filtered_list = []
 
     # Process version announcements
-    for item in data["data"]["list"]:
-        if item["type_label"] == "公告":
-            for announcement in item["list"]:
-                clean_title = remove_html_tags(announcement["title"])
-                if "版本更新说明" in clean_title:
-                    version_now = str(extract_floats(clean_title)[0])
-                    announcement["title"] = "崩坏：星穹铁道 " + version_now + " 版本"
-                    announcement["bannerImage"] = announcement.get("banner", "")
-                    announcement["event_type"] = "version"
-                    announcement["start_time"] = correct_version_start_time(
-                        announcement["start_time"]
-                    )
-                    version_begin_time = announcement["start_time"]
-                    filtered_list.append(announcement)
+    # for item in data["data"]["list"]:
+    #     if item["type_label"] == "公告":
+    #         for announcement in item["list"]:
+    #             clean_title = remove_html_tags(announcement["title"])
+    #             if "版本更新说明" in clean_title:
+    #                 version_now = str(extract_floats(clean_title)[0])
+    #                 announcement["title"] = "崩坏：星穹铁道 " + version_now + " 版本"
+    #                 announcement["bannerImage"] = announcement.get("banner", "")
+    #                 announcement["event_type"] = "version"
+    #                 announcement["start_time"] = correct_version_start_time(
+    #                     announcement["start_time"]
+    #                 )
+    #                 version_begin_time = announcement["start_time"]
+    #                 filtered_list.append(announcement)
 
     # Process event announcements from list
     for item in data["data"]["list"]:
@@ -296,21 +296,21 @@ def process_zzz_announcements(data, content_map, version_now, version_begin_time
     filtered_list = []
 
     # Process version announcements
-    for item in data["data"]["list"]:
-        if item["type_label"] == "游戏公告":
-            for announcement in item["list"]:
-                clean_title = remove_html_tags(announcement["title"])
-                # print(clean_title)
-                if "更新说明" in clean_title and "版本" in clean_title:
-                    version_now = str(extract_floats(clean_title)[0])
-                    announcement["title"] = "绝区零 " + version_now + " 版本"
-                    announcement["bannerImage"] = announcement.get("banner", "")
-                    announcement["event_type"] = "version"
-                    announcement["start_time"] = correct_version_start_time(
-                        announcement["start_time"]
-                    )
-                    version_begin_time = announcement["start_time"]
-                    filtered_list.append(announcement)
+    # for item in data["data"]["list"]:
+    #     if item["type_label"] == "游戏公告":
+    #         for announcement in item["list"]:
+    #             clean_title = remove_html_tags(announcement["title"])
+    #             # print(clean_title)
+    #             if "更新说明" in clean_title and "版本" in clean_title:
+    #                 version_now = str(extract_floats(clean_title)[0])
+    #                 announcement["title"] = "绝区零 " + version_now + " 版本"
+    #                 announcement["bannerImage"] = announcement.get("banner", "")
+    #                 announcement["event_type"] = "version"
+    #                 announcement["start_time"] = correct_version_start_time(
+    #                     announcement["start_time"]
+    #                 )
+    #                 version_begin_time = announcement["start_time"]
+    #                 filtered_list.append(announcement)
 
     # Process event and gacha announcements
     for item in data["data"]["list"]:

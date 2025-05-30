@@ -36,8 +36,11 @@ const updateCountdown = () => {
     const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
     const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))
     const seconds = Math.floor((diff % (1000 * 60)) / 1000)
+    const paddedHours = String(hours).padStart(2, '0')
+    const paddedMinutes = String(minutes).padStart(2, '0')
+    const paddedSeconds = String(seconds).padStart(2, '0')
 
-    countdown.value = `${days}天 ${hours}:${minutes}:${seconds}`
+    countdown.value = `${days}天 ${paddedHours}:${paddedMinutes}:${paddedSeconds}`
 }
 
 const pageContentHeight = ref('auto')
@@ -194,6 +197,15 @@ const handleColorSchemeChange = (e) => {
     updateGanttTask()
 }
 
+// 处理鼠标滚轮事件，实现水平滚动
+const handleGanttScroll = (e) => {
+    e.preventDefault(); // 阻止默认的垂直滚动行为
+    const ganttContainer = document.querySelector('.gantt-container');
+    if (ganttContainer) {
+        ganttContainer.scrollLeft += e.deltaY;
+    }
+}
+
 // 监听路由参数变化并重新加载数据
 onMounted(async () => {
     updateGanttHeight()
@@ -206,10 +218,22 @@ onMounted(async () => {
             updateCountdown()
         }
     }, 1000)
+
+    // 添加鼠标滚轮事件监听
+    const ganttContainer = document.querySelector('.gantt-container')
+    if (ganttContainer) {
+        ganttContainer.addEventListener('wheel', handleGanttScroll)
+    }
 })
 onUnmounted(() => {
     window.removeEventListener('resize', updateGanttHeight)
     clearInterval(timer)
+
+    // 移除鼠标滚轮事件监听
+    const ganttContainer = document.querySelector('.gantt-container');
+    if (ganttContainer) {
+        ganttContainer.removeEventListener('wheel', handleGanttScroll);
+    }
 })
 
 </script>
@@ -221,7 +245,7 @@ onUnmounted(() => {
             <div id="gantt"></div>
             <!-- 弹窗 -->
             <div class="gantt-overlay">
-                <a-card :bodyStyle="{ borderRadius: '8px' }">
+                <a-card :bodyStyle="{ borderRadius: '8px', boxShadow: 'rgba(0, 0, 0, 0.2) 2px 2px 10px 0px' }">
                     <a-checkbox-group v-model:value="selectedGames" @change="updateGanttTask">
                         <a-checkbox v-for="game in gamesList" :value="game">
                             {{ game }}
@@ -260,19 +284,26 @@ onUnmounted(() => {
     line-height: 120px;
 }
 
-.gantt-overlay {
+.gantt-overlay,
+.ann-info-overlay {
     position: absolute;
-    left: 32px;
+    z-index: 1000;
     bottom: 32px;
-    z-index: 1;
+}
+
+.gantt-overlay {
+    left: 32px;
 }
 
 .ann-info-overlay {
-    position: absolute;
     right: 32px;
-    bottom: 32px;
-    z-index: 1;
     max-width: 35%;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 10px 0px;
+    border-radius: 8px;
+}
+
+:deep(.gantt-container) {
+    overflow-y: hidden;
 }
 
 @media (prefers-color-scheme: light) {
@@ -287,6 +318,10 @@ onUnmounted(() => {
     :deep(.grid-header),
     :deep(.grid-header) * {
         background-color: white;
+    }
+
+    :deep(.current-date-highlight) {
+        color: #181a1b;
     }
 
     :deep(.side-header) *,
@@ -311,6 +346,10 @@ onUnmounted(() => {
     :deep(.grid-header),
     :deep(.grid-header) * {
         background-color: #181a1b;
+    }
+
+    :deep(.current-date-highlight) {
+        color: white;
     }
 
     :deep(.side-header) *,
