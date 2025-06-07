@@ -240,4 +240,24 @@ DESCRIPTION:活动结束\n「炽烈传说·跨界乱斗」活动：趣味
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！
+DTSTART;TZID=Asia/Shanghai:20250609T040000
+UID:bb5888ef@trrw.tech
+DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
+ 」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！结束
+DTSTART;TZID=Asia/Shanghai:20250616T035959
+UID:70c5a9a5@trrw.tech
+DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
+ 启示之花」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
