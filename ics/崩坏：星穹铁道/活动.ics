@@ -23,4 +23,23 @@ DESCRIPTION:活动结束\n「银河球棒侠传说：魔王篇」：战胜
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「极速追影」：参与球笼车竞速获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250611T120000
+UID:f3544849@trrw.tech
+DESCRIPTION:「极速追影」：参与球笼车竞速获取星琼等奖
+ 励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「极速追影」：参与球笼车竞速获取星琼等奖励结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250630T035900
+UID:fa4c3f8d@trrw.tech
+DESCRIPTION:活动结束\n「极速追影」：参与球笼车竞速获取
+ 星琼等奖励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

@@ -23,4 +23,25 @@ DESCRIPTION:活动结束\n「虹隽晨昏\, 视界来信」角色、光锥
 LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞儿\
+ , 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金
+DTSTART;TZID=Asia/Shanghai:20250611T120000
+UID:75b18487@trrw.tech
+DESCRIPTION:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞
+ 儿\, 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞儿\
+ , 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金结束
+DTSTART;TZID=Asia/Shanghai:20250701T150000
+UID:4876b24f@trrw.tech
+DESCRIPTION:活动结束\n「捷足盗天\, 裁酌天命」角色、光锥
+ 跃迁: 赛飞儿\, 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成
+ 黄金
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

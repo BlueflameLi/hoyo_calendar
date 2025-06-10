@@ -33,6 +33,27 @@ LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞儿\
+ , 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金
+DTSTART;TZID=Asia/Shanghai:20250611T120000
+UID:75b18487@trrw.tech
+DESCRIPTION:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞
+ 儿\, 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「捷足盗天\, 裁酌天命」角色、光锥跃迁: 赛飞儿\
+ , 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成黄金结束
+DTSTART;TZID=Asia/Shanghai:20250701T150000
+UID:4876b24f@trrw.tech
+DESCRIPTION:活动结束\n「捷足盗天\, 裁酌天命」角色、光锥
+ 跃迁: 赛飞儿\, 阿格莱雅\, 谎言在风中飘扬\, 将光阴织成
+ 黄金
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河球棒侠传说：魔王篇」：战胜敌人，获取自
  塑尘脂、特定4星角色等奖励
 DTSTART;TZID=Asia/Shanghai:20250521T110000
@@ -49,6 +70,25 @@ DTSTART;TZID=Asia/Shanghai:20250630T035900
 UID:e718d04f@trrw.tech
 DESCRIPTION:活动结束\n「银河球棒侠传说：魔王篇」：战胜
  敌人，获取自塑尘脂、特定4星角色等奖励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「极速追影」：参与球笼车竞速获取星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20250611T120000
+UID:f3544849@trrw.tech
+DESCRIPTION:「极速追影」：参与球笼车竞速获取星琼等奖
+ 励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「极速追影」：参与球笼车竞速获取星琼等奖励结
+ 束
+DTSTART;TZID=Asia/Shanghai:20250630T035900
+UID:fa4c3f8d@trrw.tech
+DESCRIPTION:活动结束\n「极速追影」：参与球笼车竞速获取
+ 星琼等奖励
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
