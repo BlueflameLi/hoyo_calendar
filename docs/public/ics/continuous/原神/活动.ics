@@ -75,4 +75,26 @@ DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「磷星之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+DTEND;TZID=Asia/Shanghai:20250708T175900
+UID:2af3bfef@trrw.tech
+DESCRIPTION:「磷星之章」时限内完成传说任务，可额外获
+ 得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+DTEND;TZID=Asia/Shanghai:20250729T145959
+UID:531b1263@trrw.tech
+DESCRIPTION:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙
+ 趣闻
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

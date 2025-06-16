@@ -128,6 +128,54 @@ LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「虚星临渡」角色祈愿: 丝柯克
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+UID:b5fb268f@trrw.tech
+DESCRIPTION:「虚星临渡」角色祈愿: 丝柯克
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「虚星临渡」角色祈愿: 丝柯克结束
+DTSTART;TZID=Asia/Shanghai:20250708T175900
+UID:e85fd0a1@trrw.tech
+DESCRIPTION:活动结束\n「虚星临渡」角色祈愿: 丝柯克
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「出尘入世」角色祈愿: 申鹤
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+UID:d7de7d62@trrw.tech
+DESCRIPTION:「出尘入世」角色祈愿: 申鹤
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「出尘入世」角色祈愿: 申鹤结束
+DTSTART;TZID=Asia/Shanghai:20250708T175900
+UID:d1f96665@trrw.tech
+DESCRIPTION:活动结束\n「出尘入世」角色祈愿: 申鹤
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 息灾
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+UID:da76151e@trrw.tech
+DESCRIPTION:「神铸赋形」武器祈愿: 苍耀\, 息灾
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 息灾结束
+DTSTART;TZID=Asia/Shanghai:20250708T175900
+UID:845c35ea@trrw.tech
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 苍耀\, 息灾
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「雨阵奔流之述演」活动：桌上推演兵棋
 DTSTART;TZID=Asia/Shanghai:20250519T100000
 UID:0940f694@trrw.tech
@@ -257,6 +305,46 @@ DTSTART;TZID=Asia/Shanghai:20250616T035959
 UID:70c5a9a5@trrw.tech
 DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
  启示之花」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「磷星之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+UID:2af3bfef@trrw.tech
+DESCRIPTION:「磷星之章」时限内完成传说任务，可额外获
+ 得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「磷星之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20250708T175900
+UID:0f464db8@trrw.tech
+DESCRIPTION:活动结束\n「磷星之章」时限内完成传说任务，
+ 可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250616T120000
+UID:531b1263@trrw.tech
+DESCRIPTION:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙
+ 趣闻
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙趣
+ 闻结束
+DTSTART;TZID=Asia/Shanghai:20250729T145959
+UID:24857cb7@trrw.tech
+DESCRIPTION:活动结束\n「游逸旅闻·鎏溢之章」活动：拜访
+ 伙伴，闲叙趣闻
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
