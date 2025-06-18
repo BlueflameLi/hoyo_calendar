@@ -176,4 +176,44 @@ DESCRIPTION:活动结束\n「游逸旅闻·鎏溢之章」活动：拜访
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「磷星之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20250618T110000
+UID:05d295c1@trrw.tech
+DESCRIPTION:「磷星之章」时限内完成传说任务，可额外获
+ 得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「磷星之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20250708T175900
+UID:0f464db8@trrw.tech
+DESCRIPTION:活动结束\n「磷星之章」时限内完成传说任务，
+ 可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙趣
+ 闻
+DTSTART;TZID=Asia/Shanghai:20250618T110000
+UID:7c3a384d@trrw.tech
+DESCRIPTION:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙
+ 趣闻
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「游逸旅闻·鎏溢之章」活动：拜访伙伴，闲叙趣
+ 闻结束
+DTSTART;TZID=Asia/Shanghai:20250729T145959
+UID:24857cb7@trrw.tech
+DESCRIPTION:活动结束\n「游逸旅闻·鎏溢之章」活动：拜访
+ 伙伴，闲叙趣闻
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
