@@ -445,4 +445,24 @@ DESCRIPTION:活动结束\n「游逸旅闻·鎏溢之章」活动：拜访
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「阵列推想大作战」活动：参与邀请「衡明知度·
+ 赛索斯(雷)」
+DTSTART;TZID=Asia/Shanghai:20250620T100000
+UID:afd41b0c@trrw.tech
+DESCRIPTION:「阵列推想大作战」活动：参与邀请「衡明知
+ 度·赛索斯(雷)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「阵列推想大作战」活动：参与邀请「衡明知度·
+ 赛索斯(雷)」结束
+DTSTART;TZID=Asia/Shanghai:20250707T035959
+UID:6d38e7e4@trrw.tech
+DESCRIPTION:活动结束\n「阵列推想大作战」活动：参与邀请
+ 「衡明知度·赛索斯(雷)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
