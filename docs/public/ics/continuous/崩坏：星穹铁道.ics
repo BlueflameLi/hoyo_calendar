@@ -35,6 +35,19 @@ LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄\, 
+ 缇宝\, 星期日\, 花火\, 黎明恰如此燃烧\, 如果时间是一
+ 朵花\, 回到大地的飞行\, 游戏尘寰
+DTSTART;TZID=Asia/Shanghai:20250630T140000
+DTEND;TZID=Asia/Shanghai:20250723T115900
+UID:a4421bb1@trrw.tech
+DESCRIPTION:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄
+ \, 缇宝\, 星期日\, 花火\, 黎明恰如此燃烧\, 如果时间是
+ 一朵花\, 回到大地的飞行\, 游戏尘寰
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河球棒侠传说：魔王篇」：战胜敌人，获取自
  塑尘脂、特定4星角色等奖励
 DTSTART;TZID=Asia/Shanghai:20250521T110000
