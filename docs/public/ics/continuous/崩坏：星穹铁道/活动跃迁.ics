@@ -38,4 +38,17 @@ DESCRIPTION:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄
 LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄\, 
+ 缇宝\, 星期日\, 花火\, 黎明恰如此燃烧\, 如果时间是一
+ 朵花\, 回到大地的飞行\, 游戏尘寰
+DTSTART;TZID=Asia/Shanghai:20250702T110000
+DTEND;TZID=Asia/Shanghai:20250723T115900
+UID:b6fb5baf@trrw.tech
+DESCRIPTION:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄
+ \, 缇宝\, 星期日\, 花火\, 黎明恰如此燃烧\, 如果时间是
+ 一朵花\, 回到大地的飞行\, 游戏尘寰
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
