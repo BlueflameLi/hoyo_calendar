@@ -530,4 +530,24 @@ DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
+ 双倍掉落
+DTSTART;TZID=Asia/Shanghai:20250707T040000
+UID:87abf169@trrw.tech
+DESCRIPTION:「盛材移涌」活动：天赋培养素材、武器突破
+ 素材双倍掉落
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
+ 双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20250714T035959
+UID:db4f0628@trrw.tech
+DESCRIPTION:活动结束\n「盛材移涌」活动：天赋培养素材、
+ 武器突破素材双倍掉落
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
