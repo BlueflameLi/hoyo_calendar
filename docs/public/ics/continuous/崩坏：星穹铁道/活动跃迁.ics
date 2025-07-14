@@ -51,4 +51,15 @@ DESCRIPTION:「永劫燔阳\, 铭心之萃」角色、光锥跃迁: 白厄
 LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「」角色、光锥跃迁: Saber\, Archer\, 没有回报的加
+ 冕\, 理想燃烧的地狱
+DTSTART;TZID=Asia/Shanghai:20250709T130000
+DTEND;TZID=Asia/Shanghai:20350831T000000
+UID:34fcd75d@trrw.tech
+DESCRIPTION:「」角色、光锥跃迁: Saber\, Archer\, 没有回报的
+ 加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

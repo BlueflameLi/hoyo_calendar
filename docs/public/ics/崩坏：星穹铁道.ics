@@ -111,6 +111,26 @@ LOCATION:崩坏：星穹铁道-活动跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「」角色、光锥跃迁: Saber\, Archer\, 没有回报的加
+ 冕\, 理想燃烧的地狱
+DTSTART;TZID=Asia/Shanghai:20250709T130000
+UID:34fcd75d@trrw.tech
+DESCRIPTION:「」角色、光锥跃迁: Saber\, Archer\, 没有回报的
+ 加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「」角色、光锥跃迁: Saber\, Archer\, 没有回报的加
+ 冕\, 理想燃烧的地狱结束
+DTSTART;TZID=Asia/Shanghai:20350831T000000
+UID:c5210595@trrw.tech
+DESCRIPTION:活动结束\n「」角色、光锥跃迁: Saber\, Archer\, 
+ 没有回报的加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-活动跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「银河球棒侠传说：魔王篇」：战胜敌人，获取自
  塑尘脂、特定4星角色等奖励
 DTSTART;TZID=Asia/Shanghai:20250521T110000

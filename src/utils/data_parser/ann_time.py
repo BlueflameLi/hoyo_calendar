@@ -99,7 +99,10 @@ def extract_sr_event_start_time(html_content: str) -> str:
 def extract_sr_gacha_start_time(html_content: str) -> str:
     pattern = r"时间为(.*?)，包含如下内容"
     matches = re.findall(pattern, html_content)
-    time_range = re.sub("&lt;.*?&gt;", "", matches[0].strip())
+    try:
+        time_range = re.sub("&lt;.*?&gt;", "", matches[0].strip())
+    except:
+        return ""    
     if "-" in time_range:
         return time_range.split("-")[0].strip()
     return time_range
