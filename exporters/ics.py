@@ -144,7 +144,7 @@ def _build_version_payloads(timeline: GameTimeline, config: GameConfig) -> list[
                 "code": version.code,
                 "banner": version.banner,
                 "start": version.start_time,
-                "update": _derive_update_time(version.start_time),
+                "end": version.end_time,
                 "special_program": version.special_program_time,
                 "announcements": version.announcements,
             }
@@ -192,13 +192,15 @@ def _append_version_events(
             continuous=continuous,
         )
 
-    if version.get("update") is not None:
+    version_period_start = version.get("start")
+    version_period_end = version.get("end")
+    if version_period_start is not None and version_period_end is not None:
         calendars[labels.update].add_event(
-            name=f"{version_name}更新维护",
-            start=version["update"],
-            description=f"{version_name}更新维护",
+            name=f"{version_name}版本",
+            start=version_period_start,
+            description=f"{version_name}版本",
             location=f"{config.display_name}-{labels.update}",
-            end=version["update"] + timedelta(hours=5),
+            end=version_period_end,
             continuous=continuous,
         )
 
@@ -226,7 +228,3 @@ def _append_version_events(
             )
 
 
-def _derive_update_time(start_time: datetime | None) -> datetime | None:
-    if start_time is None:
-        return None
-    return start_time.replace(hour=6, minute=0, second=0, microsecond=0)

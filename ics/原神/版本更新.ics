@@ -5,21 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:月之一版本「『空月之歌·呈示』雪浪与苍林之舞
- 」更新维护
-DTSTART;TZID=Asia/Shanghai:20250910T060000
-UID:356bd543@hoyo_calendar
+ 」版本
+DTSTART;TZID=Asia/Shanghai:20250910T110000
+UID:f4340a86@hoyo_calendar
 DESCRIPTION:月之一版本「『空月之歌·呈示』雪浪与苍林之
- 舞」更新维护
+ 舞」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:月之一版本「『空月之歌·呈示』雪浪与苍林之舞
- 」更新维护结束
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:6eabcc49@hoyo_calendar
+ 」版本结束
+DTSTART;TZID=Asia/Shanghai:20251022T060000
+UID:49d4ccd9@hoyo_calendar
 DESCRIPTION:活动结束\n月之一版本「『空月之歌·呈示』雪
- 浪与苍林之舞」更新维护
+ 浪与苍林之舞」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
