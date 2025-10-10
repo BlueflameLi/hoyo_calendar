@@ -134,6 +134,8 @@ def _should_include_activity(title: str) -> bool:
         "铸境研炼",
         "七圣召唤",
         "限时折扣",
+        "首充双倍",
+        "千音雅集"
     ]
     return all(keyword not in title for keyword in excluded_keywords)
 
