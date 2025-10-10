@@ -23,11 +23,11 @@
 ## 🚄 星穹铁道日历
 | 分类       | 订阅链接                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------- |
-| 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁.ics)              |
-| 🌟 活动跃迁 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/活动跃迁.ics)     |
-| 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/活动.ics)         |
-| ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/版本更新.ics)     |
-<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/前瞻特别节目.ics) | -->
+| 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/崩坏：星穹铁道.ics)              |
+| 🌟 活动跃迁 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/崩坏：星穹铁道/活动跃迁.ics)     |
+| 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/崩坏：星穹铁道/活动.ics)         |
+| ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/崩坏：星穹铁道/版本更新.ics)     |
+<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/崩坏：星穹铁道/前瞻特别节目.ics) | -->
 
 ## 🎧 绝区零日历
 | 分类         | 订阅链接                                                                                    |
