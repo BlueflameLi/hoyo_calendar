@@ -7,13 +7,14 @@ from copy import deepcopy
 
 from loguru import logger
 
-from clients.hoyolab import HoyolabClient
+from clients import HoyolabClient, MiyousheClient
 from games import get_plugin, load_game_configs
 from models.config import GameConfig
 from exporters.ics import export_ics
 from . import storage
 from settings import Settings, get_settings
 from utils.logging import configure_logging
+from .special_program import fetch_special_program_info
 
 
 async def run_pipeline(settings: Settings | None = None) -> None:
@@ -23,10 +24,15 @@ async def run_pipeline(settings: Settings | None = None) -> None:
     configs = load_game_configs()
     logger.info("Loaded {count} built-in game configuration(s)", count=len(configs))
 
-    async with HoyolabClient(settings) as client:
+    async with HoyolabClient(settings) as client, MiyousheClient(settings) as events_client:
         results = await asyncio.gather(
             *[
-                _process_game(client=client, config=config, settings=settings)
+                _process_game(
+                    client=client,
+                    events_client=events_client,
+                    config=config,
+                    settings=settings,
+                )
                 for config in configs
             ],
             return_exceptions=True,
@@ -41,6 +47,7 @@ async def run_pipeline(settings: Settings | None = None) -> None:
 async def _process_game(
     *,
     client: HoyolabClient,
+    events_client: MiyousheClient,
     config: GameConfig,
     settings: Settings,
 ) -> None:
@@ -53,6 +60,20 @@ async def _process_game(
     plugin = get_plugin(config.game_id)
     version_info = plugin.extract_version(ann_list)
 
+    special_program = await fetch_special_program_info(
+        events_client,
+        game_id=config.game_id,
+    )
+    if special_program is not None:
+        if special_program.code:
+            version_info.next_version_code = special_program.code
+        elif special_program.start_time is not None:
+            version_info.next_version_code = None
+        if special_program.name:
+            version_info.next_version_name = special_program.name
+        if special_program.start_time is not None:
+            version_info.next_version_sp_time = special_program.start_time
+
     current_version = timeline.upsert_version(
         code=version_info.code,
         name=version_info.name,
@@ -61,9 +82,9 @@ async def _process_game(
         end_time=version_info.end_time,
     )
 
-    if version_info.next_version_code is not None:
+    if version_info.next_version_code is not None or version_info.next_version_name:
         timeline.upsert_version(
-            code=version_info.next_version_code,
+            code=version_info.next_version_code or "",
             name=version_info.next_version_name or "",
             special_program_time=version_info.next_version_sp_time,
         )

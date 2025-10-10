@@ -73,14 +73,7 @@ class StarRailPlugin(GamePlugin):
         start = version_ann.start_time.replace(hour=11, minute=0, second=0)
         end = version_ann.end_time.replace(hour=6, minute=0, second=0)
 
-        next_version_ann = _find_special_program(ann_list)
-        if next_version_ann:
-            floats = extract_floats(next_version_ann.title)
-            next_code = str(floats[0]) if floats else None
-            next_name = extract_inner_text(next_version_ann.title) or None
-            next_sp_time = next_version_ann.end_time
-        else:
-            next_code = next_name = next_sp_time = None
+        next_code = next_name = next_sp_time = None
 
         return VersionInfo(
             code=code,
@@ -138,21 +131,6 @@ class StarRailPlugin(GamePlugin):
             )
             existing_ids.add(raw["ann_id"])
         return announcements
-
-
-def _find_special_program(ann_list: AnnListRe):
-    notices = next(
-        (item for item in ann_list.data.pic_list if item.type_label == "资讯"),
-        None,
-    )
-    if notices is None:
-        return None
-    for ann in notices.type_list[0].ann_list:
-        if "前瞻特别节目" in remove_html_tags(ann.title):
-            return ann
-    return None
-
-
 def _process_announcements(
     data,
     content_map,

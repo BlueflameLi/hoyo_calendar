@@ -286,4 +286,13 @@ DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 血染荒城\,
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:『空月之歌·复演』回望湮灭的月光前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20251010T200000
+UID:1b4a5e8e@hoyo_calendar
+DESCRIPTION:『空月之歌·复演』回望湮灭的月光前瞻特别节
+ 目
+LOCATION:原神-前瞻特别节目
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

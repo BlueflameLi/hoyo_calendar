@@ -69,16 +69,7 @@ class GenshinPlugin(GamePlugin):
         start = version_ann.start_time.replace(hour=11, minute=0, second=0)
         end = version_ann.end_time.replace(hour=6, minute=0, second=0)
 
-        next_version_ann = _find_special_program(ann_list)
-        if next_version_ann:
-            next_clean_title = remove_html_tags(next_version_ann.title)
-            next_code = _extract_version_code(next_clean_title)
-            if next_code == "0.0":
-                next_code = None
-            next_name = extract_inner_text(next_clean_title) or None
-            next_sp_time = next_version_ann.end_time
-        else:
-            next_code = next_name = next_sp_time = None
+        next_code = next_name = next_sp_time = None
 
         return VersionInfo(
             code=code,
@@ -131,21 +122,6 @@ class GenshinPlugin(GamePlugin):
             )
             existing_ids.add(raw["ann_id"])
         return announcements
-
-
-def _find_special_program(ann_list: AnnListRe):
-    notices = next(
-        (item for item in ann_list.data.ann_types if item.type_label == "活动公告"),
-        None,
-    )
-    if notices is None:
-        return None
-    for ann in notices.ann_list:
-        if "前瞻特别节目" in remove_html_tags(ann.title):
-            return ann
-    return None
-
-
 def _should_include_activity(title: str) -> bool:
     if "原神" in title and "版本" in title:
         return True

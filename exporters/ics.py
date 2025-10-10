@@ -181,7 +181,16 @@ def _append_version_events(
     continuous: bool,
 ) -> None:
     labels = config.calendar
-    version_name = f"{version['code']}版本「{version['name']}」" if version["name"] else version["code"]
+    code = version.get("code") or ""
+    name = version.get("name") or ""
+    if code and name:
+        version_name = f"{code}版本「{name}」"
+    elif code:
+        version_name = f"{code}版本"
+    elif name:
+        version_name = name
+    else:
+        version_name = "未知版本"
 
     if version.get("special_program") is not None:
         calendars[labels.special_program].add_event(

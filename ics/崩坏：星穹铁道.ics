@@ -4,6 +4,14 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:3.6版本「于长夜重返大地」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20250912T193000
+UID:0fd9e66d@hoyo_calendar
+DESCRIPTION:3.6版本「于长夜重返大地」前瞻特别节目
+LOCATION:崩坏：星穹铁道-前瞻特别节目
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:3.6版本「于长夜重返大地」版本
 DTSTART;TZID=Asia/Shanghai:20250924T110000
 UID:a67d5650@hoyo_calendar
