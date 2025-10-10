@@ -16,8 +16,8 @@
 | 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神.ics)              |
 | 🌟 角色祈愿 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神/祈愿.ics)         |
 | 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神/活动.ics)         |
-<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神/前瞻特别节目.ics) | -->
 | ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神/版本更新.ics)     |
+<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/原神/前瞻特别节目.ics) | -->
 
 
 ## 🚄 星穹铁道日历
@@ -26,8 +26,8 @@
 | 📌 全部日程 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁.ics)              |
 | 🌟 活动跃迁 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/活动跃迁.ics)     |
 | 🎮 游戏活动 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/活动.ics)         |
-<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/前瞻特别节目.ics) | -->
 | ⚙️ 版本更新 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/版本更新.ics)     |
+<!-- | 📺 前瞻直播 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/星铁/前瞻特别节目.ics) | -->
 
 ## 🎧 绝区零日历
 | 分类         | 订阅链接                                                                                    |
@@ -35,11 +35,10 @@
 | 📌 全部日程   | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零.ics)              |
 | 🌟 代理人调频 | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零/调频.ics)         |
 | 🎮 游戏活动   | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零/活动.ics)         |
-<!-- | 📺 前瞻直播   | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零/前瞻特别节目.ics) | -->
 | ⚙️ 版本更新   | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零/版本更新.ics)     |
+<!-- | 📺 前瞻直播   | [点击订阅](https://raw.gitmirror.com/BlueflameLi/hoyo_calendar/main/ics/绝区零/前瞻特别节目.ics) | -->
 
 > - 由于使用新的方式获取日程，上面的部分链接可能没有对应文件
-> - 也可以尝试 `https://cal.trrw.tech/`为前缀，例如 `https://cal.trrw.tech/ics/原神.ics`
 
 ---
 
@@ -84,7 +83,7 @@ python main.py
 ---
 
 ## 🙏 特别感谢
-- [hoyo_calendar](https://github.com/BlueflameLi/hoyo_calendar)
+- [hoyo_calendar](https://github.com/Trrrrw/hoyo_calendar)
 
 ---
 
