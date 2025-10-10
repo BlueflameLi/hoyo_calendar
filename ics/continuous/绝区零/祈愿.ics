@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hoyo_calendar//GitHub//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理人、
+ 音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧焰\, 
+ 心弦夜响
+DTSTART;TZID=Asia/Shanghai:20250922T120000
+DTEND;TZID=Asia/Shanghai:20251014T145900
+UID:4e2deb96@hoyo_calendar
+DESCRIPTION:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理
+ 人、音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧
+ 焰\, 心弦夜响
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

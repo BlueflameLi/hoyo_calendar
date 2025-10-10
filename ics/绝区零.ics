@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hoyo_calendar//GitHub//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:2.2版本「不要温和地走入那良夜」更新维护
+DTSTART;TZID=Asia/Shanghai:20250904T060000
+UID:a300cbcb@hoyo_calendar
+DESCRIPTION:2.2版本「不要温和地走入那良夜」更新维护
+LOCATION:绝区零-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2.2版本「不要温和地走入那良夜」更新维护结束
+DTSTART;TZID=Asia/Shanghai:20250904T110000
+UID:cdd33f21@hoyo_calendar
+DESCRIPTION:活动结束\n2.2版本「不要温和地走入那良夜」更
+ 新维护
+LOCATION:绝区零-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动说明
+DTSTART;TZID=Asia/Shanghai:20251007T120000
+UID:0b16ec27@hoyo_calendar
+DESCRIPTION:「数据悬赏-实战模拟」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251014T035900
+UID:873e6fcd@hoyo_calendar
+DESCRIPTION:活动结束\n「数据悬赏-实战模拟」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「音跃狂潮」活动说明
+DTSTART;TZID=Asia/Shanghai:20250926T120000
+UID:23a17a33@hoyo_calendar
+DESCRIPTION:「音跃狂潮」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「音跃狂潮」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251013T035900
+UID:d468203f@hoyo_calendar
+DESCRIPTION:活动结束\n「音跃狂潮」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』大寻宝」活动说明
+DTSTART;TZID=Asia/Shanghai:20251002T120000
+UID:1b3bbadc@hoyo_calendar
+DESCRIPTION:「『嗯呢』大寻宝」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』大寻宝」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251013T035900
+UID:99c3ae80@hoyo_calendar
+DESCRIPTION:活动结束\n「『嗯呢』大寻宝」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「小邦布勇任防卫军」活动说明
+DTSTART;TZID=Asia/Shanghai:20250902T180000
+UID:0be5b32c@hoyo_calendar
+DESCRIPTION:「小邦布勇任防卫军」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「小邦布勇任防卫军」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251013T035900
+UID:da97788f@hoyo_calendar
+DESCRIPTION:活动结束\n「小邦布勇任防卫军」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理人、
+ 音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧焰\, 
+ 心弦夜响
+DTSTART;TZID=Asia/Shanghai:20250922T120000
+UID:4e2deb96@hoyo_calendar
+DESCRIPTION:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理
+ 人、音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧
+ 焰\, 心弦夜响
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理人、
+ 音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧焰\, 
+ 心弦夜响结束
+DTSTART;TZID=Asia/Shanghai:20251014T145900
+UID:a9bf96dc@hoyo_calendar
+DESCRIPTION:活动结束\n「孽火两畔\, 光与影的纱网\, 璀璨韵
+ 律」代理人、音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\,
+  嚣枪喧焰\, 心弦夜响
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
