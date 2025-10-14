@@ -4,24 +4,11 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理人、
- 音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧焰\, 
- 心弦夜响
-DTSTART;TZID=Asia/Shanghai:20250922T120000
-DTEND;TZID=Asia/Shanghai:20251014T145900
-UID:4e2deb96@hoyo_calendar
-DESCRIPTION:「孽火两畔\, 光与影的纱网\, 璀璨韵律」代理
- 人、音擎调频: 奥菲丝 &amp\;「鬼火」\, 伊芙琳\, 嚣枪喧
- 焰\, 心弦夜响
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「绮夜游灯\, 飞鸟坠入良夜」代理人、音擎调频: 
  卢西娅\, 薇薇安\, 铸梦炉歌\, 飞鸟星梦
-DTSTART;TZID=Asia/Shanghai:20251013T121500
+DTSTART;TZID=Asia/Shanghai:20251015T110000
 DTEND;TZID=Asia/Shanghai:20251105T115959
-UID:2015fb57@hoyo_calendar
+UID:165d480f@hoyo_calendar
 DESCRIPTION:「绮夜游灯\, 飞鸟坠入良夜」代理人、音擎调
  频: 卢西娅\, 薇薇安\, 铸梦炉歌\, 飞鸟星梦
 LOCATION:绝区零-祈愿

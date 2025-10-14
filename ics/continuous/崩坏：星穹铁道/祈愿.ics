@@ -4,6 +4,20 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:「八荒诛邪」「流光定影•纵然山河万程\, 胚中万
+ 物」「溯回忆象•生命当付之一炬」角色、光锥跃迁: 丹
+ 恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命当付之一炬
+DTSTART;TZID=Asia/Shanghai:20251015T120000
+DTEND;TZID=Asia/Shanghai:20251104T150000
+UID:9fac087b@hoyo_calendar
+DESCRIPTION:「八荒诛邪」「流光定影•纵然山河万程\, 胚
+ 中万物」「溯回忆象•生命当付之一炬」角色、光锥跃
+ 迁: 丹恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命当付之一
+ 炬
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「无我所忆」「流光定影•致长夜的星光\, 视界来
  信」「溯回忆象•向着不可追问处」角色、光锥跃迁: 长
  夜月\, 大黑塔\, 致长夜的星光\, 向着不可追问处

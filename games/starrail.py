@@ -2,7 +2,8 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+import re
+from datetime import datetime, timedelta
 from typing import Any
 
 from bs4 import BeautifulSoup
@@ -17,10 +18,9 @@ from parsers.text import (
     extract_inner_text,
     remove_html_tags,
 )
-from parsers.time_extractors import (
-    extract_sr_event_start_time,
-    extract_sr_gacha_start_time,
-)
+
+
+_VERSION_HINT_PATTERN = re.compile(r"(\d+\.\d+)\s*版本")
 
 
 CONFIG = GameConfig(
@@ -104,12 +104,17 @@ class StarRailPlugin(GamePlugin):
             item.ann_id: item.model_dump(mode="json", by_alias=True)
             for item in ann_content.data.pic_list
         }
+        next_version_begin = _guess_next_version_begin(
+            version_begin=version.start_time,
+            version_end=version.end_time,
+        )
         filtered = _process_announcements(
             data=data,
             content_map=content_map,
             pic_content_map=pic_content_map,
             version_now=version.code,
             version_begin_time=version.start_time,
+            next_version_begin_time=next_version_begin,
         )
         announcements: list[Announcement] = []
         for raw in filtered:
@@ -137,13 +142,9 @@ def _process_announcements(
     pic_content_map,
     version_now,
     version_begin_time,
+    next_version_begin_time,
 ):
     filtered_list: list[dict[str, Any]] = []
-    begin_time_str = (
-        version_begin_time.strftime("%Y-%m-%d %H:%M:%S")
-        if isinstance(version_begin_time, datetime)
-        else ""
-    )
     for item in data["data"]["list"]:
         if item["type_label"] == "公告":
             for announcement in item["list"]:
@@ -151,7 +152,11 @@ def _process_announcements(
                 clean_title = remove_html_tags(announcement["title"])
                 if _should_include_event(clean_title):
                     _process_event(
-                        announcement, ann_content, version_now, begin_time_str
+                        announcement,
+                        ann_content,
+                        version_now,
+                        version_begin_time,
+                        next_version_begin_time,
                     )
                     filtered_list.append(announcement)
     for item in data["data"]["pic_list"]:
@@ -161,12 +166,20 @@ def _process_announcements(
                 clean_title = remove_html_tags(announcement["title"])
                 if _should_include_event(clean_title):
                     _process_pic_event(
-                        announcement, ann_content, version_now, begin_time_str
+                        announcement,
+                        ann_content,
+                        version_now,
+                        version_begin_time,
+                        next_version_begin_time,
                     )
                     filtered_list.append(announcement)
                 elif "跃迁" in clean_title:
                     _process_gacha(
-                        announcement, ann_content, version_now, begin_time_str
+                        announcement,
+                        ann_content,
+                        version_now,
+                        version_begin_time,
+                        next_version_begin_time,
                     )
                     filtered_list.append(announcement)
     return filtered_list
@@ -178,59 +191,95 @@ def _should_include_event(title: str) -> bool:
     return "等奖励" in title and "模拟宇宙" not in title
 
 
-def _process_event(announcement, ann_content, version_now, version_begin_time):
+def _process_event(
+    announcement,
+    ann_content,
+    version_now,
+    version_begin_time,
+    next_version_begin_time,
+):
     clean_title = remove_html_tags(announcement["title"])
     announcement["title"] = clean_title
     announcement["bannerImage"] = announcement.get("banner", "")
     announcement["event_type"] = "event"
-    start_hint = extract_sr_event_start_time(ann_content["content"])
-    if f"{version_now}版本" in start_hint:
-        announcement["start_time"] = version_begin_time
-    else:
-        try:
-            date_obj = datetime.strptime(
-                extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
-            ).replace(second=0)
-            announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
-        except Exception:
-            pass
+    start_hint = _extract_event_start_hint(ann_content["content"])
+    anchor_start = _resolve_version_start_hint(
+        start_hint,
+        version_now,
+        version_begin_time,
+        next_version_begin_time,
+    )
+    if anchor_start is not None:
+        announcement["start_time"] = anchor_start.strftime("%Y-%m-%d %H:%M:%S")
+        return
+    try:
+        date_obj = datetime.strptime(
+            extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
+        ).replace(second=0)
+        announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
+    except Exception:
+        pass
 
 
-def _process_pic_event(announcement, ann_content, version_now, version_begin_time):
+def _process_pic_event(
+    announcement,
+    ann_content,
+    version_now,
+    version_begin_time,
+    next_version_begin_time,
+):
     clean_title = remove_html_tags(announcement["title"])
     announcement["title"] = clean_title
     announcement["bannerImage"] = announcement.get("img", "")
     announcement["event_type"] = "event"
-    start_hint = extract_sr_event_start_time(ann_content["content"])
-    if f"{version_now}版本" in start_hint:
-        announcement["start_time"] = version_begin_time
-    else:
-        try:
-            date_obj = datetime.strptime(
-                extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
-            ).replace(second=0)
-            announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
-        except Exception:
-            pass
+    start_hint = _extract_event_start_hint(ann_content["content"])
+    anchor_start = _resolve_version_start_hint(
+        start_hint,
+        version_now,
+        version_begin_time,
+        next_version_begin_time,
+    )
+    if anchor_start is not None:
+        announcement["start_time"] = anchor_start.strftime("%Y-%m-%d %H:%M:%S")
+        return
+    try:
+        date_obj = datetime.strptime(
+            extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
+        ).replace(second=0)
+        announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
+    except Exception:
+        pass
 
 
-def _process_gacha(announcement, ann_content, version_now, version_begin_time):
+def _process_gacha(
+    announcement,
+    ann_content,
+    version_now,
+    version_begin_time,
+    next_version_begin_time,
+):
     clean_title = remove_html_tags(announcement["title"])
     clean_title = _format_gacha_title(ann_content["content"], clean_title)
     announcement["title"] = clean_title
     announcement["bannerImage"] = announcement.get("img", "")
     announcement["event_type"] = "gacha"
-    start_hint = extract_sr_gacha_start_time(ann_content["content"])
-    if f"{version_now}版本" in start_hint:
-        announcement["start_time"] = version_begin_time
-    else:
-        try:
-            date_obj = datetime.strptime(
-                extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
-            ).replace(second=0)
-            announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
-        except Exception:
-            pass
+    start_hint = _extract_gacha_start_hint(ann_content["content"])
+    anchor_start = _resolve_version_start_hint(
+        start_hint,
+        version_now,
+        version_begin_time,
+        next_version_begin_time,
+    )
+    if anchor_start is not None:
+        announcement["start_time"] = anchor_start.strftime("%Y-%m-%d %H:%M:%S")
+        return
+    try:
+        date_obj = datetime.strptime(
+            extract_clean_time(start_hint), "%Y/%m/%d %H:%M:%S"
+        ).replace(second=0)
+        announcement["start_time"] = date_obj.strftime("%Y-%m-%d %H:%M:%S")
+    except Exception:
+        pass
 
 
 def _format_gacha_title(content: str, fallback: str) -> str:
@@ -257,3 +306,80 @@ def _format_gacha_title(content: str, fallback: str) -> str:
             f"{', '.join(role_names + light_cones)}"
         )
     return fallback
+
+
+def _extract_event_start_hint(html_content: str) -> str:
+    pattern = r"<h1[^>]*>(?:活动时间|限时活动期)</h1>\s*<p[^>]*>(.*?)</p>"
+    match = re.search(pattern, html_content, re.DOTALL)
+    if match:
+        time_info = match.group(1)
+        cleaned = re.sub(r"&lt;.*?&gt;", "", time_info)
+        return cleaned.split("-")[0].strip() if "-" in cleaned else cleaned
+    return ""
+
+
+def _extract_gacha_start_hint(html_content: str) -> str:
+    matches = re.findall(r"时间为(.*?)，包含如下内容", html_content)
+    if not matches:
+        return ""
+    time_range = re.sub(r"&lt;.*?&gt;", "", matches[0].strip())
+    return time_range.split("-")[0].strip() if "-" in time_range else time_range
+
+
+def _guess_next_version_begin(
+    *, version_begin: datetime | None, version_end: datetime | None
+) -> datetime | None:
+    if isinstance(version_end, datetime):
+        return version_end + timedelta(hours=5)
+    _ = version_begin
+    return None
+
+
+def _resolve_version_start_hint(
+    start_hint: str,
+    version_now: str,
+    version_begin_time: datetime | None,
+    next_version_begin_time: datetime | None,
+) -> datetime | None:
+    if not start_hint:
+        return None
+    match = _VERSION_HINT_PATTERN.search(start_hint)
+    if match is None:
+        return None
+    hint_code = match.group(1)
+    if (
+        isinstance(version_begin_time, datetime)
+        and _is_same_version(hint_code, version_now)
+    ):
+        return version_begin_time
+    if (
+        isinstance(next_version_begin_time, datetime)
+        and _is_future_version(hint_code, version_now)
+    ):
+        return next_version_begin_time
+    return None
+
+
+def _is_same_version(hint_code: str, version_now: str) -> bool:
+    return _parse_version_number(hint_code) == _parse_version_number(version_now)
+
+
+def _is_future_version(hint_code: str, version_now: str) -> bool:
+    hint_num = _parse_version_number(hint_code)
+    current_num = _parse_version_number(version_now)
+    if hint_num is None or current_num is None:
+        return False
+    return hint_num > current_num
+
+
+def _parse_version_number(value: str) -> float | None:
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        match = re.search(r"(\d+\.?\d*)", value or "")
+        if match:
+            try:
+                return float(match.group(1))
+            except ValueError:
+                return None
+    return None

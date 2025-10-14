@@ -20,6 +20,7 @@ _KEYWORD = "前瞻特别节目预告"
 class SpecialProgramSource:
     gids: int
     type_id: int
+    page_size: int = 20
 
 
 @dataclass(frozen=True)
@@ -32,7 +33,7 @@ class SpecialProgramInfo:
 _SOURCES = {
     "genshin": SpecialProgramSource(gids=2, type_id=2),
     "sr": SpecialProgramSource(gids=6, type_id=2),
-    "zzz": SpecialProgramSource(gids=8, type_id=3),
+    "zzz": SpecialProgramSource(gids=8, type_id=3, page_size=40),
 }
 
 _TIME_PATTERN = re.compile(
@@ -51,7 +52,11 @@ async def fetch_special_program_info(
     if source is None:
         return None
 
-    news_payload = await client.fetch_news_list(gids=source.gids, type_id=source.type_id)
+    news_payload = await client.fetch_news_list(
+        gids=source.gids,
+        type_id=source.type_id,
+        page_size=source.page_size,
+    )
     if news_payload.get("retcode") not in (0, None):
         return None
     posts = (news_payload.get("data") or {}).get("list") or []

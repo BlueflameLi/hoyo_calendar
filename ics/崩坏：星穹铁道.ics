@@ -13,8 +13,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3.6版本「于长夜重返大地」版本
-DTSTART;TZID=Asia/Shanghai:20250924T110000
-UID:a67d5650@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20251105T110000
+UID:d6dfb6b4@hoyo_calendar
 DESCRIPTION:3.6版本「于长夜重返大地」版本
 LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
@@ -28,43 +28,30 @@ LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
- 等奖励！
-DTSTART;TZID=Asia/Shanghai:20250930T120000
-UID:3d88a635@hoyo_calendar
-DESCRIPTION:「缤纷大乱斗」：参与对战获取命运的足迹、
- 星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
+SUMMARY:「八荒诛邪」「流光定影•纵然山河万程\, 胚中万
+ 物」「溯回忆象•生命当付之一炬」角色、光锥跃迁: 丹
+ 恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命当付之一炬
+DTSTART;TZID=Asia/Shanghai:20251015T120000
+UID:9fac087b@hoyo_calendar
+DESCRIPTION:「八荒诛邪」「流光定影•纵然山河万程\, 胚
+ 中万物」「溯回忆象•生命当付之一炬」角色、光锥跃
+ 迁: 丹恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命当付之一
+ 炬
+LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
- 等奖励！结束
-DTSTART;TZID=Asia/Shanghai:20251103T035900
-UID:4d999b56@hoyo_calendar
-DESCRIPTION:活动结束\n「缤纷大乱斗」：参与对战获取命运
- 的足迹、星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天气真好，养它！」：培养大地兽宝宝，获取自
- 塑尘脂、头像等奖励！
-DTSTART;TZID=Asia/Shanghai:20250924T110000
-UID:a914c2a9@hoyo_calendar
-DESCRIPTION:「天气真好，养它！」：培养大地兽宝宝，获
- 取自塑尘脂、头像等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天气真好，养它！」：培养大地兽宝宝，获取自
- 塑尘脂、头像等奖励！结束
-DTSTART;TZID=Asia/Shanghai:20251103T035900
-UID:a85e39d9@hoyo_calendar
-DESCRIPTION:活动结束\n「天气真好，养它！」：培养大地兽
- 宝宝，获取自塑尘脂、头像等奖励！
-LOCATION:崩坏：星穹铁道-活动
+SUMMARY:「八荒诛邪」「流光定影•纵然山河万程\, 胚中万
+ 物」「溯回忆象•生命当付之一炬」角色、光锥跃迁: 丹
+ 恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命当付之一炬结
+ 束
+DTSTART;TZID=Asia/Shanghai:20251104T150000
+UID:af7f65b7@hoyo_calendar
+DESCRIPTION:活动结束\n「八荒诛邪」「流光定影•纵然山河
+ 万程\, 胚中万物」「溯回忆象•生命当付之一炬」角色
+ 、光锥跃迁: 丹恒•腾荒\, 那刻夏\, 纵然山河万程\, 生命
+ 当付之一炬
+LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -110,6 +97,66 @@ UID:42726da1@hoyo_calendar
 DESCRIPTION:活动结束\n「「联动跃迁」说明」角色、光锥跃
  迁: Saber\, Archer\, 没有回报的加冕\, 理想燃烧的地狱
 LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「不要笑挑战」：完成挑战获取命运的足迹、星琼
+ 等奖励！
+DTSTART;TZID=Asia/Shanghai:20251015T120000
+UID:f71c4d5f@hoyo_calendar
+DESCRIPTION:「不要笑挑战」：完成挑战获取命运的足迹、
+ 星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「不要笑挑战」：完成挑战获取命运的足迹、星琼
+ 等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20251103T035900
+UID:00a9cf8b@hoyo_calendar
+DESCRIPTION:活动结束\n「不要笑挑战」：完成挑战获取命运
+ 的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
+ 等奖励！
+DTSTART;TZID=Asia/Shanghai:20250930T120000
+UID:3d88a635@hoyo_calendar
+DESCRIPTION:「缤纷大乱斗」：参与对战获取命运的足迹、
+ 星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
+ 等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20251103T035900
+UID:4d999b56@hoyo_calendar
+DESCRIPTION:活动结束\n「缤纷大乱斗」：参与对战获取命运
+ 的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天气真好，养它！」：培养大地兽宝宝，获取自
+ 塑尘脂、头像等奖励！
+DTSTART;TZID=Asia/Shanghai:20250924T110000
+UID:a914c2a9@hoyo_calendar
+DESCRIPTION:「天气真好，养它！」：培养大地兽宝宝，获
+ 取自塑尘脂、头像等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天气真好，养它！」：培养大地兽宝宝，获取自
+ 塑尘脂、头像等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20251103T035900
+UID:a85e39d9@hoyo_calendar
+DESCRIPTION:活动结束\n「天气真好，养它！」：培养大地兽
+ 宝宝，获取自塑尘脂、头像等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

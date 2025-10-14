@@ -4,6 +4,17 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:「不要笑挑战」：完成挑战获取命运的足迹、星琼
+ 等奖励！
+DTSTART;TZID=Asia/Shanghai:20251015T120000
+DTEND;TZID=Asia/Shanghai:20251103T035900
+UID:f71c4d5f@hoyo_calendar
+DESCRIPTION:「不要笑挑战」：完成挑战获取命运的足迹、
+ 星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
  等奖励！
 DTSTART;TZID=Asia/Shanghai:20250930T120000
