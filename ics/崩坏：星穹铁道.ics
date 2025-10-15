@@ -55,31 +55,6 @@ LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「无我所忆」「流光定影•致长夜的星光\, 视界来
- 信」「溯回忆象•向着不可追问处」角色、光锥跃迁: 长
- 夜月\, 大黑塔\, 致长夜的星光\, 向着不可追问处
-DTSTART;TZID=Asia/Shanghai:20250924T110000
-UID:8032bc45@hoyo_calendar
-DESCRIPTION:「无我所忆」「流光定影•致长夜的星光\, 视
- 界来信」「溯回忆象•向着不可追问处」角色、光锥跃
- 迁: 长夜月\, 大黑塔\, 致长夜的星光\, 向着不可追问处
-LOCATION:崩坏：星穹铁道-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无我所忆」「流光定影•致长夜的星光\, 视界来
- 信」「溯回忆象•向着不可追问处」角色、光锥跃迁: 长
- 夜月\, 大黑塔\, 致长夜的星光\, 向着不可追问处结束
-DTSTART;TZID=Asia/Shanghai:20251015T115900
-UID:77cc56b6@hoyo_calendar
-DESCRIPTION:活动结束\n「无我所忆」「流光定影•致长夜的
- 星光\, 视界来信」「溯回忆象•向着不可追问处」角色
- 、光锥跃迁: 长夜月\, 大黑塔\, 致长夜的星光\, 向着不可
- 追问处
-LOCATION:崩坏：星穹铁道-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「「联动跃迁」说明」角色、光锥跃迁: Saber\, Arche
  r\, 没有回报的加冕\, 理想燃烧的地狱
 DTSTART;TZID=Asia/Shanghai:20250709T130000
