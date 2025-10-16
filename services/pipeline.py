@@ -65,7 +65,7 @@ async def _process_game(
         events_client,
         game_id=config.game_id,
     )
-    if special_program is not None:
+    if special_program is not None and special_program.name != version_info.name:
         if special_program.code:
             version_info.next_version_code = special_program.code
         elif special_program.start_time is not None:
@@ -131,16 +131,21 @@ async def _process_game(
             announcements=future_announcements,
         )
 
-    trimmed_count = _prune_expired_announcements(timeline)
+    trimmed_count, removed_versions = _prune_expired_entries(
+        timeline,
+        active_version_code=version_info.code,
+        active_version_start=version_info.start_time,
+    )
 
     after_snapshot = timeline.model_dump(mode="json", by_alias=True)
     timeline_changed = before_snapshot != after_snapshot
 
-    if trimmed_count:
+    if trimmed_count or removed_versions:
         logger.info(
-            "{game} pruned {count} expired announcement(s)",
+            "{game} pruned {ann_count} expired announcement(s) and removed {version_count} old version(s)",
             game=config.display_name,
-            count=trimmed_count,
+            ann_count=trimmed_count,
+            version_count=removed_versions,
         )
 
     await storage.save_timeline(settings.data_output_dir, config.display_name, timeline)
@@ -159,22 +164,56 @@ async def _process_game(
         version=version_info.code,
         count=len(current_announcements),
         trimmed=trimmed_count,
+        removed_versions=removed_versions,
     )
 
 
-def _prune_expired_announcements(timeline) -> int:
+def _prune_expired_entries(
+    timeline,
+    *,
+    active_version_code: str,
+    active_version_start: datetime | None,
+) -> tuple[int, int]:
     now = datetime.now()
     removed = 0
+    remaining_versions = []
+    removed_versions = 0
     for version in timeline.version_list:
         if not version.announcements:
+            pass
+        else:
+            active_announcements = []
+            for announcement in version.announcements:
+                end_time = announcement.end_time
+                if end_time is not None and end_time < now:
+                    removed += 1
+                    continue
+                active_announcements.append(announcement)
+            if len(active_announcements) != len(version.announcements):
+                version.replace_announcements(active_announcements)
+
+        should_remove_version = False
+        if version.code != active_version_code:
+            if version.end_time is not None:
+                past_active = (
+                    active_version_start is not None
+                    and version.end_time < active_version_start
+                )
+                past_now = version.end_time < now
+                if past_active or past_now:
+                    should_remove_version = True
+            elif not version.announcements:
+                start_time = getattr(version, "start_time", None)
+                if start_time is None or start_time < now:
+                    should_remove_version = True
+
+        if should_remove_version:
+            removed_versions += 1
             continue
-        active_announcements = []
-        for announcement in version.announcements:
-            end_time = announcement.end_time
-            if end_time is not None and end_time < now:
-                removed += 1
-                continue
-            active_announcements.append(announcement)
-        if len(active_announcements) != len(version.announcements):
-            version.replace_announcements(active_announcements)
-    return removed
+
+        remaining_versions.append(version)
+
+    if removed_versions:
+        timeline.version_list = remaining_versions
+
+    return removed, removed_versions

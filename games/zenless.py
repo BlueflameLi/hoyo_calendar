@@ -196,6 +196,7 @@ def _should_include_event(title: str) -> bool:
         and "全新放送" not in title
         and "『嗯呢』从天降" not in title
         and "特别访客" not in title
+        and "云·绝区零" not in title
     )
 
 

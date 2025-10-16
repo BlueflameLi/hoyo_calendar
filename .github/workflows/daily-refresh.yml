@@ -2,7 +2,7 @@ name: daily-refresh
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 02:00 CST
+    - cron: "0 5 * * *" # 13:00 CST
   workflow_dispatch:
 
 permissions:
