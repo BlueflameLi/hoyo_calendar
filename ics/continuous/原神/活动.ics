@@ -85,4 +85,15 @@ DESCRIPTION:「悠悠纳塔，悠悠夏天！」时限内完成探索任
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20260812T055900
+UID:40c09e9e@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
