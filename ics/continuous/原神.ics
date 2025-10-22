@@ -4,40 +4,39 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之一版本「『空月之歌·呈示』雪浪与苍林之舞
- 」版本
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-DTEND;TZID=Asia/Shanghai:20251022T060000
-UID:f4340a86@hoyo_calendar
-DESCRIPTION:月之一版本「『空月之歌·呈示』雪浪与苍林之
- 舞」版本
-LOCATION:原神-版本更新
+SUMMARY:『空月之歌·复演』回望湮灭的月光前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20251010T200000
+UID:1b4a5e8e@hoyo_calendar
+DESCRIPTION:『空月之歌·复演』回望湮灭的月光前瞻特别节
+ 目
+LOCATION:原神-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
-DTSTART;TZID=Asia/Shanghai:20250930T180000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:46570299@hoyo_calendar
-DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
+SUMMARY:「赤砂的诱言」角色祈愿: 奈芙尔
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20251111T175900
+UID:6818fe09@hoyo_calendar
+DESCRIPTION:「赤砂的诱言」角色祈愿: 奈芙尔
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「素霓伣天」角色祈愿: 夜兰
-DTSTART;TZID=Asia/Shanghai:20250930T180000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:761f07bc@hoyo_calendar
-DESCRIPTION:「素霓伣天」角色祈愿: 夜兰
+SUMMARY:「众水的颂诗」角色祈愿: 芙宁娜
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20251111T175900
+UID:3bdd4eac@hoyo_calendar
+DESCRIPTION:「众水的颂诗」角色祈愿: 芙宁娜
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 血染荒城\, 若水
-DTSTART;TZID=Asia/Shanghai:20250930T180000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:c18c9fdb@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 血染荒城\, 若水
+SUMMARY:「神铸赋形」武器祈愿: 真语秘匣\, 静水流涌之辉
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20251111T175900
+UID:f2b8551b@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 真语秘匣\, 静水流涌之
+ 辉
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -70,66 +69,22 @@ LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-DTEND;TZID=Asia/Shanghai:20251201T035900
-UID:d5da2790@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：自选邀约「奔行世
- 间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:eb607c90@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：自选邀约「奔
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
  行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20260812T055900
+UID:40c09e9e@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虹旅藏金·朔望流辉」活动：登录领取1600原石、
- 纠缠之缘*10等奖励
-DTSTART;TZID=Asia/Shanghai:20250928T000000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:1cd29a5c@hoyo_calendar
-DESCRIPTION:「虹旅藏金·朔望流辉」活动：登录领取1600原
- 石、纠缠之缘*10等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「雪浪与苍林之舞」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:94138776@hoyo_calendar
-DESCRIPTION:「雪浪与苍林之舞」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
- 获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-DTEND;TZID=Asia/Shanghai:20251202T145959
-UID:a324bf1c@hoyo_calendar
-DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
- 额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「悠悠纳塔，悠悠夏天！」时限内完成探索任务，
- 可额外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20250727T120000
-DTEND;TZID=Asia/Shanghai:20251021T145959
-UID:b8af8068@hoyo_calendar
-DESCRIPTION:「悠悠纳塔，悠悠夏天！」时限内完成探索任
- 务，可额外获得原石*400奖励
+SUMMARY:「龙龙同游」活动：合作解谜挑战
+DTSTART;TZID=Asia/Shanghai:20251024T100000
+DTEND;TZID=Asia/Shanghai:20251103T035959
+UID:d057d3ea@hoyo_calendar
+DESCRIPTION:「龙龙同游」活动：合作解谜挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -145,12 +100,34 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:『空月之歌·复演』回望湮灭的月光前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20251010T200000
-UID:1b4a5e8e@hoyo_calendar
-DESCRIPTION:『空月之歌·复演』回望湮灭的月光前瞻特别节
- 目
-LOCATION:原神-前瞻特别节目
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20250908T120000
+DTEND;TZID=Asia/Shanghai:20251201T035900
+UID:366ba239@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
+ 获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20250908T120000
+DTEND;TZID=Asia/Shanghai:20251202T145959
+UID:40953ab5@hoyo_calendar
+DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
+ 额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
+ 」版本
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+DTEND;TZID=Asia/Shanghai:20251203T060000
+UID:6b239572@hoyo_calendar
+DESCRIPTION:月之二版本「『空月之歌·复演』回望湮灭的月
+ 光」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

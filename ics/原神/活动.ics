@@ -4,118 +4,38 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:d5da2790@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20251201T035900
-UID:9ef284e2@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：自选邀约「奔行世
- 间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:eb607c90@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：自选邀约「奔
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
  行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+UID:40c09e9e@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：自选邀约「奔行世
- 间」常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20251021T145959
-UID:b89d6227@hoyo_calendar
-DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：自选
- 邀约「奔行世间」常驻祈愿5星角色
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20260812T055900
+UID:d5bcf830@hoyo_calendar
+DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
+ 自选邀约「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虹旅藏金·朔望流辉」活动：登录领取1600原石、
- 纠缠之缘*10等奖励
-DTSTART;TZID=Asia/Shanghai:20250928T000000
-UID:1cd29a5c@hoyo_calendar
-DESCRIPTION:「虹旅藏金·朔望流辉」活动：登录领取1600原
- 石、纠缠之缘*10等奖励
+SUMMARY:「龙龙同游」活动：合作解谜挑战
+DTSTART;TZID=Asia/Shanghai:20251024T100000
+UID:d057d3ea@hoyo_calendar
+DESCRIPTION:「龙龙同游」活动：合作解谜挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虹旅藏金·朔望流辉」活动：登录领取1600原石、
- 纠缠之缘*10等奖励结束
-DTSTART;TZID=Asia/Shanghai:20251021T145959
-UID:1ec391eb@hoyo_calendar
-DESCRIPTION:活动结束\n「虹旅藏金·朔望流辉」活动：登录
- 领取1600原石、纠缠之缘*10等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「雪浪与苍林之舞」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:94138776@hoyo_calendar
-DESCRIPTION:「雪浪与苍林之舞」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「雪浪与苍林之舞」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20251021T145959
-UID:6143dbeb@hoyo_calendar
-DESCRIPTION:活动结束\n「雪浪与苍林之舞」时限内完成魔神
- 任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
- 获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:a324bf1c@hoyo_calendar
-DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
- 额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
- 获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20251202T145959
-UID:c6a28014@hoyo_calendar
-DESCRIPTION:活动结束\n「冷月逸照的乐屿」时限内完成探索
- 任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「悠悠纳塔，悠悠夏天！」时限内完成探索任务，
- 可额外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20250727T120000
-UID:b8af8068@hoyo_calendar
-DESCRIPTION:「悠悠纳塔，悠悠夏天！」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「悠悠纳塔，悠悠夏天！」时限内完成探索任务，
- 可额外获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20251021T145959
-UID:0b98f31f@hoyo_calendar
-DESCRIPTION:活动结束\n「悠悠纳塔，悠悠夏天！」时限内完
- 成探索任务，可额外获得原石*400奖励
+SUMMARY:「龙龙同游」活动：合作解谜挑战结束
+DTSTART;TZID=Asia/Shanghai:20251103T035959
+UID:cc8a68da@hoyo_calendar
+DESCRIPTION:活动结束\n「龙龙同游」活动：合作解谜挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -136,6 +56,42 @@ DTSTART;TZID=Asia/Shanghai:20260812T055900
 UID:d5bcf830@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20250908T120000
+UID:366ba239@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20251201T035900
+UID:9ef284e2@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
+ 获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20250908T120000
+UID:40953ab5@hoyo_calendar
+DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
+ 额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
+ 获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20251202T145959
+UID:c6a28014@hoyo_calendar
+DESCRIPTION:活动结束\n「冷月逸照的乐屿」时限内完成探索
+ 任务，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

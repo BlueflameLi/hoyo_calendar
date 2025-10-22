@@ -4,22 +4,22 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之一版本「『空月之歌·呈示』雪浪与苍林之舞
+SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
  」版本
-DTSTART;TZID=Asia/Shanghai:20250910T110000
-UID:f4340a86@hoyo_calendar
-DESCRIPTION:月之一版本「『空月之歌·呈示』雪浪与苍林之
- 舞」版本
+DTSTART;TZID=Asia/Shanghai:20251022T110000
+UID:6b239572@hoyo_calendar
+DESCRIPTION:月之二版本「『空月之歌·复演』回望湮灭的月
+ 光」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之一版本「『空月之歌·呈示』雪浪与苍林之舞
+SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
  」版本结束
-DTSTART;TZID=Asia/Shanghai:20251022T060000
-UID:49d4ccd9@hoyo_calendar
-DESCRIPTION:活动结束\n月之一版本「『空月之歌·呈示』雪
- 浪与苍林之舞」版本
+DTSTART;TZID=Asia/Shanghai:20251203T060000
+UID:17ec0834@hoyo_calendar
+DESCRIPTION:活动结束\n月之二版本「『空月之歌·复演』回
+ 望湮灭的月光」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
