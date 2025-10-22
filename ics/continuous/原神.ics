@@ -4,40 +4,14 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:『空月之歌·复演』回望湮灭的月光前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20251010T200000
-UID:1b4a5e8e@hoyo_calendar
-DESCRIPTION:『空月之歌·复演』回望湮灭的月光前瞻特别节
- 目
-LOCATION:原神-前瞻特别节目
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「赤砂的诱言」角色祈愿: 奈芙尔
+SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
+ 」版本
 DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20251111T175900
-UID:6818fe09@hoyo_calendar
-DESCRIPTION:「赤砂的诱言」角色祈愿: 奈芙尔
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「众水的颂诗」角色祈愿: 芙宁娜
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20251111T175900
-UID:3bdd4eac@hoyo_calendar
-DESCRIPTION:「众水的颂诗」角色祈愿: 芙宁娜
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 真语秘匣\, 静水流涌之辉
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20251111T175900
-UID:f2b8551b@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 真语秘匣\, 静水流涌之
- 辉
-LOCATION:原神-祈愿
+DTEND;TZID=Asia/Shanghai:20251203T060000
+UID:6b239572@hoyo_calendar
+DESCRIPTION:月之二版本「『空月之歌·复演』回望湮灭的月
+ 光」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -89,17 +63,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20260812T055900
-UID:40c09e9e@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20250908T120000
 DTEND;TZID=Asia/Shanghai:20251201T035900
@@ -117,17 +80,6 @@ UID:40953ab5@hoyo_calendar
 DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
  额外获得原石*400奖励
 LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
- 」版本
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20251203T060000
-UID:6b239572@hoyo_calendar
-DESCRIPTION:月之二版本「『空月之歌·复演』回望湮灭的月
- 光」版本
-LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

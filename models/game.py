@@ -46,10 +46,20 @@ class GameTimeline(BaseModel):
 
     version_list: list[GameVersion] = Field(default_factory=list)
 
-    def find_version(self, code: str) -> GameVersion | None:
-        for version in self.version_list:
-            if version.code == code:
-                return version
+    def find_version(
+        self,
+        *,
+        code: str | None = None,
+        name: str | None = None,
+    ) -> GameVersion | None:
+        if name:
+            for version in self.version_list:
+                if version.name == name:
+                    return version
+        if code:
+            for version in self.version_list:
+                if version.code == code:
+                    return version
         return None
 
     def upsert_version(
@@ -62,7 +72,7 @@ class GameTimeline(BaseModel):
         end_time: Optional[datetime] = None,
         special_program_time: Optional[datetime] = None,
     ) -> GameVersion:
-        version = self.find_version(code)
+        version = self.find_version(code=code, name=name)
         if version is None:
             version = GameVersion(
                 code=code,
@@ -74,7 +84,8 @@ class GameTimeline(BaseModel):
             )
             self.version_list.append(version)
             return version
-
+        if code:
+            version.code = code
         if name:
             version.name = name
         if banner:
@@ -83,8 +94,8 @@ class GameTimeline(BaseModel):
             version.start_time = start_time
         if end_time:
             version.end_time = end_time
-        if special_program_time:
-            version.special_program_time = special_program_time
+
+        version.special_program_time = special_program_time
         return version
 
     def inject_announcements(

@@ -95,10 +95,8 @@ async def export_ics(
 ) -> None:
     targets = [base_output, *extra_outputs]
     for target in targets:
-        target.mkdir(parents=True, exist_ok=True)
-        (target / "continuous").mkdir(parents=True, exist_ok=True)
-        (target / config.display_name).mkdir(parents=True, exist_ok=True)
-        (target / "continuous" / config.display_name).mkdir(parents=True, exist_ok=True)
+        _prepare_output_tree(target, config.display_name)
+        _clear_existing_ics(target, config.display_name)
 
     version_payloads = _build_version_payloads(timeline, config)
 
@@ -133,6 +131,31 @@ async def _write_calendar_file(path: Path, calendar: MyCalendar) -> None:
     async with aiofiles.open(path, "wb") as handle:
         await handle.write(calendar.to_ical())
     logger.debug("Wrote calendar {path}", path=path)
+
+
+def _prepare_output_tree(target: Path, display_name: str) -> None:
+    target.mkdir(parents=True, exist_ok=True)
+    (target / "continuous").mkdir(parents=True, exist_ok=True)
+    (target / display_name).mkdir(parents=True, exist_ok=True)
+    (target / "continuous" / display_name).mkdir(parents=True, exist_ok=True)
+
+
+def _clear_existing_ics(target: Path, display_name: str) -> None:
+    paths_to_clean = [
+        target / f"{display_name}.ics",
+        target / "continuous" / f"{display_name}.ics",
+    ]
+    dirs_to_clean = [
+        target / display_name,
+        target / "continuous" / display_name,
+    ]
+    for file_path in paths_to_clean:
+        if file_path.exists():
+            file_path.unlink()
+    for directory in dirs_to_clean:
+        if directory.exists():
+            for ics_file in directory.glob("*.ics"):
+                ics_file.unlink()
 
 
 def _build_version_payloads(timeline: GameTimeline, config: GameConfig) -> list[dict]:
