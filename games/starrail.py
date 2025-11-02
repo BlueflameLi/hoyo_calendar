@@ -188,7 +188,7 @@ def _process_announcements(
 def _should_include_event(title: str) -> bool:
     if "崩坏：星穹铁道" in title and "版本" in title:
         return True
-    return "等奖励" in title and "模拟宇宙" not in title
+    return "等奖励" in title  and "模拟宇宙" not in title or "位面分裂" in title or "参与活动获取" in title
 
 
 def _process_event(

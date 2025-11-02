@@ -164,11 +164,20 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.7版本「成为昨日的明天」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20251024T193000
-UID:b575da3c@hoyo_calendar
-DESCRIPTION:3.7版本「成为昨日的明天」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
+SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
+DTSTART;TZID=Asia/Shanghai:20251105T110000
+UID:4e921a51@hoyo_calendar
+DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！结束
+DTSTART;TZID=Asia/Shanghai:20251215T035900
+UID:eb4d5d2b@hoyo_calendar
+DESCRIPTION:活动结束\n「奇库寻遗」：参与活动获取+15五星
+ 遗器！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
