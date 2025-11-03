@@ -23,4 +23,25 @@ DESCRIPTION:活动结束\n「绮夜游灯\, 飞鸟坠入良夜」代理人
 LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
+ 调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
+DTSTART;TZID=Asia/Shanghai:20251103T120000
+UID:d9110c7e@hoyo_calendar
+DESCRIPTION:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、
+ 音擎调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
+ 调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉结束
+DTSTART;TZID=Asia/Shanghai:20251125T145900
+UID:36d90ebf@hoyo_calendar
+DESCRIPTION:活动结束\n「孤旅同梦\, 福福生威\, 璀璨韵律」
+ 代理人、音擎调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓
+ 炉炉
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

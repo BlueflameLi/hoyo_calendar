@@ -57,39 +57,6 @@ LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「不要笑挑战」：完成挑战获取命运的足迹、星琼
- 等奖励！
-DTSTART;TZID=Asia/Shanghai:20251015T120000
-DTEND;TZID=Asia/Shanghai:20251103T035900
-UID:f71c4d5f@hoyo_calendar
-DESCRIPTION:「不要笑挑战」：完成挑战获取命运的足迹、
- 星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「缤纷大乱斗」：参与对战获取命运的足迹、星琼
- 等奖励！
-DTSTART;TZID=Asia/Shanghai:20250930T120000
-DTEND;TZID=Asia/Shanghai:20251103T035900
-UID:3d88a635@hoyo_calendar
-DESCRIPTION:「缤纷大乱斗」：参与对战获取命运的足迹、
- 星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天气真好，养它！」：培养大地兽宝宝，获取自
- 塑尘脂、头像等奖励！
-DTSTART;TZID=Asia/Shanghai:20250924T110000
-DTEND;TZID=Asia/Shanghai:20251103T035900
-UID:a914c2a9@hoyo_calendar
-DESCRIPTION:「天气真好，养它！」：培养大地兽宝宝，获
- 取自塑尘脂、头像等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
 DTSTART;TZID=Asia/Shanghai:20251105T110000
 DTEND;TZID=Asia/Shanghai:20251215T035900

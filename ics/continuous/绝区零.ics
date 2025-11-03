@@ -58,11 +58,11 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「先遣赏金-定期清剿」活动说明
-DTSTART;TZID=Asia/Shanghai:20251027T120000
-DTEND;TZID=Asia/Shanghai:20251103T035959
-UID:78d43129@hoyo_calendar
-DESCRIPTION:「先遣赏金-定期清剿」活动说明
+SUMMARY:「解忧轶事录」活动说明
+DTSTART;TZID=Asia/Shanghai:20251103T120000
+DTEND;TZID=Asia/Shanghai:20251117T035900
+UID:4b15149b@hoyo_calendar
+DESCRIPTION:「解忧轶事录」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -74,6 +74,17 @@ DTEND;TZID=Asia/Shanghai:20251105T115959
 UID:165d480f@hoyo_calendar
 DESCRIPTION:「绮夜游灯\, 飞鸟坠入良夜」代理人、音擎调
  频: 卢西娅\, 薇薇安\, 铸梦炉歌\, 飞鸟星梦
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
+ 调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
+DTSTART;TZID=Asia/Shanghai:20251103T120000
+DTEND;TZID=Asia/Shanghai:20251125T145900
+UID:d9110c7e@hoyo_calendar
+DESCRIPTION:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、
+ 音擎调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
 LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
