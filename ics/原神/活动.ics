@@ -75,4 +75,24 @@ DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「参究故墟·稳健知行」活动：参与邀请「萃念初
+ 蘖·柯莱(草)」
+DTSTART;TZID=Asia/Shanghai:20251107T100000
+UID:8af46a02@hoyo_calendar
+DESCRIPTION:「参究故墟·稳健知行」活动：参与邀请「萃念
+ 初蘖·柯莱(草)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「参究故墟·稳健知行」活动：参与邀请「萃念初
+ 蘖·柯莱(草)」结束
+DTSTART;TZID=Asia/Shanghai:20251124T035959
+UID:85198008@hoyo_calendar
+DESCRIPTION:活动结束\n「参究故墟·稳健知行」活动：参与
+ 邀请「萃念初蘖·柯莱(草)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
