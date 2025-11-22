@@ -112,4 +112,24 @@ DESCRIPTION:活动结束\n「跃跃律动舞力聚会」活动：共舞挑
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
+ 双倍掉落
+DTSTART;TZID=Asia/Shanghai:20251124T040000
+UID:091acd00@hoyo_calendar
+DESCRIPTION:「盛材移涌」活动：天赋培养素材、武器突破
+ 素材双倍掉落
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
+ 双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20251201T035959
+UID:7cc840c9@hoyo_calendar
+DESCRIPTION:活动结束\n「盛材移涌」活动：天赋培养素材、
+ 武器突破素材双倍掉落
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
