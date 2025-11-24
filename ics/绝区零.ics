@@ -68,54 +68,6 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「残梦未尽之时」活动说明
-DTSTART;TZID=Asia/Shanghai:20251015T180000
-UID:09f8c1c4@hoyo_calendar
-DESCRIPTION:「残梦未尽之时」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「残梦未尽之时」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251124T035959
-UID:611d7452@hoyo_calendar
-DESCRIPTION:活动结束\n「残梦未尽之时」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『141』环保艺展」活动说明
-DTSTART;TZID=Asia/Shanghai:20251110T120000
-UID:f23f084a@hoyo_calendar
-DESCRIPTION:「『141』环保艺展」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『141』环保艺展」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251124T035900
-UID:60e6b657@hoyo_calendar
-DESCRIPTION:活动结束\n「『141』环保艺展」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动说明
-DTSTART;TZID=Asia/Shanghai:20251117T120000
-UID:170eea62@hoyo_calendar
-DESCRIPTION:「数据悬赏-实战模拟」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251124T035900
-UID:c34ad049@hoyo_calendar
-DESCRIPTION:活动结束\n「数据悬赏-实战模拟」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
  调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
 DTSTART;TZID=Asia/Shanghai:20251103T120000
@@ -137,11 +89,23 @@ LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2.4版本「将临未抵的深渊」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20251114T193000
-UID:ee0530bf@hoyo_calendar
-DESCRIPTION:2.4版本「将临未抵的深渊」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
+SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
+ 音\, 雨果\, 昨夜来电\, 千面日陨
+DTSTART;TZID=Asia/Shanghai:20251126T110000
+UID:74a32374@hoyo_calendar
+DESCRIPTION:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 
+ 琉音\, 雨果\, 昨夜来电\, 千面日陨
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
+ 音\, 雨果\, 昨夜来电\, 千面日陨结束
+DTSTART;TZID=Asia/Shanghai:20251217T115900
+UID:d3420964@hoyo_calendar
+DESCRIPTION:活动结束\n「唤寂昔声\, 譬如昨日死」代理人、
+ 音擎调频: 琉音\, 雨果\, 昨夜来电\, 千面日陨
+LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

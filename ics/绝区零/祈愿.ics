@@ -24,4 +24,24 @@ DESCRIPTION:活动结束\n「孤旅同梦\, 福福生威\, 璀璨韵律」
 LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
+ 音\, 雨果\, 昨夜来电\, 千面日陨
+DTSTART;TZID=Asia/Shanghai:20251126T110000
+UID:74a32374@hoyo_calendar
+DESCRIPTION:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 
+ 琉音\, 雨果\, 昨夜来电\, 千面日陨
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
+ 音\, 雨果\, 昨夜来电\, 千面日陨结束
+DTSTART;TZID=Asia/Shanghai:20251217T115900
+UID:d3420964@hoyo_calendar
+DESCRIPTION:活动结束\n「唤寂昔声\, 譬如昨日死」代理人、
+ 音擎调频: 琉音\, 雨果\, 昨夜来电\, 千面日陨
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
