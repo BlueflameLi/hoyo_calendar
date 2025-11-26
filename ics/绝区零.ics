@@ -4,88 +4,19 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:2.3版本「可曾记得梦」版本
-DTSTART;TZID=Asia/Shanghai:20251015T110000
-UID:96a42a37@hoyo_calendar
-DESCRIPTION:2.3版本「可曾记得梦」版本
+SUMMARY:2.4版本「将临未抵的深渊」版本
+DTSTART;TZID=Asia/Shanghai:20251126T110000
+UID:2d978e1f@hoyo_calendar
+DESCRIPTION:2.4版本「将临未抵的深渊」版本
 LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2.3版本「可曾记得梦」版本结束
-DTSTART;TZID=Asia/Shanghai:20251126T060000
-UID:ba90df95@hoyo_calendar
-DESCRIPTION:活动结束\n2.3版本「可曾记得梦」版本
+SUMMARY:2.4版本「将临未抵的深渊」版本结束
+DTSTART;TZID=Asia/Shanghai:20251230T060000
+UID:23b78b41@hoyo_calendar
+DESCRIPTION:活动结束\n2.4版本「将临未抵的深渊」版本
 LOCATION:绝区零-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「昔丘探索手册」活动说明
-DTSTART;TZID=Asia/Shanghai:20251015T110000
-UID:31e7baad@hoyo_calendar
-DESCRIPTION:「昔丘探索手册」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「昔丘探索手册」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251126T055959
-UID:0256e710@hoyo_calendar
-DESCRIPTION:活动结束\n「昔丘探索手册」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「调频回馈」活动说明
-DTSTART;TZID=Asia/Shanghai:20251015T110000
-UID:d0ad6622@hoyo_calendar
-DESCRIPTION:「调频回馈」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「调频回馈」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251230T055959
-UID:8c6612c2@hoyo_calendar
-DESCRIPTION:活动结束\n「调频回馈」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《云·绝区零》限时赠送活动说明
-DTSTART;TZID=Asia/Shanghai:20251015T110000
-UID:bef064a1@hoyo_calendar
-DESCRIPTION:《云·绝区零》限时赠送活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:《云·绝区零》限时赠送活动说明结束
-DTSTART;TZID=Asia/Shanghai:20251126T060000
-UID:e45d434e@hoyo_calendar
-DESCRIPTION:活动结束\n《云·绝区零》限时赠送活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
- 调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
-DTSTART;TZID=Asia/Shanghai:20251103T120000
-UID:d9110c7e@hoyo_calendar
-DESCRIPTION:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、
- 音擎调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤旅同梦\, 福福生威\, 璀璨韵律」代理人、音擎
- 调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓炉炉结束
-DTSTART;TZID=Asia/Shanghai:20251125T145900
-UID:36d90ebf@hoyo_calendar
-DESCRIPTION:活动结束\n「孤旅同梦\, 福福生威\, 璀璨韵律」
- 代理人、音擎调频: 伊德海莉\, 橘福福\, 海妖摇篮\, 福虓
- 炉炉
-LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -106,6 +37,38 @@ UID:d3420964@hoyo_calendar
 DESCRIPTION:活动结束\n「唤寂昔声\, 譬如昨日死」代理人、
  音擎调频: 琉音\, 雨果\, 昨夜来电\, 千面日陨
 LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』棋侠传」活动说明
+DTSTART;TZID=Asia/Shanghai:20251126T110000
+UID:60b087be@hoyo_calendar
+DESCRIPTION:「『嗯呢』棋侠传」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「『嗯呢』棋侠传」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251229T035900
+UID:630bb938@hoyo_calendar
+DESCRIPTION:活动结束\n「『嗯呢』棋侠传」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「调频回馈」活动说明
+DTSTART;TZID=Asia/Shanghai:20251013T180000
+UID:482b53b6@hoyo_calendar
+DESCRIPTION:「调频回馈」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「调频回馈」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251230T055959
+UID:8c6612c2@hoyo_calendar
+DESCRIPTION:活动结束\n「调频回馈」活动说明
+LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
