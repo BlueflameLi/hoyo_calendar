@@ -33,15 +33,6 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20251117T040000
-DTEND;TZID=Asia/Shanghai:20251201T035900
-UID:91a36cf6@hoyo_calendar
-DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「「联动跃迁」说明」角色、光锥跃迁: Saber\, Arche
  r\, 没有回报的加冕\, 理想燃烧的地狱
 DTSTART;TZID=Asia/Shanghai:20250709T130000
