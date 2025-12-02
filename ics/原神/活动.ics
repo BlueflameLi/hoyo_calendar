@@ -44,22 +44,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20251029T100000
-UID:f84f2b0c@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20251202T035959
-UID:8c62a658@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20251201T040000
 UID:1fc2e282@hoyo_calendar
@@ -111,6 +95,26 @@ DTSTART;TZID=Asia/Shanghai:20260114T070000
 UID:e9ae285e@hoyo_calendar
 DESCRIPTION:活动结束\n「魔女的课业」完成任务可自选邀约
  4星魔导角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:2aae5721@hoyo_calendar
+DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
+ 外获得原石*500奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励结束
+DTSTART;TZID=Asia/Shanghai:20260113T145959
+UID:4c5d3c46@hoyo_calendar
+DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
+ 务，可额外获得原石*500奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

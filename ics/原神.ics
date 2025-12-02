@@ -64,22 +64,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20251029T100000
-UID:f84f2b0c@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20251202T035959
-UID:8c62a658@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20251201T040000
 UID:1fc2e282@hoyo_calendar
@@ -155,6 +139,26 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:2aae5721@hoyo_calendar
+DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
+ 外获得原石*500奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励结束
+DTSTART;TZID=Asia/Shanghai:20260113T145959
+UID:4c5d3c46@hoyo_calendar
+DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
+ 务，可额外获得原石*500奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「炉边烬影」角色祈愿: 阿蕾奇诺
 DTSTART;TZID=Asia/Shanghai:20251111T180000
 UID:7db6e091@hoyo_calendar
@@ -200,6 +204,55 @@ DTSTART;TZID=Asia/Shanghai:20251202T145959
 UID:ea8dfd2f@hoyo_calendar
 DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 赤月之形\, 
  贯虹之槊
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「白礜赤成」角色祈愿: 杜林
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:437e5c9a@hoyo_calendar
+DESCRIPTION:「白礜赤成」角色祈愿: 杜林
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「白礜赤成」角色祈愿: 杜林结束
+DTSTART;TZID=Asia/Shanghai:20251223T175900
+UID:8f7eaee0@hoyo_calendar
+DESCRIPTION:活动结束\n「白礜赤成」角色祈愿: 杜林
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「杯装之诗」角色祈愿: 温迪
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:52ac5b51@hoyo_calendar
+DESCRIPTION:「杯装之诗」角色祈愿: 温迪
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「杯装之诗」角色祈愿: 温迪结束
+DTSTART;TZID=Asia/Shanghai:20251223T175900
+UID:d7c824d2@hoyo_calendar
+DESCRIPTION:活动结束\n「杯装之诗」角色祈愿: 温迪
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 黑蚀\, 黎明破晓之史
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:e12a7ac6@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 黑蚀\, 黎明破晓之史
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 黑蚀\, 黎明破晓之史结束
+DTSTART;TZID=Asia/Shanghai:20251223T175900
+UID:2420ad33@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 黑蚀\, 黎明
+ 破晓之史
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
