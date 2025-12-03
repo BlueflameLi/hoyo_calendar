@@ -4,13 +4,13 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之二版本「『空月之歌·复演』回望湮灭的月光
+SUMMARY:月之三版本「『空月之歌·间奏』终北的夜行诗」
+ 版本
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+DTEND;TZID=Asia/Shanghai:20260114T060000
+UID:2732379d@hoyo_calendar
+DESCRIPTION:月之三版本「『空月之歌·间奏』终北的夜行诗
  」版本
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-DTEND;TZID=Asia/Shanghai:20251203T060000
-UID:6b239572@hoyo_calendar
-DESCRIPTION:月之二版本「『空月之歌·复演』回望湮灭的月
- 光」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -4,58 +4,39 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20251022T110000
-UID:40c09e9e@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
+SUMMARY:「哐哐当当雀雀球」活动：全新弹球挑战
+DTSTART;TZID=Asia/Shanghai:20251205T100000
+UID:f1ba23de@hoyo_calendar
+DESCRIPTION:「哐哐当当雀雀球」活动：全新弹球挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20260812T055900
-UID:d5bcf830@hoyo_calendar
-DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
- 自选邀约「奔行世间」常驻祈愿5星角色
+SUMMARY:「哐哐当当雀雀球」活动：全新弹球挑战结束
+DTSTART;TZID=Asia/Shanghai:20251215T035959
+UID:79750ce0@hoyo_calendar
+DESCRIPTION:活动结束\n「哐哐当当雀雀球」活动：全新弹球
+ 挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
- 获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20250908T120000
-UID:40953ab5@hoyo_calendar
-DESCRIPTION:「冷月逸照的乐屿」时限内完成探索任务，可
- 额外获得原石*400奖励
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励
+DTSTART;TZID=Asia/Shanghai:20251203T110000
+UID:2aae5721@hoyo_calendar
+DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
+ 外获得原石*500奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「冷月逸照的乐屿」时限内完成探索任务，可额外
- 获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20251202T145959
-UID:c6a28014@hoyo_calendar
-DESCRIPTION:活动结束\n「冷月逸照的乐屿」时限内完成探索
- 任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20251201T040000
-UID:1fc2e282@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260223T035900
-UID:76acb89a@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
+ 得原石*500奖励结束
+DTSTART;TZID=Asia/Shanghai:20260113T145959
+UID:4c5d3c46@hoyo_calendar
+DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
+ 务，可额外获得原石*500奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -95,6 +76,42 @@ DTSTART;TZID=Asia/Shanghai:20260114T070000
 UID:e9ae285e@hoyo_calendar
 DESCRIPTION:活动结束\n「魔女的课业」完成任务可自选邀约
  4星魔导角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20251201T040000
+UID:1fc2e282@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20260223T035900
+UID:76acb89a@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20251020T120000
+UID:75dd543e@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20260812T055900
+UID:d5bcf830@hoyo_calendar
+DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
+ 自选邀约「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
