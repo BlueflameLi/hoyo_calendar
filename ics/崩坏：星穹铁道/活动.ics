@@ -4,39 +4,22 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
-DTSTART;TZID=Asia/Shanghai:20251105T110000
-UID:4e921a51@hoyo_calendar
-DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
+SUMMARY:「黄金嗷呜大师赛」：参与奇美拉对战，获取自塑
+ 尘脂、命运的足迹与对话框等奖励！
+DTSTART;TZID=Asia/Shanghai:20251217T110000
+UID:bdb94ff7@hoyo_calendar
+DESCRIPTION:「黄金嗷呜大师赛」：参与奇美拉对战，获取
+ 自塑尘脂、命运的足迹与对话框等奖励！
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！结束
-DTSTART;TZID=Asia/Shanghai:20251215T035900
-UID:eb4d5d2b@hoyo_calendar
-DESCRIPTION:活动结束\n「奇库寻遗」：参与活动获取+15五星
- 遗器！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「点心糕饼向前冲」：应援选手，获取自塑尘脂、
- 开拓穿搭等奖励！
-DTSTART;TZID=Asia/Shanghai:20251105T110000
-UID:e9c7fa6b@hoyo_calendar
-DESCRIPTION:「点心糕饼向前冲」：应援选手，获取自塑尘
- 脂、开拓穿搭等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「点心糕饼向前冲」：应援选手，获取自塑尘脂、
- 开拓穿搭等奖励！结束
-DTSTART;TZID=Asia/Shanghai:20251215T035900
-UID:469c0a4a@hoyo_calendar
-DESCRIPTION:活动结束\n「点心糕饼向前冲」：应援选手，获
- 取自塑尘脂、开拓穿搭等奖励！
+SUMMARY:「黄金嗷呜大师赛」：参与奇美拉对战，获取自塑
+ 尘脂、命运的足迹与对话框等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260209T035900
+UID:d86f0896@hoyo_calendar
+DESCRIPTION:活动结束\n「黄金嗷呜大师赛」：参与奇美拉对
+ 战，获取自塑尘脂、命运的足迹与对话框等奖励！
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT

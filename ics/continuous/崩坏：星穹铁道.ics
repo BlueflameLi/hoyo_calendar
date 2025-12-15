@@ -13,26 +13,6 @@ LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
-DTSTART;TZID=Asia/Shanghai:20251105T110000
-DTEND;TZID=Asia/Shanghai:20251215T035900
-UID:4e921a51@hoyo_calendar
-DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「点心糕饼向前冲」：应援选手，获取自塑尘脂、
- 开拓穿搭等奖励！
-DTSTART;TZID=Asia/Shanghai:20251105T110000
-DTEND;TZID=Asia/Shanghai:20251215T035900
-UID:e9c7fa6b@hoyo_calendar
-DESCRIPTION:「点心糕饼向前冲」：应援选手，获取自塑尘
- 脂、开拓穿搭等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「「联动跃迁」说明」角色、光锥跃迁: Saber\, Arche
  r\, 没有回报的加冕\, 理想燃烧的地狱
 DTSTART;TZID=Asia/Shanghai:20250709T130000
@@ -63,11 +43,14 @@ LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.8版本「记忆是梦的开场白」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20251205T193000
-UID:1af06eb6@hoyo_calendar
-DESCRIPTION:3.8版本「记忆是梦的开场白」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
+SUMMARY:「黄金嗷呜大师赛」：参与奇美拉对战，获取自塑
+ 尘脂、命运的足迹与对话框等奖励！
+DTSTART;TZID=Asia/Shanghai:20251217T110000
+DTEND;TZID=Asia/Shanghai:20260209T035900
+UID:bdb94ff7@hoyo_calendar
+DESCRIPTION:「黄金嗷呜大师赛」：参与奇美拉对战，获取
+ 自塑尘脂、命运的足迹与对话框等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
