@@ -4,42 +4,12 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:3.7版本「成为昨日的明天」版本
-DTSTART;TZID=Asia/Shanghai:20251105T110000
-DTEND;TZID=Asia/Shanghai:20251217T060000
-UID:9a714a99@hoyo_calendar
-DESCRIPTION:3.7版本「成为昨日的明天」版本
+SUMMARY:3.8版本「记忆是梦的开场白」版本
+DTSTART;TZID=Asia/Shanghai:20251217T110000
+DTEND;TZID=Asia/Shanghai:20260213T060000
+UID:642ed33f@hoyo_calendar
+DESCRIPTION:3.8版本「记忆是梦的开场白」版本
 LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「「联动跃迁」说明」角色、光锥跃迁: Saber\, Arche
- r\, 没有回报的加冕\, 理想燃烧的地狱
-DTSTART;TZID=Asia/Shanghai:20250709T130000
-DTEND;TZID=Asia/Shanghai:20350831T000000
-UID:35773d3b@hoyo_calendar
-DESCRIPTION:「「联动跃迁」说明」角色、光锥跃迁: Saber\, A
- rcher\, 没有回报的加冕\, 理想燃烧的地狱
-LOCATION:崩坏：星穹铁道-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「涟漪回环」「流光定影•爱如此刻永恒\, 铭心之
- 萃•白厄」「真意之汇•黎明恰如此燃烧\, 铭心之萃•
- 赛飞儿」「真意之汇•谎言在风中飘扬\, 铭心之萃•万
- 敌」「真意之汇•血火啊，燃烧前路」角色、光锥跃迁: 
- 昔涟\, 白厄\, 赛飞儿\, 万敌\, 爱如此刻永恒\, 黎明恰如
- 此燃烧\, 谎言在风中飘扬\, 血火啊，燃烧前路
-DTSTART;TZID=Asia/Shanghai:20251125T130000
-DTEND;TZID=Asia/Shanghai:20251216T150000
-UID:42f5478a@hoyo_calendar
-DESCRIPTION:「涟漪回环」「流光定影•爱如此刻永恒\, 铭
- 心之萃•白厄」「真意之汇•黎明恰如此燃烧\, 铭心之
- 萃•赛飞儿」「真意之汇•谎言在风中飘扬\, 铭心之萃
- •万敌」「真意之汇•血火啊，燃烧前路」角色、光锥
- 跃迁: 昔涟\, 白厄\, 赛飞儿\, 万敌\, 爱如此刻永恒\, 黎明
- 恰如此燃烧\, 谎言在风中飘扬\, 血火啊，燃烧前路
-LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -51,6 +21,19 @@ UID:bdb94ff7@hoyo_calendar
 DESCRIPTION:「黄金嗷呜大师赛」：参与奇美拉对战，获取
  自塑尘脂、命运的足迹与对话框等奖励！
 LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「烛中翩影」「流光定影•勿忘她的火焰\, 盈茧炽
+ 盛」「溯回忆象•梦应归于何处」角色、光锥跃迁: 大丽
+ 花\, 流萤\, 勿忘她的火焰\, 梦应归于何处
+DTSTART;TZID=Asia/Shanghai:20251217T110000
+DTEND;TZID=Asia/Shanghai:20260107T115900
+UID:b66d5f2a@hoyo_calendar
+DESCRIPTION:「烛中翩影」「流光定影•勿忘她的火焰\, 盈
+ 茧炽盛」「溯回忆象•梦应归于何处」角色、光锥跃迁: 
+ 大丽花\, 流萤\, 勿忘她的火焰\, 梦应归于何处
+LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

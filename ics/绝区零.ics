@@ -20,46 +20,6 @@ LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
- 音\, 雨果\, 昨夜来电\, 千面日陨
-DTSTART;TZID=Asia/Shanghai:20251126T110000
-UID:74a32374@hoyo_calendar
-DESCRIPTION:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 
- 琉音\, 雨果\, 昨夜来电\, 千面日陨
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
- 音\, 雨果\, 昨夜来电\, 千面日陨结束
-DTSTART;TZID=Asia/Shanghai:20251217T115900
-UID:d3420964@hoyo_calendar
-DESCRIPTION:活动结束\n「唤寂昔声\, 譬如昨日死」代理人、
- 音擎调频: 琉音\, 雨果\, 昨夜来电\, 千面日陨
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、音擎
- 调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
-DTSTART;TZID=Asia/Shanghai:20251216T120000
-UID:9a92a517@hoyo_calendar
-DESCRIPTION:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、
- 音擎调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、音擎
- 调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客结束
-DTSTART;TZID=Asia/Shanghai:20251229T145900
-UID:107a9b3a@hoyo_calendar
-DESCRIPTION:活动结束\n「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」
- 代理人、音擎调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「『嗯呢』棋侠传」活动说明
 DTSTART;TZID=Asia/Shanghai:20251126T110000
 UID:60b087be@hoyo_calendar
@@ -137,6 +97,42 @@ DTSTART;TZID=Asia/Shanghai:20251229T035900
 UID:0983e45f@hoyo_calendar
 DESCRIPTION:活动结束\n「拟境序列对决」活动说明
 LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「兔子小姐百分百」活动说明
+DTSTART;TZID=Asia/Shanghai:20251216T180000
+UID:42d1664b@hoyo_calendar
+DESCRIPTION:「兔子小姐百分百」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「兔子小姐百分百」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20251229T035900
+UID:fcea0ad0@hoyo_calendar
+DESCRIPTION:活动结束\n「兔子小姐百分百」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、音擎
+ 调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
+DTSTART;TZID=Asia/Shanghai:20251216T120000
+UID:9a92a517@hoyo_calendar
+DESCRIPTION:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、
+ 音擎调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、音擎
+ 调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客结束
+DTSTART;TZID=Asia/Shanghai:20251229T145900
+UID:107a9b3a@hoyo_calendar
+DESCRIPTION:活动结束\n「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」
+ 代理人、音擎调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
+LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

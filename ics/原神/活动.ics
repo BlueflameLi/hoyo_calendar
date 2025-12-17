@@ -115,6 +115,26 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「炽魂斗士的雪界之旅」活动：参与获取活动专属
+ 武器「弓·虹蛇的雨弦」
+DTSTART;TZID=Asia/Shanghai:20251219T100000
+UID:bff0639e@hoyo_calendar
+DESCRIPTION:「炽魂斗士的雪界之旅」活动：参与获取活动
+ 专属武器「弓·虹蛇的雨弦」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「炽魂斗士的雪界之旅」活动：参与获取活动专属
+ 武器「弓·虹蛇的雨弦」结束
+DTSTART;TZID=Asia/Shanghai:20260105T035959
+UID:4874b857@hoyo_calendar
+DESCRIPTION:活动结束\n「炽魂斗士的雪界之旅」活动：参与
+ 获取活动专属武器「弓·虹蛇的雨弦」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
  得原石*500奖励
 DTSTART;TZID=Asia/Shanghai:20251203T110000

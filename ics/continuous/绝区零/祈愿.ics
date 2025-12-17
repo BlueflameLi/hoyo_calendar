@@ -4,17 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 琉
- 音\, 雨果\, 昨夜来电\, 千面日陨
-DTSTART;TZID=Asia/Shanghai:20251126T110000
-DTEND;TZID=Asia/Shanghai:20251217T115900
-UID:74a32374@hoyo_calendar
-DESCRIPTION:「唤寂昔声\, 譬如昨日死」代理人、音擎调频: 
- 琉音\, 雨果\, 昨夜来电\, 千面日陨
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「渡夜焚心\, 慵懒逐浪\, 璀璨韵律」代理人、音擎
  调频: 般岳\, 艾莲\, 怒目金刚\, 深海访客
 DTSTART;TZID=Asia/Shanghai:20251216T120000
