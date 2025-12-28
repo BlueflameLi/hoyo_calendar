@@ -87,6 +87,17 @@ LOCATION:绝区零-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「光落于指尖\, 无价之心」代理人、音擎调频: 叶
+ 瞬光\, 照\, \, 云霓孤光\, 半糖雪兔
+DTSTART;TZID=Asia/Shanghai:20251230T110000
+DTEND;TZID=Asia/Shanghai:20260205T145959
+UID:2b1de88a@hoyo_calendar
+DESCRIPTION:「光落于指尖\, 无价之心」代理人、音擎调频: 
+ 叶瞬光\, 照\, \, 云霓孤光\, 半糖雪兔
+LOCATION:绝区零-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2.5版本「微光引灯时」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20251219T193000
 UID:8d63831d@hoyo_calendar

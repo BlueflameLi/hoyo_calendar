@@ -40,6 +40,23 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20251229T040000
+UID:ab42568a@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20260112T035900
+UID:3c731aad@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
+ 倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「烛中翩影」「流光定影•勿忘她的火焰\, 盈茧炽
  盛」「溯回忆象•梦应归于何处」角色、光锥跃迁: 大丽
  花\, 流萤\, 勿忘她的火焰\, 梦应归于何处
