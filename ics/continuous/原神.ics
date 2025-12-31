@@ -144,4 +144,14 @@ DESCRIPTION:「神铸赋形」武器祈愿: 溢彩心念\, 岩峰巡歌
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:『空月之歌·终曲』如果在冬夜，一个旅人前瞻特
+ 别节目
+DTSTART;TZID=Asia/Shanghai:20260102T130000
+UID:80fcb7da@hoyo_calendar
+DESCRIPTION:『空月之歌·终曲』如果在冬夜，一个旅人前瞻
+ 特别节目
+LOCATION:原神-前瞻特别节目
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
