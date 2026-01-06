@@ -40,4 +40,24 @@ DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「余晖残卷」：战胜强敌，获取命运的足迹、星琼
+ 等奖励！
+DTSTART;TZID=Asia/Shanghai:20260107T120000
+UID:c26aad2a@hoyo_calendar
+DESCRIPTION:「余晖残卷」：战胜强敌，获取命运的足迹、
+ 星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「余晖残卷」：战胜强敌，获取命运的足迹、星琼
+ 等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260209T035900
+UID:8ab21de0@hoyo_calendar
+DESCRIPTION:活动结束\n「余晖残卷」：战胜强敌，获取命运
+ 的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

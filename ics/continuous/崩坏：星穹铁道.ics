@@ -33,6 +33,17 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「余晖残卷」：战胜强敌，获取命运的足迹、星琼
+ 等奖励！
+DTSTART;TZID=Asia/Shanghai:20260107T120000
+DTEND;TZID=Asia/Shanghai:20260209T035900
+UID:c26aad2a@hoyo_calendar
+DESCRIPTION:「余晖残卷」：战胜强敌，获取命运的足迹、
+ 星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「烛中翩影」「流光定影•勿忘她的火焰\, 盈茧炽
  盛」「溯回忆象•梦应归于何处」角色、光锥跃迁: 大丽
  花\, 流萤\, 勿忘她的火焰\, 梦应归于何处
@@ -42,6 +53,19 @@ UID:b66d5f2a@hoyo_calendar
 DESCRIPTION:「烛中翩影」「流光定影•勿忘她的火焰\, 盈
  茧炽盛」「溯回忆象•梦应归于何处」角色、光锥跃迁: 
  大丽花\, 流萤\, 勿忘她的火焰\, 梦应归于何处
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「归路迢迢」「溯回忆象•长路终有归途\, 卧香沉
+ 水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘归人
+ \, 灵砂\, 长路终有归途\, 唯有香如故
+DTSTART;TZID=Asia/Shanghai:20260106T130000
+DTEND;TZID=Asia/Shanghai:20260128T115900
+UID:8be84aeb@hoyo_calendar
+DESCRIPTION:「归路迢迢」「溯回忆象•长路终有归途\, 卧
+ 香沉水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘
+ 归人\, 灵砂\, 长路终有归途\, 唯有香如故
 LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
