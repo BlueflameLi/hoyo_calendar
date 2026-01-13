@@ -99,22 +99,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20251210T100000
-UID:fde4d38c@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20260113T035959
-UID:ab232bec@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
  得原石*500奖励
 DTSTART;TZID=Asia/Shanghai:20251203T110000
@@ -151,6 +135,46 @@ DTSTART;TZID=Asia/Shanghai:20260113T145959
 UID:4c5d3c46@hoyo_calendar
 DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
  务，可额外获得原石*500奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:2941ec09@hoyo_calendar
+DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
+ 务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:0f0d5f00@hoyo_calendar
+DESCRIPTION:活动结束\n「如果在冬夜，一个旅人」时限内完
+ 成魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:617bc9fb@hoyo_calendar
+DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:acd75ec4@hoyo_calendar
+DESCRIPTION:活动结束\n「荒崖与墟壑的诗篇」时限内完成探
+ 索任务，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

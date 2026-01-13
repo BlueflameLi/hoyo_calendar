@@ -152,4 +152,104 @@ DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 朏魄含光\,
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:f7954dea@hoyo_calendar
+DESCRIPTION:「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:7348423a@hoyo_calendar
+DESCRIPTION:活动结束\n「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「聚星源动」角色祈愿: 伊涅芙
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:192d470c@hoyo_calendar
+DESCRIPTION:「聚星源动」角色祈愿: 伊涅芙
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「聚星源动」角色祈愿: 伊涅芙结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:825f39db@hoyo_calendar
+DESCRIPTION:活动结束\n「聚星源动」角色祈愿: 伊涅芙
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:704f06b0@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:5ced540b@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 帷间夜曲\, 
+ 支离轮光
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「华黍由仪」角色祈愿: 兹白
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:19c2c25b@hoyo_calendar
+DESCRIPTION:「华黍由仪」角色祈愿: 兹白
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「华黍由仪」角色祈愿: 兹白结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:b5a124ab@hoyo_calendar
+DESCRIPTION:活动结束\n「华黍由仪」角色祈愿: 兹白
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渊海界令」角色祈愿: 那维莱特
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:a3c66a42@hoyo_calendar
+DESCRIPTION:「渊海界令」角色祈愿: 那维莱特
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渊海界令」角色祈愿: 那维莱特结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:96844f3e@hoyo_calendar
+DESCRIPTION:活动结束\n「渊海界令」角色祈愿: 那维莱特
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:b63b0ebe@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大
+ 典
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
+ 结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:f687e830@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 朏魄含光\, 
+ 万世流涌大典
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
