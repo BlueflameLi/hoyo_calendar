@@ -4,81 +4,99 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之三版本「『空月之歌·间奏』终北的夜行诗」
- 版本
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2732379d@hoyo_calendar
-DESCRIPTION:月之三版本「『空月之歌·间奏』终北的夜行诗
- 」版本
+SUMMARY:月之四版本「『空月之歌·终曲』如果在冬夜，一
+ 个旅人」版本
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:d049b662@hoyo_calendar
+DESCRIPTION:月之四版本「『空月之歌·终曲』如果在冬夜，
+ 一个旅人」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之三版本「『空月之歌·间奏』终北的夜行诗」
- 版本结束
-DTSTART;TZID=Asia/Shanghai:20260114T060000
-UID:4f83d39f@hoyo_calendar
-DESCRIPTION:活动结束\n月之三版本「『空月之歌·间奏』终
- 北的夜行诗」版本
+SUMMARY:月之四版本「『空月之歌·终曲』如果在冬夜，一
+ 个旅人」版本结束
+DTSTART;TZID=Asia/Shanghai:20260225T060000
+UID:6588e1d1@hoyo_calendar
+DESCRIPTION:活动结束\n月之四版本「『空月之歌·终曲』如
+ 果在冬夜，一个旅人」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
+SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励
+DTSTART;TZID=Asia/Shanghai:20260116T040000
+UID:376d3bee@hoyo_calendar
+DESCRIPTION:「富贵登门·春来早知」活动：登录领取1600原
+ 石、纠缠之缘*10等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
+SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260225T070000
+UID:6786c3af@hoyo_calendar
+DESCRIPTION:活动结束\n「富贵登门·春来早知」活动：登录
+ 领取1600原石、纠缠之缘*10等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「赤龙之章」参与获取杜林衣装，时限内完成传说
- 任务可额外获得原石等奖励
-DTSTART;TZID=Asia/Shanghai:20251201T120000
-UID:e5c15c59@hoyo_calendar
-DESCRIPTION:「赤龙之章」参与获取杜林衣装，时限内完成
- 传说任务可额外获得原石等奖励
+SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」
+DTSTART;TZID=Asia/Shanghai:20260116T100000
+UID:38064bc5@hoyo_calendar
+DESCRIPTION:「瞬影旅集」活动：捕捉「决定性瞬间」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「赤龙之章」参与获取杜林衣装，时限内完成传说
- 任务可额外获得原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:1f20fd7e@hoyo_calendar
-DESCRIPTION:活动结束\n「赤龙之章」参与获取杜林衣装，时
- 限内完成传说任务可额外获得原石等奖励
+SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」结束
+DTSTART;TZID=Asia/Shanghai:20260126T035959
+UID:5a03158f@hoyo_calendar
+DESCRIPTION:活动结束\n「瞬影旅集」活动：捕捉「决定性瞬
+ 间」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「魔女的课业」完成任务可自选邀约4星魔导角色
-DTSTART;TZID=Asia/Shanghai:20251201T120000
-UID:b30368f3@hoyo_calendar
-DESCRIPTION:「魔女的课业」完成任务可自选邀约4星魔导角
- 色
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:2941ec09@hoyo_calendar
+DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
+ 务，可额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「魔女的课业」完成任务可自选邀约4星魔导角色
- 结束
-DTSTART;TZID=Asia/Shanghai:20260114T070000
-UID:e9ae285e@hoyo_calendar
-DESCRIPTION:活动结束\n「魔女的课业」完成任务可自选邀约
- 4星魔导角色
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:0f0d5f00@hoyo_calendar
+DESCRIPTION:活动结束\n「如果在冬夜，一个旅人」时限内完
+ 成魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:617bc9fb@hoyo_calendar
+DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:acd75ec4@hoyo_calendar
+DESCRIPTION:活动结束\n「荒崖与墟壑的诗篇」时限内完成探
+ 索任务，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -119,46 +137,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
  可额外获得原石、角色突破素材等奖励
 DTSTART;TZID=Asia/Shanghai:20260114T110000
@@ -236,55 +214,6 @@ UID:acd75ec4@hoyo_calendar
 DESCRIPTION:活动结束\n「荒崖与墟壑的诗篇」时限内完成探
  索任务，可额外获得原石*400奖励
 LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「饫宴角戏」角色祈愿: 瓦雷莎
-DTSTART;TZID=Asia/Shanghai:20251223T180000
-UID:604ef01d@hoyo_calendar
-DESCRIPTION:「饫宴角戏」角色祈愿: 瓦雷莎
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「饫宴角戏」角色祈愿: 瓦雷莎结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:05396b17@hoyo_calendar
-DESCRIPTION:活动结束\n「饫宴角戏」角色祈愿: 瓦雷莎
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「煅火的祝赐」角色祈愿: 希诺宁
-DTSTART;TZID=Asia/Shanghai:20251223T180000
-UID:3ecced81@hoyo_calendar
-DESCRIPTION:「煅火的祝赐」角色祈愿: 希诺宁
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「煅火的祝赐」角色祈愿: 希诺宁结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:d69f9316@hoyo_calendar
-DESCRIPTION:活动结束\n「煅火的祝赐」角色祈愿: 希诺宁
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 溢彩心念\, 岩峰巡歌
-DTSTART;TZID=Asia/Shanghai:20251223T180000
-UID:ad1e62b9@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 溢彩心念\, 岩峰巡歌
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 溢彩心念\, 岩峰巡歌结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:7e08462e@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 溢彩心念\, 
- 岩峰巡歌
-LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -488,13 +417,103 @@ LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:『空月之歌·终曲』如果在冬夜，一个旅人前瞻特
- 别节目
-DTSTART;TZID=Asia/Shanghai:20260102T130000
-UID:80fcb7da@hoyo_calendar
-DESCRIPTION:『空月之歌·终曲』如果在冬夜，一个旅人前瞻
- 特别节目
-LOCATION:原神-前瞻特别节目
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:f7954dea@hoyo_calendar
+DESCRIPTION:「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:7348423a@hoyo_calendar
+DESCRIPTION:活动结束\n「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「聚星源动」角色祈愿: 伊涅芙
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:192d470c@hoyo_calendar
+DESCRIPTION:「聚星源动」角色祈愿: 伊涅芙
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「聚星源动」角色祈愿: 伊涅芙结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:825f39db@hoyo_calendar
+DESCRIPTION:活动结束\n「聚星源动」角色祈愿: 伊涅芙
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:704f06b0@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 支离轮光结束
+DTSTART;TZID=Asia/Shanghai:20260203T175900
+UID:5ced540b@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 帷间夜曲\, 
+ 支离轮光
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「华黍由仪」角色祈愿: 兹白
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:19c2c25b@hoyo_calendar
+DESCRIPTION:「华黍由仪」角色祈愿: 兹白
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「华黍由仪」角色祈愿: 兹白结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:b5a124ab@hoyo_calendar
+DESCRIPTION:活动结束\n「华黍由仪」角色祈愿: 兹白
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渊海界令」角色祈愿: 那维莱特
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:a3c66a42@hoyo_calendar
+DESCRIPTION:「渊海界令」角色祈愿: 那维莱特
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「渊海界令」角色祈愿: 那维莱特结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:96844f3e@hoyo_calendar
+DESCRIPTION:活动结束\n「渊海界令」角色祈愿: 那维莱特
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
+DTSTART;TZID=Asia/Shanghai:20260203T180000
+UID:b63b0ebe@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大
+ 典
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
+ 结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:f687e830@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 朏魄含光\, 
+ 万世流涌大典
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

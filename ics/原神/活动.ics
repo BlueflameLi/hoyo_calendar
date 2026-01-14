@@ -4,61 +4,79 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
+SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励
+DTSTART;TZID=Asia/Shanghai:20260116T040000
+UID:376d3bee@hoyo_calendar
+DESCRIPTION:「富贵登门·春来早知」活动：登录领取1600原
+ 石、纠缠之缘*10等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
+SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260225T070000
+UID:6786c3af@hoyo_calendar
+DESCRIPTION:活动结束\n「富贵登门·春来早知」活动：登录
+ 领取1600原石、纠缠之缘*10等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「赤龙之章」参与获取杜林衣装，时限内完成传说
- 任务可额外获得原石等奖励
-DTSTART;TZID=Asia/Shanghai:20251201T120000
-UID:e5c15c59@hoyo_calendar
-DESCRIPTION:「赤龙之章」参与获取杜林衣装，时限内完成
- 传说任务可额外获得原石等奖励
+SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」
+DTSTART;TZID=Asia/Shanghai:20260116T100000
+UID:38064bc5@hoyo_calendar
+DESCRIPTION:「瞬影旅集」活动：捕捉「决定性瞬间」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「赤龙之章」参与获取杜林衣装，时限内完成传说
- 任务可额外获得原石等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:1f20fd7e@hoyo_calendar
-DESCRIPTION:活动结束\n「赤龙之章」参与获取杜林衣装，时
- 限内完成传说任务可额外获得原石等奖励
+SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」结束
+DTSTART;TZID=Asia/Shanghai:20260126T035959
+UID:5a03158f@hoyo_calendar
+DESCRIPTION:活动结束\n「瞬影旅集」活动：捕捉「决定性瞬
+ 间」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「魔女的课业」完成任务可自选邀约4星魔导角色
-DTSTART;TZID=Asia/Shanghai:20251201T120000
-UID:b30368f3@hoyo_calendar
-DESCRIPTION:「魔女的课业」完成任务可自选邀约4星魔导角
- 色
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:2941ec09@hoyo_calendar
+DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
+ 务，可额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「魔女的课业」完成任务可自选邀约4星魔导角色
- 结束
-DTSTART;TZID=Asia/Shanghai:20260114T070000
-UID:e9ae285e@hoyo_calendar
-DESCRIPTION:活动结束\n「魔女的课业」完成任务可自选邀约
- 4星魔导角色
+SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
+ 可额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260224T145959
+UID:0f0d5f00@hoyo_calendar
+DESCRIPTION:活动结束\n「如果在冬夜，一个旅人」时限内完
+ 成魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260114T110000
+UID:617bc9fb@hoyo_calendar
+DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
+ 外获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:acd75ec4@hoyo_calendar
+DESCRIPTION:活动结束\n「荒崖与墟壑的诗篇」时限内完成探
+ 索任务，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -95,46 +113,6 @@ DTSTART;TZID=Asia/Shanghai:20260812T055900
 UID:d5bcf830@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励
-DTSTART;TZID=Asia/Shanghai:20251203T110000
-UID:2aae5721@hoyo_calendar
-DESCRIPTION:「终北的夜行诗」时限内完成魔神任务，可额
- 外获得原石*500奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「终北的夜行诗」时限内完成魔神任务，可额外获
- 得原石*500奖励结束
-DTSTART;TZID=Asia/Shanghai:20260113T145959
-UID:4c5d3c46@hoyo_calendar
-DESCRIPTION:活动结束\n「终北的夜行诗」时限内完成魔神任
- 务，可额外获得原石*500奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
