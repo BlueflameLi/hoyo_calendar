@@ -44,23 +44,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」
-DTSTART;TZID=Asia/Shanghai:20260116T100000
-UID:38064bc5@hoyo_calendar
-DESCRIPTION:「瞬影旅集」活动：捕捉「决定性瞬间」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「瞬影旅集」活动：捕捉「决定性瞬间」结束
-DTSTART;TZID=Asia/Shanghai:20260126T035959
-UID:5a03158f@hoyo_calendar
-DESCRIPTION:活动结束\n「瞬影旅集」活动：捕捉「决定性瞬
- 间」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
  可额外获得原石、角色突破素材等奖励
 DTSTART;TZID=Asia/Shanghai:20260114T110000
