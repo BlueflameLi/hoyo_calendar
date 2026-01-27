@@ -27,4 +27,31 @@ DESCRIPTION:活动结束\n「归路迢迢」「溯回忆象•长路终有
 LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「裁酌天命」「溯回忆象•将光阴织成黄金\, 向星
+ 举目」「溯回忆象•回到大地的飞行」角色、光锥跃迁: 
+ 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的飞行
+DTSTART;TZID=Asia/Shanghai:20260128T120000
+UID:454c6e71@hoyo_calendar
+DESCRIPTION:「裁酌天命」「溯回忆象•将光阴织成黄金\, 
+ 向星举目」「溯回忆象•回到大地的飞行」角色、光锥
+ 跃迁: 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的
+ 飞行
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「裁酌天命」「溯回忆象•将光阴织成黄金\, 向星
+ 举目」「溯回忆象•回到大地的飞行」角色、光锥跃迁: 
+ 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的飞行
+ 结束
+DTSTART;TZID=Asia/Shanghai:20260212T150000
+UID:5a47acac@hoyo_calendar
+DESCRIPTION:活动结束\n「裁酌天命」「溯回忆象•将光阴织
+ 成黄金\, 向星举目」「溯回忆象•回到大地的飞行」角
+ 色、光锥跃迁: 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回
+ 到大地的飞行
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

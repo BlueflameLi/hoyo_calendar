@@ -25,4 +25,15 @@ DESCRIPTION:「余晖残卷」：战胜强敌，获取命运的足迹、
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「循迹觅宝」：消耗开拓力获取自塑尘脂、星琼等
+ 奖励！
+DTSTART;TZID=Asia/Shanghai:20260128T040000
+DTEND;TZID=Asia/Shanghai:20260212T035900
+UID:81867a1d@hoyo_calendar
+DESCRIPTION:「循迹觅宝」：消耗开拓力获取自塑尘脂、星
+ 琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

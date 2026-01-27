@@ -60,6 +60,26 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「循迹觅宝」：消耗开拓力获取自塑尘脂、星琼等
+ 奖励！
+DTSTART;TZID=Asia/Shanghai:20260128T040000
+UID:81867a1d@hoyo_calendar
+DESCRIPTION:「循迹觅宝」：消耗开拓力获取自塑尘脂、星
+ 琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「循迹觅宝」：消耗开拓力获取自塑尘脂、星琼等
+ 奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260212T035900
+UID:183fa9c4@hoyo_calendar
+DESCRIPTION:活动结束\n「循迹觅宝」：消耗开拓力获取自塑
+ 尘脂、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「归路迢迢」「溯回忆象•长路终有归途\, 卧香沉
  水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘归人
  \, 灵砂\, 长路终有归途\, 唯有香如故
@@ -80,6 +100,33 @@ UID:d046e453@hoyo_calendar
 DESCRIPTION:活动结束\n「归路迢迢」「溯回忆象•长路终有
  归途\, 卧香沉水」「溯回忆象•唯有香如故」角色、光
  锥跃迁: 忘归人\, 灵砂\, 长路终有归途\, 唯有香如故
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「裁酌天命」「溯回忆象•将光阴织成黄金\, 向星
+ 举目」「溯回忆象•回到大地的飞行」角色、光锥跃迁: 
+ 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的飞行
+DTSTART;TZID=Asia/Shanghai:20260128T120000
+UID:454c6e71@hoyo_calendar
+DESCRIPTION:「裁酌天命」「溯回忆象•将光阴织成黄金\, 
+ 向星举目」「溯回忆象•回到大地的飞行」角色、光锥
+ 跃迁: 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的
+ 飞行
+LOCATION:崩坏：星穹铁道-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「裁酌天命」「溯回忆象•将光阴织成黄金\, 向星
+ 举目」「溯回忆象•回到大地的飞行」角色、光锥跃迁: 
+ 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的飞行
+ 结束
+DTSTART;TZID=Asia/Shanghai:20260212T150000
+UID:5a47acac@hoyo_calendar
+DESCRIPTION:活动结束\n「裁酌天命」「溯回忆象•将光阴织
+ 成黄金\, 向星举目」「溯回忆象•回到大地的飞行」角
+ 色、光锥跃迁: 阿格莱雅\, 星期日\, 将光阴织成黄金\, 回
+ 到大地的飞行
 LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
