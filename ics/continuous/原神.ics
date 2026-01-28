@@ -77,6 +77,17 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自选邀
+ 约璃月4星角色
+DTSTART;TZID=Asia/Shanghai:20260130T100000
+DTEND;TZID=Asia/Shanghai:20260223T035959
+UID:88a71f83@hoyo_calendar
+DESCRIPTION:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自
+ 选邀约璃月4星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
  可额外获得原石、角色突破素材等奖励
 DTSTART;TZID=Asia/Shanghai:20260114T110000

@@ -4,30 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「归路迢迢」「溯回忆象•长路终有归途\, 卧香沉
- 水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘归人
- \, 灵砂\, 长路终有归途\, 唯有香如故
-DTSTART;TZID=Asia/Shanghai:20260106T130000
-UID:8be84aeb@hoyo_calendar
-DESCRIPTION:「归路迢迢」「溯回忆象•长路终有归途\, 卧
- 香沉水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘
- 归人\, 灵砂\, 长路终有归途\, 唯有香如故
-LOCATION:崩坏：星穹铁道-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「归路迢迢」「溯回忆象•长路终有归途\, 卧香沉
- 水」「溯回忆象•唯有香如故」角色、光锥跃迁: 忘归人
- \, 灵砂\, 长路终有归途\, 唯有香如故结束
-DTSTART;TZID=Asia/Shanghai:20260128T115900
-UID:d046e453@hoyo_calendar
-DESCRIPTION:活动结束\n「归路迢迢」「溯回忆象•长路终有
- 归途\, 卧香沉水」「溯回忆象•唯有香如故」角色、光
- 锥跃迁: 忘归人\, 灵砂\, 长路终有归途\, 唯有香如故
-LOCATION:崩坏：星穹铁道-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「裁酌天命」「溯回忆象•将光阴织成黄金\, 向星
  举目」「溯回忆象•回到大地的飞行」角色、光锥跃迁: 
  阿格莱雅\, 星期日\, 将光阴织成黄金\, 回到大地的飞行
