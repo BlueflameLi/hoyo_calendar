@@ -4,30 +4,10 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「光落于指尖\, 无价之心」代理人、音擎调频: 叶
- 瞬光\, 照\, \, 云霓孤光\, 半糖雪兔
-DTSTART;TZID=Asia/Shanghai:20251230T110000
-UID:2b1de88a@hoyo_calendar
-DESCRIPTION:「光落于指尖\, 无价之心」代理人、音擎调频: 
- 叶瞬光\, 照\, \, 云霓孤光\, 半糖雪兔
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「光落于指尖\, 无价之心」代理人、音擎调频: 叶
- 瞬光\, 照\, \, 云霓孤光\, 半糖雪兔结束
-DTSTART;TZID=Asia/Shanghai:20260205T145959
-UID:a81ce5d2@hoyo_calendar
-DESCRIPTION:活动结束\n「光落于指尖\, 无价之心」代理人、
- 音擎调频: 叶瞬光\, 照\, \, 云霓孤光\, 半糖雪兔
-LOCATION:绝区零-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 千
  夏\, 仪玄\, 思络成歌\, 青溟笼舍
-DTSTART;TZID=Asia/Shanghai:20260206T110000
-UID:5b8fc1cb@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260204T124500
+UID:accc5d99@hoyo_calendar
 DESCRIPTION:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 
  千夏\, 仪玄\, 思络成歌\, 青溟笼舍
 LOCATION:绝区零-祈愿
