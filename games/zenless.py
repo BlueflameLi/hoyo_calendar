@@ -55,15 +55,16 @@ class ZenlessPlugin(GamePlugin):
         if notices is None:
             return VersionInfo(code="0.0", name="未知", banner="", start_time=None, end_time=None)
 
-        target_keyword = "更新说明"
+        keywords = ["更新说明", "更新公告"]
         version_ann = next(
             (
                 ann
                 for ann in notices.ann_list
-                if target_keyword in remove_html_tags(ann.title)
+                if any(keyword in remove_html_tags(ann.title) for keyword in keywords)
             ),
             None,
         )
+
         if version_ann is None:
             return VersionInfo(code="0.0", name="未知", banner="", start_time=None, end_time=None)
 

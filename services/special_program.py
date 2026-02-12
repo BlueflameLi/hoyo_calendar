@@ -175,10 +175,27 @@ def _extract_title_metadata(subject: str) -> tuple[Optional[str], Optional[str]]
     floats = extract_floats(clean_subject)
     code = str(floats[0]) if floats else None
 
+    # 兼容两种格式：
+    # 1. 「版本名」前瞻特别节目预告
+    # 2. 「系列」—— 「版本名」前瞻特别节目预告
     name_match = re.findall(r"「([^」]+)」", clean_subject)
     if name_match:
-        name = name_match[-1].strip() or None
+        if "——" in clean_subject and len(name_match) > 1:
+            # 取“——”前后第一对「」
+            before_sep = clean_subject.split("——", 1)[0]
+            after_sep = clean_subject.split("——", 1)[1]
+            before_match = re.findall(r"「([^」]+)」", before_sep)
+            after_match = re.findall(r"「([^」]+)」", after_sep)
+            if before_match and after_match:
+                name = f"『{before_match[-1].strip()}』{after_match[0].strip()}"
+            elif after_match:
+                name = after_match[0].strip() or None
+            else:
+                name = name_match[-1].strip() or None
+        else:
+            name = name_match[-1].strip() or None
     else:
+        # 没有「」时，取全部文本
         inner_text = extract_inner_text(clean_subject) or clean_subject.strip()
         name = inner_text or None
 

@@ -4,6 +4,35 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:「月引周巡之述演」活动：推演兵棋对抗
+DTSTART;TZID=Asia/Shanghai:20260209T100000
+DTEND;TZID=Asia/Shanghai:20260223T035959
+UID:8f08ce14@hoyo_calendar
+DESCRIPTION:「月引周巡之述演」活动：推演兵棋对抗
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自选邀
+ 约璃月4星角色
+DTSTART;TZID=Asia/Shanghai:20260130T100000
+DTEND;TZID=Asia/Shanghai:20260223T035959
+UID:88a71f83@hoyo_calendar
+DESCRIPTION:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自
+ 选邀约璃月4星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「幽境危战」活动：紊乱地脉挑战
+DTSTART;TZID=Asia/Shanghai:20260121T100000
+DTEND;TZID=Asia/Shanghai:20260224T035959
+UID:82c9e7f9@hoyo_calendar
+DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
  纠缠之缘*10等奖励
 DTSTART;TZID=Asia/Shanghai:20260116T040000
@@ -53,79 +82,6 @@ DTEND;TZID=Asia/Shanghai:20260812T055900
 UID:75dd543e@hoyo_calendar
 DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
  「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20260121T100000
-DTEND;TZID=Asia/Shanghai:20260224T035959
-UID:82c9e7f9@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自选邀
- 约璃月4星角色
-DTSTART;TZID=Asia/Shanghai:20260130T100000
-DTEND;TZID=Asia/Shanghai:20260223T035959
-UID:88a71f83@hoyo_calendar
-DESCRIPTION:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自
- 选邀约璃月4星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「月引周巡之述演」活动：推演兵棋对抗
-DTSTART;TZID=Asia/Shanghai:20260209T100000
-DTEND;TZID=Asia/Shanghai:20260223T035959
-UID:8f08ce14@hoyo_calendar
-DESCRIPTION:「月引周巡之述演」活动：推演兵棋对抗
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
- 可额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-DTEND;TZID=Asia/Shanghai:20260224T145959
-UID:2941ec09@hoyo_calendar
-DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
- 务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-DTEND;TZID=Asia/Shanghai:20260407T145959
-UID:617bc9fb@hoyo_calendar
-DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
- 可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
- 可额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-DTEND;TZID=Asia/Shanghai:20260224T145959
-UID:2941ec09@hoyo_calendar
-DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
- 务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-DTEND;TZID=Asia/Shanghai:20260407T145959
-UID:617bc9fb@hoyo_calendar
-DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
- 可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

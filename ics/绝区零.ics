@@ -4,9 +4,25 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:2.6版本「旧梦的安可曲」版本
+DTSTART;TZID=Asia/Shanghai:20260206T110000
+UID:4a964a2a@hoyo_calendar
+DESCRIPTION:2.6版本「旧梦的安可曲」版本
+LOCATION:绝区零-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2.6版本「旧梦的安可曲」版本结束
+DTSTART;TZID=Asia/Shanghai:20260324T060000
+UID:14f09a57@hoyo_calendar
+DESCRIPTION:活动结束\n2.6版本「旧梦的安可曲」版本
+LOCATION:绝区零-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「絮羽直播间」活动说明
-DTSTART;TZID=Asia/Shanghai:20260206T111500
-UID:39532b0f@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260206T110000
+UID:33edf28d@hoyo_calendar
 DESCRIPTION:「絮羽直播间」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
@@ -21,8 +37,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「潜能预演·落羽映霜」活动说明
-DTSTART;TZID=Asia/Shanghai:20260204T184500
-UID:455d182a@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260206T110000
+UID:166edb36@hoyo_calendar
 DESCRIPTION:「潜能预演·落羽映霜」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
@@ -53,8 +69,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「妄想协鸣于此刻」活动说明
-DTSTART;TZID=Asia/Shanghai:20260204T180000
-UID:40233a70@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260206T110000
+UID:d14eaf9e@hoyo_calendar
 DESCRIPTION:「妄想协鸣于此刻」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
@@ -86,8 +102,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 千
  夏\, 仪玄\, 思络成歌\, 青溟笼舍
-DTSTART;TZID=Asia/Shanghai:20260204T124500
-UID:accc5d99@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260206T110000
+UID:5b8fc1cb@hoyo_calendar
 DESCRIPTION:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 
  千夏\, 仪玄\, 思络成歌\, 青溟笼舍
 LOCATION:绝区零-祈愿
