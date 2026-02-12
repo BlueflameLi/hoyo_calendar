@@ -9,7 +9,7 @@ from typing import Any
 from bs4 import BeautifulSoup, Tag
 
 from dto import AnnContentRe, AnnListRe
-from models.config import GameConfig, GameName
+from models.config import CalendarLabels, GameConfig, GameName
 from models.game import Announcement
 from .base import GamePlugin, VersionInfo, parse_time
 from parsers.text import (
@@ -39,6 +39,7 @@ CONFIG = GameConfig(
     default_post="https://ys.mihoyo.com/main/_nuxt/img/holder.37207c1.jpg",
     icon="icon-yuanshen-heng",
     name=GameName(en="genshin", zh="原神"),
+    calendar=CalendarLabels(gacha="祈愿"),
 )
 
 

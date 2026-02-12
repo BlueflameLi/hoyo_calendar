@@ -9,7 +9,7 @@ from typing import Any
 from bs4 import BeautifulSoup
 
 from dto import AnnContentRe, AnnListRe
-from models.config import GameConfig, GameName
+from models.config import CalendarLabels, GameConfig, GameName
 from models.game import Announcement
 from .base import GamePlugin, VersionInfo, parse_time
 from parsers.text import (
@@ -40,6 +40,7 @@ CONFIG = GameConfig(
     ),
     icon="icon-benghuai-hei",
     name=GameName(en="sr", zh="崩坏：星穹铁道"),
+    calendar=CalendarLabels(gacha="跃迁"),
 )
 
 
