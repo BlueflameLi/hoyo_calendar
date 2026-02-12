@@ -47,31 +47,43 @@ LOCATION:崩坏：星穹铁道-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「循迹觅宝」：消耗开拓力获取自塑尘脂、星琼等
- 奖励！
-DTSTART;TZID=Asia/Shanghai:20260128T040000
-UID:81867a1d@hoyo_calendar
-DESCRIPTION:「循迹觅宝」：消耗开拓力获取自塑尘脂、星
+SUMMARY:「上骰了！战力党！」：参与卡牌对战，获取自塑
+ 尘脂、任选4星角色、开拓穿搭等奖励！
+DTSTART;TZID=Asia/Shanghai:20260213T110000
+UID:25b06864@hoyo_calendar
+DESCRIPTION:「上骰了！战力党！」：参与卡牌对战，获取
+ 自塑尘脂、任选4星角色、开拓穿搭等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「上骰了！战力党！」：参与卡牌对战，获取自塑
+ 尘脂、任选4星角色、开拓穿搭等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260323T035900
+UID:a48213a1@hoyo_calendar
+DESCRIPTION:活动结束\n「上骰了！战力党！」：参与卡牌对
+ 战，获取自塑尘脂、任选4星角色、开拓穿搭等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「滴！乐园打卡必玩榜」：探索二相乐园，获取星
  琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260213T110000
+UID:20e9609d@hoyo_calendar
+DESCRIPTION:「滴！乐园打卡必玩榜」：探索二相乐园，获
+ 取星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「循迹觅宝」：消耗开拓力获取自塑尘脂、星琼等
- 奖励！结束
-DTSTART;TZID=Asia/Shanghai:20260212T035900
-UID:183fa9c4@hoyo_calendar
-DESCRIPTION:活动结束\n「循迹觅宝」：消耗开拓力获取自塑
- 尘脂、星琼等奖励！
+SUMMARY:「滴！乐园打卡必玩榜」：探索二相乐园，获取星
+ 琼等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260323T035900
+UID:16a19272@hoyo_calendar
+DESCRIPTION:活动结束\n「滴！乐园打卡必玩榜」：探索二相
+ 乐园，获取星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4.0版本「满月是神不在的时间」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260206T193000
-UID:c8f67ea3@hoyo_calendar
-DESCRIPTION:4.0版本「满月是神不在的时间」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
