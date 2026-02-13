@@ -4,31 +4,12 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:3.8版本「记忆是梦的开场白」版本
-DTSTART;TZID=Asia/Shanghai:20251217T110000
-DTEND;TZID=Asia/Shanghai:20260213T060000
-UID:642ed33f@hoyo_calendar
-DESCRIPTION:3.8版本「记忆是梦的开场白」版本
+SUMMARY:4.0版本「满月是神不在的时间」版本
+DTSTART;TZID=Asia/Shanghai:20260213T110000
+DTEND;TZID=Asia/Shanghai:20260325T060000
+UID:bd1b094b@hoyo_calendar
+DESCRIPTION:4.0版本「满月是神不在的时间」版本
 LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「光映千翎」「流光定影•当她决定看见\, 铭心之
- 萃•长夜月」「真意之汇•致长夜的星光\, 铭心之萃•
- 海瑟音」「真意之汇•海洋为何而歌\, 铭心之萃•黑天
- 鹅」「真意之汇•重塑时光之忆」角色、光锥跃迁: 爻光
- \, 长夜月\, 海瑟音\, 黑天鹅\, 当她决定看见\, 致长夜的
- 星光\, 海洋为何而歌\, 重塑时光之忆
-DTSTART;TZID=Asia/Shanghai:20260212T143000
-DTEND;TZID=Asia/Shanghai:20260303T115900
-UID:7c0df492@hoyo_calendar
-DESCRIPTION:「光映千翎」「流光定影•当她决定看见\, 铭
- 心之萃•长夜月」「真意之汇•致长夜的星光\, 铭心之
- 萃•海瑟音」「真意之汇•海洋为何而歌\, 铭心之萃•
- 黑天鹅」「真意之汇•重塑时光之忆」角色、光锥跃迁: 
- 爻光\, 长夜月\, 海瑟音\, 黑天鹅\, 当她决定看见\, 致长
- 夜的星光\, 海洋为何而歌\, 重塑时光之忆
-LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -51,6 +32,25 @@ UID:20e9609d@hoyo_calendar
 DESCRIPTION:「滴！乐园打卡必玩榜」：探索二相乐园，获
  取星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「光映千翎」「流光定影•当她决定看见\, 铭心之
+ 萃•长夜月」「真意之汇•致长夜的星光\, 铭心之萃•
+ 海瑟音」「真意之汇•海洋为何而歌\, 铭心之萃•黑天
+ 鹅」「真意之汇•重塑时光之忆」角色、光锥跃迁: 爻光
+ \, 长夜月\, 海瑟音\, 黑天鹅\, 当她决定看见\, 致长夜的
+ 星光\, 海洋为何而歌\, 重塑时光之忆
+DTSTART;TZID=Asia/Shanghai:20260212T143000
+DTEND;TZID=Asia/Shanghai:20260303T115900
+UID:7c0df492@hoyo_calendar
+DESCRIPTION:「光映千翎」「流光定影•当她决定看见\, 铭
+ 心之萃•长夜月」「真意之汇•致长夜的星光\, 铭心之
+ 萃•海瑟音」「真意之汇•海洋为何而歌\, 铭心之萃•
+ 黑天鹅」「真意之汇•重塑时光之忆」角色、光锥跃迁: 
+ 爻光\, 长夜月\, 海瑟音\, 黑天鹅\, 当她决定看见\, 致长
+ 夜的星光\, 海洋为何而歌\, 重塑时光之忆
+LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
