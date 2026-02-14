@@ -152,4 +152,24 @@ DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！
+DTSTART;TZID=Asia/Shanghai:20260216T040000
+UID:62acd2c6@hoyo_calendar
+DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
+ 」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！结束
+DTSTART;TZID=Asia/Shanghai:20260223T035959
+UID:e67fda84@hoyo_calendar
+DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
+ 启示之花」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
