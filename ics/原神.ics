@@ -24,43 +24,6 @@ LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「月引周巡之述演」活动：推演兵棋对抗
-DTSTART;TZID=Asia/Shanghai:20260209T100000
-UID:8f08ce14@hoyo_calendar
-DESCRIPTION:「月引周巡之述演」活动：推演兵棋对抗
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「月引周巡之述演」活动：推演兵棋对抗结束
-DTSTART;TZID=Asia/Shanghai:20260223T035959
-UID:2b50f71b@hoyo_calendar
-DESCRIPTION:活动结束\n「月引周巡之述演」活动：推演兵棋
- 对抗
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自选邀
- 约璃月4星角色
-DTSTART;TZID=Asia/Shanghai:20260130T100000
-UID:88a71f83@hoyo_calendar
-DESCRIPTION:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自
- 选邀约璃月4星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奔霄颂玉轮」活动：参与获取瑶瑶衣装，自选邀
- 约璃月4星角色结束
-DTSTART;TZID=Asia/Shanghai:20260223T035959
-UID:a2564b2c@hoyo_calendar
-DESCRIPTION:活动结束\n「奔霄颂玉轮」活动：参与获取瑶瑶
- 衣装，自选邀约璃月4星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「幽境危战」活动：紊乱地脉挑战
 DTSTART;TZID=Asia/Shanghai:20260121T100000
 UID:82c9e7f9@hoyo_calendar
@@ -137,22 +100,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20251201T040000
-UID:1fc2e282@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260223T035900
-UID:76acb89a@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
  行世间」常驻祈愿5星角色
 DTSTART;TZID=Asia/Shanghai:20251020T120000
@@ -173,26 +120,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
- 倍掉落！
-DTSTART;TZID=Asia/Shanghai:20260216T040000
-UID:62acd2c6@hoyo_calendar
-DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
- 」双倍掉落！
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
- 倍掉落！结束
-DTSTART;TZID=Asia/Shanghai:20260223T035959
-UID:e67fda84@hoyo_calendar
-DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
- 启示之花」双倍掉落！
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20260223T040000
 UID:f79cdefa@hoyo_calendar
@@ -205,6 +132,26 @@ SUMMARY:「砺行修远」：勤修馈赠结束
 DTSTART;TZID=Asia/Shanghai:20260518T035900
 UID:6add2334@hoyo_calendar
 DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
+ 、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260223T120000
+UID:71451ae1@hoyo_calendar
+DESCRIPTION:「天狼之章」时限内完成传说任务可额外获得
+ 原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
+ 、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:f55c9020@hoyo_calendar
+DESCRIPTION:活动结束\n「天狼之章」时限内完成传说任务可
+ 额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -256,6 +203,72 @@ DTSTART;TZID=Asia/Shanghai:20260224T145959
 UID:f687e830@hoyo_calendar
 DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 朏魄含光\, 
  万世流涌大典
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「晨风之诗」集录祈愿
+DTSTART;TZID=Asia/Shanghai:20260223T120000
+UID:c4c03aaa@hoyo_calendar
+DESCRIPTION:「晨风之诗」集录祈愿
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「晨风之诗」集录祈愿结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:48103f79@hoyo_calendar
+DESCRIPTION:活动结束\n「晨风之诗」集录祈愿
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:dc2a46fd@hoyo_calendar
+DESCRIPTION:「北风的凯旋歌」角色祈愿: 法尔伽
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:20155c46@hoyo_calendar
+DESCRIPTION:活动结束\n「北风的凯旋歌」角色祈愿: 法尔伽
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:3a69589f@hoyo_calendar
+DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「孤灯夜访」角色祈愿: 菲林斯结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:9e378035@hoyo_calendar
+DESCRIPTION:活动结束\n「孤灯夜访」角色祈愿: 菲林斯
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:3411a578@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:81c79a9a@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 狼的武功歌\
+ , 血染荒城
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
