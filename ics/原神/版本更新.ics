@@ -4,22 +4,22 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之四版本「『空月之歌·终曲』如果在冬夜，一
- 个旅人」版本
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-UID:d049b662@hoyo_calendar
-DESCRIPTION:月之四版本「『空月之歌·终曲』如果在冬夜，
- 一个旅人」版本
+SUMMARY:月之五版本「『空月之歌·变奏』捕风的归客」版
+ 本
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:e324db30@hoyo_calendar
+DESCRIPTION:月之五版本「『空月之歌·变奏』捕风的归客」
+ 版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之四版本「『空月之歌·终曲』如果在冬夜，一
- 个旅人」版本结束
-DTSTART;TZID=Asia/Shanghai:20260225T060000
-UID:6588e1d1@hoyo_calendar
-DESCRIPTION:活动结束\n月之四版本「『空月之歌·终曲』如
- 果在冬夜，一个旅人」版本
+SUMMARY:月之五版本「『空月之歌·变奏』捕风的归客」版
+ 本结束
+DTSTART;TZID=Asia/Shanghai:20260408T060000
+UID:f9de2ed6@hoyo_calendar
+DESCRIPTION:活动结束\n月之五版本「『空月之歌·变奏』捕
+ 风的归客」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT

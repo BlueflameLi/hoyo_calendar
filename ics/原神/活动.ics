@@ -4,50 +4,66 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
- 纠缠之缘*10等奖励
-DTSTART;TZID=Asia/Shanghai:20260116T040000
-UID:376d3bee@hoyo_calendar
-DESCRIPTION:「富贵登门·春来早知」活动：登录领取1600原
- 石、纠缠之缘*10等奖励
+SUMMARY:「捕风的归客」活动：参与获取活动专属武器外观
+ 「幻礼·星兆」
+DTSTART;TZID=Asia/Shanghai:20260227T100000
+UID:ca9ae456@hoyo_calendar
+DESCRIPTION:「捕风的归客」活动：参与获取活动专属武器
+ 外观「幻礼·星兆」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「富贵登门·春来早知」活动：登录领取1600原石、
- 纠缠之缘*10等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260225T070000
-UID:6786c3af@hoyo_calendar
-DESCRIPTION:活动结束\n「富贵登门·春来早知」活动：登录
- 领取1600原石、纠缠之缘*10等奖励
+SUMMARY:「捕风的归客」活动：参与获取活动专属武器外观
+ 「幻礼·星兆」结束
+DTSTART;TZID=Asia/Shanghai:20260316T035959
+UID:d54a1f71@hoyo_calendar
+DESCRIPTION:活动结束\n「捕风的归客」活动：参与获取活动
+ 专属武器外观「幻礼·星兆」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
- 可额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-UID:2941ec09@hoyo_calendar
-DESCRIPTION:「如果在冬夜，一个旅人」时限内完成魔神任
- 务，可额外获得原石、角色突破素材等奖励
+SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
+ 、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260223T120000
+UID:71451ae1@hoyo_calendar
+DESCRIPTION:「天狼之章」时限内完成传说任务可额外获得
+ 原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「如果在冬夜，一个旅人」时限内完成魔神任务，
- 可额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260224T145959
-UID:0f0d5f00@hoyo_calendar
-DESCRIPTION:活动结束\n「如果在冬夜，一个旅人」时限内完
- 成魔神任务，可额外获得原石、角色突破素材等奖励
+SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
+ 、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:f55c9020@hoyo_calendar
+DESCRIPTION:活动结束\n「天狼之章」时限内完成传说任务可
+ 额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260223T040000
+UID:f79cdefa@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20260518T035900
+UID:6add2334@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
  外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260114T110000
-UID:617bc9fb@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260112T120000
+UID:5d8da321@hoyo_calendar
 DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
  可额外获得原石*400奖励
 LOCATION:原神-活动
@@ -80,42 +96,6 @@ DTSTART;TZID=Asia/Shanghai:20260812T055900
 UID:d5bcf830@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260223T040000
-UID:f79cdefa@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260518T035900
-UID:6add2334@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
- 、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260223T120000
-UID:71451ae1@hoyo_calendar
-DESCRIPTION:「天狼之章」时限内完成传说任务可额外获得
- 原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
- 、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:f55c9020@hoyo_calendar
-DESCRIPTION:活动结束\n「天狼之章」时限内完成传说任务可
- 额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

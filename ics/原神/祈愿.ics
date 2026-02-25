@@ -4,53 +4,52 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「华黍由仪」角色祈愿: 兹白
-DTSTART;TZID=Asia/Shanghai:20260203T180000
-UID:19c2c25b@hoyo_calendar
-DESCRIPTION:「华黍由仪」角色祈愿: 兹白
+SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:dc2a46fd@hoyo_calendar
+DESCRIPTION:「北风的凯旋歌」角色祈愿: 法尔伽
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「华黍由仪」角色祈愿: 兹白结束
-DTSTART;TZID=Asia/Shanghai:20260224T145959
-UID:b5a124ab@hoyo_calendar
-DESCRIPTION:活动结束\n「华黍由仪」角色祈愿: 兹白
+SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:20155c46@hoyo_calendar
+DESCRIPTION:活动结束\n「北风的凯旋歌」角色祈愿: 法尔伽
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「渊海界令」角色祈愿: 那维莱特
-DTSTART;TZID=Asia/Shanghai:20260203T180000
-UID:a3c66a42@hoyo_calendar
-DESCRIPTION:「渊海界令」角色祈愿: 那维莱特
+SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:3a69589f@hoyo_calendar
+DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「渊海界令」角色祈愿: 那维莱特结束
-DTSTART;TZID=Asia/Shanghai:20260224T145959
-UID:96844f3e@hoyo_calendar
-DESCRIPTION:活动结束\n「渊海界令」角色祈愿: 那维莱特
+SUMMARY:「孤灯夜访」角色祈愿: 菲林斯结束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:9e378035@hoyo_calendar
+DESCRIPTION:活动结束\n「孤灯夜访」角色祈愿: 菲林斯
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
-DTSTART;TZID=Asia/Shanghai:20260203T180000
-UID:b63b0ebe@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大
- 典
+SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
+DTSTART;TZID=Asia/Shanghai:20260225T110000
+UID:3411a578@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 朏魄含光\, 万世流涌大典
- 结束
-DTSTART;TZID=Asia/Shanghai:20260224T145959
-UID:f687e830@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 朏魄含光\, 
- 万世流涌大典
+SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260317T175900
+UID:81c79a9a@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 狼的武功歌\
+ , 血染荒城
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
