@@ -100,18 +100,18 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「先遣赏金-区域巡防」活动说明
-DTSTART;TZID=Asia/Shanghai:20260224T120000
-UID:bd6b93f3@hoyo_calendar
-DESCRIPTION:「先遣赏金-区域巡防」活动说明
+SUMMARY:「引力映叙时光」活动说明
+DTSTART;TZID=Asia/Shanghai:20260302T121500
+UID:fa0a458c@hoyo_calendar
+DESCRIPTION:「引力映叙时光」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「先遣赏金-区域巡防」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260302T035959
-UID:39fcd2e7@hoyo_calendar
-DESCRIPTION:活动结束\n「先遣赏金-区域巡防」活动说明
+SUMMARY:「引力映叙时光」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20260323T035959
+UID:f3345329@hoyo_calendar
+DESCRIPTION:活动结束\n「引力映叙时光」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -132,6 +132,26 @@ DTSTART;TZID=Asia/Shanghai:20260304T115959
 UID:df09096b@hoyo_calendar
 DESCRIPTION:活动结束\n「四三拍谬想\, 独步沧溟」代理人、
  音擎调频: 千夏\, 仪玄\, 思络成歌\, 青溟笼舍
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、音擎
+ 调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
+DTSTART;TZID=Asia/Shanghai:20260302T120000
+UID:46f10b46@hoyo_calendar
+DESCRIPTION:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、
+ 音擎调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、音擎
+ 调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化结束
+DTSTART;TZID=Asia/Shanghai:20260323T145959
+UID:170d3495@hoyo_calendar
+DESCRIPTION:活动结束\n「霓色天使\, 戏语幽谭\, 璀璨韵律」
+ 代理人、音擎调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT

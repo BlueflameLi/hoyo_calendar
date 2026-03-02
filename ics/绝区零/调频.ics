@@ -23,4 +23,24 @@ DESCRIPTION:活动结束\n「四三拍谬想\, 独步沧溟」代理人、
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、音擎
+ 调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
+DTSTART;TZID=Asia/Shanghai:20260302T120000
+UID:46f10b46@hoyo_calendar
+DESCRIPTION:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、
+ 音擎调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、音擎
+ 调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化结束
+DTSTART;TZID=Asia/Shanghai:20260323T145959
+UID:170d3495@hoyo_calendar
+DESCRIPTION:活动结束\n「霓色天使\, 戏语幽谭\, 璀璨韵律」
+ 代理人、音擎调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
