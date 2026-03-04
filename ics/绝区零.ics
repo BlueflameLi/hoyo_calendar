@@ -116,26 +116,6 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 千
- 夏\, 仪玄\, 思络成歌\, 青溟笼舍
-DTSTART;TZID=Asia/Shanghai:20260206T110000
-UID:5b8fc1cb@hoyo_calendar
-DESCRIPTION:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 
- 千夏\, 仪玄\, 思络成歌\, 青溟笼舍
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「四三拍谬想\, 独步沧溟」代理人、音擎调频: 千
- 夏\, 仪玄\, 思络成歌\, 青溟笼舍结束
-DTSTART;TZID=Asia/Shanghai:20260304T115959
-UID:df09096b@hoyo_calendar
-DESCRIPTION:活动结束\n「四三拍谬想\, 独步沧溟」代理人、
- 音擎调频: 千夏\, 仪玄\, 思络成歌\, 青溟笼舍
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、音擎
  调频: 爱芮\, 柚叶\, 壳中之灵\, 狸法七变化
 DTSTART;TZID=Asia/Shanghai:20260302T120000
