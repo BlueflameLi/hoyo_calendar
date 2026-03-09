@@ -35,15 +35,6 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20260223T040000
-DTEND;TZID=Asia/Shanghai:20260309T035900
-UID:08a793c7@hoyo_calendar
-DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「狂欢企划」「流光定影•花花世界迷人眼\, 光映
  千翎」「流光定影•当她决定看见\, 铭心之萃•刻律德
  菈」「真意之汇•金血铭刻的时代\, 铭心之萃•乱破」
