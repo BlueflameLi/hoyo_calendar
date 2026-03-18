@@ -24,241 +24,6 @@ LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:dc2a46fd@hoyo_calendar
-DESCRIPTION:「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:20155c46@hoyo_calendar
-DESCRIPTION:活动结束\n「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3a69589f@hoyo_calendar
-DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:9e378035@hoyo_calendar
-DESCRIPTION:活动结束\n「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3411a578@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城结
- 束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:81c79a9a@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 狼的武功歌\
- , 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「晨风之诗」集录祈愿
-DTSTART;TZID=Asia/Shanghai:20260223T120000
-UID:c4c03aaa@hoyo_calendar
-DESCRIPTION:「晨风之诗」集录祈愿
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「晨风之诗」集录祈愿结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:48103f79@hoyo_calendar
-DESCRIPTION:活动结束\n「晨风之诗」集录祈愿
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:caae151e@hoyo_calendar
-DESCRIPTION:「虚星临渡」角色祈愿: 丝柯克
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:b815056c@hoyo_calendar
-DESCRIPTION:活动结束\n「虚星临渡」角色祈愿: 丝柯克
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:f923ef54@hoyo_calendar
-DESCRIPTION:「莓色香颂」角色祈愿: 爱可菲
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:2d4c51b5@hoyo_calendar
-DESCRIPTION:活动结束\n「莓色香颂」角色祈愿: 爱可菲
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:480f2d2d@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:bccc32a6@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 苍耀\, 香韵
- 奏者
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:dc2a46fd@hoyo_calendar
-DESCRIPTION:「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:20155c46@hoyo_calendar
-DESCRIPTION:活动结束\n「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3a69589f@hoyo_calendar
-DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:9e378035@hoyo_calendar
-DESCRIPTION:活动结束\n「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3411a578@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城结
- 束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:81c79a9a@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 狼的武功歌\
- , 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:dc2a46fd@hoyo_calendar
-DESCRIPTION:「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「北风的凯旋歌」角色祈愿: 法尔伽结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:20155c46@hoyo_calendar
-DESCRIPTION:活动结束\n「北风的凯旋歌」角色祈愿: 法尔伽
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3a69589f@hoyo_calendar
-DESCRIPTION:「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「孤灯夜访」角色祈愿: 菲林斯结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:9e378035@hoyo_calendar
-DESCRIPTION:活动结束\n「孤灯夜访」角色祈愿: 菲林斯
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:3411a578@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 狼的武功歌\, 血染荒城结
- 束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:81c79a9a@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 狼的武功歌\
- , 血染荒城
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
- 、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260223T120000
-UID:71451ae1@hoyo_calendar
-DESCRIPTION:「天狼之章」时限内完成传说任务可额外获得
- 原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天狼之章」时限内完成传说任务可额外获得原石
- 、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260317T175900
-UID:f55c9020@hoyo_calendar
-DESCRIPTION:活动结束\n「天狼之章」时限内完成传说任务可
- 额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20260223T040000
 UID:f79cdefa@hoyo_calendar
@@ -344,6 +109,55 @@ DTSTART;TZID=Asia/Shanghai:20260326T035959
 UID:89c0e459@hoyo_calendar
 DESCRIPTION:活动结束\n「灵蕈旅记」活动：趣味风光游览
 LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「虚星临渡」角色祈愿: 丝柯克
+DTSTART;TZID=Asia/Shanghai:20260317T180000
+UID:caae151e@hoyo_calendar
+DESCRIPTION:「虚星临渡」角色祈愿: 丝柯克
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「虚星临渡」角色祈愿: 丝柯克结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:b815056c@hoyo_calendar
+DESCRIPTION:活动结束\n「虚星临渡」角色祈愿: 丝柯克
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「莓色香颂」角色祈愿: 爱可菲
+DTSTART;TZID=Asia/Shanghai:20260317T180000
+UID:f923ef54@hoyo_calendar
+DESCRIPTION:「莓色香颂」角色祈愿: 爱可菲
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「莓色香颂」角色祈愿: 爱可菲结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:2d4c51b5@hoyo_calendar
+DESCRIPTION:活动结束\n「莓色香颂」角色祈愿: 爱可菲
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
+DTSTART;TZID=Asia/Shanghai:20260317T180000
+UID:480f2d2d@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者结束
+DTSTART;TZID=Asia/Shanghai:20260407T145959
+UID:bccc32a6@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 苍耀\, 香韵
+ 奏者
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
