@@ -95,4 +95,17 @@ DESCRIPTION:「霓色天使\, 戏语幽谭\, 璀璨韵律」代理人、
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖摇篮
+ 」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想\, 海
+ 妖摇篮
+DTSTART;TZID=Asia/Shanghai:20260324T110000
+DTEND;TZID=Asia/Shanghai:20260415T115900
+UID:c02525f4@hoyo_calendar
+DESCRIPTION:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖
+ 摇篮」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想
+ \, 海妖摇篮
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
