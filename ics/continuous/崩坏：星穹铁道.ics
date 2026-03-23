@@ -13,28 +13,6 @@ LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「上骰了！战力党！」：参与卡牌对战，获取自塑
- 尘脂、任选4星角色、开拓穿搭等奖励！
-DTSTART;TZID=Asia/Shanghai:20260213T110000
-DTEND;TZID=Asia/Shanghai:20260323T035900
-UID:25b06864@hoyo_calendar
-DESCRIPTION:「上骰了！战力党！」：参与卡牌对战，获取
- 自塑尘脂、任选4星角色、开拓穿搭等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「滴！乐园打卡必玩榜」：探索二相乐园，获取星
- 琼等奖励！
-DTSTART;TZID=Asia/Shanghai:20260213T110000
-DTEND;TZID=Asia/Shanghai:20260323T035900
-UID:20e9609d@hoyo_calendar
-DESCRIPTION:「滴！乐园打卡必玩榜」：探索二相乐园，获
- 取星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「狂欢企划」「流光定影•花花世界迷人眼\, 光映
  千翎」「流光定影•当她决定看见\, 铭心之萃•刻律德
  菈」「真意之汇•金血铭刻的时代\, 铭心之萃•乱破」
