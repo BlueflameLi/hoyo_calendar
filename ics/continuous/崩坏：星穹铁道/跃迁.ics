@@ -24,4 +24,17 @@ DESCRIPTION:「狂欢企划」「流光定影•花花世界迷人眼\,
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 虹隽
+ 晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 
+ 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
+DTSTART;TZID=Asia/Shanghai:20260324T130000
+DTEND;TZID=Asia/Shanghai:20260408T115900
+UID:209cdb80@hoyo_calendar
+DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\, 
+ 虹隽晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥
+ 跃迁: 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

@@ -34,11 +34,27 @@ LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4.1版本「献给破晓的失控」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260313T193000
-UID:927c2148@hoyo_calendar
-DESCRIPTION:4.1版本「献给破晓的失控」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
+SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 虹隽
+ 晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 
+ 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
+DTSTART;TZID=Asia/Shanghai:20260324T130000
+DTEND;TZID=Asia/Shanghai:20260408T115900
+UID:209cdb80@hoyo_calendar
+DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\, 
+ 虹隽晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥
+ 跃迁: 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「尘灵乱世录」：率领尘灵征战，获取自塑尘脂、
+ 对话框等奖励！
+DTSTART;TZID=Asia/Shanghai:20260325T110000
+DTEND;TZID=Asia/Shanghai:20260420T035900
+UID:c2e0d806@hoyo_calendar
+DESCRIPTION:「尘灵乱世录」：率领尘灵征战，获取自塑尘
+ 脂、对话框等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
