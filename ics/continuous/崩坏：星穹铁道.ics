@@ -4,33 +4,23 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:4.0版本「满月是神不在的时间」版本
-DTSTART;TZID=Asia/Shanghai:20260213T110000
-DTEND;TZID=Asia/Shanghai:20260325T060000
-UID:bd1b094b@hoyo_calendar
-DESCRIPTION:4.0版本「满月是神不在的时间」版本
+SUMMARY:4.1版本「献给破晓的失控」版本
+DTSTART;TZID=Asia/Shanghai:20260325T110000
+DTEND;TZID=Asia/Shanghai:20260422T060000
+UID:a451a673@hoyo_calendar
+DESCRIPTION:4.1版本「献给破晓的失控」版本
 LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「狂欢企划」「流光定影•花花世界迷人眼\, 光映
- 千翎」「流光定影•当她决定看见\, 铭心之萃•刻律德
- 菈」「真意之汇•金血铭刻的时代\, 铭心之萃•乱破」
- 「真意之汇•忍法帖•缭乱破魔\, 铭心之萃•花火」「
- 真意之汇•游戏尘寰」角色、光锥跃迁: 火花\, 刻律德菈
- \, 爻光\, 乱破\, 花火\, 花花世界迷人眼\, 金血铭刻的时
- 代\, 当她决定看见\, 忍法帖•缭乱破魔\, 游戏尘寰
-DTSTART;TZID=Asia/Shanghai:20260302T140000
-DTEND;TZID=Asia/Shanghai:20260324T150000
-UID:eecb4137@hoyo_calendar
-DESCRIPTION:「狂欢企划」「流光定影•花花世界迷人眼\, 
- 光映千翎」「流光定影•当她决定看见\, 铭心之萃•刻
- 律德菈」「真意之汇•金血铭刻的时代\, 铭心之萃•乱
- 破」「真意之汇•忍法帖•缭乱破魔\, 铭心之萃•花火
- 」「真意之汇•游戏尘寰」角色、光锥跃迁: 火花\, 刻律
- 德菈\, 爻光\, 乱破\, 花火\, 花花世界迷人眼\, 金血铭刻
- 的时代\, 当她决定看见\, 忍法帖•缭乱破魔\, 游戏尘寰
-LOCATION:崩坏：星穹铁道-跃迁
+SUMMARY:「尘灵乱世录」：率领尘灵征战，获取自塑尘脂、
+ 对话框等奖励！
+DTSTART;TZID=Asia/Shanghai:20260325T110000
+DTEND;TZID=Asia/Shanghai:20260420T035900
+UID:c2e0d806@hoyo_calendar
+DESCRIPTION:「尘灵乱世录」：率领尘灵征战，获取自塑尘
+ 脂、对话框等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -44,17 +34,6 @@ DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\,
  虹隽晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥
  跃迁: 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
 LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「尘灵乱世录」：率领尘灵征战，获取自塑尘脂、
- 对话框等奖励！
-DTSTART;TZID=Asia/Shanghai:20260325T110000
-DTEND;TZID=Asia/Shanghai:20260420T035900
-UID:c2e0d806@hoyo_calendar
-DESCRIPTION:「尘灵乱世录」：率领尘灵征战，获取自塑尘
- 脂、对话框等奖励！
-LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
