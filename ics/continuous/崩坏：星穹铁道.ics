@@ -45,4 +45,26 @@ DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\,
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 扬尘
+ 孤星」「溯回忆象•驶向第二次生命」角色、光锥跃迁: 
+ 不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生命
+DTSTART;TZID=Asia/Shanghai:20260407T120000
+DTEND;TZID=Asia/Shanghai:20260422T150000
+UID:184393d0@hoyo_calendar
+DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\, 
+ 扬尘孤星」「溯回忆象•驶向第二次生命」角色、光锥
+ 跃迁: 不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生
+ 命
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4.2版本「如是，众生欢笑不已」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20260410T193000
+UID:038bb6be@hoyo_calendar
+DESCRIPTION:4.2版本「如是，众生欢笑不已」前瞻特别节目
+LOCATION:崩坏：星穹铁道-前瞻特别节目
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
