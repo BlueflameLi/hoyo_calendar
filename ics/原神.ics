@@ -4,23 +4,80 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之五版本「『空月之歌·变奏』捕风的归客」版
+SUMMARY:月之六版本「『空月之歌·旋舞』逢归的谶羽」版
  本
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-UID:e324db30@hoyo_calendar
-DESCRIPTION:月之五版本「『空月之歌·变奏』捕风的归客」
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:796fd0ee@hoyo_calendar
+DESCRIPTION:月之六版本「『空月之歌·旋舞』逢归的谶羽」
  版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之五版本「『空月之歌·变奏』捕风的归客」版
+SUMMARY:月之六版本「『空月之歌·旋舞』逢归的谶羽」版
  本结束
-DTSTART;TZID=Asia/Shanghai:20260408T060000
-UID:f9de2ed6@hoyo_calendar
-DESCRIPTION:活动结束\n月之五版本「『空月之歌·变奏』捕
- 风的归客」版本
+DTSTART;TZID=Asia/Shanghai:20260520T060000
+UID:cc2c79bf@hoyo_calendar
+DESCRIPTION:活动结束\n月之六版本「『空月之歌·旋舞』逢
+ 归的谶羽」版本
 LOCATION:原神-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「测定摹绘研学」活动：趣味测绘挑战
+DTSTART;TZID=Asia/Shanghai:20260410T100000
+UID:65ce4ed4@hoyo_calendar
+DESCRIPTION:「测定摹绘研学」活动：趣味测绘挑战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「测定摹绘研学」活动：趣味测绘挑战结束
+DTSTART;TZID=Asia/Shanghai:20260420T035959
+UID:f0de17c1@hoyo_calendar
+DESCRIPTION:活动结束\n「测定摹绘研学」活动：趣味测绘挑
+ 战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:874f1efc@hoyo_calendar
+DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
+ 外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:5d4d53d3@hoyo_calendar
+DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
+ 务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「启喻鸟之章」时限内完成传说任务，可额外获得
+ 原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:aa56c2cd@hoyo_calendar
+DESCRIPTION:「启喻鸟之章」时限内完成传说任务，可额外
+ 获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「启喻鸟之章」时限内完成传说任务，可额外获得
+ 原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260428T175900
+UID:44aca426@hoyo_calendar
+DESCRIPTION:活动结束\n「启喻鸟之章」时限内完成传说任务
+ ，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -36,26 +93,6 @@ SUMMARY:「砺行修远」：勤修馈赠结束
 DTSTART;TZID=Asia/Shanghai:20260518T035900
 UID:6add2334@hoyo_calendar
 DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260112T120000
-UID:5d8da321@hoyo_calendar
-DESCRIPTION:「荒崖与墟壑的诗篇」时限内完成探索任务，
- 可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「荒崖与墟壑的诗篇」时限内完成探索任务，可额
- 外获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:acd75ec4@hoyo_calendar
-DESCRIPTION:活动结束\n「荒崖与墟壑的诗篇」时限内完成探
- 索任务，可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -160,55 +197,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:caae151e@hoyo_calendar
-DESCRIPTION:「虚星临渡」角色祈愿: 丝柯克
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:b815056c@hoyo_calendar
-DESCRIPTION:活动结束\n「虚星临渡」角色祈愿: 丝柯克
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:f923ef54@hoyo_calendar
-DESCRIPTION:「莓色香颂」角色祈愿: 爱可菲
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:2d4c51b5@hoyo_calendar
-DESCRIPTION:活动结束\n「莓色香颂」角色祈愿: 爱可菲
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
-DTSTART;TZID=Asia/Shanghai:20260317T180000
-UID:480f2d2d@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者结束
-DTSTART;TZID=Asia/Shanghai:20260407T145959
-UID:bccc32a6@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 苍耀\, 香韵
- 奏者
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「呀吼吼博物志」角色祈愿: 莉奈娅
 DTSTART;TZID=Asia/Shanghai:20260408T110000
 UID:7c81ba46@hoyo_calendar
@@ -311,11 +299,54 @@ LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:『空月之歌·旋舞』逢归的谶羽前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260327T200000
-UID:e016a37d@hoyo_calendar
-DESCRIPTION:『空月之歌·旋舞』逢归的谶羽前瞻特别节目
-LOCATION:原神-前瞻特别节目
+SUMMARY:「呀吼吼博物志」角色祈愿: 莉奈娅
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:7c81ba46@hoyo_calendar
+DESCRIPTION:「呀吼吼博物志」角色祈愿: 莉奈娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「呀吼吼博物志」角色祈愿: 莉奈娅结束
+DTSTART;TZID=Asia/Shanghai:20260428T175900
+UID:cbfe2391@hoyo_calendar
+DESCRIPTION:活动结束\n「呀吼吼博物志」角色祈愿: 莉奈娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「饮羽散红」角色祈愿: 恰斯卡
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:d46bceb6@hoyo_calendar
+DESCRIPTION:「饮羽散红」角色祈愿: 恰斯卡
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「饮羽散红」角色祈愿: 恰斯卡结束
+DTSTART;TZID=Asia/Shanghai:20260428T175900
+UID:bc97d103@hoyo_calendar
+DESCRIPTION:活动结束\n「饮羽散红」角色祈愿: 恰斯卡
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 霜结的誓金枝\, 星鹫赤羽
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+UID:b2f0f11c@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 霜结的誓金枝\, 星鹫赤
+ 羽
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 霜结的誓金枝\, 星鹫赤羽
+ 结束
+DTSTART;TZID=Asia/Shanghai:20260428T175900
+UID:017a1deb@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 霜结的誓金
+ 枝\, 星鹫赤羽
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

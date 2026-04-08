@@ -4,12 +4,12 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之五版本「『空月之歌·变奏』捕风的归客」版
+SUMMARY:月之六版本「『空月之歌·旋舞』逢归的谶羽」版
  本
-DTSTART;TZID=Asia/Shanghai:20260225T110000
-DTEND;TZID=Asia/Shanghai:20260408T060000
-UID:e324db30@hoyo_calendar
-DESCRIPTION:月之五版本「『空月之歌·变奏』捕风的归客」
+DTSTART;TZID=Asia/Shanghai:20260408T110000
+DTEND;TZID=Asia/Shanghai:20260520T060000
+UID:796fd0ee@hoyo_calendar
+DESCRIPTION:月之六版本「『空月之歌·旋舞』逢归的谶羽」
  版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT

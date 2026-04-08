@@ -57,31 +57,6 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 虹隽
- 晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 
- 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
-DTSTART;TZID=Asia/Shanghai:20260324T130000
-UID:209cdb80@hoyo_calendar
-DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\, 
- 虹隽晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥
- 跃迁: 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 虹隽
- 晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 
- 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光永驻天空结束
-DTSTART;TZID=Asia/Shanghai:20260408T115900
-UID:0d0829a7@hoyo_calendar
-DESCRIPTION:活动结束\n「长夜狩影」「流光定影•一场谎言
- 的终幕\, 虹隽晨昏」「溯回忆象•愿虹光永驻天空」角
- 色、光锥跃迁: 不死途\, 风堇\, 一场谎言的终幕\, 愿虹光
- 永驻天空
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 扬尘
  孤星」「溯回忆象•驶向第二次生命」角色、光锥跃迁: 
  不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生命
