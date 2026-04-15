@@ -13,46 +13,11 @@ LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖摇篮
- 」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想\, 海
- 妖摇篮
-DTSTART;TZID=Asia/Shanghai:20260324T110000
-DTEND;TZID=Asia/Shanghai:20260415T115900
-UID:c02525f4@hoyo_calendar
-DESCRIPTION:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖
- 摇篮」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想
- \, 海妖摇篮
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心种」
- 代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 机巧
- 心种
-DTSTART;TZID=Asia/Shanghai:20260413T123000
-DTEND;TZID=Asia/Shanghai:20260505T145900
-UID:6e30c99d@hoyo_calendar
-DESCRIPTION:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心
- 种」代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 
- 机巧心种
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「滚烫寻鲜记」活动说明
 DTSTART;TZID=Asia/Shanghai:20260323T120000
 DTEND;TZID=Asia/Shanghai:20260505T035900
 UID:9da1f541@hoyo_calendar
 DESCRIPTION:「滚烫寻鲜记」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天使邀请函」活动说明
-DTSTART;TZID=Asia/Shanghai:20260205T134500
-DTEND;TZID=Asia/Shanghai:20260415T115959
-UID:316c0357@hoyo_calendar
-DESCRIPTION:「天使邀请函」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -66,21 +31,25 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「先遣赏金-区域巡防」活动说明
-DTSTART;TZID=Asia/Shanghai:20260408T120000
-DTEND;TZID=Asia/Shanghai:20260415T035900
-UID:5fde1561@hoyo_calendar
-DESCRIPTION:「先遣赏金-区域巡防」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「老朋友，新委托！」活动说明
 DTSTART;TZID=Asia/Shanghai:20260414T130000
 DTEND;TZID=Asia/Shanghai:20260505T035900
 UID:be40aead@hoyo_calendar
 DESCRIPTION:「老朋友，新委托！」活动说明
 LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心种」
+ 代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 机巧
+ 心种
+DTSTART;TZID=Asia/Shanghai:20260413T123000
+DTEND;TZID=Asia/Shanghai:20260505T145900
+UID:6e30c99d@hoyo_calendar
+DESCRIPTION:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心
+ 种」代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 
+ 机巧心种
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

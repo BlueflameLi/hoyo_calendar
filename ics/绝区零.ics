@@ -20,27 +20,51 @@ LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖摇篮
- 」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想\, 海
- 妖摇篮
-DTSTART;TZID=Asia/Shanghai:20260324T110000
-UID:c02525f4@hoyo_calendar
-DESCRIPTION:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖
- 摇篮」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想
- \, 海妖摇篮
-LOCATION:绝区零-调频
+SUMMARY:「滚烫寻鲜记」活动说明
+DTSTART;TZID=Asia/Shanghai:20260323T120000
+UID:9da1f541@hoyo_calendar
+DESCRIPTION:「滚烫寻鲜记」活动说明
+LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「视线定格公理\, 霓虹妄想\, 孤旅同梦\, 海妖摇篮
- 」代理人、音擎调频: 南宫羽\, 伊德海莉\, 霓虹妄想\, 海
- 妖摇篮结束
-DTSTART;TZID=Asia/Shanghai:20260415T115900
-UID:f70bb8c7@hoyo_calendar
-DESCRIPTION:活动结束\n「视线定格公理\, 霓虹妄想\, 孤旅同
- 梦\, 海妖摇篮」代理人、音擎调频: 南宫羽\, 伊德海莉\, 
- 霓虹妄想\, 海妖摇篮
-LOCATION:绝区零-调频
+SUMMARY:「滚烫寻鲜记」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20260505T035900
+UID:35b85a9e@hoyo_calendar
+DESCRIPTION:活动结束\n「滚烫寻鲜记」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「灾潮特遣分队」活动说明
+DTSTART;TZID=Asia/Shanghai:20260401T120000
+UID:631eb7f8@hoyo_calendar
+DESCRIPTION:「灾潮特遣分队」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「灾潮特遣分队」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20260420T035900
+UID:aa7486f3@hoyo_calendar
+DESCRIPTION:活动结束\n「灾潮特遣分队」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「老朋友，新委托！」活动说明
+DTSTART;TZID=Asia/Shanghai:20260414T130000
+UID:be40aead@hoyo_calendar
+DESCRIPTION:「老朋友，新委托！」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「老朋友，新委托！」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20260505T035900
+UID:76fe5066@hoyo_calendar
+DESCRIPTION:活动结束\n「老朋友，新委托！」活动说明
+LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -65,86 +89,6 @@ DESCRIPTION:活动结束\n「贪食进化论\, 鳞齿寻踪\, 泪铸生花
  \, 机巧心种」代理人、音擎调频: 希希芙\, 「席德」\, 鳞
  齿寻踪\, 机巧心种
 LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「滚烫寻鲜记」活动说明
-DTSTART;TZID=Asia/Shanghai:20260323T120000
-UID:9da1f541@hoyo_calendar
-DESCRIPTION:「滚烫寻鲜记」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「滚烫寻鲜记」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260505T035900
-UID:35b85a9e@hoyo_calendar
-DESCRIPTION:活动结束\n「滚烫寻鲜记」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天使邀请函」活动说明
-DTSTART;TZID=Asia/Shanghai:20260205T134500
-UID:316c0357@hoyo_calendar
-DESCRIPTION:「天使邀请函」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「天使邀请函」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260415T115959
-UID:eba9cf11@hoyo_calendar
-DESCRIPTION:活动结束\n「天使邀请函」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「灾潮特遣分队」活动说明
-DTSTART;TZID=Asia/Shanghai:20260401T120000
-UID:631eb7f8@hoyo_calendar
-DESCRIPTION:「灾潮特遣分队」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「灾潮特遣分队」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260420T035900
-UID:aa7486f3@hoyo_calendar
-DESCRIPTION:活动结束\n「灾潮特遣分队」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「先遣赏金-区域巡防」活动说明
-DTSTART;TZID=Asia/Shanghai:20260408T120000
-UID:5fde1561@hoyo_calendar
-DESCRIPTION:「先遣赏金-区域巡防」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「先遣赏金-区域巡防」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260415T035900
-UID:63765ce7@hoyo_calendar
-DESCRIPTION:活动结束\n「先遣赏金-区域巡防」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「老朋友，新委托！」活动说明
-DTSTART;TZID=Asia/Shanghai:20260414T130000
-UID:be40aead@hoyo_calendar
-DESCRIPTION:「老朋友，新委托！」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「老朋友，新委托！」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260505T035900
-UID:76fe5066@hoyo_calendar
-DESCRIPTION:活动结束\n「老朋友，新委托！」活动说明
-LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
