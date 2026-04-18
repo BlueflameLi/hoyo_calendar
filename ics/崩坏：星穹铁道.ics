@@ -40,6 +40,26 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
+ 星光锥、家居装饰等奖励！
+DTSTART;TZID=Asia/Shanghai:20260422T110000
+UID:58e0e97b@hoyo_calendar
+DESCRIPTION:「银河信号漫游」：开启直播，获取星琼、特
+ 定4星光锥、家居装饰等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
+ 星光锥、家居装饰等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260601T035900
+UID:6c38d585@hoyo_calendar
+DESCRIPTION:活动结束\n「银河信号漫游」：开启直播，获取
+ 星琼、特定4星光锥、家居装饰等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 扬尘
  孤星」「溯回忆象•驶向第二次生命」角色、光锥跃迁: 
  不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生命
@@ -64,14 +84,6 @@ DESCRIPTION:活动结束\n「长夜狩影」「流光定影•一场谎言
  色、光锥跃迁: 不死途\, 波提欧\, 一场谎言的终幕\, 驶向
  第二次生命
 LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4.2版本「如是，众生欢笑不已」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260410T193000
-UID:038bb6be@hoyo_calendar
-DESCRIPTION:4.2版本「如是，众生欢笑不已」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

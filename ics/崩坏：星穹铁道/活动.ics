@@ -23,4 +23,24 @@ DESCRIPTION:活动结束\n「尘灵乱世录」：率领尘灵征战，获
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
+ 星光锥、家居装饰等奖励！
+DTSTART;TZID=Asia/Shanghai:20260422T110000
+UID:58e0e97b@hoyo_calendar
+DESCRIPTION:「银河信号漫游」：开启直播，获取星琼、特
+ 定4星光锥、家居装饰等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
+ 星光锥、家居装饰等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260601T035900
+UID:6c38d585@hoyo_calendar
+DESCRIPTION:活动结束\n「银河信号漫游」：开启直播，获取
+ 星琼、特定4星光锥、家居装饰等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
