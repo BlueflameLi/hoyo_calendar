@@ -4,83 +4,19 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:4.1版本「献给破晓的失控」版本
-DTSTART;TZID=Asia/Shanghai:20260325T110000
-UID:a451a673@hoyo_calendar
-DESCRIPTION:4.1版本「献给破晓的失控」版本
-LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4.1版本「献给破晓的失控」版本结束
-DTSTART;TZID=Asia/Shanghai:20260422T060000
-UID:c0c810d1@hoyo_calendar
-DESCRIPTION:活动结束\n4.1版本「献给破晓的失控」版本
-LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 扬尘
- 孤星」「溯回忆象•驶向第二次生命」角色、光锥跃迁: 
- 不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生命
-DTSTART;TZID=Asia/Shanghai:20260407T120000
-UID:184393d0@hoyo_calendar
-DESCRIPTION:「长夜狩影」「流光定影•一场谎言的终幕\, 
- 扬尘孤星」「溯回忆象•驶向第二次生命」角色、光锥
- 跃迁: 不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生
- 命
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「长夜狩影」「流光定影•一场谎言的终幕\, 扬尘
- 孤星」「溯回忆象•驶向第二次生命」角色、光锥跃迁: 
- 不死途\, 波提欧\, 一场谎言的终幕\, 驶向第二次生命结
- 束
-DTSTART;TZID=Asia/Shanghai:20260422T150000
-UID:59ff9425@hoyo_calendar
-DESCRIPTION:活动结束\n「长夜狩影」「流光定影•一场谎言
- 的终幕\, 扬尘孤星」「溯回忆象•驶向第二次生命」角
- 色、光锥跃迁: 不死途\, 波提欧\, 一场谎言的终幕\, 驶向
- 第二次生命
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
- 之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
- •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
- 流萤」「真意之汇•梦应归于何处」角色、光锥跃迁: 银
- 狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 勿忘
- 她的火焰\, 让告别，更美一些\, 梦应归于何处
+SUMMARY:4.2版本「如是，众生欢笑不已」版本
 DTSTART;TZID=Asia/Shanghai:20260422T110000
-UID:de28b17f@hoyo_calendar
-DESCRIPTION:「无敌玩家」「流光定影•欢迎来到银河城\, 
- 铭心之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心
- 之萃•遐蝶」「真意之汇•让告别，更美一些\, 铭心之
- 萃•流萤」「真意之汇•梦应归于何处」角色、光锥跃
- 迁: 银狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 
- 勿忘她的火焰\, 让告别，更美一些\, 梦应归于何处
-LOCATION:崩坏：星穹铁道-跃迁
+UID:b9e63069@hoyo_calendar
+DESCRIPTION:4.2版本「如是，众生欢笑不已」版本
+LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
- 之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
- •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
- 流萤」「真意之汇•梦应归于何处」角色、光锥跃迁: 银
- 狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 勿忘
- 她的火焰\, 让告别，更美一些\, 梦应归于何处结束
-DTSTART;TZID=Asia/Shanghai:20260513T115900
-UID:8a0fc0c6@hoyo_calendar
-DESCRIPTION:活动结束\n「无敌玩家」「流光定影•欢迎来到
- 银河城\, 铭心之萃•大丽花」「真意之汇•勿忘她的火
- 焰\, 铭心之萃•遐蝶」「真意之汇•让告别，更美一些\,
-  铭心之萃•流萤」「真意之汇•梦应归于何处」角色、
- 光锥跃迁: 银狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银
- 河城\, 勿忘她的火焰\, 让告别，更美一些\, 梦应归于何
- 处
-LOCATION:崩坏：星穹铁道-跃迁
+SUMMARY:4.2版本「如是，众生欢笑不已」版本结束
+DTSTART;TZID=Asia/Shanghai:20260601T060000
+UID:cc58612b@hoyo_calendar
+DESCRIPTION:活动结束\n4.2版本「如是，众生欢笑不已」版本
+LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -118,6 +54,43 @@ UID:57561d83@hoyo_calendar
 DESCRIPTION:活动结束\n「奇库寻遗」：参与活动获取+15五星
  遗器！
 LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
+ 之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
+ •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
+ 流萤」「真意之汇•梦应归于何处」角色、光锥跃迁: 银
+ 狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 勿忘
+ 她的火焰\, 让告别，更美一些\, 梦应归于何处
+DTSTART;TZID=Asia/Shanghai:20260422T110000
+UID:de28b17f@hoyo_calendar
+DESCRIPTION:「无敌玩家」「流光定影•欢迎来到银河城\, 
+ 铭心之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心
+ 之萃•遐蝶」「真意之汇•让告别，更美一些\, 铭心之
+ 萃•流萤」「真意之汇•梦应归于何处」角色、光锥跃
+ 迁: 银狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 
+ 勿忘她的火焰\, 让告别，更美一些\, 梦应归于何处
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
+ 之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
+ •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
+ 流萤」「真意之汇•梦应归于何处」角色、光锥跃迁: 银
+ 狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 勿忘
+ 她的火焰\, 让告别，更美一些\, 梦应归于何处结束
+DTSTART;TZID=Asia/Shanghai:20260513T115900
+UID:8a0fc0c6@hoyo_calendar
+DESCRIPTION:活动结束\n「无敌玩家」「流光定影•欢迎来到
+ 银河城\, 铭心之萃•大丽花」「真意之汇•勿忘她的火
+ 焰\, 铭心之萃•遐蝶」「真意之汇•让告别，更美一些\,
+  铭心之萃•流萤」「真意之汇•梦应归于何处」角色、
+ 光锥跃迁: 银狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银
+ 河城\, 勿忘她的火焰\, 让告别，更美一些\, 梦应归于何
+ 处
+LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
