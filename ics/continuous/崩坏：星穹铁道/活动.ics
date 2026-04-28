@@ -23,4 +23,15 @@ DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「又上骰了！战力党！」：打牌共斗，获取星琼等
+ 奖励！
+DTSTART;TZID=Asia/Shanghai:20260429T120000
+DTEND;TZID=Asia/Shanghai:20260601T035900
+UID:f5c8c3da@hoyo_calendar
+DESCRIPTION:「又上骰了！战力党！」：打牌共斗，获取星
+ 琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
