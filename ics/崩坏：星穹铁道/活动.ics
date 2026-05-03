@@ -60,4 +60,22 @@ DESCRIPTION:活动结束\n「又上骰了！战力党！」：打牌共斗
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
+DTSTART;TZID=Asia/Shanghai:20260504T040000
+UID:da25d1fa@hoyo_calendar
+DESCRIPTION:「位面分裂300%」活动：位面饰品限时三倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260518T035900
+UID:db9983bf@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂300%」活动：位面饰品限
+ 时三倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

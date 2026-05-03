@@ -77,6 +77,24 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落
+DTSTART;TZID=Asia/Shanghai:20260504T040000
+UID:da25d1fa@hoyo_calendar
+DESCRIPTION:「位面分裂300%」活动：位面饰品限时三倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂300%」活动：位面饰品限时三倍掉落结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260518T035900
+UID:db9983bf@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂300%」活动：位面饰品限
+ 时三倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
  之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
  •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
