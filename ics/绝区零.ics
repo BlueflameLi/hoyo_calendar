@@ -68,22 +68,6 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动说明
-DTSTART;TZID=Asia/Shanghai:20260427T123000
-UID:60a41024@hoyo_calendar
-DESCRIPTION:「数据悬赏-实战模拟」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260504T035900
-UID:ef58569a@hoyo_calendar
-DESCRIPTION:活动结束\n「数据悬赏-实战模拟」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心种」
  代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 机巧
  心种
@@ -108,11 +92,27 @@ LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2.8版本「新·艾利都日落时」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260424T193000
-UID:fc0d0ba0@hoyo_calendar
-DESCRIPTION:2.8版本「新·艾利都日落时」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
+SUMMARY:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦炉歌
+ 」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜\, 铸
+ 梦炉歌
+DTSTART;TZID=Asia/Shanghai:20260506T110000
+UID:4bcd4c1a@hoyo_calendar
+DESCRIPTION:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦
+ 炉歌」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜
+ \, 铸梦炉歌
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦炉歌
+ 」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜\, 铸
+ 梦炉歌结束
+DTSTART;TZID=Asia/Shanghai:20260527T115959
+UID:3ba6d750@hoyo_calendar
+DESCRIPTION:活动结束\n「冷雨将尽之夜\, 朔月裁霜\, 绮夜游
+ 灯\, 铸梦炉歌」代理人、音擎调频: 普罗米娅\, 卢西娅\, 
+ 朔月裁霜\, 铸梦炉歌
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
