@@ -4,30 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心种」
- 代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 机巧
- 心种
-DTSTART;TZID=Asia/Shanghai:20260413T123000
-UID:6e30c99d@hoyo_calendar
-DESCRIPTION:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心
- 种」代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 
- 机巧心种
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「贪食进化论\, 鳞齿寻踪\, 泪铸生花\, 机巧心种」
- 代理人、音擎调频: 希希芙\, 「席德」\, 鳞齿寻踪\, 机巧
- 心种结束
-DTSTART;TZID=Asia/Shanghai:20260505T145900
-UID:0fa010db@hoyo_calendar
-DESCRIPTION:活动结束\n「贪食进化论\, 鳞齿寻踪\, 泪铸生花
- \, 机巧心种」代理人、音擎调频: 希希芙\, 「席德」\, 鳞
- 齿寻踪\, 机巧心种
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦炉歌
  」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜\, 铸
  梦炉歌
