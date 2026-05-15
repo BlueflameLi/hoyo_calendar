@@ -96,26 +96,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「礁与浪的相逢」活动：参与邀请「系风攘影·雅
- 珂达(风)」
-DTSTART;TZID=Asia/Shanghai:20260427T100000
-UID:fe53b27c@hoyo_calendar
-DESCRIPTION:「礁与浪的相逢」活动：参与邀请「系风攘影·
- 雅珂达(风)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「礁与浪的相逢」活动：参与邀请「系风攘影·雅
- 珂达(风)」结束
-DTSTART;TZID=Asia/Shanghai:20260514T035959
-UID:d5c5eb79@hoyo_calendar
-DESCRIPTION:活动结束\n「礁与浪的相逢」活动：参与邀请「
- 系风攘影·雅珂达(风)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「速摄快镜」活动：速览映影拍摄
 DTSTART;TZID=Asia/Shanghai:20260506T100000
 UID:e5e6266e@hoyo_calendar

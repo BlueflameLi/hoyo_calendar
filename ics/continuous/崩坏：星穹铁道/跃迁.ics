@@ -4,25 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「无敌玩家」「流光定影•欢迎来到银河城\, 铭心
- 之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心之萃
- •遐蝶」「真意之汇•让告别，更美一些\, 铭心之萃•
- 流萤」「真意之汇•梦应归于何处」角色、光锥跃迁: 银
- 狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 勿忘
- 她的火焰\, 让告别，更美一些\, 梦应归于何处
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-DTEND;TZID=Asia/Shanghai:20260513T115900
-UID:de28b17f@hoyo_calendar
-DESCRIPTION:「无敌玩家」「流光定影•欢迎来到银河城\, 
- 铭心之萃•大丽花」「真意之汇•勿忘她的火焰\, 铭心
- 之萃•遐蝶」「真意之汇•让告别，更美一些\, 铭心之
- 萃•流萤」「真意之汇•梦应归于何处」角色、光锥跃
- 迁: 银狼LV.999\, 大丽花\, 遐蝶\, 流萤\, 欢迎来到银河城\, 
- 勿忘她的火焰\, 让告别，更美一些\, 梦应归于何处
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「韶艾裁英」「流光定影•邂逅于下一个花季\, 铭
  心之萃•缇宝」「真意之汇•如果时间是一朵花\, 铭心
  之萃•星期日」「真意之汇•回到大地的飞行\, 铭心之
