@@ -4,23 +4,23 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之六版本「『空月之歌·旋舞』逢归的谶羽」版
- 本
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励
 DTSTART;TZID=Asia/Shanghai:20260408T110000
-UID:796fd0ee@hoyo_calendar
-DESCRIPTION:月之六版本「『空月之歌·旋舞』逢归的谶羽」
- 版本
-LOCATION:原神-版本更新
+UID:874f1efc@hoyo_calendar
+DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
+ 外获得原石*400奖励
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之六版本「『空月之歌·旋舞』逢归的谶羽」版
- 本结束
-DTSTART;TZID=Asia/Shanghai:20260520T060000
-UID:cc2c79bf@hoyo_calendar
-DESCRIPTION:活动结束\n月之六版本「『空月之歌·旋舞』逢
- 归的谶羽」版本
-LOCATION:原神-版本更新
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:5d4d53d3@hoyo_calendar
+DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
+ 务，可额外获得原石*400奖励
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -28,6 +28,138 @@ SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
  得原石*400奖励
 DTSTART;TZID=Asia/Shanghai:20260408T110000
 UID:874f1efc@hoyo_calendar
+DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
+ 外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:5d4d53d3@hoyo_calendar
+DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
+ 务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:2bd1bc4f@hoyo_calendar
+DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
+ ，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:36c443bd@hoyo_calendar
+DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
+ 魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:2bd1bc4f@hoyo_calendar
+DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
+ ，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:36c443bd@hoyo_calendar
+DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
+ 魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「幻友绮旅」活动：参与获取活动专属武器外观「
+ 超厉害魔法钥匙」
+DTSTART;TZID=Asia/Shanghai:20260522T100000
+UID:8797587d@hoyo_calendar
+DESCRIPTION:「幻友绮旅」活动：参与获取活动专属武器外
+ 观「超厉害魔法钥匙」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「幻友绮旅」活动：参与获取活动专属武器外观「
+ 超厉害魔法钥匙」结束
+DTSTART;TZID=Asia/Shanghai:20260608T035959
+UID:1531c3e2@hoyo_calendar
+DESCRIPTION:活动结束\n「幻友绮旅」活动：参与获取活动专
+ 属武器外观「超厉害魔法钥匙」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:2bd1bc4f@hoyo_calendar
+DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
+ ，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:36c443bd@hoyo_calendar
+DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
+ 魔神任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「胜过白银与精金」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260518T120000
+UID:c91cfec6@hoyo_calendar
+DESCRIPTION:「胜过白银与精金」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「胜过白银与精金」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20260701T070000
+UID:79fdd536@hoyo_calendar
+DESCRIPTION:活动结束\n「胜过白银与精金」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260518T040000
+UID:ebed4554@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20260810T035959
+UID:3a8d4f5f@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
+ 得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260406T120000
+UID:a86e34d2@hoyo_calendar
 DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
  外获得原石*400奖励
 LOCATION:原神-活动
@@ -60,118 +192,6 @@ DTSTART;TZID=Asia/Shanghai:20260812T055900
 UID:d5bcf830@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260518T040000
-UID:ebed4554@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260810T035959
-UID:3a8d4f5f@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260518T120000
-UID:c91cfec6@hoyo_calendar
-DESCRIPTION:「胜过白银与精金」世界任务说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明结束
-DTSTART;TZID=Asia/Shanghai:20260701T070000
-UID:79fdd536@hoyo_calendar
-DESCRIPTION:活动结束\n「胜过白银与精金」世界任务说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260408T110000
-UID:874f1efc@hoyo_calendar
-DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
- 外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5d4d53d3@hoyo_calendar
-DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260408T110000
-UID:874f1efc@hoyo_calendar
-DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
- 外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5d4d53d3@hoyo_calendar
-DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:2bd1bc4f@hoyo_calendar
-DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
- ，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:36c443bd@hoyo_calendar
-DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
- 魔神任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:2bd1bc4f@hoyo_calendar
-DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
- ，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:36c443bd@hoyo_calendar
-DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
- 魔神任务，可额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -279,6 +299,75 @@ UID:e271e7d4@hoyo_calendar
 DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
  黑蚀
 LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「炽天的默想曲」角色祈愿: 尼可
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:4ab48673@hoyo_calendar
+DESCRIPTION:「炽天的默想曲」角色祈愿: 尼可
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「炽天的默想曲」角色祈愿: 尼可结束
+DTSTART;TZID=Asia/Shanghai:20260609T175900
+UID:bbb499dd@hoyo_calendar
+DESCRIPTION:活动结束\n「炽天的默想曲」角色祈愿: 尼可
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「白礜赤成」角色祈愿: 杜林
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:39910d84@hoyo_calendar
+DESCRIPTION:「白礜赤成」角色祈愿: 杜林
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「白礜赤成」角色祈愿: 杜林结束
+DTSTART;TZID=Asia/Shanghai:20260609T175900
+UID:b44eb8fa@hoyo_calendar
+DESCRIPTION:活动结束\n「白礜赤成」角色祈愿: 杜林
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:b506ef32@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀结束
+DTSTART;TZID=Asia/Shanghai:20260609T175900
+UID:e271e7d4@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
+ 黑蚀
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
+ 」版本
+DTSTART;TZID=Asia/Shanghai:20260520T110000
+UID:cb8d7bbb@hoyo_calendar
+DESCRIPTION:月之七版本「『空月之歌·行律』虚空劫灰往世
+ 书」版本
+LOCATION:原神-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
+ 」版本结束
+DTSTART;TZID=Asia/Shanghai:20260701T060000
+UID:8a0b05d5@hoyo_calendar
+DESCRIPTION:活动结束\n月之七版本「『空月之歌·行律』虚
+ 空劫灰往世书」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
