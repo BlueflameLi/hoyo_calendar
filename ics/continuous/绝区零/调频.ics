@@ -16,4 +16,17 @@ DESCRIPTION:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
+ 」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
+ , 辉骑面铠\, 嚣枪喧焰
+DTSTART;TZID=Asia/Shanghai:20260525T120000
+DTEND;TZID=Asia/Shanghai:20260616T145959
+UID:82c319ba@hoyo_calendar
+DESCRIPTION:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪
+ 喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼
+ 火」\, 辉骑面铠\, 嚣枪喧焰
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
