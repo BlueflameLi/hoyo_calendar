@@ -4,30 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦炉歌
- 」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜\, 铸
- 梦炉歌
-DTSTART;TZID=Asia/Shanghai:20260506T110000
-UID:4bcd4c1a@hoyo_calendar
-DESCRIPTION:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦
- 炉歌」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜
- \, 铸梦炉歌
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「冷雨将尽之夜\, 朔月裁霜\, 绮夜游灯\, 铸梦炉歌
- 」代理人、音擎调频: 普罗米娅\, 卢西娅\, 朔月裁霜\, 铸
- 梦炉歌结束
-DTSTART;TZID=Asia/Shanghai:20260527T115959
-UID:3ba6d750@hoyo_calendar
-DESCRIPTION:活动结束\n「冷雨将尽之夜\, 朔月裁霜\, 绮夜游
- 灯\, 铸梦炉歌」代理人、音擎调频: 普罗米娅\, 卢西娅\, 
- 朔月裁霜\, 铸梦炉歌
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
  」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
  , 辉骑面铠\, 嚣枪喧焰
