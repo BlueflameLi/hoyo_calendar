@@ -60,4 +60,24 @@ DESCRIPTION:活动结束\n「又上骰了！战力党！」：打牌共斗
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
+ 运的足迹、星琼、聊天气泡等奖励！
+DTSTART;TZID=Asia/Shanghai:20260601T110000
+UID:351fc0de@hoyo_calendar
+DESCRIPTION:「像素飞机大乱斗」：定制你的最强战机，获
+ 取命运的足迹、星琼、聊天气泡等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
+ 运的足迹、星琼、聊天气泡等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260715T035900
+UID:eb81c2d4@hoyo_calendar
+DESCRIPTION:活动结束\n「像素飞机大乱斗」：定制你的最强
+ 战机，获取命运的足迹、星琼、聊天气泡等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
