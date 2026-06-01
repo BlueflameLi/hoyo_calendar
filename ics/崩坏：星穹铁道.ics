@@ -4,135 +4,19 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:4.2版本「如是，众生欢笑不已」版本
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-UID:b9e63069@hoyo_calendar
-DESCRIPTION:4.2版本「如是，众生欢笑不已」版本
-LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4.2版本「如是，众生欢笑不已」版本结束
-DTSTART;TZID=Asia/Shanghai:20260601T060000
-UID:cc58612b@hoyo_calendar
-DESCRIPTION:活动结束\n4.2版本「如是，众生欢笑不已」版本
-LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
- 星光锥、家居装饰等奖励！
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-UID:58e0e97b@hoyo_calendar
-DESCRIPTION:「银河信号漫游」：开启直播，获取星琼、特
- 定4星光锥、家居装饰等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
- 星光锥、家居装饰等奖励！结束
-DTSTART;TZID=Asia/Shanghai:20260601T035900
-UID:6c38d585@hoyo_calendar
-DESCRIPTION:活动结束\n「银河信号漫游」：开启直播，获取
- 星琼、特定4星光锥、家居装饰等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-UID:5dca5e7e@hoyo_calendar
-DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！结束
-DTSTART;TZID=Asia/Shanghai:20260601T035900
-UID:57561d83@hoyo_calendar
-DESCRIPTION:活动结束\n「奇库寻遗」：参与活动获取+15五星
- 遗器！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「又上骰了！战力党！」：打牌共斗，获取星琼等
- 奖励！
-DTSTART;TZID=Asia/Shanghai:20260429T120000
-UID:f5c8c3da@hoyo_calendar
-DESCRIPTION:「又上骰了！战力党！」：打牌共斗，获取星
- 琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「又上骰了！战力党！」：打牌共斗，获取星琼等
- 奖励！结束
-DTSTART;TZID=Asia/Shanghai:20260601T035900
-UID:663e2efa@hoyo_calendar
-DESCRIPTION:活动结束\n「又上骰了！战力党！」：打牌共斗
- ，获取星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
- 运的足迹、星琼、聊天气泡等奖励！
+SUMMARY:4.3版本「沉于生者的忘川」版本
 DTSTART;TZID=Asia/Shanghai:20260601T110000
-UID:351fc0de@hoyo_calendar
-DESCRIPTION:「像素飞机大乱斗」：定制你的最强战机，获
- 取命运的足迹、星琼、聊天气泡等奖励！
-LOCATION:崩坏：星穹铁道-活动
+UID:bff30444@hoyo_calendar
+DESCRIPTION:4.3版本「沉于生者的忘川」版本
+LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
- 运的足迹、星琼、聊天气泡等奖励！结束
-DTSTART;TZID=Asia/Shanghai:20260715T035900
-UID:eb81c2d4@hoyo_calendar
-DESCRIPTION:活动结束\n「像素飞机大乱斗」：定制你的最强
- 战机，获取命运的足迹、星琼、聊天气泡等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「韶艾裁英」「流光定影•邂逅于下一个花季\, 铭
- 心之萃•缇宝」「真意之汇•如果时间是一朵花\, 铭心
- 之萃•星期日」「真意之汇•回到大地的飞行\, 铭心之
- 萃•飞霄」「真意之汇•我将，巡征追猎」角色、光锥
- 跃迁: 绯英\, 缇宝\, 星期日\, 飞霄\, 邂逅于下一个花季\, 
- 如果时间是一朵花\, 回到大地的飞行\, 我将，巡征追猎
-DTSTART;TZID=Asia/Shanghai:20260513T120000
-UID:5278af4f@hoyo_calendar
-DESCRIPTION:「韶艾裁英」「流光定影•邂逅于下一个花季\,
-  铭心之萃•缇宝」「真意之汇•如果时间是一朵花\, 铭
- 心之萃•星期日」「真意之汇•回到大地的飞行\, 铭心
- 之萃•飞霄」「真意之汇•我将，巡征追猎」角色、光
- 锥跃迁: 绯英\, 缇宝\, 星期日\, 飞霄\, 邂逅于下一个花季
- \, 如果时间是一朵花\, 回到大地的飞行\, 我将，巡征追
- 猎
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「韶艾裁英」「流光定影•邂逅于下一个花季\, 铭
- 心之萃•缇宝」「真意之汇•如果时间是一朵花\, 铭心
- 之萃•星期日」「真意之汇•回到大地的飞行\, 铭心之
- 萃•飞霄」「真意之汇•我将，巡征追猎」角色、光锥
- 跃迁: 绯英\, 缇宝\, 星期日\, 飞霄\, 邂逅于下一个花季\, 
- 如果时间是一朵花\, 回到大地的飞行\, 我将，巡征追猎
- 结束
-DTSTART;TZID=Asia/Shanghai:20260601T035900
-UID:c6d957c9@hoyo_calendar
-DESCRIPTION:活动结束\n「韶艾裁英」「流光定影•邂逅于下
- 一个花季\, 铭心之萃•缇宝」「真意之汇•如果时间是
- 一朵花\, 铭心之萃•星期日」「真意之汇•回到大地的
- 飞行\, 铭心之萃•飞霄」「真意之汇•我将，巡征追猎
- 」角色、光锥跃迁: 绯英\, 缇宝\, 星期日\, 飞霄\, 邂逅于
- 下一个花季\, 如果时间是一朵花\, 回到大地的飞行\, 我
- 将，巡征追猎
-LOCATION:崩坏：星穹铁道-跃迁
+SUMMARY:4.3版本「沉于生者的忘川」版本结束
+DTSTART;TZID=Asia/Shanghai:20260715T060000
+UID:dc323661@hoyo_calendar
+DESCRIPTION:活动结束\n4.3版本「沉于生者的忘川」版本
+LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -158,6 +42,26 @@ DESCRIPTION:活动结束\n「我身即刃」「流光定影•灼尽炼狱
  、光锥跃迁: 千冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决
  定看见
 LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
+ 运的足迹、星琼、聊天气泡等奖励！
+DTSTART;TZID=Asia/Shanghai:20260601T110000
+UID:351fc0de@hoyo_calendar
+DESCRIPTION:「像素飞机大乱斗」：定制你的最强战机，获
+ 取命运的足迹、星琼、聊天气泡等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
+ 运的足迹、星琼、聊天气泡等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260715T035900
+UID:eb81c2d4@hoyo_calendar
+DESCRIPTION:活动结束\n「像素飞机大乱斗」：定制你的最强
+ 战机，获取命运的足迹、星琼、聊天气泡等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

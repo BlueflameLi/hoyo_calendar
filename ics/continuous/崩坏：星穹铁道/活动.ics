@@ -4,37 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「银河信号漫游」：开启直播，获取星琼、特定4
- 星光锥、家居装饰等奖励！
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-DTEND;TZID=Asia/Shanghai:20260601T035900
-UID:58e0e97b@hoyo_calendar
-DESCRIPTION:「银河信号漫游」：开启直播，获取星琼、特
- 定4星光锥、家居装饰等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「奇库寻遗」：参与活动获取+15五星遗器！
-DTSTART;TZID=Asia/Shanghai:20260422T110000
-DTEND;TZID=Asia/Shanghai:20260601T035900
-UID:5dca5e7e@hoyo_calendar
-DESCRIPTION:「奇库寻遗」：参与活动获取+15五星遗器！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「又上骰了！战力党！」：打牌共斗，获取星琼等
- 奖励！
-DTSTART;TZID=Asia/Shanghai:20260429T120000
-DTEND;TZID=Asia/Shanghai:20260601T035900
-UID:f5c8c3da@hoyo_calendar
-DESCRIPTION:「又上骰了！战力党！」：打牌共斗，获取星
- 琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
  运的足迹、星琼、聊天气泡等奖励！
 DTSTART;TZID=Asia/Shanghai:20260601T110000

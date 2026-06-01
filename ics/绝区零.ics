@@ -36,22 +36,6 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「极限裁决试炼」活动说明
-DTSTART;TZID=Asia/Shanghai:20260511T120000
-UID:4b68472f@hoyo_calendar
-DESCRIPTION:「极限裁决试炼」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「极限裁决试炼」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260601T035900
-UID:12c73e8e@hoyo_calendar
-DESCRIPTION:活动结束\n「极限裁决试炼」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「『灵魂』画手侧写簿」活动说明
 DTSTART;TZID=Asia/Shanghai:20260525T180000
 UID:4548594c@hoyo_calendar
@@ -105,6 +89,14 @@ DESCRIPTION:活动结束\n「星徽于此闪耀\, 辉骑面铠\, 孽火两
  畔\, 嚣枪喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&
  amp\;「鬼火」\, 辉骑面铠\, 嚣枪喧焰
 LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3.0版本「某个梦游者的自白」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20260606T193000
+UID:487a6e67@hoyo_calendar
+DESCRIPTION:3.0版本「某个梦游者的自白」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
