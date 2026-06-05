@@ -212,6 +212,26 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「狡兔之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260609T180000
+UID:557953a0@hoyo_calendar
+DESCRIPTION:「狡兔之章」时限内完成传说任务，可额外获
+ 得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「狡兔之章」时限内完成传说任务，可额外获得原
+ 石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:8066dc0c@hoyo_calendar
+DESCRIPTION:活动结束\n「狡兔之章」时限内完成传说任务，
+ 可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:空月之歌·行律前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20260508T200000
 UID:cf77a279@hoyo_calendar
@@ -363,6 +383,55 @@ DTSTART;TZID=Asia/Shanghai:20260609T175900
 UID:e271e7d4@hoyo_calendar
 DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
  黑蚀
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霜锋夜白」角色祈愿: 洛恩
+DTSTART;TZID=Asia/Shanghai:20260609T180000
+UID:ae1a10b1@hoyo_calendar
+DESCRIPTION:「霜锋夜白」角色祈愿: 洛恩
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「霜锋夜白」角色祈愿: 洛恩结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:c7bdeb77@hoyo_calendar
+DESCRIPTION:活动结束\n「霜锋夜白」角色祈愿: 洛恩
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「宿古的赫炎」角色祈愿: 玛薇卡
+DTSTART;TZID=Asia/Shanghai:20260609T180000
+UID:4e477a85@hoyo_calendar
+DESCRIPTION:「宿古的赫炎」角色祈愿: 玛薇卡
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「宿古的赫炎」角色祈愿: 玛薇卡结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:1b51c6ff@hoyo_calendar
+DESCRIPTION:活动结束\n「宿古的赫炎」角色祈愿: 玛薇卡
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳
+DTSTART;TZID=Asia/Shanghai:20260609T180000
+UID:73a56eb6@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳结束
+DTSTART;TZID=Asia/Shanghai:20260630T145959
+UID:5c1a7dce@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 灾悔\, 焚曜
+ 千阳
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
