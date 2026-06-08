@@ -48,17 +48,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「幻友绮旅」活动：参与获取活动专属武器外观「
- 超厉害魔法钥匙」
-DTSTART;TZID=Asia/Shanghai:20260522T100000
-DTEND;TZID=Asia/Shanghai:20260608T035959
-UID:8797587d@hoyo_calendar
-DESCRIPTION:「幻友绮旅」活动：参与获取活动专属武器外
- 观「超厉害魔法钥匙」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
  额外获得原石、角色突破素材等奖励
 DTSTART;TZID=Asia/Shanghai:20260520T110000
