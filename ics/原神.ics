@@ -237,150 +237,23 @@ LOCATION:原神-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可
+SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
+ 」版本
 DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:4ab48673@hoyo_calendar
-DESCRIPTION:「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
+UID:cb8d7bbb@hoyo_calendar
+DESCRIPTION:月之七版本「『空月之歌·行律』虚空劫灰往世
+ 书」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:bbb499dd@hoyo_calendar
-DESCRIPTION:活动结束\n「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:39910d84@hoyo_calendar
-DESCRIPTION:「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:b44eb8fa@hoyo_calendar
-DESCRIPTION:活动结束\n「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:b506ef32@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:e271e7d4@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
- 黑蚀
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:4ab48673@hoyo_calendar
-DESCRIPTION:「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:bbb499dd@hoyo_calendar
-DESCRIPTION:活动结束\n「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:39910d84@hoyo_calendar
-DESCRIPTION:「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:b44eb8fa@hoyo_calendar
-DESCRIPTION:活动结束\n「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:b506ef32@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:e271e7d4@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
- 黑蚀
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:4ab48673@hoyo_calendar
-DESCRIPTION:「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「炽天的默想曲」角色祈愿: 尼可结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:bbb499dd@hoyo_calendar
-DESCRIPTION:活动结束\n「炽天的默想曲」角色祈愿: 尼可
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:39910d84@hoyo_calendar
-DESCRIPTION:「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「白礜赤成」角色祈愿: 杜林结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:b44eb8fa@hoyo_calendar
-DESCRIPTION:活动结束\n「白礜赤成」角色祈愿: 杜林
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:b506ef32@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 尘光七谕\, 黑蚀结束
-DTSTART;TZID=Asia/Shanghai:20260609T175900
-UID:e271e7d4@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 尘光七谕\, 
- 黑蚀
-LOCATION:原神-祈愿
+SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
+ 」版本结束
+DTSTART;TZID=Asia/Shanghai:20260701T060000
+UID:8a0b05d5@hoyo_calendar
+DESCRIPTION:活动结束\n月之七版本「『空月之歌·行律』虚
+ 空劫灰往世书」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -430,26 +303,6 @@ UID:5c1a7dce@hoyo_calendar
 DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 灾悔\, 焚曜
  千阳
 LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
- 」版本
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:cb8d7bbb@hoyo_calendar
-DESCRIPTION:月之七版本「『空月之歌·行律』虚空劫灰往世
- 书」版本
-LOCATION:原神-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
- 」版本结束
-DTSTART;TZID=Asia/Shanghai:20260701T060000
-UID:8a0b05d5@hoyo_calendar
-DESCRIPTION:活动结束\n月之七版本「『空月之歌·行律』虚
- 空劫灰往世书」版本
-LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
