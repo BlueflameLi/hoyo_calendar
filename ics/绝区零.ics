@@ -20,51 +20,51 @@ LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「游乐岛拯救计划」活动说明
-DTSTART;TZID=Asia/Shanghai:20260505T180000
-UID:458f93f9@hoyo_calendar
-DESCRIPTION:「游乐岛拯救计划」活动说明
-LOCATION:绝区零-活动
+SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
+ 」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
+ , 辉骑面铠\, 嚣枪喧焰
+DTSTART;TZID=Asia/Shanghai:20260525T120000
+UID:82c319ba@hoyo_calendar
+DESCRIPTION:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪
+ 喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼
+ 火」\, 辉骑面铠\, 嚣枪喧焰
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「游乐岛拯救计划」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260615T035959
-UID:4ee59e17@hoyo_calendar
-DESCRIPTION:活动结束\n「游乐岛拯救计划」活动说明
-LOCATION:绝区零-活动
+SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
+ 」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
+ , 辉骑面铠\, 嚣枪喧焰结束
+DTSTART;TZID=Asia/Shanghai:20260616T145959
+UID:75045a54@hoyo_calendar
+DESCRIPTION:活动结束\n「星徽于此闪耀\, 辉骑面铠\, 孽火两
+ 畔\, 嚣枪喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&
+ amp\;「鬼火」\, 辉骑面铠\, 嚣枪喧焰
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「『灵魂』画手侧写簿」活动说明
-DTSTART;TZID=Asia/Shanghai:20260525T180000
-UID:4548594c@hoyo_calendar
-DESCRIPTION:「『灵魂』画手侧写簿」活动说明
-LOCATION:绝区零-活动
+SUMMARY:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤光」
+ 代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云霓孤
+ 光
+DTSTART;TZID=Asia/Shanghai:20260617T110000
+UID:1ee83e5a@hoyo_calendar
+DESCRIPTION:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤
+ 光」代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云
+ 霓孤光
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「『灵魂』画手侧写簿」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260615T035959
-UID:98e1aad3@hoyo_calendar
-DESCRIPTION:活动结束\n「『灵魂』画手侧写簿」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「走近丽都异闻」活动说明
-DTSTART;TZID=Asia/Shanghai:20260529T123000
-UID:8b125e10@hoyo_calendar
-DESCRIPTION:「走近丽都异闻」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「走近丽都异闻」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20260615T035959
-UID:6a93392c@hoyo_calendar
-DESCRIPTION:活动结束\n「走近丽都异闻」活动说明
-LOCATION:绝区零-活动
+SUMMARY:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤光」
+ 代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云霓孤
+ 光结束
+DTSTART;TZID=Asia/Shanghai:20260708T115900
+UID:0d7f1a59@hoyo_calendar
+DESCRIPTION:活动结束\n「凛风吟仪\, 琳琅鎏心\, 光落于指尖
+ \, 云霓孤光」代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅
+ 鎏心\, 云霓孤光
+LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -100,35 +100,19 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
- 」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
- , 辉骑面铠\, 嚣枪喧焰
-DTSTART;TZID=Asia/Shanghai:20260525T120000
-UID:82c319ba@hoyo_calendar
-DESCRIPTION:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪
- 喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼
- 火」\, 辉骑面铠\, 嚣枪喧焰
-LOCATION:绝区零-调频
+SUMMARY:「天枢情报图册」活动说明
+DTSTART;TZID=Asia/Shanghai:20260617T110000
+UID:14503c35@hoyo_calendar
+DESCRIPTION:「天枢情报图册」活动说明
+LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「星徽于此闪耀\, 辉骑面铠\, 孽火两畔\, 嚣枪喧焰
- 」代理人、音擎调频: 星徽·比利\, 奥菲丝&amp\;「鬼火」\
- , 辉骑面铠\, 嚣枪喧焰结束
-DTSTART;TZID=Asia/Shanghai:20260616T145959
-UID:75045a54@hoyo_calendar
-DESCRIPTION:活动结束\n「星徽于此闪耀\, 辉骑面铠\, 孽火两
- 畔\, 嚣枪喧焰」代理人、音擎调频: 星徽·比利\, 奥菲丝&
- amp\;「鬼火」\, 辉骑面铠\, 嚣枪喧焰
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3.0版本「某个梦游者的自白」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260606T193000
-UID:487a6e67@hoyo_calendar
-DESCRIPTION:3.0版本「某个梦游者的自白」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
+SUMMARY:「天枢情报图册」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20260729T055900
+UID:d407e167@hoyo_calendar
+DESCRIPTION:活动结束\n「天枢情报图册」活动说明
+LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
