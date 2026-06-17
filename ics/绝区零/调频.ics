@@ -27,28 +27,4 @@ DESCRIPTION:活动结束\n「凛风吟仪\, 琳琅鎏心\, 光落于指尖
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤光」
- 代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云霓孤
- 光
-DTSTART;TZID=Asia/Shanghai:20260617T110000
-UID:1ee83e5a@hoyo_calendar
-DESCRIPTION:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤
- 光」代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云
- 霓孤光
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤光」
- 代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅鎏心\, 云霓孤
- 光结束
-DTSTART;TZID=Asia/Shanghai:20260708T115900
-UID:0d7f1a59@hoyo_calendar
-DESCRIPTION:活动结束\n「凛风吟仪\, 琳琅鎏心\, 光落于指尖
- \, 云霓孤光」代理人、音擎调频: 维琳娜\, 叶瞬光\, 琳琅
- 鎏心\, 云霓孤光
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
 END:VCALENDAR
