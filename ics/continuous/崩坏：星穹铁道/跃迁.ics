@@ -16,4 +16,17 @@ DESCRIPTION:「我身即刃」「流光定影•灼尽炼狱的新骸\,
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
+ 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
+ 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260714T150000
+UID:f822d080@hoyo_calendar
+DESCRIPTION:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永
+ 劫燔阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃
+ 迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

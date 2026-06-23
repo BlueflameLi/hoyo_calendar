@@ -26,6 +26,19 @@ LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
+ 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
+ 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260714T150000
+UID:f822d080@hoyo_calendar
+DESCRIPTION:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永
+ 劫燔阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃
+ 迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
  运的足迹、星琼、聊天气泡等奖励！
 DTSTART;TZID=Asia/Shanghai:20260601T110000
@@ -42,6 +55,17 @@ DTSTART;TZID=Asia/Shanghai:20260617T040000
 DTEND;TZID=Asia/Shanghai:20260629T035900
 UID:58173f2a@hoyo_calendar
 DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「尘灵游乐园」：布置游乐园，获取自塑尘脂、命
+ 运的足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260715T035900
+UID:36b372f0@hoyo_calendar
+DESCRIPTION:「尘灵游乐园」：布置游乐园，获取自塑尘脂
+ 、命运的足迹、星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
