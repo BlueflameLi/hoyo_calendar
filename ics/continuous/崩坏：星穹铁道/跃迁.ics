@@ -4,19 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「我身即刃」「流光定影•灼尽炼狱的新骸\, 光映
- 千翎」「溯回忆象•当她决定看见」角色、光锥跃迁: 千
- 冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决定看见
-DTSTART;TZID=Asia/Shanghai:20260601T110000
-DTEND;TZID=Asia/Shanghai:20260624T115900
-UID:dc266b43@hoyo_calendar
-DESCRIPTION:「我身即刃」「流光定影•灼尽炼狱的新骸\, 
- 光映千翎」「溯回忆象•当她决定看见」角色、光锥跃
- 迁: 千冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决定看见
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
  阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
  涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧

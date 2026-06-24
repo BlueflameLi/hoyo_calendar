@@ -20,56 +20,6 @@ LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「我身即刃」「流光定影•灼尽炼狱的新骸\, 光映
- 千翎」「溯回忆象•当她决定看见」角色、光锥跃迁: 千
- 冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决定看见
-DTSTART;TZID=Asia/Shanghai:20260601T110000
-UID:dc266b43@hoyo_calendar
-DESCRIPTION:「我身即刃」「流光定影•灼尽炼狱的新骸\, 
- 光映千翎」「溯回忆象•当她决定看见」角色、光锥跃
- 迁: 千冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决定看见
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「我身即刃」「流光定影•灼尽炼狱的新骸\, 光映
- 千翎」「溯回忆象•当她决定看见」角色、光锥跃迁: 千
- 冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决定看见结束
-DTSTART;TZID=Asia/Shanghai:20260624T115900
-UID:961df0c7@hoyo_calendar
-DESCRIPTION:活动结束\n「我身即刃」「流光定影•灼尽炼狱
- 的新骸\, 光映千翎」「溯回忆象•当她决定看见」角色
- 、光锥跃迁: 千冶•刃\, 爻光\, 灼尽炼狱的新骸\, 当她决
- 定看见
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
- 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
- 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
-DTSTART;TZID=Asia/Shanghai:20260624T120000
-UID:f822d080@hoyo_calendar
-DESCRIPTION:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永
- 劫燔阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃
- 迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
- 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
- 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧结束
-DTSTART;TZID=Asia/Shanghai:20260714T150000
-UID:c02ca6c1@hoyo_calendar
-DESCRIPTION:活动结束\n「涟漪回环」「溯回忆象•爱如此刻
- 永恒\, 永劫燔阳」「溯回忆象•黎明恰如此燃烧」角色
- 、光锥跃迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃
- 烧
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
  运的足迹、星琼、聊天气泡等奖励！
 DTSTART;TZID=Asia/Shanghai:20260601T110000
@@ -124,6 +74,31 @@ UID:aa74c41d@hoyo_calendar
 DESCRIPTION:活动结束\n「尘灵游乐园」：布置游乐园，获取
  自塑尘脂、命运的足迹、星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
+ 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
+ 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+UID:f822d080@hoyo_calendar
+DESCRIPTION:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永
+ 劫燔阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃
+ 迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
+ 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
+ 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧结束
+DTSTART;TZID=Asia/Shanghai:20260714T150000
+UID:c02ca6c1@hoyo_calendar
+DESCRIPTION:活动结束\n「涟漪回环」「溯回忆象•爱如此刻
+ 永恒\, 永劫燔阳」「溯回忆象•黎明恰如此燃烧」角色
+ 、光锥跃迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃
+ 烧
+LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
