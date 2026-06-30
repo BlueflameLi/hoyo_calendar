@@ -4,231 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260408T110000
-UID:874f1efc@hoyo_calendar
-DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
- 外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5d4d53d3@hoyo_calendar
-DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260408T110000
-UID:874f1efc@hoyo_calendar
-DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
- 外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5d4d53d3@hoyo_calendar
-DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:2bd1bc4f@hoyo_calendar
-DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
- ，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:36c443bd@hoyo_calendar
-DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
- 魔神任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:2bd1bc4f@hoyo_calendar
-DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
- ，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:36c443bd@hoyo_calendar
-DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
- 魔神任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:2bd1bc4f@hoyo_calendar
-DESCRIPTION:「身土坏空，五蕴识转」时限内完成魔神任务
- ，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「身土坏空，五蕴识转」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:36c443bd@hoyo_calendar
-DESCRIPTION:活动结束\n「身土坏空，五蕴识转」时限内完成
- 魔神任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260518T120000
-UID:c91cfec6@hoyo_calendar
-DESCRIPTION:「胜过白银与精金」世界任务说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明结束
-DTSTART;TZID=Asia/Shanghai:20260701T070000
-UID:79fdd536@hoyo_calendar
-DESCRIPTION:活动结束\n「胜过白银与精金」世界任务说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260518T040000
-UID:ebed4554@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260810T035959
-UID:3a8d4f5f@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260406T120000
-UID:a86e34d2@hoyo_calendar
-DESCRIPTION:「千风凝滞之隙」时限内完成探索任务，可额
- 外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「千风凝滞之隙」时限内完成探索任务，可额外获
- 得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5d4d53d3@hoyo_calendar
-DESCRIPTION:活动结束\n「千风凝滞之隙」时限内完成探索任
- 务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20251020T120000
-UID:75dd543e@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20260812T055900
-UID:d5bcf830@hoyo_calendar
-DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
- 自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20260527T100000
-UID:4f6efd28@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20260630T035959
-UID:650b2f76@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「狡兔之章」时限内完成传说任务，可额外获得原
- 石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260609T180000
-UID:557953a0@hoyo_calendar
-DESCRIPTION:「狡兔之章」时限内完成传说任务，可额外获
- 得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「狡兔之章」时限内完成传说任务，可额外获得原
- 石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:8066dc0c@hoyo_calendar
-DESCRIPTION:活动结束\n「狡兔之章」时限内完成传说任务，
- 可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「斑斓色彩追逐战」活动：收集颜料挑战
-DTSTART;TZID=Asia/Shanghai:20260618T100000
-UID:358df401@hoyo_calendar
-DESCRIPTION:「斑斓色彩追逐战」活动：收集颜料挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「斑斓色彩追逐战」活动：收集颜料挑战结束
-DTSTART;TZID=Asia/Shanghai:20260629T035959
-UID:96a954b4@hoyo_calendar
-DESCRIPTION:活动结束\n「斑斓色彩追逐战」活动：收集颜料
- 挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:空月之歌·行律前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20260508T200000
 UID:cf77a279@hoyo_calendar
@@ -265,51 +40,197 @@ LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「霜锋夜白」角色祈愿: 洛恩
-DTSTART;TZID=Asia/Shanghai:20260609T180000
-UID:ae1a10b1@hoyo_calendar
-DESCRIPTION:「霜锋夜白」角色祈愿: 洛恩
+SUMMARY:「胜过白银与精金」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260518T120000
+UID:c91cfec6@hoyo_calendar
+DESCRIPTION:「胜过白银与精金」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「胜过白银与精金」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20260701T070000
+UID:79fdd536@hoyo_calendar
+DESCRIPTION:活动结束\n「胜过白银与精金」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260518T040000
+UID:ebed4554@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20260810T035959
+UID:3a8d4f5f@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20251020T120000
+UID:75dd543e@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20260812T055900
+UID:d5bcf830@hoyo_calendar
+DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
+ 自选邀约「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「魔女的谕示」玩法说明
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+UID:6efdc2c7@hoyo_calendar
+DESCRIPTION:「魔女的谕示」玩法说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「魔女的谕示」玩法说明结束
+DTSTART;TZID=Asia/Shanghai:20260812T070000
+UID:37e9c3e6@hoyo_calendar
+DESCRIPTION:活动结束\n「魔女的谕示」玩法说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+UID:9deaf5ad@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20260923T070000
+UID:5c7dfd59@hoyo_calendar
+DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
+ 自选邀约「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
+ 衣装、邀请「朗镜索真·夏洛蒂(冰)」
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:b4931b24@hoyo_calendar
+DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
+ 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
+ 衣装、邀请「朗镜索真·夏洛蒂(冰)」结束
+DTSTART;TZID=Asia/Shanghai:20260811T035959
+UID:1b077721@hoyo_calendar
+DESCRIPTION:活动结束\n「映夏！归乡？千灵节！」活动：参
+ 与获取夏洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:c20f08ad@hoyo_calendar
+DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
+ 外获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20260922T145959
+UID:045caf0a@hoyo_calendar
+DESCRIPTION:活动结束\n「当我们抬头望月亮」时限内完成探
+ 索任务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:e2c2a08f@hoyo_calendar
+DESCRIPTION:「镜中的茶宴」角色祈愿: 桑多涅
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「霜锋夜白」角色祈愿: 洛恩结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:c7bdeb77@hoyo_calendar
-DESCRIPTION:活动结束\n「霜锋夜白」角色祈愿: 洛恩
+SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅结束
+DTSTART;TZID=Asia/Shanghai:20260721T175900
+UID:96974e94@hoyo_calendar
+DESCRIPTION:活动结束\n「镜中的茶宴」角色祈愿: 桑多涅
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「宿古的赫炎」角色祈愿: 玛薇卡
-DTSTART;TZID=Asia/Shanghai:20260609T180000
-UID:4e477a85@hoyo_calendar
-DESCRIPTION:「宿古的赫炎」角色祈愿: 玛薇卡
+SUMMARY:「星边夜语」角色祈愿: 茜特菈莉
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:b7c522aa@hoyo_calendar
+DESCRIPTION:「星边夜语」角色祈愿: 茜特菈莉
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「宿古的赫炎」角色祈愿: 玛薇卡结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:1b51c6ff@hoyo_calendar
-DESCRIPTION:活动结束\n「宿古的赫炎」角色祈愿: 玛薇卡
+SUMMARY:「星边夜语」角色祈愿: 茜特菈莉结束
+DTSTART;TZID=Asia/Shanghai:20260721T175900
+UID:fd70ed01@hoyo_calendar
+DESCRIPTION:活动结束\n「星边夜语」角色祈愿: 茜特菈莉
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳
-DTSTART;TZID=Asia/Shanghai:20260609T180000
-UID:73a56eb6@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳
+SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:114dbdc7@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 灾悔\, 焚曜千阳结束
-DTSTART;TZID=Asia/Shanghai:20260630T145959
-UID:5c1a7dce@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 灾悔\, 焚曜
- 千阳
+SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260721T175900
+UID:ef54fe42@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 超越之匙\, 
+ 祭星者之望
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:745db68d@hoyo_calendar
+DESCRIPTION:「辉天的星告」祈愿：溯光祈愿开启！
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！结束
+DTSTART;TZID=Asia/Shanghai:20260721T175900
+UID:2842b80d@hoyo_calendar
+DESCRIPTION:活动结束\n「辉天的星告」祈愿：溯光祈愿开启
+ ！
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
