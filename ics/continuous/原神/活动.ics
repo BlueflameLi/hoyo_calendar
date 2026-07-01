@@ -4,51 +4,24 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260518T120000
-DTEND;TZID=Asia/Shanghai:20260701T070000
-UID:c91cfec6@hoyo_calendar
-DESCRIPTION:「胜过白银与精金」世界任务说明
+SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
+ 衣装、邀请「朗镜索真·夏洛蒂(冰)」
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260811T035959
+UID:b4931b24@hoyo_calendar
+DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
+ 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260518T040000
-DTEND;TZID=Asia/Shanghai:20260810T035959
-UID:ebed4554@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20251020T120000
-DTEND;TZID=Asia/Shanghai:20260812T055900
-UID:75dd543e@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「魔女的谕示」玩法说明
-DTSTART;TZID=Asia/Shanghai:20260629T120000
-DTEND;TZID=Asia/Shanghai:20260812T070000
-UID:6efdc2c7@hoyo_calendar
-DESCRIPTION:「魔女的谕示」玩法说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20260629T120000
-DTEND;TZID=Asia/Shanghai:20260923T070000
-UID:9deaf5ad@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
+SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260922T145959
+UID:c20f08ad@hoyo_calendar
+DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
+ 可额外获得原石*400奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -71,6 +44,35 @@ DTEND;TZID=Asia/Shanghai:20260922T145959
 UID:c20f08ad@hoyo_calendar
 DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
  可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「魔女的谕示」玩法说明
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+UID:6efdc2c7@hoyo_calendar
+DESCRIPTION:「魔女的谕示」玩法说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260518T040000
+DTEND;TZID=Asia/Shanghai:20260810T035959
+UID:ebed4554@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+DTEND;TZID=Asia/Shanghai:20260923T070000
+UID:9deaf5ad@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -4,22 +4,22 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
- 」版本
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-UID:cb8d7bbb@hoyo_calendar
-DESCRIPTION:月之七版本「『空月之歌·行律』虚空劫灰往世
- 书」版本
+SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
+ 灵节！」版本
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+UID:a1a82822@hoyo_calendar
+DESCRIPTION:月之八版本「『空月之歌·谐谑』映夏！归乡？
+ 千灵节！」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
- 」版本结束
-DTSTART;TZID=Asia/Shanghai:20260701T060000
-UID:8a0b05d5@hoyo_calendar
-DESCRIPTION:活动结束\n月之七版本「『空月之歌·行律』虚
- 空劫灰往世书」版本
+SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
+ 灵节！」版本结束
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+UID:1e5450ee@hoyo_calendar
+DESCRIPTION:活动结束\n月之八版本「『空月之歌·谐谑』映
+ 夏！归乡？千灵节！」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -4,101 +4,11 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:空月之歌·行律前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260508T200000
-UID:cf77a279@hoyo_calendar
-DESCRIPTION:空月之歌·行律前瞻特别节目
-LOCATION:原神-前瞻特别节目
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:空月之歌·谐谑前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20260618T200000
 UID:7860a118@hoyo_calendar
 DESCRIPTION:空月之歌·谐谑前瞻特别节目
 LOCATION:原神-前瞻特别节目
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:月之七版本「『空月之歌·行律』虚空劫灰往世书
- 」版本
-DTSTART;TZID=Asia/Shanghai:20260520T110000
-DTEND;TZID=Asia/Shanghai:20260701T060000
-UID:cb8d7bbb@hoyo_calendar
-DESCRIPTION:月之七版本「『空月之歌·行律』虚空劫灰往世
- 书」版本
-LOCATION:原神-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「胜过白银与精金」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260518T120000
-DTEND;TZID=Asia/Shanghai:20260701T070000
-UID:c91cfec6@hoyo_calendar
-DESCRIPTION:「胜过白银与精金」世界任务说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260518T040000
-DTEND;TZID=Asia/Shanghai:20260810T035959
-UID:ebed4554@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20251020T120000
-DTEND;TZID=Asia/Shanghai:20260812T055900
-UID:75dd543e@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「魔女的谕示」玩法说明
-DTSTART;TZID=Asia/Shanghai:20260629T120000
-DTEND;TZID=Asia/Shanghai:20260812T070000
-UID:6efdc2c7@hoyo_calendar
-DESCRIPTION:「魔女的谕示」玩法说明
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20260629T120000
-DTEND;TZID=Asia/Shanghai:20260923T070000
-UID:9deaf5ad@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
- 衣装、邀请「朗镜索真·夏洛蒂(冰)」
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-DTEND;TZID=Asia/Shanghai:20260811T035959
-UID:b4931b24@hoyo_calendar
-DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
- 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-DTEND;TZID=Asia/Shanghai:20260922T145959
-UID:c20f08ad@hoyo_calendar
-DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
- 可额外获得原石*400奖励
-LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -135,6 +45,126 @@ DTEND;TZID=Asia/Shanghai:20260721T175900
 UID:745db68d@hoyo_calendar
 DESCRIPTION:「辉天的星告」祈愿：溯光祈愿开启！
 LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260721T175900
+UID:e2c2a08f@hoyo_calendar
+DESCRIPTION:「镜中的茶宴」角色祈愿: 桑多涅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星边夜语」角色祈愿: 茜特菈莉
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260721T175900
+UID:b7c522aa@hoyo_calendar
+DESCRIPTION:「星边夜语」角色祈愿: 茜特菈莉
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260721T175900
+UID:114dbdc7@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260721T175900
+UID:745db68d@hoyo_calendar
+DESCRIPTION:「辉天的星告」祈愿：溯光祈愿开启！
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
+ 衣装、邀请「朗镜索真·夏洛蒂(冰)」
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260811T035959
+UID:b4931b24@hoyo_calendar
+DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
+ 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260922T145959
+UID:c20f08ad@hoyo_calendar
+DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
+ 衣装、邀请「朗镜索真·夏洛蒂(冰)」
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260811T035959
+UID:b4931b24@hoyo_calendar
+DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
+ 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260922T145959
+UID:c20f08ad@hoyo_calendar
+DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「魔女的谕示」玩法说明
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+DTEND;TZID=Asia/Shanghai:20260812T070000
+UID:6efdc2c7@hoyo_calendar
+DESCRIPTION:「魔女的谕示」玩法说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260518T040000
+DTEND;TZID=Asia/Shanghai:20260810T035959
+UID:ebed4554@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+DTEND;TZID=Asia/Shanghai:20260923T070000
+UID:9deaf5ad@hoyo_calendar
+DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
+ 灵节！」版本
+DTSTART;TZID=Asia/Shanghai:20260701T110000
+DTEND;TZID=Asia/Shanghai:20260812T060000
+UID:a1a82822@hoyo_calendar
+DESCRIPTION:月之八版本「『空月之歌·谐谑』映夏！归乡？
+ 千灵节！」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
