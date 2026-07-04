@@ -48,6 +48,19 @@ LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
+ \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
+ 没有回报的加冕\, 理想燃烧的地狱
+DTSTART;TZID=Asia/Shanghai:20260703T205500
+DTEND;TZID=Asia/Shanghai:20360703T000000
+UID:a7ef3569@hoyo_calendar
+DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
+ 坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
+ 我\, 没有回报的加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:4.4版本「鸣笛于归寂之时」前瞻特别节目
 DTSTART;TZID=Asia/Shanghai:20260703T193000
 UID:0277c0f7@hoyo_calendar
