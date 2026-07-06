@@ -16,4 +16,16 @@ DESCRIPTION:「凛风吟仪\, 琳琅鎏心\, 光落于指尖\, 云霓孤
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「天才不等式\, 首席跟班\, 四三拍谬想\, 思络成歌
+ 」代理人、音擎调频: 诺姆\, 千夏\, 首席跟班\, 思络成歌
+DTSTART;TZID=Asia/Shanghai:20260706T123000
+DTEND;TZID=Asia/Shanghai:20260728T145959
+UID:992487f1@hoyo_calendar
+DESCRIPTION:「天才不等式\, 首席跟班\, 四三拍谬想\, 思络
+ 成歌」代理人、音擎调频: 诺姆\, 千夏\, 首席跟班\, 思络
+ 成歌
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
