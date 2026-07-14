@@ -35,16 +35,14 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永劫燔
- 阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃迁: 昔
- 涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
-DTSTART;TZID=Asia/Shanghai:20260624T120000
-DTEND;TZID=Asia/Shanghai:20260714T150000
-UID:f822d080@hoyo_calendar
-DESCRIPTION:「涟漪回环」「溯回忆象•爱如此刻永恒\, 永
- 劫燔阳」「溯回忆象•黎明恰如此燃烧」角色、光锥跃
- 迁: 昔涟\, 白厄\, 爱如此刻永恒\, 黎明恰如此燃烧
-LOCATION:崩坏：星穹铁道-跃迁
+SUMMARY:「反贪『砖』家」：完成骇入行动，获取自塑尘脂
+ 、命运的足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260715T110000
+DTEND;TZID=Asia/Shanghai:20260826T035900
+UID:7edb55a3@hoyo_calendar
+DESCRIPTION:「反贪『砖』家」：完成骇入行动，获取自塑
+ 尘脂、命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -61,11 +59,24 @@ LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4.4版本「鸣笛于归寂之时」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20260703T193000
-UID:0277c0f7@hoyo_calendar
-DESCRIPTION:4.4版本「鸣笛于归寂之时」前瞻特别节目
-LOCATION:崩坏：星穹铁道-前瞻特别节目
+SUMMARY:「拓星启明」「流光定影•当一颗星照亮夜空\, 铭
+ 心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心之
+ 萃•丹恒•腾荒」「真意之汇•纵然山河万程\, 铭心之
+ 萃•长夜月」「真意之汇•致长夜的星光」角色、光锥
+ 跃迁: 姬子•启行\, 火花\, 丹恒•腾荒\, 长夜月\, 当一颗
+ 星照亮夜空\, 花花世界迷人眼\, 纵然山河万程\, 致长夜
+ 的星光
+DTSTART;TZID=Asia/Shanghai:20260714T110000
+DTEND;TZID=Asia/Shanghai:20260805T115900
+UID:d298837a@hoyo_calendar
+DESCRIPTION:「拓星启明」「流光定影•当一颗星照亮夜空\,
+  铭心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心
+ 之萃•丹恒•腾荒」「真意之汇•纵然山河万程\, 铭心
+ 之萃•长夜月」「真意之汇•致长夜的星光」角色、光
+ 锥跃迁: 姬子•启行\, 火花\, 丹恒•腾荒\, 长夜月\, 当一
+ 颗星照亮夜空\, 花花世界迷人眼\, 纵然山河万程\, 致长
+ 夜的星光
+LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
