@@ -4,34 +4,12 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:4.3版本「沉于生者的忘川」版本
-DTSTART;TZID=Asia/Shanghai:20260601T110000
-DTEND;TZID=Asia/Shanghai:20260715T060000
-UID:bff30444@hoyo_calendar
-DESCRIPTION:4.3版本「沉于生者的忘川」版本
+SUMMARY:4.4版本「鸣笛于归寂之时」版本
+DTSTART;TZID=Asia/Shanghai:20260715T110000
+DTEND;TZID=Asia/Shanghai:20260826T060000
+UID:35a75c72@hoyo_calendar
+DESCRIPTION:4.4版本「鸣笛于归寂之时」版本
 LOCATION:崩坏：星穹铁道-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「像素飞机大乱斗」：定制你的最强战机，获取命
- 运的足迹、星琼、聊天气泡等奖励！
-DTSTART;TZID=Asia/Shanghai:20260601T110000
-DTEND;TZID=Asia/Shanghai:20260715T035900
-UID:351fc0de@hoyo_calendar
-DESCRIPTION:「像素飞机大乱斗」：定制你的最强战机，获
- 取命运的足迹、星琼、聊天气泡等奖励！
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「尘灵游乐园」：布置游乐园，获取自塑尘脂、命
- 运的足迹、星琼等奖励！
-DTSTART;TZID=Asia/Shanghai:20260624T120000
-DTEND;TZID=Asia/Shanghai:20260715T035900
-UID:36b372f0@hoyo_calendar
-DESCRIPTION:「尘灵游乐园」：布置游乐园，获取自塑尘脂
- 、命运的足迹、星琼等奖励！
-LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -43,19 +21,6 @@ UID:7edb55a3@hoyo_calendar
 DESCRIPTION:「反贪『砖』家」：完成骇入行动，获取自塑
  尘脂、命运的足迹、星琼等奖励！
 LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
- \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
- 没有回报的加冕\, 理想燃烧的地狱
-DTSTART;TZID=Asia/Shanghai:20260703T205500
-DTEND;TZID=Asia/Shanghai:20360703T000000
-UID:a7ef3569@hoyo_calendar
-DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
- 坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
- 我\, 没有回报的加冕\, 理想燃烧的地狱
-LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -76,6 +41,19 @@ DESCRIPTION:「拓星启明」「流光定影•当一颗星照亮夜空\,
  锥跃迁: 姬子•启行\, 火花\, 丹恒•腾荒\, 长夜月\, 当一
  颗星照亮夜空\, 花花世界迷人眼\, 纵然山河万程\, 致长
  夜的星光
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
+ \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
+ 没有回报的加冕\, 理想燃烧的地狱
+DTSTART;TZID=Asia/Shanghai:20260703T205500
+DTEND;TZID=Asia/Shanghai:20360703T000000
+UID:a7ef3569@hoyo_calendar
+DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
+ 坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
+ 我\, 没有回报的加冕\, 理想燃烧的地狱
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
