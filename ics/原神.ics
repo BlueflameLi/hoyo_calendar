@@ -12,190 +12,6 @@ LOCATION:原神-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:e2c2a08f@hoyo_calendar
-DESCRIPTION:「镜中的茶宴」角色祈愿: 桑多涅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:96974e94@hoyo_calendar
-DESCRIPTION:活动结束\n「镜中的茶宴」角色祈愿: 桑多涅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「星边夜语」角色祈愿: 茜特菈莉
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:b7c522aa@hoyo_calendar
-DESCRIPTION:「星边夜语」角色祈愿: 茜特菈莉
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「星边夜语」角色祈愿: 茜特菈莉结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:fd70ed01@hoyo_calendar
-DESCRIPTION:活动结束\n「星边夜语」角色祈愿: 茜特菈莉
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:114dbdc7@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望结
- 束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:ef54fe42@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 超越之匙\, 
- 祭星者之望
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:745db68d@hoyo_calendar
-DESCRIPTION:「辉天的星告」祈愿：溯光祈愿开启！
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:2842b80d@hoyo_calendar
-DESCRIPTION:活动结束\n「辉天的星告」祈愿：溯光祈愿开启
- ！
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:e2c2a08f@hoyo_calendar
-DESCRIPTION:「镜中的茶宴」角色祈愿: 桑多涅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「镜中的茶宴」角色祈愿: 桑多涅结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:96974e94@hoyo_calendar
-DESCRIPTION:活动结束\n「镜中的茶宴」角色祈愿: 桑多涅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「星边夜语」角色祈愿: 茜特菈莉
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:b7c522aa@hoyo_calendar
-DESCRIPTION:「星边夜语」角色祈愿: 茜特菈莉
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「星边夜语」角色祈愿: 茜特菈莉结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:fd70ed01@hoyo_calendar
-DESCRIPTION:活动结束\n「星边夜语」角色祈愿: 茜特菈莉
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:114dbdc7@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 超越之匙\, 祭星者之望结
- 束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:ef54fe42@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 超越之匙\, 
- 祭星者之望
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:745db68d@hoyo_calendar
-DESCRIPTION:「辉天的星告」祈愿：溯光祈愿开启！
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「辉天的星告」祈愿：溯光祈愿开启！结束
-DTSTART;TZID=Asia/Shanghai:20260721T175900
-UID:2842b80d@hoyo_calendar
-DESCRIPTION:活动结束\n「辉天的星告」祈愿：溯光祈愿开启
- ！
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅
-DTSTART;TZID=Asia/Shanghai:20260721T180000
-UID:bd237aa1@hoyo_calendar
-DESCRIPTION:「伴月同眠」角色祈愿: 哥伦比娅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅结束
-DTSTART;TZID=Asia/Shanghai:20260811T145959
-UID:b92f7d9d@hoyo_calendar
-DESCRIPTION:活动结束\n「伴月同眠」角色祈愿: 哥伦比娅
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「影寂天下人」角色祈愿: 雷电将军
-DTSTART;TZID=Asia/Shanghai:20260721T180000
-UID:91fb59ad@hoyo_calendar
-DESCRIPTION:「影寂天下人」角色祈愿: 雷电将军
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「影寂天下人」角色祈愿: 雷电将军结束
-DTSTART;TZID=Asia/Shanghai:20260811T145959
-UID:9a3bc6c0@hoyo_calendar
-DESCRIPTION:活动结束\n「影寂天下人」角色祈愿: 雷电将军
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光
-DTSTART;TZID=Asia/Shanghai:20260721T180000
-UID:443df263@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光结
- 束
-DTSTART;TZID=Asia/Shanghai:20260811T145959
-UID:6e4a5182@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 帷间夜曲\, 
- 薙草之稻光
-LOCATION:原神-祈愿
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
  衣装、邀请「朗镜索真·夏洛蒂(冰)」
 DTSTART;TZID=Asia/Shanghai:20260701T110000
@@ -361,6 +177,23 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「悠悠律动舞力聚会」活动：共舞挑战
+DTSTART;TZID=Asia/Shanghai:20260724T100000
+UID:0eec025f@hoyo_calendar
+DESCRIPTION:「悠悠律动舞力聚会」活动：共舞挑战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「悠悠律动舞力聚会」活动：共舞挑战结束
+DTSTART;TZID=Asia/Shanghai:20260803T035959
+UID:5a0f2f75@hoyo_calendar
+DESCRIPTION:活动结束\n「悠悠律动舞力聚会」活动：共舞挑
+ 战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
  灵节！」版本
 DTSTART;TZID=Asia/Shanghai:20260701T110000
@@ -378,6 +211,56 @@ UID:1e5450ee@hoyo_calendar
 DESCRIPTION:活动结束\n月之八版本「『空月之歌·谐谑』映
  夏！归乡？千灵节！」版本
 LOCATION:原神-版本更新
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅
+DTSTART;TZID=Asia/Shanghai:20260721T180000
+UID:bd237aa1@hoyo_calendar
+DESCRIPTION:「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「伴月同眠」角色祈愿: 哥伦比娅结束
+DTSTART;TZID=Asia/Shanghai:20260811T145959
+UID:b92f7d9d@hoyo_calendar
+DESCRIPTION:活动结束\n「伴月同眠」角色祈愿: 哥伦比娅
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「影寂天下人」角色祈愿: 雷电将军
+DTSTART;TZID=Asia/Shanghai:20260721T180000
+UID:91fb59ad@hoyo_calendar
+DESCRIPTION:「影寂天下人」角色祈愿: 雷电将军
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「影寂天下人」角色祈愿: 雷电将军结束
+DTSTART;TZID=Asia/Shanghai:20260811T145959
+UID:9a3bc6c0@hoyo_calendar
+DESCRIPTION:活动结束\n「影寂天下人」角色祈愿: 雷电将军
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光
+DTSTART;TZID=Asia/Shanghai:20260721T180000
+UID:443df263@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 帷间夜曲\, 薙草之稻光结
+ 束
+DTSTART;TZID=Asia/Shanghai:20260811T145959
+UID:6e4a5182@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 帷间夜曲\, 
+ 薙草之稻光
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
