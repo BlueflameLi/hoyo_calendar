@@ -23,4 +23,21 @@ DESCRIPTION:活动结束\n「反贪『砖』家」：完成骇入行动，
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20260727T040000
+UID:1c6380ae@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20260810T035900
+UID:bf13c078@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
+ 倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

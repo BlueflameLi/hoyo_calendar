@@ -40,6 +40,23 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20260727T040000
+UID:1c6380ae@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20260810T035900
+UID:bf13c078@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
+ 倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「拓星启明」「流光定影•当一颗星照亮夜空\, 铭
  心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心之
  萃•丹恒•腾荒」「真意之汇•纵然山河万程\, 铭心之
