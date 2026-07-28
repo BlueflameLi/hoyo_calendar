@@ -31,41 +31,68 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「集结！模考逆袭计划」活动说明
-DTSTART;TZID=Asia/Shanghai:20260624T120000
-DTEND;TZID=Asia/Shanghai:20260727T035900
-UID:725ae661@hoyo_calendar
-DESCRIPTION:「集结！模考逆袭计划」活动说明
+SUMMARY:「潜能预演·狩猎游戏」活动说明
+DTSTART;TZID=Asia/Shanghai:20260729T110000
+DTEND;TZID=Asia/Shanghai:20260909T060000
+UID:03c4e796@hoyo_calendar
+DESCRIPTION:「潜能预演·狩猎游戏」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「艺术就是邦布！」活动说明
-DTSTART;TZID=Asia/Shanghai:20260706T181500
-DTEND;TZID=Asia/Shanghai:20260727T035959
-UID:b49c6fca@hoyo_calendar
-DESCRIPTION:「艺术就是邦布！」活动说明
+SUMMARY:「玛瑟尔周年馈礼」活动说明
+DTSTART;TZID=Asia/Shanghai:20260729T110000
+DTEND;TZID=Asia/Shanghai:20260909T060000
+UID:c3430352@hoyo_calendar
+DESCRIPTION:「玛瑟尔周年馈礼」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「数据悬赏-实战模拟」活动说明
-DTSTART;TZID=Asia/Shanghai:20260720T120000
-DTEND;TZID=Asia/Shanghai:20260727T035959
-UID:78121d43@hoyo_calendar
-DESCRIPTION:「数据悬赏-实战模拟」活动说明
+SUMMARY:「点映返礼」活动说明
+DTSTART;TZID=Asia/Shanghai:20260729T110000
+DTEND;TZID=Asia/Shanghai:20260909T060000
+UID:3862d394@hoyo_calendar
+DESCRIPTION:「点映返礼」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「天才不等式\, 首席跟班\, 四三拍谬想\, 思络成歌
- 」代理人、音擎调频: 诺姆\, 千夏\, 首席跟班\, 思络成歌
-DTSTART;TZID=Asia/Shanghai:20260706T123000
-DTEND;TZID=Asia/Shanghai:20260728T145959
-UID:992487f1@hoyo_calendar
-DESCRIPTION:「天才不等式\, 首席跟班\, 四三拍谬想\, 思络
- 成歌」代理人、音擎调频: 诺姆\, 千夏\, 首席跟班\, 思络
- 成歌
+SUMMARY:「复乐园\, 空羽复归之诗\,  霓色天使\, 壳中之灵
+ 」代理人、音擎调频: 蕾米埃尔\, 爱芮\, S信号定制]功能
+ 允许绳匠自定义6名S级代理人/音擎作为定制代理人/音擎
+ ，并继承独家频段中非本期限定S级代理人/音擎的数据和
+ 概率机制。若调频获取的S级信号非本期限定S级代理人/
+ 音擎，则必定获得自定义的6名S级代理人/音擎之一。</p><
+ p style="white-space: pre-wrap\;">※ 在独家频段和音擎频段中，
+ [A概率提升]功能允许绳匠自定义2名A级代理人/音擎作为
+ 本期A级概率提升代理人/音擎，并继承之前A级概率提升
+ 代理人/音擎的数据和概率机制。如果绳匠未自定义，本
+ 期独家频段和音擎频段默认A级代理人/音擎将作为本期A
+ 级概率提升代理人/音擎。</p><p style="white-space: pre-wrap\;">
+ ※ 更多调频信息可点击调频界面左下角「详情」按钮查
+ 看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
+ yle="white-space: pre-wrap\;"><span style="color: rgb\, 空羽复归之诗
+ \, 壳中之灵
+DTSTART;TZID=Asia/Shanghai:20260729T110000
+DTEND;TZID=Asia/Shanghai:20260908T145959
+UID:df49514f@hoyo_calendar
+DESCRIPTION:「复乐园\, 空羽复归之诗\,  霓色天使\, 壳中之
+ 灵」代理人、音擎调频: 蕾米埃尔\, 爱芮\, S信号定制]功
+ 能允许绳匠自定义6名S级代理人/音擎作为定制代理人/音
+ 擎，并继承独家频段中非本期限定S级代理人/音擎的数据
+ 和概率机制。若调频获取的S级信号非本期限定S级代理人
+ /音擎，则必定获得自定义的6名S级代理人/音擎之一。</p>
+ <p style="white-space: pre-wrap\;">※ 在独家频段和音擎频段中
+ ，[A概率提升]功能允许绳匠自定义2名A级代理人/音擎作
+ 为本期A级概率提升代理人/音擎，并继承之前A级概率提
+ 升代理人/音擎的数据和概率机制。如果绳匠未自定义，
+ 本期独家频段和音擎频段默认A级代理人/音擎将作为本期
+ A级概率提升代理人/音擎。</p><p style="white-space: pre-wrap\;">
+ ※ 更多调频信息可点击调频界面左下角「详情」按钮查
+ 看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
+ yle="white-space: pre-wrap\;"><span style="color: rgb\, 空羽复归之诗
+ \, 壳中之灵
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
