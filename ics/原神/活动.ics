@@ -44,46 +44,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
- 衣装、邀请「朗镜索真·夏洛蒂(冰)」
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:b4931b24@hoyo_calendar
-DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
- 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
- 衣装、邀请「朗镜索真·夏洛蒂(冰)」结束
-DTSTART;TZID=Asia/Shanghai:20260811T035959
-UID:1b077721@hoyo_calendar
-DESCRIPTION:活动结束\n「映夏！归乡？千灵节！」活动：参
- 与获取夏洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:c20f08ad@hoyo_calendar
-DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
- 可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
- 外获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260922T145959
-UID:045caf0a@hoyo_calendar
-DESCRIPTION:活动结束\n「当我们抬头望月亮」时限内完成探
- 索任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「魔女的谕示」玩法说明
 DTSTART;TZID=Asia/Shanghai:20260629T120000
 UID:6efdc2c7@hoyo_calendar
@@ -165,6 +125,26 @@ DTSTART;TZID=Asia/Shanghai:20260803T035959
 UID:5a0f2f75@hoyo_calendar
 DESCRIPTION:活动结束\n「悠悠律动舞力聚会」活动：共舞挑
  战
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！
+DTSTART;TZID=Asia/Shanghai:20260803T040000
+UID:7f54a064@hoyo_calendar
+DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
+ 」双倍掉落！
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
+ 倍掉落！结束
+DTSTART;TZID=Asia/Shanghai:20260810T035959
+UID:aef561a0@hoyo_calendar
+DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
+ 启示之花」双倍掉落！
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
