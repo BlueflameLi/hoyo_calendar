@@ -60,22 +60,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260518T040000
-UID:ebed4554@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20260810T035959
-UID:3a8d4f5f@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
  行世间」常驻祈愿5星角色
 DTSTART;TZID=Asia/Shanghai:20260629T120000
@@ -112,22 +96,75 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
- 倍掉落！
-DTSTART;TZID=Asia/Shanghai:20260803T040000
-UID:7f54a064@hoyo_calendar
-DESCRIPTION:「地脉移涌」活动：「藏金之花」「启示之花
- 」双倍掉落！
+SUMMARY:「无神怜爱的雪国」时限内完成魔神任务，可额外
+ 获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260810T120000
+UID:f125b830@hoyo_calendar
+DESCRIPTION:「无神怜爱的雪国」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「地脉移涌」活动：「藏金之花」「启示之花」双
- 倍掉落！结束
-DTSTART;TZID=Asia/Shanghai:20260810T035959
-UID:aef561a0@hoyo_calendar
-DESCRIPTION:活动结束\n「地脉移涌」活动：「藏金之花」「
- 启示之花」双倍掉落！
+SUMMARY:「无神怜爱的雪国」时限内完成魔神任务，可额外
+ 获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20260922T145959
+UID:8b5a16c2@hoyo_calendar
+DESCRIPTION:活动结束\n「无神怜爱的雪国」时限内完成魔神
+ 任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
+ 获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260810T120000
+UID:f260a626@hoyo_calendar
+DESCRIPTION:「无神怜爱的冻土」时限内完成探索任务，可
+ 额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
+ 获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20261103T145959
+UID:5f2b2815@hoyo_calendar
+DESCRIPTION:活动结束\n「无神怜爱的冻土」时限内完成探索
+ 任务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「新芽相助·初探雪原」活动：至冬探索行动
+DTSTART;TZID=Asia/Shanghai:20260810T120000
+UID:0f7390e1@hoyo_calendar
+DESCRIPTION:「新芽相助·初探雪原」活动：至冬探索行动
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「新芽相助·初探雪原」活动：至冬探索行动结束
+DTSTART;TZID=Asia/Shanghai:20260824T035959
+UID:2b3024fb@hoyo_calendar
+DESCRIPTION:活动结束\n「新芽相助·初探雪原」活动：至冬
+ 探索行动
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260810T040000
+UID:bf1665de@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20261102T035900
+UID:e1c7e7dd@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

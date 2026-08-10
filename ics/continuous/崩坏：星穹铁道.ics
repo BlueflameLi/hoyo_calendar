@@ -24,36 +24,6 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20260727T040000
-DTEND;TZID=Asia/Shanghai:20260810T035900
-UID:1c6380ae@hoyo_calendar
-DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「拓星启明」「流光定影•当一颗星照亮夜空\, 铭
- 心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心之
- 萃•丹恒•腾荒」「真意之汇•纵然山河万程\, 铭心之
- 萃•长夜月」「真意之汇•致长夜的星光」角色、光锥
- 跃迁: 姬子•启行\, 火花\, 丹恒•腾荒\, 长夜月\, 当一颗
- 星照亮夜空\, 花花世界迷人眼\, 纵然山河万程\, 致长夜
- 的星光
-DTSTART;TZID=Asia/Shanghai:20260714T110000
-DTEND;TZID=Asia/Shanghai:20260805T115900
-UID:d298837a@hoyo_calendar
-DESCRIPTION:「拓星启明」「流光定影•当一颗星照亮夜空\,
-  铭心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心
- 之萃•丹恒•腾荒」「真意之汇•纵然山河万程\, 铭心
- 之萃•长夜月」「真意之汇•致长夜的星光」角色、光
- 锥跃迁: 姬子•启行\, 火花\, 丹恒•腾荒\, 长夜月\, 当一
- 颗星照亮夜空\, 花花世界迷人眼\, 纵然山河万程\, 致长
- 夜的星光
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
  \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
  没有回报的加冕\, 理想燃烧的地狱
@@ -63,6 +33,27 @@ UID:a7ef3569@hoyo_calendar
 DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
  坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
  我\, 没有回报的加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「拓星启明」「流光定影•当一颗星照亮夜空\, 铭
+ 心之萃•刻律德菈」「真意之汇•金血铭刻的时代\, 铭
+ 心之萃•那刻夏」「真意之汇•生命当付之一炬\, 铭心
+ 之萃•砂金」「真意之汇•命运从未公平」角色、光锥
+ 跃迁: 姬子•启行\, 刻律德菈\, 那刻夏\, 砂金\, 当一颗星
+ 照亮夜空\, 金血铭刻的时代\, 生命当付之一炬\, 命运从
+ 未公平
+DTSTART;TZID=Asia/Shanghai:20260804T120000
+DTEND;TZID=Asia/Shanghai:20260825T150000
+UID:3c2f2435@hoyo_calendar
+DESCRIPTION:「拓星启明」「流光定影•当一颗星照亮夜空\,
+  铭心之萃•刻律德菈」「真意之汇•金血铭刻的时代\, 
+ 铭心之萃•那刻夏」「真意之汇•生命当付之一炬\, 铭
+ 心之萃•砂金」「真意之汇•命运从未公平」角色、光
+ 锥跃迁: 姬子•启行\, 刻律德菈\, 那刻夏\, 砂金\, 当一颗
+ 星照亮夜空\, 金血铭刻的时代\, 生命当付之一炬\, 命运
+ 从未公平
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
