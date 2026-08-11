@@ -24,26 +24,6 @@ LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
- 衣装、邀请「朗镜索真·夏洛蒂(冰)」
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:b4931b24@hoyo_calendar
-DESCRIPTION:「映夏！归乡？千灵节！」活动：参与获取夏
- 洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「映夏！归乡？千灵节！」活动：参与获取夏洛蒂
- 衣装、邀请「朗镜索真·夏洛蒂(冰)」结束
-DTSTART;TZID=Asia/Shanghai:20260811T035959
-UID:1b077721@hoyo_calendar
-DESCRIPTION:活动结束\n「映夏！归乡？千灵节！」活动：参
- 与获取夏洛蒂衣装、邀请「朗镜索真·夏洛蒂(冰)」
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
  外获得原石*400奖励
 DTSTART;TZID=Asia/Shanghai:20260701T110000
@@ -96,22 +76,6 @@ DTSTART;TZID=Asia/Shanghai:20260923T070000
 UID:5c7dfd59@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20260708T100000
-UID:8655aa2f@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20260811T035959
-UID:2843f139@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
