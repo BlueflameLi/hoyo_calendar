@@ -4,22 +4,18 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
- 灵节！」版本
-DTSTART;TZID=Asia/Shanghai:20260701T110000
-UID:a1a82822@hoyo_calendar
-DESCRIPTION:月之八版本「『空月之歌·谐谑』映夏！归乡？
- 千灵节！」版本
+SUMMARY:7.0版本「无神怜爱的雪国」版本
+DTSTART;TZID=Asia/Shanghai:20260812T110000
+UID:84e65a23@hoyo_calendar
+DESCRIPTION:7.0版本「无神怜爱的雪国」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:月之八版本「『空月之歌·谐谑』映夏！归乡？千
- 灵节！」版本结束
-DTSTART;TZID=Asia/Shanghai:20260812T060000
-UID:1e5450ee@hoyo_calendar
-DESCRIPTION:活动结束\n月之八版本「『空月之歌·谐谑』映
- 夏！归乡？千灵节！」版本
+SUMMARY:7.0版本「无神怜爱的雪国」版本结束
+DTSTART;TZID=Asia/Shanghai:20260923T060000
+UID:5510a624@hoyo_calendar
+DESCRIPTION:活动结束\n7.0版本「无神怜爱的雪国」版本
 LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
