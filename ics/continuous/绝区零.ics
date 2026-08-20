@@ -67,20 +67,20 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「深度巡防-三倍赏金」活动说明
-DTSTART;TZID=Asia/Shanghai:20260810T120000
-DTEND;TZID=Asia/Shanghai:20260817T035959
-UID:62dc4f8e@hoyo_calendar
-DESCRIPTION:「深度巡防-三倍赏金」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「咔嚓！焦点对决！」活动说明
 DTSTART;TZID=Asia/Shanghai:20260805T180000
 DTEND;TZID=Asia/Shanghai:20260824T035959
 UID:f721f12f@hoyo_calendar
 DESCRIPTION:「咔嚓！焦点对决！」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「咔滋酥脆出餐计划」活动说明
+DTSTART;TZID=Asia/Shanghai:20260817T120000
+DTEND;TZID=Asia/Shanghai:20260907T035900
+UID:7fa2fc83@hoyo_calendar
+DESCRIPTION:「咔滋酥脆出餐计划」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -120,6 +120,41 @@ DESCRIPTION:「复乐园\, 空羽复归之诗\,  霓色天使\, 壳中之
  看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
  yle="white-space: pre-wrap\;"><span style="color: rgb\, 空羽复归之诗
  \, 壳中之灵
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「直到天空沉落\, 骁骑礼赞\, 独家重映\, 音擎回响
+ 」代理人、音擎调频: 希格莉德\, S信号定制]功能允许绳
+ 匠自定义6名S级代理人/音擎作为定制代理人/音擎，并继
+ 承独家频段中非本期限定S级代理人/音擎的数据和概率机
+ 制。若调频获取的S级信号非本期限定S级代理人/音擎，
+ 则必定获得自定义的6名S级代理人/音擎之一。</p><p style="
+ white-space: pre-wrap\;">※ 在独家频段和音擎频段中，[A概率
+ 提升]功能允许绳匠自定义2名A级代理人/音擎作为本期A级
+ 概率提升代理人/音擎，并继承之前A级概率提升代理人/
+ 音擎的数据和概率机制。如果绳匠未自定义，本期独家
+ 频段和音擎频段默认A级代理人/音擎将作为本期A级概率
+ 提升代理人/音擎。</p><p style="white-space: pre-wrap\; min-height:
+  1.5em\;"></p><p style="white-space: pre-wrap\;"><span style="color: rgb\,
+  昨夜来电\, 骁骑礼赞
+DTSTART;TZID=Asia/Shanghai:20260817T120000
+DTEND;TZID=Asia/Shanghai:20260908T145900
+UID:966207a2@hoyo_calendar
+DESCRIPTION:「直到天空沉落\, 骁骑礼赞\, 独家重映\, 音擎
+ 回响」代理人、音擎调频: 希格莉德\, S信号定制]功能允
+ 许绳匠自定义6名S级代理人/音擎作为定制代理人/音擎，
+ 并继承独家频段中非本期限定S级代理人/音擎的数据和概
+ 率机制。若调频获取的S级信号非本期限定S级代理人/音
+ 擎，则必定获得自定义的6名S级代理人/音擎之一。</p><p s
+ tyle="white-space: pre-wrap\;">※ 在独家频段和音擎频段中，[A
+ 概率提升]功能允许绳匠自定义2名A级代理人/音擎作为本
+ 期A级概率提升代理人/音擎，并继承之前A级概率提升代
+ 理人/音擎的数据和概率机制。如果绳匠未自定义，本期
+ 独家频段和音擎频段默认A级代理人/音擎将作为本期A级
+ 概率提升代理人/音擎。</p><p style="white-space: pre-wrap\; min-h
+ eight: 1.5em\;"></p><p style="white-space: pre-wrap\;"><span style="color:
+  rgb\, 昨夜来电\, 骁骑礼赞
 LOCATION:绝区零-调频
 TRANSP:TRANSPARENT
 END:VEVENT
