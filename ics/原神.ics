@@ -180,4 +180,24 @@ DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「险境征者竞锋大赛」活动：参与邀请「猫尾特调
+ ·迪奥娜(冰)」
+DTSTART;TZID=Asia/Shanghai:20260828T100000
+UID:2083de62@hoyo_calendar
+DESCRIPTION:「险境征者竞锋大赛」活动：参与邀请「猫尾
+ 特调·迪奥娜(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「险境征者竞锋大赛」活动：参与邀请「猫尾特调
+ ·迪奥娜(冰)」结束
+DTSTART;TZID=Asia/Shanghai:20260914T035959
+UID:e5017ddb@hoyo_calendar
+DESCRIPTION:活动结束\n「险境征者竞锋大赛」活动：参与邀
+ 请「猫尾特调·迪奥娜(冰)」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
