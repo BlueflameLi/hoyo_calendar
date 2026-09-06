@@ -23,4 +23,21 @@ DESCRIPTION:活动结束\n「超限：狂飙大奖赛」：夺得赛事冠
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20260907T040000
+UID:bee935df@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20260921T035900
+UID:14a514c2@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
+ 倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

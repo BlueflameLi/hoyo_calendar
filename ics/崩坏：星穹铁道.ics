@@ -40,6 +40,23 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20260907T040000
+UID:bee935df@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
+DTSTART;TZID=Asia/Shanghai:20260921T035900
+UID:14a514c2@hoyo_calendar
+DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
+ 倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「晴音和鸣」「流光定影•你将起身歌唱\, 虹隽晨
  昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 知
  更鸟•晴歌\, 风堇\, 你将起身歌唱\, 愿虹光永驻天空
