@@ -40,4 +40,24 @@ DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「方寸大冒险」：集结小队挑战强敌，获取命运的
+ 足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260912T120000
+UID:88eea74a@hoyo_calendar
+DESCRIPTION:「方寸大冒险」：集结小队挑战强敌，获取命
+ 运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「方寸大冒险」：集结小队挑战强敌，获取命运的
+ 足迹、星琼等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20260928T035900
+UID:73f945ed@hoyo_calendar
+DESCRIPTION:活动结束\n「方寸大冒险」：集结小队挑战强敌
+ ，获取命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

@@ -4,20 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「晴音和鸣」「流光定影•你将起身歌唱\, 虹隽晨
- 昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃迁: 知
- 更鸟•晴歌\, 风堇\, 你将起身歌唱\, 愿虹光永驻天空
-DTSTART;TZID=Asia/Shanghai:20260826T110000
-DTEND;TZID=Asia/Shanghai:20260912T115900
-UID:b43e40e2@hoyo_calendar
-DESCRIPTION:「晴音和鸣」「流光定影•你将起身歌唱\, 虹
- 隽晨昏」「溯回忆象•愿虹光永驻天空」角色、光锥跃
- 迁: 知更鸟•晴歌\, 风堇\, 你将起身歌唱\, 愿虹光永驻天
- 空
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
  \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
  没有回报的加冕\, 理想燃烧的地狱
@@ -27,6 +13,21 @@ UID:a7ef3569@hoyo_calendar
 DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
  坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
  我\, 没有回报的加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「激浪跃金」「流光定影•向浪花掷下盛夏\, 长夜
+ 狩影」「溯回忆象•一场谎言的终幕」角色、光锥跃迁: 
+ 砂金•戏浪\, 不死途\, 向浪花掷下盛夏\, 一场谎言的终
+ 幕
+DTSTART;TZID=Asia/Shanghai:20260912T120000
+DTEND;TZID=Asia/Shanghai:20260928T035900
+UID:b5db5db4@hoyo_calendar
+DESCRIPTION:「激浪跃金」「流光定影•向浪花掷下盛夏\, 
+ 长夜狩影」「溯回忆象•一场谎言的终幕」角色、光锥
+ 跃迁: 砂金•戏浪\, 不死途\, 向浪花掷下盛夏\, 一场谎言
+ 的终幕
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
