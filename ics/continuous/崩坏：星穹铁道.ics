@@ -71,4 +71,12 @@ DESCRIPTION:「激浪跃金」「流光定影•向浪花掷下盛夏\,
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4.6版本「月升之前，与兽共舞」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20260920T193000
+UID:3a069dae@hoyo_calendar
+DESCRIPTION:4.6版本「月升之前，与兽共舞」前瞻特别节目
+LOCATION:崩坏：星穹铁道-前瞻特别节目
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
