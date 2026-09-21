@@ -116,22 +116,115 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
- 双倍掉落
-DTSTART;TZID=Asia/Shanghai:20260914T040000
-UID:7e3c2de8@hoyo_calendar
-DESCRIPTION:「盛材移涌」活动：天赋培养素材、武器突破
- 素材双倍掉落
+SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260921T120000
+UID:021b23cf@hoyo_calendar
+DESCRIPTION:「风仙亦是仙，古剑通幽玄！」世界任务说明
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「盛材移涌」活动：天赋培养素材、武器突破素材
- 双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20260921T035959
-UID:77aa132f@hoyo_calendar
-DESCRIPTION:活动结束\n「盛材移涌」活动：天赋培养素材、
- 武器突破素材双倍掉落
+SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20261104T070000
+UID:9a51cedc@hoyo_calendar
+DESCRIPTION:活动结束\n「风仙亦是仙，古剑通幽玄！」世界
+ 任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「溯流的变奏曲」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260921T120000
+UID:8a48fd44@hoyo_calendar
+DESCRIPTION:「溯流的变奏曲」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「溯流的变奏曲」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20261104T070000
+UID:ee7d018b@hoyo_calendar
+DESCRIPTION:活动结束\n「溯流的变奏曲」世界任务说明
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「虹旅藏金·耀星烁熠」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励
+DTSTART;TZID=Asia/Shanghai:20260928T000000
+UID:87491e70@hoyo_calendar
+DESCRIPTION:「虹旅藏金·耀星烁熠」活动：登录领取1600原
+ 石、纠缠之缘*10等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「虹旅藏金·耀星烁熠」活动：登录领取1600原石、
+ 纠缠之缘*10等奖励结束
+DTSTART;TZID=Asia/Shanghai:20261104T070000
+UID:8eae57ea@hoyo_calendar
+DESCRIPTION:活动结束\n「虹旅藏金·耀星烁熠」活动：登录
+ 领取1600原石、纠缠之缘*10等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「桌上剧团·冒险的前夜会」活动：自选邀请限定5
+ 星角色
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:d9fd3593@hoyo_calendar
+DESCRIPTION:「桌上剧团·冒险的前夜会」活动：自选邀请限
+ 定5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「桌上剧团·冒险的前夜会」活动：自选邀请限定5
+ 星角色结束
+DTSTART;TZID=Asia/Shanghai:20261103T145959
+UID:e8c2648b@hoyo_calendar
+DESCRIPTION:活动结束\n「桌上剧团·冒险的前夜会」活动：
+ 自选邀请限定5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「巡历雪境，凝铸锋锐」活动：自选邀请「奔行世
+ 间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:9b8b4367@hoyo_calendar
+DESCRIPTION:「巡历雪境，凝铸锋锐」活动：自选邀请「奔
+ 行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「巡历雪境，凝铸锋锐」活动：自选邀请「奔行世
+ 间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20261103T145959
+UID:2d198c05@hoyo_calendar
+DESCRIPTION:活动结束\n「巡历雪境，凝铸锋锐」活动：自选
+ 邀请「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「往冥府的安魂歌」时限内完成魔神任务，可额外
+ 获得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:d8596012@hoyo_calendar
+DESCRIPTION:「往冥府的安魂歌」时限内完成魔神任务，可
+ 额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「往冥府的安魂歌」时限内完成魔神任务，可额外
+ 获得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20261103T145959
+UID:0e160728@hoyo_calendar
+DESCRIPTION:活动结束\n「往冥府的安魂歌」时限内完成魔神
+ 任务，可额外获得原石、角色突破素材等奖励
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
