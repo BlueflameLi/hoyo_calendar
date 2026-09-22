@@ -4,26 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「无神怜爱的雪国」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260812T110000
-UID:c4387290@hoyo_calendar
-DESCRIPTION:「无神怜爱的雪国」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无神怜爱的雪国」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20260922T145959
-UID:8b5a16c2@hoyo_calendar
-DESCRIPTION:活动结束\n「无神怜爱的雪国」时限内完成魔神
- 任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
  获得原石*400奖励
 DTSTART;TZID=Asia/Shanghai:20260812T110000
@@ -60,26 +40,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
- 外获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:64706de1@hoyo_calendar
-DESCRIPTION:「当我们抬头望月亮」时限内完成探索任务，
- 可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「当我们抬头望月亮」时限内完成探索任务，可额
- 外获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20260922T145959
-UID:045caf0a@hoyo_calendar
-DESCRIPTION:活动结束\n「当我们抬头望月亮」时限内完成探
- 索任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
  行世间」常驻祈愿5星角色
 DTSTART;TZID=Asia/Shanghai:20260923T110000
@@ -96,22 +56,6 @@ DTSTART;TZID=Asia/Shanghai:20260923T070000
 UID:5c7dfd59@hoyo_calendar
 DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
  自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20260819T100000
-UID:8f69cbe4@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20260922T035959
-UID:8700f5be@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -225,6 +169,26 @@ DTSTART;TZID=Asia/Shanghai:20261103T145959
 UID:0e160728@hoyo_calendar
 DESCRIPTION:活动结束\n「往冥府的安魂歌」时限内完成魔神
  任务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银翎溯月，玄鸟结璘」活动：参与获取活动专属
+ 武器「单手剑·银釭」
+DTSTART;TZID=Asia/Shanghai:20260924T100000
+UID:9eb6857c@hoyo_calendar
+DESCRIPTION:「银翎溯月，玄鸟结璘」活动：参与获取活动
+ 专属武器「单手剑·银釭」
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「银翎溯月，玄鸟结璘」活动：参与获取活动专属
+ 武器「单手剑·银釭」结束
+DTSTART;TZID=Asia/Shanghai:20261012T035959
+UID:fc6ff32a@hoyo_calendar
+DESCRIPTION:活动结束\n「银翎溯月，玄鸟结璘」活动：参与
+ 获取活动专属武器「单手剑·银釭」
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
