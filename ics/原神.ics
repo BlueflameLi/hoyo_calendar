@@ -4,108 +4,68 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:7.0版本「无神怜爱的雪国」版本
-DTSTART;TZID=Asia/Shanghai:20260812T110000
-UID:84e65a23@hoyo_calendar
-DESCRIPTION:7.0版本「无神怜爱的雪国」版本
-LOCATION:原神-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:7.0版本「无神怜爱的雪国」版本结束
-DTSTART;TZID=Asia/Shanghai:20260923T060000
-UID:5510a624@hoyo_calendar
-DESCRIPTION:活动结束\n7.0版本「无神怜爱的雪国」版本
-LOCATION:原神-版本更新
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
- 获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260812T110000
-UID:c77d6c86@hoyo_calendar
-DESCRIPTION:「无神怜爱的冻土」时限内完成探索任务，可
- 额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
- 获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:5f2b2815@hoyo_calendar
-DESCRIPTION:活动结束\n「无神怜爱的冻土」时限内完成探索
- 任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260810T040000
-UID:bf1665de@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20261102T035900
-UID:e1c7e7dd@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色
+SUMMARY:7.1版本「往冥府的安魂歌」版本
 DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:9c50aacc@hoyo_calendar
-DESCRIPTION:「解探月域，琢炼宵晖」活动：新手自选邀约
- 「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
+UID:339a42cb@hoyo_calendar
+DESCRIPTION:7.1版本「往冥府的安魂歌」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「解探月域，琢炼宵晖」活动：新手自选邀约「奔
- 行世间」常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20260923T070000
-UID:5c7dfd59@hoyo_calendar
-DESCRIPTION:活动结束\n「解探月域，琢炼宵晖」活动：新手
- 自选邀约「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
+SUMMARY:7.1版本「往冥府的安魂歌」版本结束
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+UID:49c3ced7@hoyo_calendar
+DESCRIPTION:活动结束\n7.1版本「往冥府的安魂歌」版本
+LOCATION:原神-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260921T120000
-UID:021b23cf@hoyo_calendar
-DESCRIPTION:「风仙亦是仙，古剑通幽玄！」世界任务说明
-LOCATION:原神-活动
+SUMMARY:「煦风欢舞时」角色祈愿: 薇斯纳
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:ea04cf4e@hoyo_calendar
+DESCRIPTION:「煦风欢舞时」角色祈愿: 薇斯纳
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明结束
-DTSTART;TZID=Asia/Shanghai:20261104T070000
-UID:9a51cedc@hoyo_calendar
-DESCRIPTION:活动结束\n「风仙亦是仙，古剑通幽玄！」世界
- 任务说明
-LOCATION:原神-活动
+SUMMARY:「煦风欢舞时」角色祈愿: 薇斯纳结束
+DTSTART;TZID=Asia/Shanghai:20261013T175900
+UID:b0fe715b@hoyo_calendar
+DESCRIPTION:活动结束\n「煦风欢舞时」角色祈愿: 薇斯纳
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「溯流的变奏曲」世界任务说明
-DTSTART;TZID=Asia/Shanghai:20260921T120000
-UID:8a48fd44@hoyo_calendar
-DESCRIPTION:「溯流的变奏曲」世界任务说明
-LOCATION:原神-活动
+SUMMARY:「涌浪叙歌」角色祈愿: 沃雅妮莎
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:fcca2c06@hoyo_calendar
+DESCRIPTION:「涌浪叙歌」角色祈愿: 沃雅妮莎
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「溯流的变奏曲」世界任务说明结束
-DTSTART;TZID=Asia/Shanghai:20261104T070000
-UID:ee7d018b@hoyo_calendar
-DESCRIPTION:活动结束\n「溯流的变奏曲」世界任务说明
-LOCATION:原神-活动
+SUMMARY:「涌浪叙歌」角色祈愿: 沃雅妮莎结束
+DTSTART;TZID=Asia/Shanghai:20261013T175900
+UID:b2b802a2@hoyo_calendar
+DESCRIPTION:活动结束\n「涌浪叙歌」角色祈愿: 沃雅妮莎
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌
+DTSTART;TZID=Asia/Shanghai:20260923T110000
+UID:5c6b8e50@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌
+LOCATION:原神-祈愿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌结束
+DTSTART;TZID=Asia/Shanghai:20261013T175900
+UID:4e2706be@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 蝶变\, 漩流
+ 颂歌
+LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -209,52 +169,72 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「煦风欢舞时」角色祈愿: 薇斯纳
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:ea04cf4e@hoyo_calendar
-DESCRIPTION:「煦风欢舞时」角色祈愿: 薇斯纳
-LOCATION:原神-祈愿
+SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260921T120000
+UID:021b23cf@hoyo_calendar
+DESCRIPTION:「风仙亦是仙，古剑通幽玄！」世界任务说明
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「煦风欢舞时」角色祈愿: 薇斯纳结束
-DTSTART;TZID=Asia/Shanghai:20261013T175900
-UID:b0fe715b@hoyo_calendar
-DESCRIPTION:活动结束\n「煦风欢舞时」角色祈愿: 薇斯纳
-LOCATION:原神-祈愿
+SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20261104T070000
+UID:9a51cedc@hoyo_calendar
+DESCRIPTION:活动结束\n「风仙亦是仙，古剑通幽玄！」世界
+ 任务说明
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「涌浪叙歌」角色祈愿: 沃雅妮莎
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:fcca2c06@hoyo_calendar
-DESCRIPTION:「涌浪叙歌」角色祈愿: 沃雅妮莎
-LOCATION:原神-祈愿
+SUMMARY:「溯流的变奏曲」世界任务说明
+DTSTART;TZID=Asia/Shanghai:20260921T120000
+UID:8a48fd44@hoyo_calendar
+DESCRIPTION:「溯流的变奏曲」世界任务说明
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「涌浪叙歌」角色祈愿: 沃雅妮莎结束
-DTSTART;TZID=Asia/Shanghai:20261013T175900
-UID:b2b802a2@hoyo_calendar
-DESCRIPTION:活动结束\n「涌浪叙歌」角色祈愿: 沃雅妮莎
-LOCATION:原神-祈愿
+SUMMARY:「溯流的变奏曲」世界任务说明结束
+DTSTART;TZID=Asia/Shanghai:20261104T070000
+UID:ee7d018b@hoyo_calendar
+DESCRIPTION:活动结束\n「溯流的变奏曲」世界任务说明
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:5c6b8e50@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌
-LOCATION:原神-祈愿
+SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
+ 获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20260810T120000
+UID:f260a626@hoyo_calendar
+DESCRIPTION:「无神怜爱的冻土」时限内完成探索任务，可
+ 额外获得原石*400奖励
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 蝶变\, 漩流颂歌结束
-DTSTART;TZID=Asia/Shanghai:20261013T175900
-UID:4e2706be@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 蝶变\, 漩流
- 颂歌
-LOCATION:原神-祈愿
+SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
+ 获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20261103T145959
+UID:5f2b2815@hoyo_calendar
+DESCRIPTION:活动结束\n「无神怜爱的冻土」时限内完成探索
+ 任务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠
+DTSTART;TZID=Asia/Shanghai:20260810T040000
+UID:bf1665de@hoyo_calendar
+DESCRIPTION:「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「砺行修远」：勤修馈赠结束
+DTSTART;TZID=Asia/Shanghai:20261102T035900
+UID:e1c7e7dd@hoyo_calendar
+DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
