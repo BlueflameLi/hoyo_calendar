@@ -31,4 +31,18 @@ DESCRIPTION:「激浪跃金」「流光定影•向浪花掷下盛夏\,
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 韶艾
+ 裁英」「溯回忆象•邂逅于下一个花季」角色、光锥跃
+ 迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花季
+DTSTART;TZID=Asia/Shanghai:20260927T140000
+DTEND;TZID=Asia/Shanghai:20261021T115900
+UID:e79899fc@hoyo_calendar
+DESCRIPTION:「沧海萃珠」「流光定影•献给明日的色彩\, 
+ 韶艾裁英」「溯回忆象•邂逅于下一个花季」角色、光
+ 锥跃迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花
+ 季
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

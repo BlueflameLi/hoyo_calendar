@@ -80,6 +80,46 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「爱，幽灵与机器人」：经营机铠工坊，获取自塑
+ 尘脂、命运的足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260928T110000
+UID:9afb149e@hoyo_calendar
+DESCRIPTION:「爱，幽灵与机器人」：经营机铠工坊，获取
+ 自塑尘脂、命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「爱，幽灵与机器人」：经营机铠工坊，获取自塑
+ 尘脂、命运的足迹、星琼等奖励！结束
+DTSTART;TZID=Asia/Shanghai:20261111T035900
+UID:6d4c4b15@hoyo_calendar
+DESCRIPTION:活动结束\n「爱，幽灵与机器人」：经营机铠工
+ 坊，获取自塑尘脂、命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星际碰碰好搭档！」：派出你的随宠搭档，获取
+ 命运的足迹、星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20260928T110000
+UID:b5805cf8@hoyo_calendar
+DESCRIPTION:「星际碰碰好搭档！」：派出你的随宠搭档，
+ 获取命运的足迹、星琼等奖励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星际碰碰好搭档！」：派出你的随宠搭档，获取
+ 命运的足迹、星琼等奖励结束
+DTSTART;TZID=Asia/Shanghai:20261111T060000
+UID:b39d7dc7@hoyo_calendar
+DESCRIPTION:活动结束\n「星际碰碰好搭档！」：派出你的随
+ 宠搭档，获取命运的足迹、星琼等奖励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
  \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
  没有回报的加冕\, 理想燃烧的地狱
@@ -128,6 +168,33 @@ DESCRIPTION:活动结束\n「激浪跃金」「流光定影•向浪花掷
  下盛夏\, 长夜狩影」「溯回忆象•一场谎言的终幕」角
  色、光锥跃迁: 砂金•戏浪\, 不死途\, 向浪花掷下盛夏\, 
  一场谎言的终幕
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 韶艾
+ 裁英」「溯回忆象•邂逅于下一个花季」角色、光锥跃
+ 迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花季
+DTSTART;TZID=Asia/Shanghai:20260927T140000
+UID:e79899fc@hoyo_calendar
+DESCRIPTION:「沧海萃珠」「流光定影•献给明日的色彩\, 
+ 韶艾裁英」「溯回忆象•邂逅于下一个花季」角色、光
+ 锥跃迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花
+ 季
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 韶艾
+ 裁英」「溯回忆象•邂逅于下一个花季」角色、光锥跃
+ 迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花季结
+ 束
+DTSTART;TZID=Asia/Shanghai:20261021T115900
+UID:98384893@hoyo_calendar
+DESCRIPTION:活动结束\n「沧海萃珠」「流光定影•献给明日
+ 的色彩\, 韶艾裁英」「溯回忆象•邂逅于下一个花季」
+ 角色、光锥跃迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于
+ 下一个花季
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT

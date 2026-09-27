@@ -36,4 +36,26 @@ DESCRIPTION:「镇伏『贪饕』，汇聚愿力」：击败受「贪饕
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「爱，幽灵与机器人」：经营机铠工坊，获取自塑
+ 尘脂、命运的足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20260928T110000
+DTEND;TZID=Asia/Shanghai:20261111T035900
+UID:9afb149e@hoyo_calendar
+DESCRIPTION:「爱，幽灵与机器人」：经营机铠工坊，获取
+ 自塑尘脂、命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星际碰碰好搭档！」：派出你的随宠搭档，获取
+ 命运的足迹、星琼等奖励
+DTSTART;TZID=Asia/Shanghai:20260928T110000
+DTEND;TZID=Asia/Shanghai:20261111T060000
+UID:b5805cf8@hoyo_calendar
+DESCRIPTION:「星际碰碰好搭档！」：派出你的随宠搭档，
+ 获取命运的足迹、星琼等奖励
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
