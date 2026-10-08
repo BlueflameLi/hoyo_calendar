@@ -68,22 +68,6 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虚境逐影争锋」活动说明
-DTSTART;TZID=Asia/Shanghai:20260914T120000
-UID:70e353da@hoyo_calendar
-DESCRIPTION:「虚境逐影争锋」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「虚境逐影争锋」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261005T035959
-UID:7aa4a36c@hoyo_calendar
-DESCRIPTION:活动结束\n「虚境逐影争锋」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「惊喜放映企划」活动说明
 DTSTART;TZID=Asia/Shanghai:20260921T121500
 UID:1208c00c@hoyo_calendar
@@ -205,6 +189,14 @@ DESCRIPTION:活动结束\n「烬夜安眠\, 绯月银棺\, 冷雨将尽之
  \;"></p><p style="white-space: pre-wrap\;"><span style="color: rgb\, 绯
  月银棺\, 朔月裁霜
 LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3.3版本「重返天空的旅程」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20261009T193000
+UID:7d337d44@hoyo_calendar
+DESCRIPTION:3.3版本「重返天空的旅程」前瞻特别节目
+LOCATION:绝区零-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
