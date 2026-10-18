@@ -46,6 +46,15 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
+DTSTART;TZID=Asia/Shanghai:20261012T040000
+DTEND;TZID=Asia/Shanghai:20261025T035900
+UID:83d4cac5@hoyo_calendar
+DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 韶艾
  裁英」「溯回忆象•邂逅于下一个花季」角色、光锥跃
  迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花季
