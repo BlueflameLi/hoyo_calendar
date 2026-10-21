@@ -45,4 +45,15 @@ DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
 LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「星际和平盛典：一镜到底」：试镜出演完成挑战
+ ，获取命运的足迹、星琼等奖励！
+DTSTART;TZID=Asia/Shanghai:20261021T120000
+DTEND;TZID=Asia/Shanghai:20261111T035900
+UID:7961dd19@hoyo_calendar
+DESCRIPTION:「星际和平盛典：一镜到底」：试镜出演完成
+ 挑战，获取命运的足迹、星琼等奖励！
+LOCATION:崩坏：星穹铁道-活动
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

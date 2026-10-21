@@ -4,20 +4,6 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 韶艾
- 裁英」「溯回忆象•邂逅于下一个花季」角色、光锥跃
- 迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花季
-DTSTART;TZID=Asia/Shanghai:20260927T140000
-DTEND;TZID=Asia/Shanghai:20261021T115900
-UID:e79899fc@hoyo_calendar
-DESCRIPTION:「沧海萃珠」「流光定影•献给明日的色彩\, 
- 韶艾裁英」「溯回忆象•邂逅于下一个花季」角色、光
- 锥跃迁: 真珠\, 绯英\, 献给明日的色彩\, 邂逅于下一个花
- 季
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
  \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
  没有回报的加冕\, 理想燃烧的地狱
@@ -27,6 +13,20 @@ UID:a7ef3569@hoyo_calendar
 DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
  坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
  我\, 没有回报的加冕\, 理想燃烧的地狱
+LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 我身
+ 即刃」「溯回忆象•灼尽炼狱的新骸」角色、光锥跃迁: 
+ 真珠\, 千冶•刃\, 献给明日的色彩\, 灼尽炼狱的新骸
+DTSTART;TZID=Asia/Shanghai:20261020T140000
+DTEND;TZID=Asia/Shanghai:20261110T150000
+UID:534b2931@hoyo_calendar
+DESCRIPTION:「沧海萃珠」「流光定影•献给明日的色彩\, 
+ 我身即刃」「溯回忆象•灼尽炼狱的新骸」角色、光锥
+ 跃迁: 真珠\, 千冶•刃\, 献给明日的色彩\, 灼尽炼狱的新
+ 骸
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT

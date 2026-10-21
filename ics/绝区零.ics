@@ -4,57 +4,116 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:3.2版本「她与她的隐秘往事」版本
-DTSTART;TZID=Asia/Shanghai:20260909T110000
-UID:5917e60c@hoyo_calendar
-DESCRIPTION:3.2版本「她与她的隐秘往事」版本
+SUMMARY:3.3版本「重返天空的旅程」版本
+DTSTART;TZID=Asia/Shanghai:20261021T110000
+UID:48fcdd4b@hoyo_calendar
+DESCRIPTION:3.3版本「重返天空的旅程」版本
 LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3.2版本「她与她的隐秘往事」版本结束
-DTSTART;TZID=Asia/Shanghai:20261021T060000
-UID:d9a67876@hoyo_calendar
-DESCRIPTION:活动结束\n3.2版本「她与她的隐秘往事」版本
+SUMMARY:3.3版本「重返天空的旅程」版本结束
+DTSTART;TZID=Asia/Shanghai:20261202T060000
+UID:ce9cdad1@hoyo_calendar
+DESCRIPTION:活动结束\n3.3版本「重返天空的旅程」版本
 LOCATION:绝区零-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「潜能预演·烈火重锤」活动说明
-DTSTART;TZID=Asia/Shanghai:20260909T110000
-UID:6b178886@hoyo_calendar
-DESCRIPTION:「潜能预演·烈火重锤」活动说明
+SUMMARY:「倾掷浮生\, 涅槃初翎\, 凛风吟仪\, 琳琅鎏心」代
+ 理人、音擎调频: 菲欧妮\, 维琳娜\, S信号定制]功能允许
+ 绳匠自定义6名S级代理人/音擎作为定制代理人/音擎，并
+ 继承独家频段中非本期限定S级代理人/音擎的数据和概率
+ 机制。若调频获取的S级信号非本期限定S级代理人/音擎
+ ，则必定获得自定义的6名S级代理人/音擎之一。</p><p styl
+ e="white-space: pre-wrap\;">※ 在独家频段和音擎频段中，[A概
+ 率提升]功能允许绳匠自定义2名A级代理人/音擎作为本期A
+ 级概率提升代理人/音擎，并继承之前A级概率提升代理人
+ /音擎的数据和概率机制。如果绳匠未自定义，本期独家
+ 频段和音擎频段默认A级代理人/音擎将作为本期A级概率
+ 提升代理人/音擎。</p><p style="white-space: pre-wrap\;">※ 更多
+ 调频信息可点击调频界面左下角「详情」按钮查看。</p><
+ p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p style="white-
+ space: pre-wrap\;"><span style="color: rgb\, 涅槃初翎\, 琳琅鎏心
+DTSTART;TZID=Asia/Shanghai:20261019T140000
+UID:e31cb711@hoyo_calendar
+DESCRIPTION:「倾掷浮生\, 涅槃初翎\, 凛风吟仪\, 琳琅鎏心
+ 」代理人、音擎调频: 菲欧妮\, 维琳娜\, S信号定制]功能
+ 允许绳匠自定义6名S级代理人/音擎作为定制代理人/音擎
+ ，并继承独家频段中非本期限定S级代理人/音擎的数据和
+ 概率机制。若调频获取的S级信号非本期限定S级代理人/
+ 音擎，则必定获得自定义的6名S级代理人/音擎之一。</p><
+ p style="white-space: pre-wrap\;">※ 在独家频段和音擎频段中，
+ [A概率提升]功能允许绳匠自定义2名A级代理人/音擎作为
+ 本期A级概率提升代理人/音擎，并继承之前A级概率提升
+ 代理人/音擎的数据和概率机制。如果绳匠未自定义，本
+ 期独家频段和音擎频段默认A级代理人/音擎将作为本期A
+ 级概率提升代理人/音擎。</p><p style="white-space: pre-wrap\;">
+ ※ 更多调频信息可点击调频界面左下角「详情」按钮查
+ 看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
+ yle="white-space: pre-wrap\;"><span style="color: rgb\, 涅槃初翎\, 琳
+ 琅鎏心
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「倾掷浮生\, 涅槃初翎\, 凛风吟仪\, 琳琅鎏心」代
+ 理人、音擎调频: 菲欧妮\, 维琳娜\, S信号定制]功能允许
+ 绳匠自定义6名S级代理人/音擎作为定制代理人/音擎，并
+ 继承独家频段中非本期限定S级代理人/音擎的数据和概率
+ 机制。若调频获取的S级信号非本期限定S级代理人/音擎
+ ，则必定获得自定义的6名S级代理人/音擎之一。</p><p styl
+ e="white-space: pre-wrap\;">※ 在独家频段和音擎频段中，[A概
+ 率提升]功能允许绳匠自定义2名A级代理人/音擎作为本期A
+ 级概率提升代理人/音擎，并继承之前A级概率提升代理人
+ /音擎的数据和概率机制。如果绳匠未自定义，本期独家
+ 频段和音擎频段默认A级代理人/音擎将作为本期A级概率
+ 提升代理人/音擎。</p><p style="white-space: pre-wrap\;">※ 更多
+ 调频信息可点击调频界面左下角「详情」按钮查看。</p><
+ p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p style="white-
+ space: pre-wrap\;"><span style="color: rgb\, 涅槃初翎\, 琳琅鎏心
+ 结束
+DTSTART;TZID=Asia/Shanghai:20261111T115959
+UID:a1c2a0cb@hoyo_calendar
+DESCRIPTION:活动结束\n「倾掷浮生\, 涅槃初翎\, 凛风吟仪\, 
+ 琳琅鎏心」代理人、音擎调频: 菲欧妮\, 维琳娜\, S信号
+ 定制]功能允许绳匠自定义6名S级代理人/音擎作为定制代
+ 理人/音擎，并继承独家频段中非本期限定S级代理人/音
+ 擎的数据和概率机制。若调频获取的S级信号非本期限定S
+ 级代理人/音擎，则必定获得自定义的6名S级代理人/音擎
+ 之一。</p><p style="white-space: pre-wrap\;">※ 在独家频段和音
+ 擎频段中，[A概率提升]功能允许绳匠自定义2名A级代理人
+ /音擎作为本期A级概率提升代理人/音擎，并继承之前A级
+ 概率提升代理人/音擎的数据和概率机制。如果绳匠未自
+ 定义，本期独家频段和音擎频段默认A级代理人/音擎将作
+ 为本期A级概率提升代理人/音擎。</p><p style="white-space: pre
+ -wrap\;">※ 更多调频信息可点击调频界面左下角「详情」
+ 按钮查看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;">
+ </p><p style="white-space: pre-wrap\;"><span style="color: rgb\, 涅槃初
+ 翎\, 琳琅鎏心
+LOCATION:绝区零-调频
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「怪奇诡屋惊魂记」活动说明
+DTSTART;TZID=Asia/Shanghai:20261020T143000
+UID:ee0b0bb0@hoyo_calendar
+DESCRIPTION:「怪奇诡屋惊魂记」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「潜能预演·烈火重锤」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261021T055959
-UID:e7cb219c@hoyo_calendar
-DESCRIPTION:活动结束\n「潜能预演·烈火重锤」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『弹球勇者』哐哐当！」活动说明
-DTSTART;TZID=Asia/Shanghai:20260908T133000
-UID:2e1483e2@hoyo_calendar
-DESCRIPTION:「『弹球勇者』哐哐当！」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「『弹球勇者』哐哐当！」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261019T035959
-UID:d9a9ec10@hoyo_calendar
-DESCRIPTION:活动结束\n「『弹球勇者』哐哐当！」活动说明
+SUMMARY:「怪奇诡屋惊魂记」活动说明结束
+DTSTART;TZID=Asia/Shanghai:20261130T035959
+UID:983b8bf3@hoyo_calendar
+DESCRIPTION:活动结束\n「怪奇诡屋惊魂记」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「天使应援大作战」活动说明
-DTSTART;TZID=Asia/Shanghai:20260909T110000
-UID:48ce3b47@hoyo_calendar
+DTSTART;TZID=Asia/Shanghai:20260907T124500
+UID:a5b1479b@hoyo_calendar
 DESCRIPTION:「天使应援大作战」活动说明
 LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
@@ -65,138 +124,6 @@ DTSTART;TZID=Asia/Shanghai:20261130T035959
 UID:9b45c8a2@hoyo_calendar
 DESCRIPTION:活动结束\n「天使应援大作战」活动说明
 LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「惊喜放映企划」活动说明
-DTSTART;TZID=Asia/Shanghai:20260921T121500
-UID:1208c00c@hoyo_calendar
-DESCRIPTION:「惊喜放映企划」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「惊喜放映企划」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261020T035959
-UID:d269387a@hoyo_calendar
-DESCRIPTION:活动结束\n「惊喜放映企划」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「跛脚乌鸦奇探录」活动说明
-DTSTART;TZID=Asia/Shanghai:20261001T120000
-UID:d4c22bdb@hoyo_calendar
-DESCRIPTION:「跛脚乌鸦奇探录」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「跛脚乌鸦奇探录」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261019T035959
-UID:23cc69a0@hoyo_calendar
-DESCRIPTION:活动结束\n「跛脚乌鸦奇探录」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「锵锵！球仔成长日记」活动说明
-DTSTART;TZID=Asia/Shanghai:20260928T123000
-UID:85de22a2@hoyo_calendar
-DESCRIPTION:「锵锵！球仔成长日记」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「锵锵！球仔成长日记」活动说明结束
-DTSTART;TZID=Asia/Shanghai:20261019T035959
-UID:5ec1a5fb@hoyo_calendar
-DESCRIPTION:活动结束\n「锵锵！球仔成长日记」活动说明
-LOCATION:绝区零-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「烬夜安眠\, 绯月银棺\, 冷雨将尽之夜\, 朔月裁霜
- 」代理人、音擎调频: 洛克茜\, 普罗米娅\, S信号定制]功
- 能允许绳匠自定义6名S级代理人/音擎作为定制代理人/音
- 擎，并继承独家频段中非本期限定S级代理人/音擎的数据
- 和概率机制。若调频获取的S级信号非本期限定S级代理人
- /音擎，则必定获得自定义的6名S级代理人/音擎之一。</p>
- <p style="white-space: pre-wrap\;">※ 在独家频段和音擎频段中
- ，[A概率提升]功能允许绳匠自定义2名A级代理人/音擎作
- 为本期A级概率提升代理人/音擎，并继承之前A级概率提
- 升代理人/音擎的数据和概率机制。如果绳匠未自定义，
- 本期独家频段和音擎频段默认A级代理人/音擎将作为本期
- A级概率提升代理人/音擎。</p><p style="white-space: pre-wrap\;">
- ※ 更多调频信息可点击调频界面左下角「详情」按钮查
- 看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
- yle="white-space: pre-wrap\;"><span style="color: rgb\, 绯月银棺\, 朔
- 月裁霜
-DTSTART;TZID=Asia/Shanghai:20260928T121500
-UID:7241c6e4@hoyo_calendar
-DESCRIPTION:「烬夜安眠\, 绯月银棺\, 冷雨将尽之夜\, 朔月
- 裁霜」代理人、音擎调频: 洛克茜\, 普罗米娅\, S信号定
- 制]功能允许绳匠自定义6名S级代理人/音擎作为定制代理
- 人/音擎，并继承独家频段中非本期限定S级代理人/音擎
- 的数据和概率机制。若调频获取的S级信号非本期限定S级
- 代理人/音擎，则必定获得自定义的6名S级代理人/音擎之
- 一。</p><p style="white-space: pre-wrap\;">※ 在独家频段和音擎
- 频段中，[A概率提升]功能允许绳匠自定义2名A级代理人/
- 音擎作为本期A级概率提升代理人/音擎，并继承之前A级
- 概率提升代理人/音擎的数据和概率机制。如果绳匠未自
- 定义，本期独家频段和音擎频段默认A级代理人/音擎将作
- 为本期A级概率提升代理人/音擎。</p><p style="white-space: pre
- -wrap\;">※ 更多调频信息可点击调频界面左下角「详情」
- 按钮查看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;">
- </p><p style="white-space: pre-wrap\;"><span style="color: rgb\, 绯月银
- 棺\, 朔月裁霜
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「烬夜安眠\, 绯月银棺\, 冷雨将尽之夜\, 朔月裁霜
- 」代理人、音擎调频: 洛克茜\, 普罗米娅\, S信号定制]功
- 能允许绳匠自定义6名S级代理人/音擎作为定制代理人/音
- 擎，并继承独家频段中非本期限定S级代理人/音擎的数据
- 和概率机制。若调频获取的S级信号非本期限定S级代理人
- /音擎，则必定获得自定义的6名S级代理人/音擎之一。</p>
- <p style="white-space: pre-wrap\;">※ 在独家频段和音擎频段中
- ，[A概率提升]功能允许绳匠自定义2名A级代理人/音擎作
- 为本期A级概率提升代理人/音擎，并继承之前A级概率提
- 升代理人/音擎的数据和概率机制。如果绳匠未自定义，
- 本期独家频段和音擎频段默认A级代理人/音擎将作为本期
- A级概率提升代理人/音擎。</p><p style="white-space: pre-wrap\;">
- ※ 更多调频信息可点击调频界面左下角「详情」按钮查
- 看。</p><p style="white-space: pre-wrap\; min-height: 1.5em\;"></p><p st
- yle="white-space: pre-wrap\;"><span style="color: rgb\, 绯月银棺\, 朔
- 月裁霜结束
-DTSTART;TZID=Asia/Shanghai:20261020T145959
-UID:dd83b86c@hoyo_calendar
-DESCRIPTION:活动结束\n「烬夜安眠\, 绯月银棺\, 冷雨将尽之
- 夜\, 朔月裁霜」代理人、音擎调频: 洛克茜\, 普罗米娅\, 
- S信号定制]功能允许绳匠自定义6名S级代理人/音擎作为定
- 制代理人/音擎，并继承独家频段中非本期限定S级代理人
- /音擎的数据和概率机制。若调频获取的S级信号非本期限
- 定S级代理人/音擎，则必定获得自定义的6名S级代理人/音
- 擎之一。</p><p style="white-space: pre-wrap\;">※ 在独家频段和
- 音擎频段中，[A概率提升]功能允许绳匠自定义2名A级代理
- 人/音擎作为本期A级概率提升代理人/音擎，并继承之前A
- 级概率提升代理人/音擎的数据和概率机制。如果绳匠未
- 自定义，本期独家频段和音擎频段默认A级代理人/音擎将
- 作为本期A级概率提升代理人/音擎。</p><p style="white-space: 
- pre-wrap\;">※ 更多调频信息可点击调频界面左下角「详情
- 」按钮查看。</p><p style="white-space: pre-wrap\; min-height: 1.5em
- \;"></p><p style="white-space: pre-wrap\;"><span style="color: rgb\, 绯
- 月银棺\, 朔月裁霜
-LOCATION:绝区零-调频
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3.3版本「重返天空的旅程」前瞻特别节目
-DTSTART;TZID=Asia/Shanghai:20261009T193000
-UID:7d337d44@hoyo_calendar
-DESCRIPTION:3.3版本「重返天空的旅程」前瞻特别节目
-LOCATION:绝区零-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
