@@ -80,23 +80,6 @@ LOCATION:崩坏：星穹铁道-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落
-DTSTART;TZID=Asia/Shanghai:20261012T040000
-UID:83d4cac5@hoyo_calendar
-DESCRIPTION:「位面分裂」活动：位面饰品限时双倍掉落
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「位面分裂」活动：位面饰品限时双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20261025T035900
-UID:07d45f26@hoyo_calendar
-DESCRIPTION:活动结束\n「位面分裂」活动：位面饰品限时双
- 倍掉落
-LOCATION:崩坏：星穹铁道-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「星际和平盛典：一镜到底」：试镜出演完成挑战
  ，获取命运的足迹、星琼等奖励！
 DTSTART;TZID=Asia/Shanghai:20261021T120000
@@ -165,6 +148,15 @@ DESCRIPTION:活动结束\n「沧海萃珠」「流光定影•献给明日
  色、光锥跃迁: 真珠\, 千冶•刃\, 献给明日的色彩\, 灼尽
  炼狱的新骸
 LOCATION:崩坏：星穹铁道-跃迁
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4.7版本「此刻，将群星付之一笑」前瞻特别节目
+DTSTART;TZID=Asia/Shanghai:20261030T193000
+UID:e74d84da@hoyo_calendar
+DESCRIPTION:4.7版本「此刻，将群星付之一笑」前瞻特别节
+ 目
+LOCATION:崩坏：星穹铁道-前瞻特别节目
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
