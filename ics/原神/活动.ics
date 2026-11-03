@@ -24,66 +24,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「桌上剧团·冒险的前夜会」活动：自选邀请限定5
- 星角色
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:d9fd3593@hoyo_calendar
-DESCRIPTION:「桌上剧团·冒险的前夜会」活动：自选邀请限
- 定5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「桌上剧团·冒险的前夜会」活动：自选邀请限定5
- 星角色结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:e8c2648b@hoyo_calendar
-DESCRIPTION:活动结束\n「桌上剧团·冒险的前夜会」活动：
- 自选邀请限定5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「巡历雪境，凝铸锋锐」活动：自选邀请「奔行世
- 间」常驻祈愿5星角色
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:9b8b4367@hoyo_calendar
-DESCRIPTION:「巡历雪境，凝铸锋锐」活动：自选邀请「奔
- 行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「巡历雪境，凝铸锋锐」活动：自选邀请「奔行世
- 间」常驻祈愿5星角色结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:2d198c05@hoyo_calendar
-DESCRIPTION:活动结束\n「巡历雪境，凝铸锋锐」活动：自选
- 邀请「奔行世间」常驻祈愿5星角色
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「往冥府的安魂歌」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励
-DTSTART;TZID=Asia/Shanghai:20260923T110000
-UID:d8596012@hoyo_calendar
-DESCRIPTION:「往冥府的安魂歌」时限内完成魔神任务，可
- 额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「往冥府的安魂歌」时限内完成魔神任务，可额外
- 获得原石、角色突破素材等奖励结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:0e160728@hoyo_calendar
-DESCRIPTION:活动结束\n「往冥府的安魂歌」时限内完成魔神
- 任务，可额外获得原石、角色突破素材等奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「风仙亦是仙，古剑通幽玄！」世界任务说明
 DTSTART;TZID=Asia/Shanghai:20260921T120000
 UID:021b23cf@hoyo_calendar
@@ -117,91 +57,6 @@ LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
- 获得原石*400奖励
-DTSTART;TZID=Asia/Shanghai:20260810T120000
-UID:f260a626@hoyo_calendar
-DESCRIPTION:「无神怜爱的冻土」时限内完成探索任务，可
- 额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无神怜爱的冻土」时限内完成探索任务，可额外
- 获得原石*400奖励结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:5f2b2815@hoyo_calendar
-DESCRIPTION:活动结束\n「无神怜爱的冻土」时限内完成探索
- 任务，可额外获得原石*400奖励
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠
-DTSTART;TZID=Asia/Shanghai:20260810T040000
-UID:bf1665de@hoyo_calendar
-DESCRIPTION:「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「砺行修远」：勤修馈赠结束
-DTSTART;TZID=Asia/Shanghai:20261102T035900
-UID:e1c7e7dd@hoyo_calendar
-DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战
-DTSTART;TZID=Asia/Shanghai:20260930T100000
-UID:f686806a@hoyo_calendar
-DESCRIPTION:「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「幽境危战」活动：紊乱地脉挑战结束
-DTSTART;TZID=Asia/Shanghai:20261103T035959
-UID:f7a2155a@hoyo_calendar
-DESCRIPTION:活动结束\n「幽境危战」活动：紊乱地脉挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无忧无虑大雪仗」活动：趣味投掷挑战
-DTSTART;TZID=Asia/Shanghai:20261021T100000
-UID:44a7121f@hoyo_calendar
-DESCRIPTION:「无忧无虑大雪仗」活动：趣味投掷挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「无忧无虑大雪仗」活动：趣味投掷挑战结束
-DTSTART;TZID=Asia/Shanghai:20261102T035959
-UID:a4f7880a@hoyo_calendar
-DESCRIPTION:活动结束\n「无忧无虑大雪仗」活动：趣味投掷
- 挑战
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「祝圣移涌」活动：圣遗物双倍掉落
-DTSTART;TZID=Asia/Shanghai:20261026T040000
-UID:f9c58812@hoyo_calendar
-DESCRIPTION:「祝圣移涌」活动：圣遗物双倍掉落
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「祝圣移涌」活动：圣遗物双倍掉落结束
-DTSTART;TZID=Asia/Shanghai:20261102T035959
-UID:7f39853b@hoyo_calendar
-DESCRIPTION:活动结束\n「祝圣移涌」活动：圣遗物双倍掉落
-LOCATION:原神-活动
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「砺行修远」：勤修馈赠
 DTSTART;TZID=Asia/Shanghai:20261102T040000
 UID:60f781bd@hoyo_calendar
@@ -214,6 +69,86 @@ SUMMARY:「砺行修远」：勤修馈赠结束
 DTSTART;TZID=Asia/Shanghai:20270125T035900
 UID:68103582@hoyo_calendar
 DESCRIPTION:活动结束\n「砺行修远」：勤修馈赠
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全域镇卫·逆捍谬罚」活动：参与自选邀请4星角
+ 色
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:4ad6bbc8@hoyo_calendar
+DESCRIPTION:「全域镇卫·逆捍谬罚」活动：参与自选邀请4
+ 星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「全域镇卫·逆捍谬罚」活动：参与自选邀请4星角
+ 色结束
+DTSTART;TZID=Asia/Shanghai:20261216T070000
+UID:9b541cf9@hoyo_calendar
+DESCRIPTION:活动结束\n「全域镇卫·逆捍谬罚」活动：参与
+ 自选邀请4星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「坏灭肇始之时」时限内完成魔神任务，可额外获
+ 得原石、角色突破素材等奖励
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:71050c63@hoyo_calendar
+DESCRIPTION:「坏灭肇始之时」时限内完成魔神任务，可额
+ 外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「坏灭肇始之时」时限内完成魔神任务，可额外获
+ 得原石、角色突破素材等奖励结束
+DTSTART;TZID=Asia/Shanghai:20261215T145959
+UID:f18118cd@hoyo_calendar
+DESCRIPTION:活动结束\n「坏灭肇始之时」时限内完成魔神任
+ 务，可额外获得原石、角色突破素材等奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「晶石如林生长之地」时限内完成探索任务，可额
+ 外获得原石*400奖励
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:6219d4f1@hoyo_calendar
+DESCRIPTION:「晶石如林生长之地」时限内完成探索任务，
+ 可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「晶石如林生长之地」时限内完成探索任务，可额
+ 外获得原石*400奖励结束
+DTSTART;TZID=Asia/Shanghai:20270126T145959
+UID:e07daf38@hoyo_calendar
+DESCRIPTION:活动结束\n「晶石如林生长之地」时限内完成探
+ 索任务，可额外获得原石*400奖励
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「巡历雪境，凝铸锋锐」活动：新手自选邀请「奔
+ 行世间」常驻祈愿5星角色
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:f683fbf3@hoyo_calendar
+DESCRIPTION:「巡历雪境，凝铸锋锐」活动：新手自选邀请
+ 「奔行世间」常驻祈愿5星角色
+LOCATION:原神-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:「巡历雪境，凝铸锋锐」活动：新手自选邀请「奔
+ 行世间」常驻祈愿5星角色结束
+DTSTART;TZID=Asia/Shanghai:20270714T070000
+UID:b73058f3@hoyo_calendar
+DESCRIPTION:活动结束\n「巡历雪境，凝铸锋锐」活动：新手
+ 自选邀请「奔行世间」常驻祈愿5星角色
 LOCATION:原神-活动
 TRANSP:TRANSPARENT
 END:VEVENT

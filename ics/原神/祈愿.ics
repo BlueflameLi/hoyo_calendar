@@ -4,51 +4,53 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克
-DTSTART;TZID=Asia/Shanghai:20261013T180000
-UID:e38038dc@hoyo_calendar
-DESCRIPTION:「虚星临渡」角色祈愿: 丝柯克
+SUMMARY:「万序衍盈」角色祈愿: 米提亚
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:28732acb@hoyo_calendar
+DESCRIPTION:「万序衍盈」角色祈愿: 米提亚
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「虚星临渡」角色祈愿: 丝柯克结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:31def773@hoyo_calendar
-DESCRIPTION:活动结束\n「虚星临渡」角色祈愿: 丝柯克
+SUMMARY:「万序衍盈」角色祈愿: 米提亚结束
+DTSTART;TZID=Asia/Shanghai:20261124T175900
+UID:99df8c18@hoyo_calendar
+DESCRIPTION:活动结束\n「万序衍盈」角色祈愿: 米提亚
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲
-DTSTART;TZID=Asia/Shanghai:20261013T180000
-UID:d00dc296@hoyo_calendar
-DESCRIPTION:「莓色香颂」角色祈愿: 爱可菲
+SUMMARY:「众水的颂诗」角色祈愿: 芙宁娜
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:9af1ea5d@hoyo_calendar
+DESCRIPTION:「众水的颂诗」角色祈愿: 芙宁娜
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「莓色香颂」角色祈愿: 爱可菲结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:a487a3aa@hoyo_calendar
-DESCRIPTION:活动结束\n「莓色香颂」角色祈愿: 爱可菲
+SUMMARY:「众水的颂诗」角色祈愿: 芙宁娜结束
+DTSTART;TZID=Asia/Shanghai:20261124T175900
+UID:3a7fc553@hoyo_calendar
+DESCRIPTION:活动结束\n「众水的颂诗」角色祈愿: 芙宁娜
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
-DTSTART;TZID=Asia/Shanghai:20261013T180000
-UID:612100ef@hoyo_calendar
-DESCRIPTION:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者
+SUMMARY:「神铸赋形」武器祈愿: 秘星典谕\, 静水流涌之辉
+DTSTART;TZID=Asia/Shanghai:20261104T110000
+UID:18169d59@hoyo_calendar
+DESCRIPTION:「神铸赋形」武器祈愿: 秘星典谕\, 静水流涌之
+ 辉
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:「神铸赋形」武器祈愿: 苍耀\, 香韵奏者结束
-DTSTART;TZID=Asia/Shanghai:20261103T145959
-UID:3507c0b9@hoyo_calendar
-DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 苍耀\, 香韵
- 奏者
+SUMMARY:「神铸赋形」武器祈愿: 秘星典谕\, 静水流涌之辉
+ 结束
+DTSTART;TZID=Asia/Shanghai:20261124T175900
+UID:43050df5@hoyo_calendar
+DESCRIPTION:活动结束\n「神铸赋形」武器祈愿: 秘星典谕\, 
+ 静水流涌之辉
 LOCATION:原神-祈愿
 TRANSP:TRANSPARENT
 END:VEVENT
