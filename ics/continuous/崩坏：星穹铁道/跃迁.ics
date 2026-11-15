@@ -4,29 +4,23 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远坂凛
- \, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即我\, 
- 没有回报的加冕\, 理想燃烧的地狱
-DTSTART;TZID=Asia/Shanghai:20260703T205500
-DTEND;TZID=Asia/Shanghai:20360703T000000
-UID:a7ef3569@hoyo_calendar
-DESCRIPTION:「Fate[UBW] 联动跃迁说明」角色、光锥跃迁: 远
- 坂凛\, 吉尔伽美什\, Saber\, Archer\, 星火悄然闪耀\, 所见即
- 我\, 没有回报的加冕\, 理想燃烧的地狱
-LOCATION:崩坏：星穹铁道-跃迁
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「沧海萃珠」「流光定影•献给明日的色彩\, 我身
- 即刃」「溯回忆象•灼尽炼狱的新骸」角色、光锥跃迁: 
- 真珠\, 千冶•刃\, 献给明日的色彩\, 灼尽炼狱的新骸
-DTSTART;TZID=Asia/Shanghai:20261020T140000
-DTEND;TZID=Asia/Shanghai:20261110T150000
-UID:534b2931@hoyo_calendar
-DESCRIPTION:「沧海萃珠」「流光定影•献给明日的色彩\, 
- 我身即刃」「溯回忆象•灼尽炼狱的新骸」角色、光锥
- 跃迁: 真珠\, 千冶•刃\, 献给明日的色彩\, 灼尽炼狱的新
- 骸
+SUMMARY:「愚戏众星」「流光定影•当第一声『阿哈』响起
+ \, 铭心之萃•银狼LV.999」「真意之汇•欢迎来到银河城\,
+  铭心之萃•火花」「真意之汇•花花世界迷人眼\, 铭心
+ 之萃•爻光」「真意之汇•当她决定看见」角色、光锥
+ 跃迁: 星神★阿哈\, 银狼LV.999\, 火花\, 爻光\, 当第一声『
+ 阿哈』响起\, 欢迎来到银河城\, 花花世界迷人眼\, 当她
+ 决定看见
+DTSTART;TZID=Asia/Shanghai:20261110T110000
+DTEND;TZID=Asia/Shanghai:20261202T115900
+UID:5f69f2f6@hoyo_calendar
+DESCRIPTION:「愚戏众星」「流光定影•当第一声『阿哈』
+ 响起\, 铭心之萃•银狼LV.999」「真意之汇•欢迎来到银
+ 河城\, 铭心之萃•火花」「真意之汇•花花世界迷人眼\,
+  铭心之萃•爻光」「真意之汇•当她决定看见」角色、
+ 光锥跃迁: 星神★阿哈\, 银狼LV.999\, 火花\, 爻光\, 当第一
+ 声『阿哈』响起\, 欢迎来到银河城\, 花花世界迷人眼\, 
+ 当她决定看见
 LOCATION:崩坏：星穹铁道-跃迁
 TRANSP:TRANSPARENT
 END:VEVENT

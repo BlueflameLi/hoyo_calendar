@@ -4,18 +4,19 @@ PRODID:-//hoyo_calendar//GitHub//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:4.6版本「月升之前，与兽共舞」版本
-DTSTART;TZID=Asia/Shanghai:20260928T110000
-UID:43688e54@hoyo_calendar
-DESCRIPTION:4.6版本「月升之前，与兽共舞」版本
+SUMMARY:4.7版本「此刻，将群星付之一笑」版本
+DTSTART;TZID=Asia/Shanghai:20261111T110000
+UID:2debfd8a@hoyo_calendar
+DESCRIPTION:4.7版本「此刻，将群星付之一笑」版本
 LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4.6版本「月升之前，与兽共舞」版本结束
-DTSTART;TZID=Asia/Shanghai:20261111T060000
-UID:8cf4e6de@hoyo_calendar
-DESCRIPTION:活动结束\n4.6版本「月升之前，与兽共舞」版本
+SUMMARY:4.7版本「此刻，将群星付之一笑」版本结束
+DTSTART;TZID=Asia/Shanghai:20261223T060000
+UID:65ed570a@hoyo_calendar
+DESCRIPTION:活动结束\n4.7版本「此刻，将群星付之一笑」版
+ 本
 LOCATION:崩坏：星穹铁道-版本更新
 TRANSP:TRANSPARENT
 END:VEVENT
