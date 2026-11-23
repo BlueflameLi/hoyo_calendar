@@ -49,6 +49,15 @@ LOCATION:绝区零-活动
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「数据悬赏-实战模拟」活动说明
+DTSTART;TZID=Asia/Shanghai:20261123T120000
+DTEND;TZID=Asia/Shanghai:20261130T035900
+UID:aecf98eb@hoyo_calendar
+DESCRIPTION:「数据悬赏-实战模拟」活动说明
+LOCATION:绝区零-活动
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「答案在风中\, 禁罪囚笼\, 天才不等式\, 首席跟班
  」代理人、音擎调频: 赛维里安\, 诺姆\, S信号定制]功能
  允许绳匠自定义6名S级代理人/音擎作为定制代理人/音擎
